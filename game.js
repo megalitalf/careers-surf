@@ -49,11 +49,13 @@ var playerX = 0;                       // player x offset from center of road (-
 var playerZ = null;                    // player relative z distance from camera (computed)
 
 var position = 0;                       // current camera Z position (add playerZ to get player's absolute Z position)
-var speed = 0;                       // current speed
+var speed = 0;                       // current speed (will be set to cruiseSpeed after reset)
 var maxSpeed = segmentLength / step;      // top speed (ensure we can't move more than 1 segment in a single frame to make collision detection easier)
-var accel = maxSpeed / 5;             // acceleration rate - tuned until it 'felt' right
-var breaking = -maxSpeed;               // deceleration rate when braking
+var cruiseSpeed = maxSpeed / 2;       // cruise control speed - matches average traffic speed
+var accel = maxSpeed / 5;             // acceleration rate when pressing UP
+var breaking = -maxSpeed;               // deceleration rate when braking (DOWN key)
 var decel = -maxSpeed / 5;             // 'natural' deceleration rate when neither accelerating, nor braking
+var cruiseAccel = maxSpeed / 8;       // gentle rate at which speed drifts back to cruiseSpeed
 var offRoadDecel = -maxSpeed / 2;             // off road deceleration is somewhere in between
 var offRoadLimit = maxSpeed / 4;             // limit when off road deceleration no longer applies (e.g. you can always go at least this speed even when off road)
 var totalCars = 200;                     // total number of cars on the road
@@ -97,9 +99,15 @@ function update(dt) {
     // Auto-steer: smoothly move playerX to follow the road curve
     playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal * 2);
 
-    // Car always drives forward at full speed
-    speed = Util.accelerate(speed, accel, dt);
-
+    // Cruise control: auto-run at traffic speed; UP boosts above it, DOWN brakes
+    if (keyFaster)
+        speed = Util.accelerate(speed, accel, dt);             // boost above cruise
+    else if (keySlower)
+        speed = Util.accelerate(speed, breaking, dt);          // hard brake
+    else if (speed < cruiseSpeed)
+        speed = Util.accelerate(speed, cruiseAccel, dt);       // drift back up to cruise
+    else if (speed > cruiseSpeed)
+        speed = Util.accelerate(speed, decel, dt);             // ease back down to cruise
 
     if ((playerX < -1) || (playerX > 1)) {
 
@@ -565,6 +573,15 @@ function reset(options) {
     cameraDepth = 1 / Math.tan((fieldOfView / 2) * Math.PI / 180);
     playerZ = (cameraHeight * cameraDepth);
     resolution = height / 480;
+    maxSpeed = segmentLength / step;
+    cruiseSpeed = maxSpeed / 2;
+    accel = maxSpeed / 5;
+    breaking = -maxSpeed;
+    decel = -maxSpeed / 5;
+    cruiseAccel = maxSpeed / 8;
+    offRoadDecel = -maxSpeed / 2;
+    offRoadLimit = maxSpeed / 4;
+    speed = cruiseSpeed;
     refreshTweakUI();
 
     if ((segments.length == 0) || (options.segmentLength) || (options.rumbleLength))
