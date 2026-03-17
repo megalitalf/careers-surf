@@ -57,6 +57,7 @@ var breaking = -maxSpeed;               // deceleration rate when braking (DOWN 
 var decel = -maxSpeed / 5;             // 'natural' deceleration rate when neither accelerating, nor braking
 var cruiseAccel = maxSpeed / 8;       // gentle rate at which speed drifts back to cruiseSpeed
 var accLookahead = 10;                // segments ahead to scan for ACC (adaptive cruise)
+var lkaRate = 1.2;                    // how gently LKA pulls back to lane centre (lower = softer)
 var offRoadDecel = -maxSpeed / 2;             // off road deceleration is somewhere in between
 var offRoadLimit = maxSpeed / 4;             // limit when off road deceleration no longer applies (e.g. you can always go at least this speed even when off road)
 var totalCars = 200;                     // total number of cars on the road
@@ -92,10 +93,22 @@ function update(dt) {
 
     position = Util.increase(position, dt * speed, trackLength);
 
-    if (keyLeft)
-        playerX = playerX - dx;
-    else if (keyRight)
-        playerX = playerX + dx;
+    var playerSteering = keyLeft || keyRight || keyFaster || keySlower;
+
+    if (playerSteering) {
+        // Manual input — full control, LKA off
+        if (keyLeft)
+            playerX = playerX - dx;
+        else if (keyRight)
+            playerX = playerX + dx;
+    } else {
+        // LKA: find nearest lane centre and gently pull toward it
+        var laneWidth = 2 / lanes;
+        var nearestLane = Math.round((playerX + 1) / laneWidth - 0.5);
+        nearestLane = Util.limit(nearestLane, 0, lanes - 1);
+        var laneCentre = -1 + laneWidth * (nearestLane + 0.5);
+        playerX = Util.interpolate(playerX, laneCentre, Math.min(1, lkaRate * dt));
+    }
 
     // Follow road curvature automatically
     playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal * 2);
@@ -186,11 +199,20 @@ function update(dt) {
 
     updateHud('speed', Math.round(speed / maxSpeed * 120));
     updateHud('current_lap_time', formatTime(currentLapTime));
+
     var accEl = Dom.get('acc_indicator');
-    if (accFollowing && !keyFaster) {
-        accEl.className = 'hud following';
+    accEl.className = (accFollowing && !keyFaster) ? 'hud following' : 'hud free';
+
+    var lkaEl = Dom.get('lka_indicator');
+    if (playerSteering) {
+        lkaEl.className = 'hud off';         // grey  - overridden by driver
     } else {
-        accEl.className = 'hud free';
+        var lkaWidth = 2 / lanes;
+        var lkaNearest = Math.round((playerX + 1) / lkaWidth - 0.5);
+        lkaNearest = Util.limit(lkaNearest, 0, lanes - 1);
+        var lkaCentre = -1 + lkaWidth * (lkaNearest + 0.5);
+        var lkaOffset = Math.abs(playerX - lkaCentre);
+        lkaEl.className = (lkaOffset > 0.05) ? 'hud correcting' : 'hud standby';
     }
 }
 
