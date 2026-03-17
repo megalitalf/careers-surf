@@ -56,6 +56,7 @@ var accel = maxSpeed / 5;             // acceleration rate when pressing UP
 var breaking = -maxSpeed;               // deceleration rate when braking (DOWN key)
 var decel = -maxSpeed / 5;             // 'natural' deceleration rate when neither accelerating, nor braking
 var cruiseAccel = maxSpeed / 8;       // gentle rate at which speed drifts back to cruiseSpeed
+var accLookahead = 10;                // segments ahead to scan for ACC (adaptive cruise)
 var offRoadDecel = -maxSpeed / 2;             // off road deceleration is somewhere in between
 var offRoadLimit = maxSpeed / 4;             // limit when off road deceleration no longer applies (e.g. you can always go at least this speed even when off road)
 var totalCars = 200;                     // total number of cars on the road
@@ -99,15 +100,30 @@ function update(dt) {
     // Follow road curvature automatically
     playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal * 2);
 
-    // Cruise control: auto-run at traffic speed; UP boosts above it, DOWN brakes
+    // Adaptive cruise control: scan ahead and match speed of any slower car in our lane
+    var accTarget = maxSpeed / 2; // default cruise
+    for (var i = 1; i <= accLookahead; i++) {
+        var lookSeg = segments[(playerSegment.index + i) % segments.length];
+        for (var j = 0; j < lookSeg.cars.length; j++) {
+            var ahead = lookSeg.cars[j];
+            var aheadW = ahead.sprite.w * SPRITES.SCALE;
+            if (ahead.speed < speed && Util.overlap(playerX, playerW, ahead.offset, aheadW, 1.0)) {
+                // weight by proximity: closer car = stronger influence
+                accTarget = Math.min(accTarget, ahead.speed * (i / accLookahead));
+            }
+        }
+    }
+    var activeCruise = keyFaster ? maxSpeed / 2 : accTarget; // ACC ignored while player boosts
+
+    // Cruise control: auto-run at cruise speed; UP boosts above it, DOWN brakes
     if (keyFaster)
-        speed = Util.accelerate(speed, accel, dt);             // boost above cruise
+        speed = Util.accelerate(speed, accel, dt);               // boost above cruise
     else if (keySlower)
-        speed = Util.accelerate(speed, breaking, dt);          // hard brake
-    else if (speed < cruiseSpeed)
-        speed = Util.accelerate(speed, cruiseAccel, dt);       // drift back up to cruise
-    else if (speed > cruiseSpeed)
-        speed = Util.accelerate(speed, decel, dt);             // ease back down to cruise
+        speed = Util.accelerate(speed, breaking, dt);            // hard brake
+    else if (speed < activeCruise)
+        speed = Util.accelerate(speed, cruiseAccel, dt);         // drift back up to cruise
+    else if (speed > activeCruise)
+        speed = Util.accelerate(speed, decel, dt);               // ease back down to cruise
 
     if ((playerX < -1) || (playerX > 1)) {
 
