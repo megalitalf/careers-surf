@@ -81,16 +81,16 @@
     <div id="car_popup">
       <div id="car_popup_inner">
         <button id="car_popup_close" onclick="document.getElementById('car_popup').style.display='none'">&times;</button>
-        <h2>2019 Kenworth T680</h2>
-        <div id="car_popup_price">$12,500</div>
+        <h2 id="car_popup_title"></h2>
+        <div id="car_popup_price"></div>
         <table id="car_popup_specs">
-          <tr><th>Engine</th><td>PACCAR MX-13, 455 hp</td></tr>
-          <tr><th>Transmission</th><td>Eaton Fuller 18-speed</td></tr>
-          <tr><th>Mileage</th><td>487,000 mi</td></tr>
-          <tr><th>Sleeper</th><td>76" Mid-roof</td></tr>
-          <tr><th>Condition</th><td>Good — recently serviced</td></tr>
+          <tr><th>Engine</th><td id="car_popup_engine"></td></tr>
+          <tr><th>Transmission</th><td id="car_popup_trans"></td></tr>
+          <tr><th>Mileage</th><td id="car_popup_miles"></td></tr>
+          <tr><th>Sleeper</th><td id="car_popup_sleeper"></td></tr>
+          <tr><th>Condition</th><td id="car_popup_cond"></td></tr>
         </table>
-        <p id="car_popup_desc">Low reserve price. Clean title. Ready to haul. Serious inquiries only.</p>
+        <p id="car_popup_desc"></p>
         <button id="car_popup_buy">Contact Seller</button>
       </div>
     </div>

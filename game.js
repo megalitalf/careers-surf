@@ -65,6 +65,19 @@ var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
 
+var SEMI_LISTINGS = [
+    { title: '2019 Kenworth T680',      price: '$12,500', engine: 'PACCAR MX-13, 455 hp',       trans: 'Eaton Fuller 18-speed', miles: '487,000 mi', sleeper: '76" Mid-roof',   condition: 'Good — recently serviced',  desc: 'Low reserve price. Clean title. Ready to haul.',         url: 'https://example.com/listing/1' },
+    { title: '2017 Peterbilt 579',      price: '$10,900', engine: 'Cummins ISX15, 500 hp',       trans: 'Eaton Fuller 10-speed', miles: '621,000 mi', sleeper: '72" Flat-roof',   condition: 'Fair — new tires fitted',   desc: 'Runs strong. Minor cosmetic wear. Priced to sell fast.',  url: 'https://example.com/listing/2' },
+    { title: '2020 Freightliner Cascadia', price: '$18,000', engine: 'Detroit DD15, 505 hp',    trans: 'Detroit DT12 auto',     miles: '310,000 mi', sleeper: '72" High-roof',   condition: 'Excellent — one owner',     desc: 'Like new inside. Full service history available.',        url: 'https://example.com/listing/3' },
+    { title: '2016 Volvo VNL 780',      price: '$9,750',  engine: 'Volvo D13, 425 hp',           trans: 'Volvo I-Shift auto',    miles: '740,000 mi', sleeper: '78" Mid-roof',   condition: 'Good — engine rebuilt',     desc: 'Rebuilt engine at 680k. Reliable long-haul workhorse.',   url: 'https://example.com/listing/4' },
+    { title: '2018 International LT',   price: '$14,200', engine: 'Cummins X15, 475 hp',        trans: 'Eaton Fuller 18-speed', miles: '402,000 mi', sleeper: '72" Flat-roof',   condition: 'Good — clean DOT',          desc: 'Passed DOT last month. Ready for immediate dispatch.',    url: 'https://example.com/listing/5' },
+    { title: '2015 Mack Pinnacle',      price: '$8,400',  engine: 'Mack MP8, 445 hp',            trans: 'Mack mDRIVE auto',      miles: '890,000 mi', sleeper: 'Day cab',          condition: 'Fair — high miles',         desc: 'Day cab, great for regional runs. Priced accordingly.',   url: 'https://example.com/listing/6' },
+    { title: '2021 Kenworth W900',      price: '$22,000', engine: 'PACCAR MX-13, 480 hp',       trans: 'Eaton Fuller 13-speed', miles: '198,000 mi', sleeper: '86" Unibilt',    condition: 'Excellent — low miles',     desc: 'Barely broken in. Showroom condition, serious offers.',   url: 'https://example.com/listing/7' },
+    { title: '2014 Peterbilt 386',      price: '$7,800',  engine: 'Cummins ISX, 430 hp',         trans: 'Eaton Fuller 10-speed', miles: '1,020,000 mi', sleeper: '72" Mid-roof', condition: 'Fair — runs well',          desc: 'Over a million miles and still going. Proven chassis.',   url: 'https://example.com/listing/8' },
+    { title: '2022 Freightliner eCascadia', price: '$31,500', engine: 'Electric, 536 hp equiv.', trans: 'Single-speed auto',     miles: '87,000 mi',  sleeper: 'Day cab',          condition: 'Excellent — under warranty', desc: 'Zero emissions. Remaining OEM warranty transferable.',   url: 'https://example.com/listing/9' },
+    { title: '2019 Western Star 5700XE', price: '$16,800', engine: 'Detroit DD13, 470 hp',       trans: 'Detroit DT12 auto',     miles: '355,000 mi', sleeper: '72" Raised-roof', condition: 'Good — full service',       desc: 'Full dealer service record. Aerodynamic flagship model.', url: 'https://example.com/listing/10' }
+];
+
 var keyLeft = false;
 var keyRight = false;
 var keyFaster = false;
@@ -375,20 +388,34 @@ function render() {
                 var sx = spriteX - sw * 0.5;
                 var sy = spriteY - sh;
                 visibleSemis.push({ car: car, x: sx, y: sy, w: sw, h: sh });
-                // Draw price tag above the truck
+
+                // Draw labels above the truck — price always, name when close enough
                 var labelX = sx + sw / 2;
                 var labelY = sy - 8;
-                var fontSize = Math.max(10, Math.round(sh * 0.35));
+                var priceSize = Math.max(10, Math.round(sh * 0.35));
+                var nameSize  = Math.max(8,  Math.round(sh * 0.22));
+                var listing   = car.listing;
+
                 ctx.save();
-                ctx.font = 'bold ' + fontSize + 'px Arial';
-                ctx.textAlign = 'center';
+                ctx.textAlign    = 'center';
                 ctx.textBaseline = 'bottom';
-                // shadow
+
+                // Price label (always visible)
+                ctx.font = 'bold ' + priceSize + 'px Arial';
                 ctx.fillStyle = 'rgba(0,0,0,0.55)';
-                ctx.fillText('$12,500', labelX + 1, labelY + 1);
-                // label
-                ctx.fillStyle = '#ffffff';
-                ctx.fillText('$12,500', labelX, labelY);
+                ctx.fillText(listing.price, labelX + 1, labelY + 1);
+                ctx.fillStyle = '#ffe066';
+                ctx.fillText(listing.price, labelX, labelY);
+
+                // Name label — only when truck is large enough (close)
+                if (sh > 28) {
+                    ctx.font = nameSize + 'px Arial';
+                    ctx.fillStyle = 'rgba(0,0,0,0.55)';
+                    ctx.fillText(listing.title, labelX + 1, labelY - priceSize + 1);
+                    ctx.fillStyle = '#ffffff';
+                    ctx.fillText(listing.title, labelX, labelY - priceSize);
+                }
+
                 ctx.restore();
             }
         }
@@ -598,7 +625,8 @@ function resetCars() {
         z = Math.floor(Math.random() * segments.length) * segmentLength;
         sprite = Util.randomChoice(SPRITES.CARS);
         speed = maxSpeed / 4 + Math.random() * maxSpeed / (sprite == SPRITES.SEMI ? 4 : 2);
-        car = { offset: offset, z: z, sprite: sprite, speed: speed };
+        var listing = (sprite === SPRITES.SEMI) ? Util.randomChoice(SEMI_LISTINGS) : null;
+        car = { offset: offset, z: z, sprite: sprite, speed: speed, listing: listing };
         segment = findSegment(car.z);
         segment.cars.push(car);
         cars.push(car);
@@ -676,14 +704,24 @@ canvas.addEventListener('click', function(ev) {
     for (var i = 0; i < visibleSemis.length; i++) {
         var s = visibleSemis[i];
         if (cx >= s.x && cx <= s.x + s.w && cy >= s.y && cy <= s.y + s.h) {
-            showCarPopup();
+            showCarPopup(s.car.listing);
             break;
         }
     }
 });
 
-function showCarPopup() {
-    Dom.get('car_popup').style.display = 'flex';
+function showCarPopup(listing) {
+    if (!listing) return;
+    Dom.get('car_popup_title').innerHTML   = listing.title;
+    Dom.get('car_popup_price').innerHTML   = listing.price;
+    Dom.get('car_popup_engine').innerHTML  = listing.engine;
+    Dom.get('car_popup_trans').innerHTML   = listing.trans;
+    Dom.get('car_popup_miles').innerHTML   = listing.miles;
+    Dom.get('car_popup_sleeper').innerHTML = listing.sleeper;
+    Dom.get('car_popup_cond').innerHTML    = listing.condition;
+    Dom.get('car_popup_desc').innerHTML    = listing.desc;
+    Dom.get('car_popup_buy').onclick       = function() { window.open(listing.url, '_blank'); };
+    Dom.get('car_popup').style.display     = 'flex';
 }
 
 //=========================================================================
