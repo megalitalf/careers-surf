@@ -166,7 +166,7 @@ function update(dt) {
         }
     }
 
-    updateHud('speed', 5 * Math.round(speed / 500));
+    updateHud('speed', Math.round(speed / maxSpeed * 120));
     updateHud('current_lap_time', formatTime(currentLapTime));
 }
 
