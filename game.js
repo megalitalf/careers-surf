@@ -63,6 +63,7 @@ var offRoadLimit = maxSpeed / 4;             // limit when off road deceleration
 var totalCars = 200;                     // total number of cars on the road
 var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
+var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
 
 var keyLeft = false;
 var keyRight = false;
@@ -317,6 +318,8 @@ function render() {
 
     ctx.clearRect(0, 0, width, height);
 
+    visibleSemis = []; // reset tracked semis each frame
+
     Render.background(ctx, background, width, height, BACKGROUND.SKY, skyOffset, resolution * skySpeed * playerY);
     Render.background(ctx, background, width, height, BACKGROUND.HILLS, hillOffset, resolution * hillSpeed * playerY);
     Render.background(ctx, background, width, height, BACKGROUND.TREES, treeOffset, resolution * treeSpeed * playerY);
@@ -364,6 +367,30 @@ function render() {
             spriteX = Util.interpolate(segment.p1.screen.x, segment.p2.screen.x, car.percent) + (spriteScale * car.offset * roadWidth * width / 2);
             spriteY = Util.interpolate(segment.p1.screen.y, segment.p2.screen.y, car.percent);
             Render.sprite(ctx, width, height, resolution, roadWidth, sprites, car.sprite, spriteScale, spriteX, spriteY, -0.5, -1, segment.clip);
+
+            // Track SEMI position for click detection and draw price label
+            if (car.sprite === SPRITES.SEMI) {
+                var sw = (SPRITES.SEMI.w * spriteScale * width/2) * (SPRITES.SCALE * roadWidth);
+                var sh = (SPRITES.SEMI.h * spriteScale * width/2) * (SPRITES.SCALE * roadWidth);
+                var sx = spriteX - sw * 0.5;
+                var sy = spriteY - sh;
+                visibleSemis.push({ car: car, x: sx, y: sy, w: sw, h: sh });
+                // Draw price tag above the truck
+                var labelX = sx + sw / 2;
+                var labelY = sy - 8;
+                var fontSize = Math.max(10, Math.round(sh * 0.35));
+                ctx.save();
+                ctx.font = 'bold ' + fontSize + 'px Arial';
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'bottom';
+                // shadow
+                ctx.fillStyle = 'rgba(0,0,0,0.55)';
+                ctx.fillText('$12,500', labelX + 1, labelY + 1);
+                // label
+                ctx.fillStyle = '#ffffff';
+                ctx.fillText('$12,500', labelX, labelY);
+                ctx.restore();
+            }
         }
 
         for (i = 0; i < segment.sprites.length; i++) {
@@ -638,6 +665,26 @@ function reset(options) {
 window.addEventListener('resize', function() {
     reset({ width: window.innerWidth, height: window.innerHeight });
 });
+
+// Canvas click: open popup when a SEMI truck is clicked
+canvas.addEventListener('click', function(ev) {
+    var rect = canvas.getBoundingClientRect();
+    var scaleX = width / rect.width;
+    var scaleY = height / rect.height;
+    var cx = (ev.clientX - rect.left) * scaleX;
+    var cy = (ev.clientY - rect.top)  * scaleY;
+    for (var i = 0; i < visibleSemis.length; i++) {
+        var s = visibleSemis[i];
+        if (cx >= s.x && cx <= s.x + s.w && cy >= s.y && cy <= s.y + s.h) {
+            showCarPopup();
+            break;
+        }
+    }
+});
+
+function showCarPopup() {
+    Dom.get('car_popup').style.display = 'flex';
+}
 
 //=========================================================================
 // TWEAK UI HANDLERS
