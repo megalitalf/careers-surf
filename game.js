@@ -101,6 +101,7 @@ function update(dt) {
     playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal * 2);
 
     // Adaptive cruise control: scan ahead and match speed of any slower car in our lane
+    var accFollowing = false;
     var accTarget = maxSpeed / 2; // default cruise
     for (var i = 1; i <= accLookahead; i++) {
         var lookSeg = segments[(playerSegment.index + i) % segments.length];
@@ -110,6 +111,7 @@ function update(dt) {
             if (ahead.speed < speed && Util.overlap(playerX, playerW, ahead.offset, aheadW, 1.0)) {
                 // weight by proximity: closer car = stronger influence
                 accTarget = Math.min(accTarget, ahead.speed * (i / accLookahead));
+                accFollowing = true;
             }
         }
     }
@@ -184,6 +186,12 @@ function update(dt) {
 
     updateHud('speed', Math.round(speed / maxSpeed * 120));
     updateHud('current_lap_time', formatTime(currentLapTime));
+    var accEl = Dom.get('acc_indicator');
+    if (accFollowing && !keyFaster) {
+        accEl.className = 'hud following';
+    } else {
+        accEl.className = 'hud free';
+    }
 }
 
 //-------------------------------------------------------------------------
