@@ -168,14 +168,11 @@
       else if (keyRight)
         playerX = playerX + dx;
 
-      playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal);
+      // Auto-steer: smoothly move playerX to follow the road curve
+      playerX = playerX - (dx * speedPercent * playerSegment.curve * centrifugal * 2);
 
-      if (keyFaster)
-        speed = Util.accelerate(speed, accel, dt);
-      else if (keySlower)
-        speed = Util.accelerate(speed, breaking, dt);
-      else
-        speed = Util.accelerate(speed, decel, dt);
+      // Car always drives forward at full speed
+      speed = Util.accelerate(speed, accel, dt);
 
 
       if ((playerX < -1) || (playerX > 1)) {
@@ -402,7 +399,7 @@
                         cameraDepth/playerZ,
                         width/2,
                         (height/2) - (cameraDepth/playerZ * Util.interpolate(playerSegment.p1.camera.y, playerSegment.p2.camera.y, playerPercent) * height/2),
-                        speed * (keyLeft ? -1 : keyRight ? 1 : 0),
+                        speed * (keyLeft ? -1 : keyRight ? 1 : (playerSegment.curve < -0.05 ? -1 : playerSegment.curve > 0.05 ? 1 : 0)),
                         playerSegment.p2.world.y - playerSegment.p1.world.y);
         }
       }
