@@ -6,16 +6,16 @@ var lanes = 3;
 var roadWidth = 1000;
 
 // z height of camera
-var cameraHeight = 1000;     
+var cameraHeight = 1000;
 
 // number of segments to draw
-var drawDistance = 300;    
+var drawDistance = 300;
 
- // angle (degrees) for field of view
-var fieldOfView = 100;           
+// angle (degrees) for field of view
+var fieldOfView = 100;
 
 // exponential fog density
-var fogDensity = 5;                       
+var fogDensity = 5;
 
 var fps = 60;                      // how many 'update' frames per second
 var step = 1 / fps;                   // how long is each frame (in seconds)
@@ -66,16 +66,56 @@ var lastLapTime = null;                    // last lap time
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
 
 var SEMI_LISTINGS = [
-    { title: '2019 Kenworth T680',      price: '$12,500', engine: 'PACCAR MX-13, 455 hp',       trans: 'Eaton Fuller 18-speed', miles: '487,000 mi', sleeper: '76" Mid-roof',   condition: 'Good — recently serviced',  desc: 'Low reserve price. Clean title. Ready to haul.',         url: 'https://example.com/listing/1' },
-    { title: '2017 Peterbilt 579',      price: '$10,900', engine: 'Cummins ISX15, 500 hp',       trans: 'Eaton Fuller 10-speed', miles: '621,000 mi', sleeper: '72" Flat-roof',   condition: 'Fair — new tires fitted',   desc: 'Runs strong. Minor cosmetic wear. Priced to sell fast.',  url: 'https://example.com/listing/2' },
-    { title: '2020 Freightliner Cascadia', price: '$18,000', engine: 'Detroit DD15, 505 hp',    trans: 'Detroit DT12 auto',     miles: '310,000 mi', sleeper: '72" High-roof',   condition: 'Excellent — one owner',     desc: 'Like new inside. Full service history available.',        url: 'https://example.com/listing/3' },
-    { title: '2016 Volvo VNL 780',      price: '$9,750',  engine: 'Volvo D13, 425 hp',           trans: 'Volvo I-Shift auto',    miles: '740,000 mi', sleeper: '78" Mid-roof',   condition: 'Good — engine rebuilt',     desc: 'Rebuilt engine at 680k. Reliable long-haul workhorse.',   url: 'https://example.com/listing/4' },
-    { title: '2018 International LT',   price: '$14,200', engine: 'Cummins X15, 475 hp',        trans: 'Eaton Fuller 18-speed', miles: '402,000 mi', sleeper: '72" Flat-roof',   condition: 'Good — clean DOT',          desc: 'Passed DOT last month. Ready for immediate dispatch.',    url: 'https://example.com/listing/5' },
-    { title: '2015 Mack Pinnacle',      price: '$8,400',  engine: 'Mack MP8, 445 hp',            trans: 'Mack mDRIVE auto',      miles: '890,000 mi', sleeper: 'Day cab',          condition: 'Fair — high miles',         desc: 'Day cab, great for regional runs. Priced accordingly.',   url: 'https://example.com/listing/6' },
-    { title: '2021 Kenworth W900',      price: '$22,000', engine: 'PACCAR MX-13, 480 hp',       trans: 'Eaton Fuller 13-speed', miles: '198,000 mi', sleeper: '86" Unibilt',    condition: 'Excellent — low miles',     desc: 'Barely broken in. Showroom condition, serious offers.',   url: 'https://example.com/listing/7' },
-    { title: '2014 Peterbilt 386',      price: '$7,800',  engine: 'Cummins ISX, 430 hp',         trans: 'Eaton Fuller 10-speed', miles: '1,020,000 mi', sleeper: '72" Mid-roof', condition: 'Fair — runs well',          desc: 'Over a million miles and still going. Proven chassis.',   url: 'https://example.com/listing/8' },
-    { title: '2022 Freightliner eCascadia', price: '$31,500', engine: 'Electric, 536 hp equiv.', trans: 'Single-speed auto',     miles: '87,000 mi',  sleeper: 'Day cab',          condition: 'Excellent — under warranty', desc: 'Zero emissions. Remaining OEM warranty transferable.',   url: 'https://example.com/listing/9' },
-    { title: '2019 Western Star 5700XE', price: '$16,800', engine: 'Detroit DD13, 470 hp',       trans: 'Detroit DT12 auto',     miles: '355,000 mi', sleeper: '72" Raised-roof', condition: 'Good — full service',       desc: 'Full dealer service record. Aerodynamic flagship model.', url: 'https://example.com/listing/10' }
+    {
+        title: 'IT Analyst', 
+        price: '$140k/yr', company: 'Stripe', location: 'Remote / SF', type: 'Full-time', stack: 'React, TypeScript', exp: '5+ years', desc: 'Build the next generation of payment UIs used by millions.',
+        url: 'https://justjoin.it/job-offer/dcg-it-analyst-warszawa-analytics-d68d844a'
+    },
+    {
+        title: 'Business Analyst', 
+        price: '18 480 PLN', company: 'Cloudflare', location: 'Remote / Austin', type: 'Full-time', stack: 'Go, Rust', exp: '3+ years', desc: 'Work on distributed systems at global edge scale.',
+        url: 'https://justjoin.it/job-offer/univio-business-analyst-wroclaw-analytics-6814eb70'
+    },
+    {
+        title: 'Staff Software Engineer - Backend (Scala)', 
+        price: '29 500 - 40 500 PLN', company: 'Duolingo', location: 'Pittsburgh, PA', type: 'Full-time', stack: 'Swift, SwiftUI', exp: '2+ years', desc: 'Shape the learning experience for 50M+ daily active users.',
+        url: 'https://justjoin.it/job-offer/sprout-social-staff-software-engineer---backend-scala--krakow-scala'
+    },
+    {
+        title: 'Junior Delivery Engineer', 
+        price: '6 000 - 10 000 PLN', company: 'Cohere', location: 'Remote', type: 'Full-time', stack: 'Python, PyTorch', exp: '4+ years', desc: 'Train and fine-tune large language models for enterprise clients.',
+        url: 'https://justjoin.it/job-offer/masterborn-sp-z-o-o--junior-delivery-engineer-wroclaw-data'
+    },
+    {
+        title: 'Administrator(-ka) sieci i systemów/DevOps', 
+        price: 'n/a', company: 'Vercel', location: 'Remote', type: 'Full-time', stack: 'Kubernetes, Terraform', exp: '3+ years', desc: 'Own the infra that deploys millions of sites every day.',
+        url: 'https://justjoin.it/job-offer/postdata-administrator--ka-sieci-i-systemow-devops-gdansk-admin'
+    },
+    {
+        title: 'Senior Python Software Engineer (with GenAI)', 
+        price: '21 185.47 - 24 902.23 PLN', company: 'Linear', location: 'Remote', type: 'Full-time', stack: 'Figma, Framer', exp: '4+ years', desc: 'Craft the design system behind the best PM tool in the industry.',
+        url: 'https://justjoin.it/job-offer/n-ix-senior-python-software-engineer-with-genai--krakow-python'
+    },
+    {
+        title: 'AI/ML Engineer (NLP/GenAi)', 
+        price: 'n/a', company: 'Notion', location: 'NYC / Remote', type: 'Full-time', stack: 'Node.js, React', exp: '3+ years', desc: 'Build collaborative features for 30M+ knowledge workers.',
+        url: 'https://justjoin.it/job-offer/kratos-growth-ai-ml-engineer-nlp-genai--new-york-ai'
+    },
+    {
+        title: 'MID Administrator / DevOps Engineer', 
+        price: '100 - 120 PLN / h', company: 'Tailscale', location: 'Remote', type: 'Full-time', stack: 'Go, WireGuard', exp: '5+ years', desc: 'Secure the network layer for teams of all sizes.',
+        url: 'https://justjoin.it/job-offer/rits-professional-services-mid-administrator-devops-engineer-warszawa-devops'
+    },
+    {
+        title: 'Offensive Security Engineer', 
+        price: 'n/a', company: 'dbt Labs', location: 'Remote', type: 'Full-time', stack: 'dbt, Spark, SQL', exp: '3+ years', desc: 'Help data teams build reliable, scalable analytics pipelines.',
+        url: 'https://justjoin.it/job-offer/procter-gamble-offensive-security-engineer-penetration-testing-and-intake-management-warsaw-security'
+    },
+    {
+        title: 'Python Developer (m/k)', 
+        price: '145 PLN/h', company: 'Larian Studios', location: 'Dublin / Remote', type: 'Full-time', stack: 'C++, Divinity Engine', exp: '3+ years', desc: 'Build the next epic RPG. Ship games people will play for decades.',
+        url: 'https://justjoin.it/job-offer/team-up-python-developer-m-k--lodz-python'
+    }
 ];
 
 var keyLeft = false;
@@ -383,8 +423,8 @@ function render() {
 
             // Track SEMI position for click detection and draw price label
             if (car.sprite === SPRITES.SEMI) {
-                var sw = (SPRITES.SEMI.w * spriteScale * width/2) * (SPRITES.SCALE * roadWidth);
-                var sh = (SPRITES.SEMI.h * spriteScale * width/2) * (SPRITES.SCALE * roadWidth);
+                var sw = (SPRITES.SEMI.w * spriteScale * width / 2) * (SPRITES.SCALE * roadWidth);
+                var sh = (SPRITES.SEMI.h * spriteScale * width / 2) * (SPRITES.SCALE * roadWidth);
                 var sx = spriteX - sw * 0.5;
                 var sy = spriteY - sh;
                 visibleSemis.push({ car: car, x: sx, y: sy, w: sw, h: sh });
@@ -393,11 +433,11 @@ function render() {
                 var labelX = sx + sw / 2;
                 var labelY = sy - 8;
                 var priceSize = Math.max(10, Math.round(sh * 0.35));
-                var nameSize  = Math.max(8,  Math.round(sh * 0.22));
-                var listing   = car.listing;
+                var nameSize = Math.max(8, Math.round(sh * 0.22));
+                var listing = car.listing;
 
                 ctx.save();
-                ctx.textAlign    = 'center';
+                ctx.textAlign = 'center';
                 ctx.textBaseline = 'bottom';
 
                 // Price label (always visible)
@@ -641,14 +681,14 @@ Game.run({
     canvas: canvas, render: render, update: update, stats: stats, step: step,
     images: ["background", "sprites"],
     keys: [
-        { keys: [KEY.LEFT,  KEY.A], mode: 'down', action: function () { keyLeft  = true;  } },
-        { keys: [KEY.RIGHT, KEY.D], mode: 'down', action: function () { keyRight = true;  } },
-        { keys: [KEY.UP,    KEY.W], mode: 'down', action: function () { keyFaster = true; } },
-        { keys: [KEY.DOWN,  KEY.S], mode: 'down', action: function () { keySlower = true; } },
-        { keys: [KEY.LEFT,  KEY.A], mode: 'up',   action: function () { keyLeft  = false; } },
-        { keys: [KEY.RIGHT, KEY.D], mode: 'up',   action: function () { keyRight = false; } },
-        { keys: [KEY.UP,    KEY.W], mode: 'up',   action: function () { keyFaster = false; } },
-        { keys: [KEY.DOWN,  KEY.S], mode: 'up',   action: function () { keySlower = false; } }
+        { keys: [KEY.LEFT, KEY.A], mode: 'down', action: function () { keyLeft = true; } },
+        { keys: [KEY.RIGHT, KEY.D], mode: 'down', action: function () { keyRight = true; } },
+        { keys: [KEY.UP, KEY.W], mode: 'down', action: function () { keyFaster = true; } },
+        { keys: [KEY.DOWN, KEY.S], mode: 'down', action: function () { keySlower = true; } },
+        { keys: [KEY.LEFT, KEY.A], mode: 'up', action: function () { keyLeft = false; } },
+        { keys: [KEY.RIGHT, KEY.D], mode: 'up', action: function () { keyRight = false; } },
+        { keys: [KEY.UP, KEY.W], mode: 'up', action: function () { keyFaster = false; } },
+        { keys: [KEY.DOWN, KEY.S], mode: 'up', action: function () { keySlower = false; } }
     ],
     ready: function (images) {
         background = images[0];
@@ -690,17 +730,17 @@ function reset(options) {
         resetRoad(); // only rebuild road when necessary
 }
 
-window.addEventListener('resize', function() {
+window.addEventListener('resize', function () {
     reset({ width: window.innerWidth, height: window.innerHeight });
 });
 
 // Canvas click: open popup when a SEMI truck is clicked
-canvas.addEventListener('click', function(ev) {
+canvas.addEventListener('click', function (ev) {
     var rect = canvas.getBoundingClientRect();
     var scaleX = width / rect.width;
     var scaleY = height / rect.height;
     var cx = (ev.clientX - rect.left) * scaleX;
-    var cy = (ev.clientY - rect.top)  * scaleY;
+    var cy = (ev.clientY - rect.top) * scaleY;
     for (var i = 0; i < visibleSemis.length; i++) {
         var s = visibleSemis[i];
         if (cx >= s.x && cx <= s.x + s.w && cy >= s.y && cy <= s.y + s.h) {
@@ -712,16 +752,16 @@ canvas.addEventListener('click', function(ev) {
 
 function showCarPopup(listing) {
     if (!listing) return;
-    Dom.get('car_popup_title').innerHTML   = listing.title;
-    Dom.get('car_popup_price').innerHTML   = listing.price;
-    Dom.get('car_popup_engine').innerHTML  = listing.engine;
-    Dom.get('car_popup_trans').innerHTML   = listing.trans;
-    Dom.get('car_popup_miles').innerHTML   = listing.miles;
-    Dom.get('car_popup_sleeper').innerHTML = listing.sleeper;
-    Dom.get('car_popup_cond').innerHTML    = listing.condition;
-    Dom.get('car_popup_desc').innerHTML    = listing.desc;
-    Dom.get('car_popup_buy').onclick       = function() { window.open(listing.url, '_blank'); };
-    Dom.get('car_popup').style.display     = 'flex';
+    Dom.get('car_popup_title').innerHTML = listing.title;
+    Dom.get('car_popup_price').innerHTML = listing.price;
+    Dom.get('car_popup_engine').innerHTML = listing.company;
+    Dom.get('car_popup_trans').innerHTML = listing.location;
+    Dom.get('car_popup_miles').innerHTML = listing.type;
+    Dom.get('car_popup_sleeper').innerHTML = listing.stack;
+    Dom.get('car_popup_cond').innerHTML = listing.exp;
+    Dom.get('car_popup_desc').innerHTML = listing.desc;
+    Dom.get('car_popup_buy').onclick = function () { window.open(listing.url, '_blank'); };
+    Dom.get('car_popup').style.display = 'flex';
 }
 
 //=========================================================================
