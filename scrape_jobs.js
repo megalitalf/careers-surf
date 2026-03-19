@@ -15,6 +15,12 @@
  *   node scrape_jobs.js --no-salary             # include listings without salary
  *   node scrape_jobs.js --enrich                 # fetch each detail page to add job categories
  *   node scrape_jobs.js --pages 3 --enrich        # combine flags freely
+ *   node scrape_jobs.js --location "Kamień Pomorski" --radius 30
+ *   node scrape_jobs.js --location "72-400"        # postal code also works
+ *
+ * Location flags:
+ *   --location <name|postcode>  Filter jobs near this place (geocoded via Nominatim/OSM)
+ *   --radius   <km>             Search radius in km (default: 30)
  *
  * Config (edit below):
  *   SALARY_ONLY  – default true  → adds ?sal=1 filter (only listings with salary)
@@ -25,8 +31,9 @@ const puppeteer     = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 puppeteer.use(StealthPlugin());
 
-const fs   = require("fs");
-const path = require("path");
+const fs    = require("fs");
+const path  = require("path");
+const https = require("https");
 
 // ── CLI args ──────────────────────────────────────────────────────────────────
 const args    = process.argv.slice(2);
@@ -37,17 +44,79 @@ const TOTAL_PAGES  = parseInt(getArg("--pages", "1"), 10);
 const OUT_FILE     = getArg("--out", path.join(__dirname, "jobs.json"));
 const HEADLESS     = !hasFlag("--visible");
 const ENRICH       = hasFlag("--enrich");
+const _locArg      = getArg("--location", "");
+const _radiusArg   = getArg("--radius", "");
+
+// Fall back to config.json if --location not provided on CLI
+const _config      = (() => { try { return JSON.parse(require("fs").readFileSync(require("path").join(__dirname, "config.json"), "utf8")); } catch(_) { return {}; } })();
+const LOCATION     = _locArg  || _config.location?.query  || "";
+const RADIUS       = _radiusArg ? parseInt(_radiusArg, 10) : (_config.location?.radius ?? 30);
 
 // ── Config ────────────────────────────────────────────────────────────────────
 // Only show listings that include a salary. Adds ?sal=1 to every request.
 // Set to false here, or pass --no-salary on the CLI, to include all listings.
 const SALARY_ONLY  = !hasFlag("--no-salary") && true;
 
-const _base        = "https://www.pracuj.pl/praca";
-const BASE_URL     = SALARY_ONLY ? `${_base}?sal=1` : _base;
-const RENDER_WAIT  = 3500;   // ms to wait for JS content after navigation
+const _base       = "https://www.pracuj.pl/praca";
+const RENDER_WAIT = 3500;   // ms to wait for JS content after navigation
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// ── Nominatim geocoding (OpenStreetMap, no API key needed) ───────────────────
+function geocode(query) {
+  return new Promise((resolve, reject) => {
+    const q   = encodeURIComponent(query);
+    const url = `https://nominatim.openstreetmap.org/search?q=${q}&format=json&limit=1&countrycodes=pl`;
+    const req = https.get(url, { headers: { "User-Agent": "job_surfers_scraper/1.0" } }, (res) => {
+      let body = "";
+      res.on("data", d => body += d);
+      res.on("end", () => {
+        try {
+          const results = JSON.parse(body);
+          if (!results.length) return reject(new Error(`Geocoding: no results for "${query}"`));
+          const { lat, lon, display_name } = results[0];
+          resolve({ lat: parseFloat(lat), lon: parseFloat(lon), display_name });
+        } catch (e) { reject(e); }
+      });
+    });
+    req.on("error", reject);
+  });
+}
+
+// ── Build the base URL (resolves location if provided) ───────────────────────
+async function buildBaseUrl() {
+  const params = new URLSearchParams();
+  if (SALARY_ONLY) params.set("sal", "1");
+
+  if (LOCATION) {
+    // If config.json already has resolved coords for this query, reuse them
+    const cached = _config.location?.query === LOCATION ? _config.location : null;
+    let lat, lon;
+    if (cached) {
+      ({ lat, lon } = cached);
+      console.log(`  📍  Location: "${LOCATION}" (from config — ${lat.toFixed(4)}, ${lon.toFixed(4)})`);
+    } else {
+      process.stdout.write(`  📍  Geocoding "${LOCATION}" ... `);
+      const geo = await geocode(LOCATION);
+      lat = geo.lat; lon = geo.lon;
+      console.log(`→ ${geo.display_name.split(",").slice(0, 3).join(",")} (${lat.toFixed(4)}, ${lon.toFixed(4)})`);
+    }
+    params.set("wp",        LOCATION);
+    params.set("rd",        String(RADIUS));
+    params.set("latitude",  String(lat));
+    params.set("longitude", String(lon));
+  }
+
+  const qs = params.toString();
+  return qs ? `${_base}?${qs}` : _base;
+}
+
+// ── Build a paged URL keeping all filter params intact ───────────────────────
+function pagedUrl(base, pageNum) {
+  const url = new URL(base);
+  url.searchParams.set("pn", String(pageNum));
+  return url.toString();
+}
 
 // ── In-page extractor — reads rich data from __NEXT_DATA__ ───────────────────
 // Falls back to DOM scraping if __NEXT_DATA__ is unavailable.
@@ -149,7 +218,9 @@ function extractListings() {
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log(`\n🔍  Scraping pracuj.pl — up to ${TOTAL_PAGES} page(s)  [headless: ${HEADLESS}]  [salary filter: ${SALARY_ONLY}]  [enrich: ${ENRICH}]\n`);
+  const BASE_URL = await buildBaseUrl();
+  const locationLabel = LOCATION ? `${LOCATION} ±${RADIUS}km` : "whole Poland";
+  console.log(`\n🔍  Scraping pracuj.pl — up to ${TOTAL_PAGES} page(s)  [headless: ${HEADLESS}]  [salary: ${SALARY_ONLY}]  [location: ${locationLabel}]  [enrich: ${ENRICH}]\n`);
 
   const browser = await puppeteer.launch({
     headless: HEADLESS,
@@ -191,7 +262,7 @@ async function main() {
 
   // ── Pages 2+ — click the "Next" button to stay in the same session ─────────
   for (let pageNum = 2; pageNum <= TOTAL_PAGES; pageNum++) {
-    const url = SALARY_ONLY ? `${_base}?sal=1&pn=${pageNum}` : `${_base}?pn=${pageNum}`;
+    const url = pagedUrl(BASE_URL, pageNum);
     process.stdout.write(`  Page ${pageNum}/${TOTAL_PAGES}  ${url} ... `);
 
     // Polite delay before each navigation
@@ -205,8 +276,8 @@ async function main() {
           document.querySelector('[data-test="bottom-pagination-button-next"]') ||
           document.querySelector('a[aria-label="Następna strona"]') ||
           document.querySelector('a[aria-label="Next page"]') ||
-          Array.from(document.querySelectorAll('a[href*="?pn="]'))
-            .find(a => a.href.includes(`?pn=${targetPage}`));
+          Array.from(document.querySelectorAll('a[href*="pn="]'))
+            .find(a => new URL(a.href).searchParams.get("pn") === String(targetPage));
         if (nextBtn) { nextBtn.click(); return true; }
         return false;
       }, pageNum);
@@ -286,6 +357,8 @@ async function main() {
       pages:     TOTAL_PAGES,
       total:     allListings.length,
       errors:    errors.length,
+      location:  LOCATION || null,
+      radius:    LOCATION ? RADIUS : null,
     },
     listings: allListings,
   };
