@@ -478,12 +478,42 @@ function render() {
         }
 
         if (segment == playerSegment) {
+            var playerScale = cameraDepth / playerZ;
+            var playerDestX = width / 2;
+            var playerDestY = (height / 2) - (cameraDepth / playerZ * Util.interpolate(playerSegment.p1.camera.y, playerSegment.p2.camera.y, playerPercent) * height / 2);
             Render.player(ctx, width, height, resolution, roadWidth, null, speed / maxSpeed,
-                cameraDepth / playerZ,
-                width / 2,
-                (height / 2) - (cameraDepth / playerZ * Util.interpolate(playerSegment.p1.camera.y, playerSegment.p2.camera.y, playerPercent) * height / 2),
+                playerScale,
+                playerDestX,
+                playerDestY,
                 speed * (keyLeft ? -1 : keyRight ? 1 : (playerSegment.curve < -0.05 ? -1 : playerSegment.curve > 0.05 ? 1 : 0)),
                 playerSegment.p2.world.y - playerSegment.p1.world.y);
+
+            // Brake lights — only on manual braking (DOWN / S), not cruise control
+            if (keySlower) {
+                var sprW = SPRITES.PLAYER_STRAIGHT.w * playerScale * roadWidth * width / 2 * SPRITES.SCALE;
+                var sprH = SPRITES.PLAYER_STRAIGHT.h * playerScale * roadWidth * width / 2 * SPRITES.SCALE;
+                var lightY  = playerDestY - sprH * 0.18;         // near bottom of sprite
+                var lightRX = playerDestX + sprW * 0.36;         // right tail light
+                var lightLX = playerDestX - sprW * 0.36;         // left tail light
+                var rx = Math.max(2, sprW * 0.09);
+                var ry = Math.max(1, sprH * 0.13);
+
+                [lightLX, lightRX].forEach(function(lx) {
+                    // outer glow
+                    var glow = ctx.createRadialGradient(lx, lightY, 0, lx, lightY, rx * 3);
+                    glow.addColorStop(0, 'rgba(255,40,0,0.55)');
+                    glow.addColorStop(1, 'rgba(255,0,0,0)');
+                    ctx.beginPath();
+                    ctx.ellipse(lx, lightY, rx * 3, ry * 3, 0, 0, Math.PI * 2);
+                    ctx.fillStyle = glow;
+                    ctx.fill();
+                    // bright core
+                    ctx.beginPath();
+                    ctx.ellipse(lx, lightY, rx, ry, 0, 0, Math.PI * 2);
+                    ctx.fillStyle = '#ff2200';
+                    ctx.fill();
+                });
+            }
         }
     }
 }
