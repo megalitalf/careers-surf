@@ -12,6 +12,13 @@
  *   node scrape_jobs.js --pages 5              # scrape up to 5 pages
  *   node scrape_jobs.js --pages 5 --out custom.json
  *   node scrape_jobs.js --pages 5 --visible    # show the browser window (debug)
+ *   node scrape_jobs.js --no-salary             # include listings without salary
+ *   node scrape_jobs.js --enrich                 # fetch each detail page to add job categories
+ *   node scrape_jobs.js --pages 3 --enrich        # combine flags freely
+ *
+ * Config (edit below):
+ *   SALARY_ONLY  – default true  → adds ?sal=1 filter (only listings with salary)
+ *                  set to false or pass --no-salary to disable
  */
 
 const puppeteer     = require("puppeteer-extra");
@@ -29,22 +36,78 @@ const hasFlag = (flag) => args.includes(flag);
 const TOTAL_PAGES  = parseInt(getArg("--pages", "1"), 10);
 const OUT_FILE     = getArg("--out", path.join(__dirname, "jobs.json"));
 const HEADLESS     = !hasFlag("--visible");
-const BASE_URL     = "https://www.pracuj.pl/praca";
+const ENRICH       = hasFlag("--enrich");
+
+// ── Config ────────────────────────────────────────────────────────────────────
+// Only show listings that include a salary. Adds ?sal=1 to every request.
+// Set to false here, or pass --no-salary on the CLI, to include all listings.
+const SALARY_ONLY  = !hasFlag("--no-salary") && true;
+
+const _base        = "https://www.pracuj.pl/praca";
+const BASE_URL     = SALARY_ONLY ? `${_base}?sal=1` : _base;
 const RENDER_WAIT  = 3500;   // ms to wait for JS content after navigation
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 
-// ── In-page extractor (runs inside Chromium) ──────────────────────────────────
+// ── In-page extractor — reads rich data from __NEXT_DATA__ ───────────────────
+// Falls back to DOM scraping if __NEXT_DATA__ is unavailable.
 function extractListings() {
+  // ── Primary: __NEXT_DATA__ (richer metadata) ────────────────────────────
+  const nextEl = document.getElementById("__NEXT_DATA__");
+  if (nextEl) {
+    try {
+      const data    = JSON.parse(nextEl.textContent);
+      const queries = data.props?.pageProps?.dehydratedState?.queries || [];
+      let groupedOffers = null;
+      for (const q of queries) {
+        const go = q.state?.data?.groupedOffers;
+        if (go && go.length > 0) { groupedOffers = go; break; }
+      }
+
+      if (groupedOffers) {
+        const results = [];
+        groupedOffers.forEach((g) => {
+          // a groupedOffer may span multiple locations — one entry per inner offer
+          const innerOffers = g.offers && g.offers.length > 0 ? g.offers : [{}];
+          innerOffers.forEach((o) => {
+            const rawUrl  = (o.offerAbsoluteUri || "").split("?")[0];
+            const idMatch = rawUrl.match(/,oferta,(\d+)/);
+            const id      = idMatch ? idMatch[1] : String(o.partitionId || g.groupId);
+
+            results.push({
+              id,
+              title:            g.jobTitle         || null,
+              company:          g.companyName       || null,
+              companyId:        g.companyId         || null,
+              location:         o.displayWorkplace  || null,
+              isWholePoland:    o.isWholePoland      || false,
+              salary:           g.salaryDisplayText || null,
+              workModes:        g.workModes         || [],
+              workSchedules:    g.workSchedules     || [],
+              typesOfContract:  g.typesOfContract   || [],
+              positionLevels:   g.positionLevels    || [],
+              isRemote:         g.isRemoteWorkAllowed || false,
+              isSuperOffer:     g.isSuperOffer       || false,
+              isOptionalCv:     g.isOptionalCv       || false,
+              isOneClickApply:  g.isOneClickApply    || false,
+              publishedAt:      g.lastPublicated     || null,
+              expiresAt:        g.expirationDate     || null,
+              description:      g.jobDescription     || null,
+              url:              rawUrl,
+            });
+          });
+        });
+        return results;
+      }
+    } catch (_) { /* fall through to DOM */ }
+  }
+
+  // ── Fallback: DOM scraping ───────────────────────────────────────────────
   const results = [];
   const section = document.querySelector('[data-test="section-offers"]');
   if (!section) return results;
 
-  const cards = section.querySelectorAll(
-    '[data-test="default-offer"], [data-test="featured-offer"]'
-  );
-
-  cards.forEach((card) => {
+  section.querySelectorAll('[data-test="default-offer"], [data-test="featured-offer"]').forEach((card) => {
     const anchor = card.querySelector('a[href*=",oferta,"]');
     if (!anchor) return;
     const rawUrl  = anchor.href.split("?")[0];
@@ -52,31 +115,41 @@ function extractListings() {
     const id      = idMatch ? idMatch[1] : null;
     if (!id) return;
 
-    const titleEl    = card.querySelector('[data-test="offer-title"]') || card.querySelector("h2") || anchor;
-    const companyEl  = card.querySelector('[data-test="text-company-name"]');
-    const locationEl = card.querySelector('[data-test="text-region"]');
-    const salaryEl   = card.querySelector('[data-test="text-salary"]');
-    const dateEl     = card.querySelector('[data-test="text-added"]');
-    const wmEls      = card.querySelectorAll('[data-test="text-work-modes"] li, [data-test="work-modes"] li');
+    const t  = card.querySelector('[data-test="offer-title"]') || card.querySelector("h2") || anchor;
+    const co = card.querySelector('[data-test="text-company-name"]');
+    const lo = card.querySelector('[data-test="text-region"]');
+    const sa = card.querySelector('[data-test="text-salary"]');
+    const da = card.querySelector('[data-test="text-added"]');
+    const wm = card.querySelectorAll('[data-test="text-work-modes"] li, [data-test="work-modes"] li');
 
     results.push({
       id,
-      title:       titleEl    ? titleEl.innerText.trim()    : null,
-      company:     companyEl  ? companyEl.innerText.trim()  : null,
-      location:    locationEl ? locationEl.innerText.trim() : null,
-      salary:      salaryEl   ? salaryEl.innerText.trim()   : null,
-      workMode:    wmEls.length ? Array.from(wmEls).map(el => el.innerText.trim()).join(", ") : null,
-      publishedAt: dateEl     ? dateEl.innerText.trim()     : null,
-      url:         rawUrl,
+      title:           t  ? t.innerText.trim()  : null,
+      company:         co ? co.innerText.trim() : null,
+      companyId:       null,
+      location:        lo ? lo.innerText.trim() : null,
+      isWholePoland:   null,
+      salary:          sa ? sa.innerText.trim() : null,
+      workModes:       wm.length ? Array.from(wm).map(e => e.innerText.trim()) : [],
+      workSchedules:   [],
+      typesOfContract: [],
+      positionLevels:  [],
+      isRemote:        null,
+      isSuperOffer:    null,
+      isOptionalCv:    null,
+      isOneClickApply: null,
+      publishedAt:     da ? da.innerText.trim() : null,
+      expiresAt:       null,
+      description:     null,
+      url:             rawUrl,
     });
   });
-
   return results;
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log(`\n🔍  Scraping pracuj.pl — up to ${TOTAL_PAGES} page(s)  [headless: ${HEADLESS}]\n`);
+  console.log(`\n🔍  Scraping pracuj.pl — up to ${TOTAL_PAGES} page(s)  [headless: ${HEADLESS}]  [salary filter: ${SALARY_ONLY}]  [enrich: ${ENRICH}]\n`);
 
   const browser = await puppeteer.launch({
     headless: HEADLESS,
@@ -118,7 +191,7 @@ async function main() {
 
   // ── Pages 2+ — click the "Next" button to stay in the same session ─────────
   for (let pageNum = 2; pageNum <= TOTAL_PAGES; pageNum++) {
-    const url = `${BASE_URL}?pn=${pageNum}`;
+    const url = SALARY_ONLY ? `${_base}?sal=1&pn=${pageNum}` : `${_base}?pn=${pageNum}`;
     process.stdout.write(`  Page ${pageNum}/${TOTAL_PAGES}  ${url} ... `);
 
     // Polite delay before each navigation
@@ -159,6 +232,48 @@ async function main() {
     } catch (err) {
       console.log(`❌  ${err.message}`);
       errors.push({ page: pageNum, url, error: err.message });
+    }
+  }
+
+  // ── Enrich: fetch each detail page for categories ─────────────────────────
+  if (ENRICH && allListings.length > 0) {
+    console.log(`\n🏷   Enriching ${allListings.length} listings with category data...\n`);
+    for (let i = 0; i < allListings.length; i++) {
+      const listing = allListings[i];
+      if (!listing.url) continue;
+      process.stdout.write(`  [${i + 1}/${allListings.length}] ${listing.url.split("/").pop()} ... `);
+      await delay(1200 + Math.random() * 800);
+      try {
+        await page.goto(listing.url, { waitUntil: "networkidle2", timeout: 45000 });
+        await delay(2000);
+        const cats = await page.evaluate(() => {
+          const el = document.getElementById("__NEXT_DATA__");
+          if (!el) return null;
+          const data    = JSON.parse(el.textContent);
+          const queries = data.props?.pageProps?.dehydratedState?.queries || [];
+          for (const q of queries) {
+            const cats = q.state?.data?.attributes?.categories;
+            if (cats && cats.length > 0) return cats;
+          }
+          return null;
+        });
+        if (cats) {
+          listing.categories = cats.map(c => ({
+            id:         c.id,
+            name:       c.name,
+            parentId:   c.parent?.id   || null,
+            parentName: c.parent?.name || null,
+          }));
+          console.log(`✅  ${cats.map(c => c.name).join(" / ")}`);
+        } else {
+          listing.categories = [];
+          console.log(`—  (no categories found)`);
+        }
+      } catch (err) {
+        listing.categories = [];
+        console.log(`❌  ${err.message.slice(0, 80)}`);
+        errors.push({ page: `enrich:${listing.id}`, url: listing.url, error: err.message });
+      }
     }
   }
 

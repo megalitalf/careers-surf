@@ -1,1301 +1,3251 @@
 {
   "meta": {
-    "source": "https://www.pracuj.pl/praca",
-    "scrapedAt": "2026-03-19T10:40:50.937Z",
-    "pages": 3,
-    "total": 129,
+    "source": "https://www.pracuj.pl/praca?sal=1",
+    "scrapedAt": "2026-03-19T11:24:20.902Z",
+    "pages": 1,
+    "total": 71,
     "errors": 0
   },
   "listings": [
     {
-      "id": "1004717050",
-      "title": "Automatyk (M/K)",
-      "company": "COLIAN",
-      "location": "Lublin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/automatyk-m-k-lublin-gospodarcza-25,oferta,1004717050"
+      "id": "1004704545",
+      "title": "Szkoleniowiec / Szkoleniowczyni",
+      "company": "PARADO",
+      "companyId": 1074046351,
+      "location": "Poznań, Grunwald",
+      "isWholePoland": false,
+      "salary": "6 800–10 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:15:56.15Z",
+      "expiresAt": "2026-04-12T21:59:59Z",
+      "description": "Twój zakres obowiązków, Osoba na tym stanowisku będzie odpowiedzialna za dbanie o poziom kompetencji handlowców pracujących w bezpośrednim kontakcie telefonicznym z klientami. Oddziały z handlowcami mieszczą się w innych rejonach Polski, kontakt z...",
+      "url": "https://www.pracuj.pl/praca/szkoleniowiec-szkoleniowczyni-poznan-kopanina-28-32,oferta,1004704545",
+      "categories": [
+        {
+          "id": 5007002,
+          "name": "Szkolenia / Rozwój osobisty",
+          "parentId": 5007,
+          "parentName": "Edukacja / Szkolenia"
+        },
+        {
+          "id": 5011004,
+          "name": "Szkolenia / Rozwój",
+          "parentId": 5011,
+          "parentName": "Human Resources / Zasoby ludzkie"
+        }
+      ]
     },
     {
-      "id": "1004717049",
-      "title": "Sprzedawca / Sprzedawczyni - CALZEDONIA - ½ etatu",
-      "company": "CALZ POLSKA sp. z o.o.",
-      "location": "Szczecin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-calzedonia-etatu-szczecin-aleja-niepodleglosci-36,oferta,1004717049"
+      "id": "1004717226",
+      "title": "Pracownik / Pracowniczka sklepu spożywczego",
+      "company": "STATIVO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166433,
+      "location": "Wawelno (pow. opolski)",
+      "isWholePoland": false,
+      "salary": "4 806–5 500 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:15:47.637Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przygotowywanie artykułów spożywczych do sprzedaży;, Dbanie o czystość i estetykę miejsca sprzedaży, właściwą ekspozycję towarów według ustalonych standardów;, Obsługiwanie klienta, w tym informowanie o sprzedawanych...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-sklepu-spozywczego-wawelno-pow-opolski,oferta,1004717226",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004671456",
-      "title": "Magazynier / Operator Wózka Widłowego (K/M)",
-      "company": "GRUPA CE-MA SPÓŁKA Z O. O.",
+      "id": "1004717223",
+      "title": "Pracownik / Pracowniczka sklepu spożywczego",
+      "company": "STATIVO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166433,
+      "location": "Sobótka",
+      "isWholePoland": false,
+      "salary": "31–36 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:15:28Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, obsługa klienta i kasy fiskalnej;, dbanie o estetykę i porządek na sali sprzedaży;, wykładanie towaru i kontrola terminów przydatności;, pomoc w codziennym funkcjonowaniu sklepu....",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-sklepu-spozywczego-sobotka,oferta,1004717223",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
+    },
+    {
+      "id": "1004660073",
+      "title": "Data Governance & Data Strategy Consultant",
+      "company": "Sopra Steria Polska Sp. z o.o.",
+      "companyId": 20057442,
       "location": "Katowice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/magazynier-operator-wozka-widlowego-k-m-katowice-miedziana-15,oferta,1004671456"
+      "isWholePoland": false,
+      "salary": "18 000–31 920 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:15:13.163Z",
+      "expiresAt": "2026-03-22T22:59:59Z",
+      "description": "Your responsibilities, Data Strategy: Conduct maturity assessments and define the strategic roadmap., Governance: Design and deploy data governance frameworks., Data Management: Oversee the implementation of data dictionaries, data catalogs, and...",
+      "url": "https://www.pracuj.pl/praca/data-governance-data-strategy-consultant-katowice-zelazna-10,oferta,1004660073",
+      "categories": [
+        {
+          "id": 5015001,
+          "name": "Administration of databases and storage",
+          "parentId": 5015,
+          "parentName": "IT-Administration"
+        },
+        {
+          "id": 5015003,
+          "name": "Administration of systems",
+          "parentId": 5015,
+          "parentName": "IT-Administration"
+        },
+        {
+          "id": 5015004,
+          "name": "Security / Audit",
+          "parentId": 5015,
+          "parentName": "IT-Administration"
+        }
+      ]
     },
     {
-      "id": "1004693205",
-      "title": "Specjalista / Specjalistka ds. administracyjno-księgowych",
-      "company": "KUBALA sp. z o.o.",
-      "location": "Goleszów (pow. cieszyński)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-administracyjno-ksiegowych-goleszow-pow-cieszynski-przemyslowa-5,oferta,1004693205"
+      "id": "1004717222",
+      "title": "Sprzedawca / Sprzedawczyni",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Józefów (pow. otwocki)",
+      "isWholePoland": false,
+      "salary": "31,50 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:15:05.397Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Obsługa klienta, Obsługa kasy fiskalnej i terminala, Wykładanie towaru, Kontrola terminów produktów spożywczych, Zapewnienie porządku na stanowisku pracy...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-jozefow-pow-otwocki,oferta,1004717222",
+      "categories": [
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        },
+        {
+          "id": 5028019,
+          "name": "Inne",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004701561",
-      "title": "SCRUM Master - branża ubezpieczeniowa",
-      "company": "PEOPLE TRUST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Warszawa, Śródmieście",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/scrum-master-branza-ubezpieczeniowa-warszawa-aleja-armii-ludowej-26,oferta,1004701561"
+      "id": "1004717221",
+      "title": "Pracownik / Pracowniczka sklepu spożywczego",
+      "company": "STATIVO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166433,
+      "location": "Wołczyn",
+      "isWholePoland": false,
+      "salary": "4 806–5 500 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:15:04.833Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przygotowywanie artykułów spożywczych do sprzedaży;, Dbanie o czystość i estetykę miejsca sprzedaży, właściwą ekspozycję towarów według ustalonych standardów;, Obsługiwanie klienta, w tym informowanie o sprzedawanych...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-sklepu-spozywczego-wolczyn,oferta,1004717221",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004717046",
-      "title": "3D Generalist (m/f/d)",
-      "company": "Omnicom Production sp. z o.o.",
-      "location": "Warszawa, Mokotów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/3d-generalist-m-f-d-warszawa-wincentego-rzymowskiego-34,oferta,1004717046"
-    },
-    {
-      "id": "1004717045",
-      "title": "Doradca / Doradczyni klienta",
-      "company": "Leroy Merlin Polska Sp. z o.o.",
-      "location": "Łódź, Bałuty",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-lodz-pojezierska-93,oferta,1004717045"
-    },
-    {
-      "id": "1004701558",
-      "title": "Młodszy/a Inżynier/ka Procesu (Program Rozwojowy)",
-      "company": "Faurecia R&D Center S.A.",
-      "location": "Grójec",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/mlodszy-a-inzynier-ka-procesu-program-rozwojowy-grojec-spoldzielcza-4,oferta,1004701558"
-    },
-    {
-      "id": "1004668602",
-      "title": "Marketing Product Owner / Brand Manager.",
-      "company": "Wyższa Szkoła Kształcenia Zawodowego",
-      "location": "Wrocław, Krzyki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/marketing-product-owner-brand-manager-wroclaw-plac-powstancow-slaskich-1,oferta,1004668602"
-    },
-    {
-      "id": "1004717044",
-      "title": "Lekarz Dentysta",
-      "company": "Indywidualna Praktyka Stomatologiczna Wojciech Wojnowski",
-      "location": "Rawicz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/lekarz-dentysta-rawicz-akacjowa-22,oferta,1004717044"
-    },
-    {
-      "id": "1004657114",
-      "title": "Sprzedawca / Sprzedawczyni na stacji paliw",
-      "company": "Circle K Polska Sp. z o.o.",
-      "location": "Śrem",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-na-stacji-paliw-srem-grunwaldzka-21,oferta,1004657114"
-    },
-    {
-      "id": "1004674030",
-      "title": "Młodsza Specjalistka / Młodszy Specjalista ds. Administracji",
-      "company": "PFR Nieruchomości S.A.",
+      "id": "1004717219",
+      "title": "Pracownik / Pracowniczka sklepu spożywczego",
+      "company": "STATIVO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166433,
       "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/mlodsza-specjalistka-mlodszy-specjalista-ds-administracji-warszawa,oferta,1004674030"
+      "isWholePoland": false,
+      "salary": "31,40–35 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:14:45.62Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, obsługa klienta i kasy fiskalnej;, dbanie o estetykę i porządek na sali sprzedaży;, wykładanie towaru i kontrola terminów przydatności;, pomoc w codziennym funkcjonowaniu sklepu....",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-sklepu-spozywczego-warszawa,oferta,1004717219",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004684100",
-      "title": "Credit & Collections Coordinator with languages",
-      "company": "TRANE POLAND sp. z o.o.",
-      "location": "Warszawa, Włochy",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/credit-collections-coordinator-with-languages-warszawa-jutrzenki-137a,oferta,1004684100"
+      "id": "1004717216",
+      "title": "Pracownik / Pracowniczka sklepu spożywczego",
+      "company": "STATIVO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166433,
+      "location": "Wrocław",
+      "isWholePoland": false,
+      "salary": "32–36,50 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:14:12.103Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, obsługa klienta i kasy fiskalnej;, dbanie o estetykę i porządek na sali sprzedaży;, wykładanie towaru i kontrola terminów przydatności;, pomoc w codziennym funkcjonowaniu sklepu....",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-sklepu-spozywczego-wroclaw,oferta,1004717216",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004683959",
-      "title": "Konsultant / Konsultantka ds. zatrudnienia",
-      "company": "Work Force Sp. z o.o.",
-      "location": "Bydgoszcz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-ds-zatrudnienia-bydgoszcz,oferta,1004683959"
-    },
-    {
-      "id": "1004683956",
-      "title": "Analityk/Analityczka Sprzedaży",
-      "company": "LUX MED Sp. z o.o.",
-      "location": "Warszawa, Mokotów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/analityk-analityczka-sprzedazy-warszawa-szturmowa-2,oferta,1004683956"
-    },
-    {
-      "id": "1004687001",
-      "title": "Programista/-ka maszyn tnących",
-      "company": "Manpower",
-      "location": "Konotopa (pow. warszawski zachodni)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/programista-ka-maszyn-tnacych-konotopa-pow-warszawski-zachodni,oferta,1004687001"
-    },
-    {
-      "id": "11885264",
-      "title": "Blacharz Samochodowy (m/k)",
-      "company": "Íslensk verkmiðlun ehf",
-      "location": "Islandia",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/blacharz-samochodowy-m-k-islandia,oferta,11885264"
-    },
-    {
-      "id": "11885265",
-      "title": "Detailer Pojazdów Ciężarowych (k/m)",
-      "company": "BAS World",
-      "location": "Holandia",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/detailer-pojazdow-ciezarowych-k-m-holandia,oferta,11885265"
-    },
-    {
-      "id": "1004701554",
-      "title": "Manager / -ka ds. rozwoju biznesu",
-      "company": "OLAVION sp. z o.o.",
-      "location": "Gdańsk, Przeróbka",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/manager-ka-ds-rozwoju-biznesu-gdansk-siennicka-25,oferta,1004701554"
-    },
-    {
-      "id": "1004701555",
-      "title": "Security Success Engineer",
-      "company": "Veeam Software",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Warszawa, Śródmieście",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/security-success-engineer-warszawa-plac-bankowy-12,oferta,1004701555"
-    },
-    {
-      "id": "1004717043",
-      "title": "Kosmetolog (K/M/N)",
-      "company": "Douglas Polska Sp. z o.o.",
-      "location": "Suwałki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kosmetolog-k-m-n-suwalki-generala-jozefa-dwernickiego-15,oferta,1004717043"
-    },
-    {
-      "id": "1004701556",
-      "title": "Kierowca ciężarówki C+E",
-      "company": "TDK TRANSPORT sp. z o.o.",
-      "location": "Gniezno",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierowca-ciezarowki-c%2be-gniezno,oferta,1004701556"
-    },
-    {
-      "id": "1004717042",
-      "title": "Senior Financial Controller",
-      "company": "HEALTH LABS CARE spółka akcyjna",
-      "location": "Warszawa, Wilanów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/senior-financial-controller-warszawa-franciszka-klimczaka-1,oferta,1004717042"
-    },
-    {
-      "id": "1004671429",
+      "id": "1004671658",
       "title": "Ambasador / Ambasadorka Marki PLOOM",
       "company": "Modus",
-      "location": "Luboń",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-lubon,oferta,1004671429"
+      "companyId": 20174691,
+      "location": "Toruń",
+      "isWholePoland": false,
+      "salary": "34–65 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:14:03.33Z",
+      "expiresAt": "2026-03-28T22:59:59Z",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-torun,oferta,1004671658",
+      "categories": [
+        {
+          "id": 5028011,
+          "name": "Usługi profesjonalne",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004708293",
-      "title": "Starszy specjalista / Starsza specjalistka ds. kadrowo-płacowych",
-      "company": "S. M. GROUP sp. z o.o.",
-      "location": "Szczecin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/starszy-specjalista-starsza-specjalistka-ds-kadrowo-placowych-szczecin,oferta,1004708293"
+      "id": "1004684279",
+      "title": "Trading Support Officer",
+      "company": "HSBC Service Delivery (Polska) Sp. z o.o.",
+      "companyId": 20063366,
+      "location": "Kraków, Dębniki",
+      "isWholePoland": false,
+      "salary": "15 025–19 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:13:12.227Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Your responsibilities, Ensures intraday trade integrity through UMA (unmatched, matched, alleged) trade investigation, FIX message monitoring, limit order monitoring, and timely escalation of issues., Performs daily post-trade reconciliation,...",
+      "url": "https://www.pracuj.pl/praca/trading-support-officer-krakow-kapelanka-42a,oferta,1004684279",
+      "categories": [
+        {
+          "id": 5003001,
+          "name": "Analysis / Risk",
+          "parentId": 5003,
+          "parentName": "Banking"
+        },
+        {
+          "id": 5037005,
+          "name": "Business / Strategy",
+          "parentId": 5037,
+          "parentName": "Consulting"
+        }
+      ]
     },
     {
-      "id": "1004693196",
-      "title": "Kierownik regionalny / Kierowniczka regionalna - Zakład Przetwórstwa Mięsnego Matejka Joachim",
-      "company": "EMMA MARKET sp. z o.o.",
-      "location": "Opole",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-regionalny-kierowniczka-regionalna-zaklad-przetworstwa-miesnego-matejk-opole,oferta,1004693196"
+      "id": "1004717210",
+      "title": "Główny/a Specjalista/tka ds. finansowo-księgowym w Dziale Finansowo-Księgowym",
+      "company": "Ośrodek Pomocy Społecznej Dzielnicy Wola m.st. Warszawy",
+      "companyId": 20410127,
+      "location": "Warszawa, Wola",
+      "isWholePoland": false,
+      "salary": "8 820 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:43.563Z",
+      "expiresAt": "2026-03-31T21:59:59Z",
+      "description": "Twój zakres obowiązków, księgowanie wyciągów bankowych w zakresie dochodów;, sporządzanie sprawozdań Rb-27S i Rb-27ZZ, RB N, RB ZN;, wprowadzanie sprawozdań Rb-27S i Rb-27ZZ, RB N, RB ZN w aplikacji Cesarz;, wystawianie rachunków za usługi...",
+      "url": "https://www.pracuj.pl/praca/glowny-a-specjalista-tka-ds-finansowo-ksiegowym-w-dziale-finansowo-ksiegowym-warszawa-jozefa-bema-91,oferta,1004717210",
+      "categories": [
+        {
+          "id": 5008005,
+          "name": "Księgowość",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        },
+        {
+          "id": 5027001,
+          "name": "Bezpieczeństwo / Porządek Publiczny",
+          "parentId": 5027,
+          "parentName": "Sektor publiczny"
+        },
+        {
+          "id": 5027002,
+          "name": "Kontrola / Nadzór",
+          "parentId": 5027,
+          "parentName": "Sektor publiczny"
+        }
+      ]
     },
     {
-      "id": "1004717041",
-      "title": "Pracownik fizyczny / Pracowniczka fizyczna do prac drogowych",
-      "company": "RADPOL Sp. z o.o.",
-      "location": "Wrocław",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/pracownik-fizyczny-pracowniczka-fizyczna-do-prac-drogowych-wroclaw,oferta,1004717041"
+      "id": "1004671651",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "companyId": 20174691,
+      "location": "Płock",
+      "isWholePoland": false,
+      "salary": "34–65 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:39.377Z",
+      "expiresAt": "2026-03-28T22:59:59Z",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-plock,oferta,1004671651",
+      "categories": [
+        {
+          "id": 5028011,
+          "name": "Usługi profesjonalne",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "11876301",
-      "title": "Monter / Monterka konstrukcji stalowych (kotlarz / kotlarka)",
-      "company": "PowerJobs Sp. z o.o.",
-      "location": "Clermont Ferrand, Francja",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/monter-monterka-konstrukcji-stalowych-kotlarz-kotlarka-francja,oferta,11876301"
+      "id": "1004684275",
+      "title": "Tech Lead (Google Cloud Platform / BigQuery/ Azure)",
+      "company": "ASTRAL FOREST PROSTA SPÓŁKA AKCYJNA",
+      "companyId": 1074131041,
+      "location": "Warszawa, Wola",
+      "isWholePoland": true,
+      "salary": "180–220 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:20.657Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Your responsibilities, Lead & Shape, •\tTake end-to-end ownership of client data strategies - from discovery and architecture design to development and adoption., •\tDefine and champion best practices for data architecture, modeling, and engineering...",
+      "url": "https://www.pracuj.pl/praca/tech-lead-google-cloud-platform-bigquery-azure-warszawa-ogrodowa-31,oferta,1004684275",
+      "categories": [
+        {
+          "id": 5015001,
+          "name": "Administration of databases and storage",
+          "parentId": 5015,
+          "parentName": "IT-Administration"
+        },
+        {
+          "id": 5015003,
+          "name": "Administration of systems",
+          "parentId": 5015,
+          "parentName": "IT-Administration"
+        },
+        {
+          "id": 5016002,
+          "name": "Architecture",
+          "parentId": 5016,
+          "parentName": "IT software development"
+        }
+      ]
     },
     {
-      "id": "1004686992",
-      "title": "Koordynator/Koordynatorka Projektu",
-      "company": "MANDORIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Rzgów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/koordynator-koordynatorka-projektu-rzgow-miasto-mody-2,oferta,1004686992"
+      "id": "1004684272",
+      "title": "IT Project Manager",
+      "company": "ASTRAL FOREST PROSTA SPÓŁKA AKCYJNA",
+      "companyId": 1074131041,
+      "location": "Warszawa, Wola",
+      "isWholePoland": true,
+      "salary": "90–140 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:05.767Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Your responsibilities, Client Relationship & Stakeholder Management, •\tBuild strong, long-term partnerships with clients by understanding their business goals and challenges, •\tEnsure effective communication and alignment between client...",
+      "url": "https://www.pracuj.pl/praca/it-project-manager-warszawa-ogrodowa-31,oferta,1004684272",
+      "categories": [
+        {
+          "id": 5016005,
+          "name": "Project management",
+          "parentId": 5016,
+          "parentName": "IT software development"
+        }
+      ]
     },
     {
-      "id": "1004687000",
-      "title": "Project Manager",
-      "company": "MANDORIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Rzgów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/project-manager-rzgow-miasto-mody-2,oferta,1004687000"
+      "id": "1004684274",
+      "title": "Head of SEO",
+      "company": "RynekPierwotny.pl",
+      "companyId": 20104974,
+      "location": "Warszawa, Mokotów",
+      "isWholePoland": false,
+      "salary": "17 000–20 000 zł netto (+ VAT) / mies.",
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, tworzenie i wdrażanie strategii SEO dla RynekPierwotny.pl,, zarządzanie zespołem specjalistów SEO,, optymalizacja stron i budowa zaplecza pozycjonerskiego,, identyfikowanie i rozwiązywanie technicznych problemów SEO,,...",
+      "url": "https://www.pracuj.pl/praca/head-of-seo-warszawa-adama-naruszewicza-27,oferta,1004684274",
+      "categories": [
+        {
+          "id": 5013001,
+          "name": "E-marketing / SEM / SEO",
+          "parentId": 5013,
+          "parentName": "Internet / e-Commerce / Nowe media"
+        }
+      ]
     },
     {
-      "id": "1004693191",
-      "title": "Zgrzewacz rur (k/m)",
-      "company": "EL PROFESSIONAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Kębłowo (pow. wejherowski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/zgrzewacz-rur-k-m-keblowo-pow-wejherowski,oferta,1004693191"
-    },
-    {
-      "id": "1004693189",
-      "title": "Customer Communication and Sales Support Specialist with Kazakh",
+      "id": "1004684273",
+      "title": "Specjalista ds. Obsługi Klienta (z językiem polskim i angielskim)",
       "company": "Concentrix CVG International Sp. z o.o.",
-      "location": "Katowice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/customer-communication-and-sales-support-specialist-with-kazakh-katowice-zabrska-19,oferta,1004693189"
-    },
-    {
-      "id": "1004717040",
-      "title": "Technolog - Programista maszyn CNC",
-      "company": "ARTDAM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Stanowice (pow. oławski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/technolog-programista-maszyn-cnc-stanowice-pow-olawski,oferta,1004717040"
-    },
-    {
-      "id": "1004693193",
-      "title": "Doradca / Doradczyni klienta - Kasjer / Kasjerka",
-      "company": "KRAFT W ŁÓDZKIM sp. z o.o.",
-      "location": "Łódź, Bałuty",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-kasjer-kasjerka-lodz-stefana-3a,oferta,1004693193"
-    },
-    {
-      "id": "1004717039",
-      "title": "Monter instalacji technologicznych",
-      "company": "Technologie i Techniki Procesowe 3 AQUA Sp. z o.o.",
-      "location": "Marki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/monter-instalacji-technologicznych-marki,oferta,1004717039"
-    },
-    {
-      "id": "1004717038",
-      "title": "Inżynier budowy",
-      "company": "Przedsiębiorstwo Budowlane „Latusek” GJ Invest Sp. z o.o. Sp.k",
-      "location": "Katowice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/inzynier-budowy-katowice-ceglana-50,oferta,1004717038"
-    },
-    {
-      "id": "1004683953",
-      "title": "Doradca / Doradczyni klienta w sklepie",
-      "company": "JOTT",
-      "location": "Gdynia, Orłowo",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-w-sklepie-gdynia-aleja-zwyciestwa-256,oferta,1004683953"
-    },
-    {
-      "id": "1004683954",
-      "title": "Specjalista / Specjalistka ds. eCommerce",
-      "company": "EUROCERAMIKA MATERIAŁY BUDOWLANE sp. z o.o.",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-ecommerce-warszawa,oferta,1004683954"
-    },
-    {
-      "id": "1004683948",
-      "title": "Inżynier budowy fit-out",
-      "company": "MUNIAK sp. z o.o. SPÓŁKA KOMANDYTOWA",
-      "location": "Warszawa, Bemowo",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/inzynier-budowy-fit-out-warszawa-dywizjonu-303-139,oferta,1004683948"
-    },
-    {
-      "id": "1004717037",
-      "title": "Asystent ds. rachunkowości (k/m)",
-      "company": "Business Support Solution Spółka Akcyjna (BSS)",
-      "location": "Łódź, Bałuty",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/asystent-ds-rachunkowosci-k-m-lodz-pojezierska-90a,oferta,1004717037"
-    },
-    {
-      "id": "1004683946",
-      "title": "Konstruktor / Konstruktorka",
-      "company": "ENGINOVA SP. Z O.O.",
-      "location": "Kutno",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/konstruktor-konstruktorka-kutno-wschodnia-11,oferta,1004683946"
-    },
-    {
-      "id": "1004674020",
-      "title": "Pracownik / Pracowniczka drukarni",
-      "company": "Market Print Global Sp. z o.o.",
-      "location": "Warszawa, Bemowo",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-drukarni-warszawa-fortuny-3a,oferta,1004674020"
-    },
-    {
-      "id": "1004717036",
-      "title": "Pracownik Ochrony /Obiekt Handlowy ,Trzebiatów k/m",
-      "company": "Solid Security Sp. z o.o.",
-      "location": "Trzebiatów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/pracownik-ochrony-obiekt-handlowy-trzebiatow-k-m-trzebiatow,oferta,1004717036"
-    },
-    {
-      "id": "1004717035",
-      "title": "T Hub Internship - IT DevOps Section",
-      "company": "T-Mobile",
-      "location": "Warszawa, Mokotów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/t-hub-internship-it-devops-section-warszawa-marynarska-12,oferta,1004717035"
-    },
-    {
-      "id": "1004717034",
-      "title": "Regionalny przedstawiciel handlowy",
-      "company": "LASIT LASER POLSKA sp. z o.o.",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Łódź",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-lodz,oferta,1004717034"
-    },
-    {
-      "id": "1004701541",
-      "title": "Młodszy Przedstawiciel Handlowy / Młodsza Przedstawicielka Handlowa",
-      "company": "ILLUSTRO Doradztwo S.C.",
-      "location": "Kluczbork",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/mlodszy-przedstawiciel-handlowy-mlodsza-przedstawicielka-handlowa-kluczbork,oferta,1004701541"
-    },
-    {
-      "id": "1004701540",
-      "title": "Kierownik/czka ds. zakupów operacyjnych",
-      "company": "Grafton Recruitment",
-      "location": "Oborniki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-czka-ds-zakupow-operacyjnych-oborniki,oferta,1004701540"
-    },
-    {
-      "id": "1004704308",
-      "title": "Terapeuta Integracji Sensorycznej (k/m)",
-      "company": "SOS Wioski Dziecięce w Polsce",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/terapeuta-integracji-sensorycznej-k-m-warszawa,oferta,1004704308"
-    },
-    {
-      "id": "1004674012",
-      "title": "Analityk / Analityczka ds. rozwoju nieruchomości mieszkaniowych",
-      "company": "Ronson Development Management Sp. z o.o.",
-      "location": "Warszawa, Ursynów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/analityk-analityczka-ds-rozwoju-nieruchomosci-mieszkaniowych-warszawa-aleja-komisji-edukacji-narodowej-57,oferta,1004674012"
-    },
-    {
-      "id": "1004707988",
-      "title": "Operator sterowni (produkcja) (m/k/n)",
-      "company": "Kopalnie Dolomitu S.A.",
-      "location": "Wojnowice (pow. opatowski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/operator-sterowni-produkcja-m-k-n-wojnowice-pow-opatowski,oferta,1004707988"
-    },
-    {
-      "id": "1004717032",
-      "title": "Konserwator/ka - Operator/ka Maszyn i Urządzeń",
-      "company": "POZBRUK",
-      "location": "Janikowo (pow. poznański)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/konserwator-ka-operator-ka-maszyn-i-urzadzen-janikowo-pow-poznanski,oferta,1004717032"
-    },
-    {
-      "id": "1004683943",
-      "title": "Software Engineer (DevOps) - Site Reliability",
-      "company": "Revolut Ltd",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Kraków",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/software-engineer-devops-site-reliability-krakow,oferta,1004683943"
-    },
-    {
-      "id": "1004717031",
-      "title": "Kierownik Restauracji | Zakopiańska (m/k/d)",
-      "company": "Max Poland Sp. z o.o.",
-      "location": "Kraków, Łagiewniki-Borek Fałęcki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-restauracji-zakopianska-m-k-d-krakow-zakopianska-70b,oferta,1004717031"
-    },
-    {
-      "id": "1004683942",
-      "title": "Asystent / Asystentka zarządu",
-      "company": "AMC AVIATION sp. z o.o.",
-      "location": "Nowy Dwór Mazowiecki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/asystent-asystentka-zarzadu-nowy-dwor-mazowiecki,oferta,1004683942"
-    },
-    {
-      "id": "1004717030",
-      "title": "Ratownik",
-      "company": "Hotel InterContinental Warszawa",
-      "location": "Warszawa, Śródmieście",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/ratownik-warszawa-emilii-plater-49,oferta,1004717030"
-    },
-    {
-      "id": "1004717029",
-      "title": "Operator / Operatorka maszyny do oprawy zeszytowej",
-      "company": "KRM DRUK MILLER SPÓŁKA KOMANDYTOWA",
-      "location": "Warszawa, Targówek",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/operator-operatorka-maszyny-do-oprawy-zeszytowej-warszawa-matuszewska-14,oferta,1004717029"
-    },
-    {
-      "id": "1004707982",
-      "title": "Kierownik Salonu (m/k)",
-      "company": "TATUUM",
-      "location": "Tychy",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-salonu-m-k-tychy,oferta,1004707982"
-    },
-    {
-      "id": "1004666138",
-      "title": "Backend Developer (NestJS)",
-      "company": "CodeTalent Sp. z o.o.",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Warszawa, Wola",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/backend-developer-nestjs-warszawa-marcina-kasprzaka-31,oferta,1004666138"
-    },
-    {
-      "id": "1004717028",
-      "title": "Specjalista / Specjalistka ds. kadr i płac",
-      "company": "Elżbieta Andryszewska Consulting",
-      "location": "Raszyn (pow. pruszkowski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-kadr-i-plac-raszyn-pow-pruszkowski,oferta,1004717028"
-    },
-    {
-      "id": "1004680858",
-      "title": "Specjalista / Specjalistka ds. sprzedaży w salonie Orange",
-      "company": "GTI Sp. z o.o.",
-      "location": "Gliwice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-w-salonie-orange-gliwice-aleja-jana-nowaka-jezioranskiego-1,oferta,1004680858"
-    },
-    {
-      "id": "1004698791",
-      "title": "Specjalista ds. obsługi klienta (k/m/n)",
-      "company": "Hellmann Worldwide Logistics Polska sp. z o.o. sp.k",
-      "location": "Tyniec Mały (pow. wrocławski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-ds-obslugi-klienta-k-m-n-tyniec-maly-pow-wroclawski-ryszarda-chomicza-26,oferta,1004698791"
-    },
-    {
-      "id": "1004704277",
-      "title": "Pracownik produkcji – montaż",
-      "company": "Manpower",
-      "location": "Tychy",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-montaz-tychy,oferta,1004704277"
-    },
-    {
-      "id": "1004683940",
-      "title": "Senior Software Engineer (Devops) - Developer Experience",
-      "company": "Revolut Ltd",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Kraków",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/senior-software-engineer-devops-developer-experience-krakow,oferta,1004683940"
-    },
-    {
-      "id": "1004717026",
-      "title": "Kierowca C+E",
-      "company": "PRZEDSIĘBIORSTWO HANDLOWO USŁUGOWE \"HAMER\" s.c.",
-      "location": "Prochowice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-prochowice,oferta,1004717026"
-    },
-    {
-      "id": "1004683939",
-      "title": "Kasjer - Sprzedawca (m/k)",
-      "company": "Intermarché",
-      "location": "Radlin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kasjer-sprzedawca-m-k-radlin-mariacka-38,oferta,1004683939"
-    },
-    {
-      "id": "1004717025",
-      "title": "Specjalista ds. handlu zagranicznego (k/m)",
-      "company": "WB Electronics S.A.",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-ds-handlu-zagranicznego-k-m-warszawa,oferta,1004717025"
-    },
-    {
-      "id": "1004683932",
-      "title": "Kucharz / Kucharka",
-      "company": "BISTRO MAŁY GARNUSZEK sp. z o.o.",
-      "location": "Bydgoszcz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kucharz-kucharka-bydgoszcz-unii-lubelskiej-4c,oferta,1004683932"
-    },
-    {
-      "id": "1004693155",
-      "title": "Specjalista / Specjalistka ds. wdrożeń i serwisu oprogramowania",
-      "company": "ELEWATORSOFT.PL sp. z o.o.",
-      "location": "Piła",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-wdrozen-i-serwisu-oprogramowania-pila-wladyslawa-sikorskiego-33,oferta,1004693155"
-    },
-    {
-      "id": "1004693154",
-      "title": "Rekruter / Rekruterka",
-      "company": "ZG CARE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Zielona Góra",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/rekruter-rekruterka-zielona-gora-koscielna-2,oferta,1004693154"
-    },
-    {
-      "id": "1004683926",
-      "title": "Doradca Klienta (k/m)",
-      "company": "Neonet S.A.",
-      "location": "Słupca",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-klienta-k-m-slupca,oferta,1004683926"
-    },
-    {
-      "id": "1004683925",
-      "title": "Doradca Klienta (k/m)",
-      "company": "Neonet S.A.",
-      "location": "Pisz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-klienta-k-m-pisz,oferta,1004683925"
-    },
-    {
-      "id": "1004683930",
-      "title": "Doradca Klienta (k/m)",
-      "company": "Neonet S.A.",
-      "location": "Zielona Góra",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-klienta-k-m-zielona-gora,oferta,1004683930"
-    },
-    {
-      "id": "1004686977",
-      "title": "Specjalista / Specjalistka ds. Obsługi Klienta Technicznego",
-      "company": "Marat Sp. z o.o.",
-      "location": "Jarocin (pow. jarociński)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-technicznego-jarocin-pow-jarocinski,oferta,1004686977"
-    },
-    {
-      "id": "1004686975",
-      "title": "Księgowa (m/f/d)",
-      "company": "Gulermak S.A.",
-      "location": "Warszawa, Wola",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/ksiegowa-m-f-d-warszawa-gieldowa-7,oferta,1004686975"
-    },
-    {
-      "id": "1004686978",
-      "title": "Kupiec (Specjalista / Specjalistka) w Zespole Zakupów",
-      "company": "EcoWipes",
-      "location": "Nowy Modlin (pow. nowodworski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kupiec-specjalista-specjalistka-w-zespole-zakupow-nowy-modlin-pow-nowodworski,oferta,1004686978"
-    },
-    {
-      "id": "1004701536",
-      "title": "Specjalista / specjalistka ds. księgowości z angielskim",
-      "company": "Grafton Recruitment",
-      "location": "Łomianki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-ksiegowosci-z-angielskim-lomianki,oferta,1004701536"
-    },
-    {
-      "id": "1004701532",
-      "title": "Stanowisko ds. rozwoju ERTMS (k/m)",
-      "company": "PKP Polskie Linie Kolejowe S.A",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/stanowisko-ds-rozwoju-ertms-k-m-warszawa,oferta,1004701532"
-    },
-    {
-      "id": "1004711439",
-      "title": "Pracownik kompletowania zamówień (k/m) - magazyn odzieży i artykułów domowych",
-      "company": "Gi Group Poland S.A.",
-      "location": "Skierniewice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/pracownik-kompletowania-zamowien-k-m-magazyn-odziezy-i-artykulow-domowych-skierniewice,oferta,1004711439"
-    },
-    {
-      "id": "1004683929",
-      "title": "Sprzedawca / Sprzedawczyni działu tradycyjnego",
-      "company": "Intermarché",
-      "location": "Radlin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-dzialu-tradycyjnego-radlin-mariacka-38,oferta,1004683929"
-    },
-    {
-      "id": "1004683927",
-      "title": "Osoba do sprzątania powierzchni magazynu",
-      "company": "AMLUX Sp. z o.o.",
-      "location": "Mszczonów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/osoba-do-sprzatania-powierzchni-magazynu-mszczonow,oferta,1004683927"
-    },
-    {
-      "id": "1004717021",
-      "title": "Senior Transfer Agency Shareholder Services Representative",
-      "company": "Brown Brothers Harriman",
-      "location": "Kraków, Podgórze",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/senior-transfer-agency-shareholder-services-representative-krakow-stanislawa-klimeckiego-1,oferta,1004717021"
-    },
-    {
-      "id": "1004717020",
-      "title": "Radca prawny / Radczyni prawna / Aplikant(ka) w Dziale Prawa Cywilnego",
-      "company": "ZIEMSKI&PARTNERS KANCELARIA PRAWNA KOSTRZEWSKA, KOŁODZIEJCZAK I WSPÓLNICY SPÓŁKA KOMANDYTOWA",
-      "location": "Poznań, Grunwald",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/radca-prawny-radczyni-prawna-aplikant-ka-w-dziale-prawa-cywilnego-poznan-ulica-jozefa-strusia-10,oferta,1004717020"
-    },
-    {
-      "id": "1004717019",
-      "title": "Starszy Specjalista / Starsza Specjalistka w Dziale Strategii i Rozwoju",
-      "company": "Muzeum Historyczne Miasta Krakowa",
-      "location": "Kraków, Stare Miasto",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/starszy-specjalista-starsza-specjalistka-w-dziale-strategii-i-rozwoju-krakow-rynek-glowny-35,oferta,1004717019"
-    },
-    {
-      "id": "1004701530",
-      "title": "Przedstawiciel handlowy / Przedstawicielka handlowa",
-      "company": "MARS - TDLM SP. Z O.O. SPÓŁKA KOMANDYTOWA",
-      "location": "Częstochowa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-czestochowa,oferta,1004701530"
-    },
-    {
-      "id": "1004683924",
-      "title": "Kierownik zmianowy",
-      "company": "Intermarché",
-      "location": "Radlin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-zmianowy-radlin-mariacka-38,oferta,1004683924"
-    },
-    {
-      "id": "1004683922",
-      "title": "Doradca Klienta / Doradczyni Klienta",
-      "company": "PRO PEOPLE Spółka z ograniczoną odpowiedzialnością",
-      "location": "Warszawa, Wola",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-klienta-doradczyni-klienta-warszawa-gorczewska-124,oferta,1004683922"
-    },
-    {
-      "id": "1004683920",
-      "title": "Kierownik Regionu / Kierowniczka Regionu HVAC",
-      "company": "Ventia Sp. z o.o.",
-      "location": "Bydgoszcz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-regionu-kierowniczka-regionu-hvac-bydgoszcz,oferta,1004683920"
-    },
-    {
-      "id": "1004683919",
-      "title": "Doradca Klienta / Doradczyni Klienta",
-      "company": "PRO PEOPLE Spółka z ograniczoną odpowiedzialnością",
-      "location": "Warszawa, Targówek",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-klienta-doradczyni-klienta-warszawa-malborska-35,oferta,1004683919"
-    },
-    {
-      "id": "1004663338",
-      "title": "Elektryk (k/m/n)",
-      "company": "FAM SPÓŁKA AKCYJNA",
-      "location": "Opole",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/elektryk-k-m-n-opole-odrzanska-20,oferta,1004663338"
-    },
-    {
-      "id": "1004717018",
-      "title": "Technik / Techniczka Utrzymania Obiektu",
-      "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
-      "location": "Gryfice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/technik-techniczka-utrzymania-obiektu-gryfice,oferta,1004717018"
-    },
-    {
-      "id": "1004686972",
-      "title": "Sales and Technical Dealer Support for SINUMERIK and Machine Tool Systems (Vertical Indirect Sales Professional) (f/m/d)",
-      "company": "Siemens Sp. z o.o",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/sales-and-technical-dealer-support-for-sinumerik-and-machine-tool-systems-vertic-warszawa,oferta,1004686972"
-    },
-    {
-      "id": "1004686967",
-      "title": "Recepcjonista / Recepcjonistka do hotelu",
-      "company": "Olimpus Investment Sp. z o.o.",
-      "location": "Łódź",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/recepcjonista-recepcjonistka-do-hotelu-lodz,oferta,1004686967"
-    },
-    {
-      "id": "1004686971",
-      "title": "Channel Development Manager (Portfolio & Pricing)",
-      "company": "Newell Poland Services Sp. z o.o.",
-      "location": "Poznań, Stare Miasto",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/channel-development-manager-portfolio-pricing-poznan-plac-wladyslawa-andersa-7,oferta,1004686971"
-    },
-    {
-      "id": "1004693150",
-      "title": "Specjalista ds. Doradztwa i Usług Odpadowych (M/K)",
-      "company": "PreZero Polska Sp. z o.o.",
-      "location": "Piotrowo Pierwsze (pow. kościański)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-ds-doradztwa-i-uslug-odpadowych-m-k-piotrowo-pierwsze-pow-koscianski,oferta,1004693150"
-    },
-    {
-      "id": "1004701525",
-      "title": "Software Developer",
-      "company": "Meshnex B.V.",
-      "location": "Chojnice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/software-developer-chojnice,oferta,1004701525"
-    },
-    {
-      "id": "1004701526",
-      "title": "Specjalista/ka ds. prawa zamówień publicznych",
-      "company": "HR Progress Sp. z o.o.",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Lubin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-ka-ds-prawa-zamowien-publicznych-lubin,oferta,1004701526"
-    },
-    {
-      "id": "1004701527",
-      "title": "Sales Manager GEELY (Retail)",
-      "company": "Jameel Motors Poland Sp. z o.o",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/sales-manager-geely-retail-warszawa,oferta,1004701527"
-    },
-    {
-      "id": "1004704268",
-      "title": "Przedstawiciel handlowy / Przedstawicielka handlowa",
-      "company": "HireWise Szymon Negacz sp.k.",
-      "location": "Katowice",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-katowice,oferta,1004704268"
-    },
-    {
-      "id": "1004704258",
-      "title": "Kierowca kat. B – sprzedaż cateringu (K/M)",
-      "company": "Sandwicz Szop",
-      "location": "Bydgoszcz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierowca-kat-b-sprzedaz-cateringu-k-m-bydgoszcz,oferta,1004704258"
-    },
-    {
-      "id": "1004683918",
-      "title": "Administrator biura ze znajomością jęz. angielskiego",
-      "company": "WESTERN GLOBAL POLAND sp. z o.o.",
-      "location": "Łódź",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/administrator-biura-ze-znajomoscia-jez-angielskiego-lodz,oferta,1004683918"
-    },
-    {
-      "id": "1004683891",
-      "title": "Kierownik / Kierowniczka budowy",
-      "company": "PRZEDSIĘBIORSTWO ORGANIZACJI BUDOWNICTWA POBUD SP Z O O",
-      "location": "Bydgoszcz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-budowy-bydgoszcz-glinki-146,oferta,1004683891"
-    },
-    {
-      "id": "1004683888",
-      "title": "Listonosz / Listonoszka",
-      "company": "Poczta Polska Spółka Akcyjna",
-      "location": "Zgierz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/listonosz-listonoszka-zgierz,oferta,1004683888"
-    },
-    {
-      "id": "1004683884",
-      "title": "Elektromonter / Elektromonterka",
-      "company": "PRZEDSIĘBIORSTWO ORGANIZACJI BUDOWNICTWA POBUD SP Z O O",
-      "location": "Bydgoszcz",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/elektromonter-elektromonterka-bydgoszcz-glinki-146,oferta,1004683884"
-    },
-    {
-      "id": "1004717016",
-      "title": "Operator/ka montażu - ślusarz",
-      "company": "MASTEC WTECH SP. Z O.O.",
-      "location": "Wyry (pow. mikołowski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/operator-ka-montazu-slusarz-wyry-pow-mikolowski-na-wierzysko-5,oferta,1004717016"
-    },
-    {
-      "id": "1004707961",
-      "title": "Analityk Biznesowo-Systemowy / Analityczka Biznesowo-Systemowa",
-      "company": "FINTURE Sp. z o.o.",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/analityk-biznesowo-systemowy-analityczka-biznesowo-systemowa-warszawa,oferta,1004707961"
-    },
-    {
-      "id": "11888093",
-      "title": "Lifeguard",
-      "company": "Good Time Group",
-      "location": "Rhodes, Southern Aegean, Grecja",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/lifeguard-greece,oferta,11888093"
-    },
-    {
-      "id": "1004704257",
-      "title": "Listonosz / Listonoszka",
-      "company": "Poczta Polska Spółka Akcyjna",
-      "location": "Łęczna",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/listonosz-listonoszka-leczna-aleja-jana-pawla-ii-89,oferta,1004704257"
-    },
-    {
-      "id": "1004693140",
-      "title": "Monter instalacji klimatyzacji - chłodnictwa",
-      "company": "ARSEM sp. z o.o.",
-      "location": "Łódź",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/monter-instalacji-klimatyzacji-chlodnictwa-lodz,oferta,1004693140"
-    },
-    {
-      "id": "1004693138",
-      "title": "Specjalista / Specjalistka ds. zamówień publicznych",
-      "company": "KANCELARIA RADCÓW PRAWNYCH ZYGMUNT JERZMANOWSKI I WSPÓLNICY sp.k.",
-      "location": "Miejsce pracy:Cała Polska (praca zdalna)\nSiedziba firmy:Poznań, Jeżyce",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-zamowien-publicznych-poznan-mickiewicza-14,oferta,1004693138"
-    },
-    {
-      "id": "1004693135",
-      "title": "Diagnosta / Diagnostka stacji kontroli pojazdów",
-      "company": "PRZEMYSŁOWY INSTYTUT MASZYN BUDOWLANYCH sp. z o.o.",
-      "location": "Kobyłka",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/diagnosta-diagnostka-stacji-kontroli-pojazdow-kobylka-napoleona-2,oferta,1004693135"
-    },
-    {
-      "id": "1004693132",
-      "title": "Osoba na stanowisku inżyniera produktu",
-      "company": "Thermod sp. z o.o.",
-      "location": "Grodzisk Wielkopolski",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/osoba-na-stanowisku-inzyniera-produktu-grodzisk-wielkopolski,oferta,1004693132"
-    },
-    {
-      "id": "1004683875",
-      "title": "[Let's Orange] Praktyka w obszarze Finansów w Orange Polska",
-      "company": "Orange Polska",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/let-s-orange-praktyka-w-obszarze-finansow-w-orange-polska-warszawa,oferta,1004683875"
-    },
-    {
-      "id": "1004683873",
-      "title": "[Let's Orange] Praktyka w obszarze Digital marketingu/UX/UI w Orange Polska",
-      "company": "Orange Polska",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/let-s-orange-praktyka-w-obszarze-digital-marketingu-ux-ui-w-orange-polska-warszawa,oferta,1004683873"
-    },
-    {
-      "id": "1004693149",
-      "title": "Lider / Liderka Obszaru (Brygadzista / Brygadzistka)",
-      "company": "SMP Poland Sp. z o.o.",
-      "location": "Białystok, Nowe Miasto",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/lider-liderka-obszaru-brygadzista-brygadzistka-bialystok-magazynowa-2,oferta,1004693149"
-    },
-    {
-      "id": "1004693130",
-      "title": "Specjalista/Specjalistka ds. planowania i rozliczania inwestycji i remontów",
-      "company": "MPK Sp. z o.o.",
-      "location": "Wrocław, Krzyki",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-planowania-i-rozliczania-inwestycji-i-remontow-wroclaw-powstancow-slaskich-209,oferta,1004693130"
-    },
-    {
-      "id": "1004717013",
-      "title": "Starszy specjalista / Starsza specjalistka ds. kadr i płac",
-      "company": "IRIDEX ROBOTICS sp. z o.o.",
-      "location": "Sokołów (pow. pruszkowski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/starszy-specjalista-starsza-specjalistka-ds-kadr-i-plac-sokolow-pow-pruszkowski-sokolowska-45b,oferta,1004717013"
-    },
-    {
-      "id": "1004717014",
-      "title": "Samodzielny księgowy / Samodzielna księgowa",
-      "company": "RMDK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "location": "Warszawa",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/samodzielny-ksiegowy-samodzielna-ksiegowa-warszawa,oferta,1004717014"
-    },
-    {
-      "id": "1004717015",
-      "title": "Operator lasera CNC",
-      "company": "Bendsteel",
-      "location": "Brzesko",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/operator-lasera-cnc-brzesko-jodlowska-1,oferta,1004717015"
-    },
-    {
-      "id": "1004717011",
-      "title": "Spedytor / Spedytorka (transport drogowy, lotniczy, morski i kolejowy)",
-      "company": "HPL GROUP sp. z o.o.",
-      "location": "Wrocław, Fabryczna",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/spedytor-spedytorka-transport-drogowy-lotniczy-morski-i-kolejowy-wroclaw-legnicka-59,oferta,1004717011"
-    },
-    {
-      "id": "1004717012",
-      "title": "Kelner / Kelnerka - Barman / Barmanka",
-      "company": "Państwowy Zespół Ludowy Pieśni i Tańca \"Mazowsze\" im. T. Sygietyńskiego",
-      "location": "Otrębusy (pow. pruszkowski)",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-barman-barmanka-otrebusy-pow-pruszkowski-swierkowa-2,oferta,1004717012"
-    },
-    {
-      "id": "1004693125",
-      "title": "Przedstawiciel Handlowy (Terenowy) – Usługi Sprzątające",
-      "company": "MEGAMINI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
-      "location": "Gdańsk",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-terenowy-uslugi-sprzatajace-gdansk,oferta,1004693125"
-    },
-    {
-      "id": "1004717009",
-      "title": "Doradca / Doradczyni ds. techniczno-handlowych",
-      "company": "LIFT PROFIL sp. z o.o. SPÓŁKA KOMANDYTOWA",
-      "location": "Częstochowa, Zawodzie - Dąbie",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-techniczno-handlowych-czestochowa-zaciszna-12,oferta,1004717009"
-    },
-    {
-      "id": "1004717010",
-      "title": "Specjalista / Specjalistka ds. kadr i płac",
-      "company": "REVERSE BUSINESS SUPPORT sp. z o.o.",
-      "location": "Warszawa, Ochota",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-kadr-i-plac-warszawa-raszynska-48,oferta,1004717010"
-    },
-    {
-      "id": "1004693113",
-      "title": "Terapeuta / Terapeutka integracji sensorycznej",
-      "company": "Fundacja Bluebees / Punkt Przedszkolny Bluebees - Akademia dla Dzieci z Autyzmem",
-      "location": "Warszawa, Bielany",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/terapeuta-terapeutka-integracji-sensorycznej-warszawa-anny-jagiellonki-2a,oferta,1004693113"
-    },
-    {
-      "id": "1004717007",
-      "title": "Księgowy / Księgowa",
-      "company": "DALMOR Property Management Sp. z o.o.",
-      "location": "Gdynia, Śródmieście",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-gdynia-antoniego-hryniewickiego-10,oferta,1004717007"
-    },
-    {
-      "id": "1004717008",
-      "title": "Młodszy/a Specjalista/ka ds. Kancelaryjno-Organizacyjnych",
-      "company": "MUZEUM NARODOWE W SZCZECINIE",
+      "companyId": 20193268,
       "location": "Szczecin",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/mlodszy-a-specjalista-ka-ds-kancelaryjno-organizacyjnych-szczecin,oferta,1004717008"
+      "isWholePoland": false,
+      "salary": "4 810–5 275 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:12:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Odbieranie połączeń przychodzących od klientów firmy., Obsługa formularzy internetowych i e-maili od klientów., Prowadzenie czatów na żywo z klientami., Pytania dotyczące: rejestracji na stronie internetowej, dostępnych...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-obslugi-klienta-z-jezykiem-polskim-i-angielskim-szczecin-plac-brama-portowa-1,oferta,1004684273",
+      "categories": [
+        {
+          "id": 5021010,
+          "name": "Usługi profesjonalne",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        }
+      ]
     },
     {
-      "id": "1004701514",
-      "title": "Księgowy / Księgowa",
-      "company": "MUNIAK sp. z o.o. SPÓŁKA KOMANDYTOWA",
-      "location": "Warszawa, Bemowo",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-warszawa-dywizjonu-303-139,oferta,1004701514"
+      "id": "1004698971",
+      "title": "Kasjer/Kasjerka",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Głogów",
+      "isWholePoland": false,
+      "salary": "31,50 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:00Z",
+      "expiresAt": "2026-04-10T21:59:59Z",
+      "description": "Twój zakres obowiązków, Obsługa klienta, Obsługa kasy fiskalnej i terminala...",
+      "url": "https://www.pracuj.pl/praca/kasjer-kasjerka-glogow,oferta,1004698971",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
     },
     {
-      "id": "1004717006",
-      "title": "Asystent / Asystentka zarządu",
-      "company": "IFDS DOM MAKLERSKI S.A.",
-      "location": "Warszawa, Mokotów",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/asystent-asystentka-zarzadu-warszawa-konstruktorska-12,oferta,1004717006"
+      "id": "1004704532",
+      "title": "Pracownik/ca produkcji - rozkręć swoją karierę w sektorze produkcji!",
+      "company": "STATIVO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166433,
+      "location": "Chocianów",
+      "isWholePoland": false,
+      "salary": "31,40–32,40 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:12:00Z",
+      "expiresAt": "2026-04-12T21:59:59Z",
+      "description": "Twój zakres obowiązków, Do naszego zespołu poszukujemy osób energicznych i zaangażowanych, które będą dbać o wysoką jakość realizowanych procesów produkcyjnych oraz porządek na stanowisku pracy. Jeśli cenisz sobie pracę zespołową i dobrze...",
+      "url": "https://www.pracuj.pl/praca/pracownik-ca-produkcji-rozkrec-swoja-kariere-w-sektorze-produkcji-chocianow,oferta,1004704532",
+      "categories": [
+        {
+          "id": 5022012,
+          "name": "Pracownicy produkcji",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        },
+        {
+          "id": 5024002,
+          "name": "Pracownicy produkcyjni",
+          "parentId": 5024,
+          "parentName": "Produkcja"
+        }
+      ]
     },
     {
-      "id": "1004717005",
-      "title": "Rejestrator medyczny / Rejestratorka medyczna",
-      "company": "CENTRUM STOMATOLOGII CANDEO DENTAL CLINIC WIESŁAW HĘDZELEK sp.k.",
+      "id": "1004693374",
+      "title": "Kontroler / Kontrolerka Jakości",
+      "company": "GRELA GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074117139,
+      "location": "Chorzów",
+      "isWholePoland": false,
+      "salary": "6 800–12 250 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:11:41.87Z",
+      "expiresAt": "2026-04-08T21:59:59Z",
+      "description": "Twój zakres obowiązków, Potwierdzanie zgodności lub niezgodności wyrobów z zamierzonymi parametrami technicznymi i użytkowymi., Sprawdzanie specyfikacji projektowych, rysunków i raportów w celu zapewnienia zgodności z obowiązującymi wymaganiami...",
+      "url": "https://www.pracuj.pl/praca/kontroler-kontrolerka-jakosci-chorzow,oferta,1004693374",
+      "categories": [
+        {
+          "id": 5024001,
+          "name": "Optymalizacja procesu produkcji",
+          "parentId": 5024,
+          "parentName": "Produkcja"
+        },
+        {
+          "id": 5034001,
+          "name": "Zarządzanie jakością",
+          "parentId": 5034,
+          "parentName": "Kontrola jakości"
+        },
+        {
+          "id": 5034002,
+          "name": "Zapewnienie jakości",
+          "parentId": 5034,
+          "parentName": "Kontrola jakości"
+        }
+      ]
+    },
+    {
+      "id": "1004671645",
+      "title": "Monter instalacji i urządzeń wod-kan / Hydraulik - ogłoszenie dotyczy kobiet i mężczyzn",
+      "company": "Przedsiębiorstwo Portowe \"SIEĆ\" Spółka z o.o.",
+      "companyId": 20010621,
+      "location": "Gdynia, Śródmieście",
+      "isWholePoland": false,
+      "salary": "5 500–7 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:11:30.4Z",
+      "expiresAt": "2026-03-28T22:59:59Z",
+      "description": "Twój zakres obowiązków, montaż rurociągów wodociągowych, montaż sieci kanalizacji sanitarnej i deszczowej...",
+      "url": "https://www.pracuj.pl/praca/monter-instalacji-i-urzadzen-wod-kan-hydraulik-ogloszenie-dotyczy-kobiet-i-mezcz-gdynia-rotterdamska-7,oferta,1004671645",
+      "categories": [
+        {
+          "id": 5005005,
+          "name": "Instalacje",
+          "parentId": 5005,
+          "parentName": "Budownictwo"
+        },
+        {
+          "id": 5022010,
+          "name": "Monterzy / Serwisanci / Elektrycy",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "1004717207",
+      "title": "Adwokat / Radca prawny K/M",
+      "company": "Dudkowiak Putyra sp.k",
+      "companyId": 1074082710,
       "location": "Poznań",
-      "salary": null,
-      "workMode": null,
-      "publishedAt": "Opublikowana: 19 marca 2026",
-      "url": "https://www.pracuj.pl/praca/rejestrator-medyczny-rejestratorka-medyczna-poznan,oferta,1004717005"
+      "isWholePoland": false,
+      "salary": "11 000–20 000 zł netto (+ VAT) / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:11:19.837Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, opracowywanie i realizacja strategii procesowych;, reprezentowanie klientów kancelarii przed sądami powszechnymi i trybunałami arbitrażowymi, w tym w sprawach cywilnych i gospodarczych;, przygotowywanie opinii prawnych,...",
+      "url": "https://www.pracuj.pl/praca/adwokat-radca-prawny-k-m-poznan,oferta,1004717207",
+      "categories": [
+        {
+          "id": 5023001,
+          "name": "Prawnik",
+          "parentId": 5023,
+          "parentName": "Prawo"
+        },
+        {
+          "id": 5023002,
+          "name": "Specjaliści",
+          "parentId": 5023,
+          "parentName": "Prawo"
+        },
+        {
+          "id": 5037002,
+          "name": "Podatki / prawo",
+          "parentId": 5037,
+          "parentName": "Doradztwo / Konsulting"
+        }
+      ]
+    },
+    {
+      "id": "1004717205",
+      "title": "Senior Operations Engineer MRO Aerospace (f/m)",
+      "company": "Woodward Poland Sp. z o.o.",
+      "companyId": 18802356,
+      "location": "Niepołomice",
+      "isWholePoland": false,
+      "salary": "13 000–20 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:11:00.54Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Your responsibilities, Develop and implement lean production processes, Create and maintain process documentation, layouts, time-studies, Initiate continuous improvement activities in order to improve productivity (assembly and test), Support and...",
+      "url": "https://www.pracuj.pl/praca/senior-operations-engineer-mro-aerospace-f-m-niepolomice-skarbowa-32,oferta,1004717205",
+      "categories": [
+        {
+          "id": 5014002,
+          "name": "Electronics / Electrics",
+          "parentId": 5014,
+          "parentName": "Engineering"
+        },
+        {
+          "id": 5014005,
+          "name": "Mechanics",
+          "parentId": 5014,
+          "parentName": "Engineering"
+        },
+        {
+          "id": 5014009,
+          "name": "Aviation",
+          "parentId": 5014,
+          "parentName": "Engineering"
+        }
+      ]
+    },
+    {
+      "id": "1004662073",
+      "title": "Doradca Klienta – Sprzedawca (m/k/x)",
+      "company": "MARCIN POROWSKI 4 TEL",
+      "companyId": 20255627,
+      "location": "Żyrardów",
+      "isWholePoland": false,
+      "salary": "4 806–5 500 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:11:00Z",
+      "expiresAt": "2026-03-24T22:59:59Z",
+      "description": "Twój zakres obowiązków, Aktywna obsługa klienta: Badanie potrzeb klientów i sprzedaż akcesoriów oraz telefonów., Montaż szkieł i folii na ekrany urządzeń naszych klientów., Dbanie o ekspozycję towaru, porządek i dobry wizerunek firmy....",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-sprzedawca-m-k-x-zyrardow,oferta,1004662073",
+      "categories": [
+        {
+          "id": 5028005,
+          "name": "IT / Telekomunikacja",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
+    },
+    {
+      "id": "1004668737",
+      "title": "Osoba do obsługi lady mięsnej",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Wrocław",
+      "isWholePoland": false,
+      "salary": "32,40 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:11:00Z",
+      "expiresAt": "2026-03-27T22:59:59Z",
+      "description": "Twój zakres obowiązków, Obsługa klienta( Bez obsługi kasy fiskalnej), Wykładanie towaru( do lady mięsno - wędliniarskiej), Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy, Kontrola terminów produktów...",
+      "url": "https://www.pracuj.pl/praca/osoba-do-obslugi-lady-miesnej-wroclaw,oferta,1004668737",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
+    },
+    {
+      "id": "1004698966",
+      "title": "Osoba do kompletowania zamówień",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Stobno (pow. policki)",
+      "isWholePoland": false,
+      "salary": "33 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:11:00Z",
+      "expiresAt": "2026-04-10T21:59:59Z",
+      "description": "Twój zakres obowiązków, kompletowanie zamówień według wytycznych, utrzymywanie porządku na stanowisku pracy...",
+      "url": "https://www.pracuj.pl/praca/osoba-do-kompletowania-zamowien-stobno-pow-policki,oferta,1004698966",
+      "categories": [
+        {
+          "id": 5022004,
+          "name": "Pracownicy magazynowi",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        },
+        {
+          "id": 5022012,
+          "name": "Pracownicy produkcji",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "1004657246",
+      "title": "Kierowca - Dostawca",
+      "company": "Your-Solution",
+      "companyId": 1074230263,
+      "location": "Klaudyn (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "salary": "6 000–14 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:10:00.613Z",
+      "expiresAt": "2026-03-21T22:59:59Z",
+      "description": "Twój zakres obowiązków, Dostawa zakupów spożywczych ze sklepu internetowego bezpośrednio do klientów, Profesjonalna obsługa klienta...",
+      "url": "https://www.pracuj.pl/praca/kierowca-dostawca-klaudyn-pow-warszawski-zachodni,oferta,1004657246",
+      "categories": [
+        {
+          "id": 5022008,
+          "name": "Kurierzy / Dostawcy",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "1004657245",
+      "title": "Kierowca - Dostawca",
+      "company": "Your-Solution",
+      "companyId": 1074230263,
+      "location": "Kowale (pow. gdański)",
+      "isWholePoland": false,
+      "salary": "6 000–14 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:10:00.613Z",
+      "expiresAt": "2026-03-21T22:59:59Z",
+      "description": "Twój zakres obowiązków, Dostawa zakupów spożywczych ze sklepu internetowego bezpośrednio do klientów, Profesjonalna obsługa klienta...",
+      "url": "https://www.pracuj.pl/praca/kierowca-dostawca-kowale-pow-gdanski-kominkowa-2,oferta,1004657245",
+      "categories": [
+        {
+          "id": 5022008,
+          "name": "Kurierzy / Dostawcy",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "1004657247",
+      "title": "Kierowca - Dostawca",
+      "company": "Your-Solution",
+      "companyId": 1074230263,
+      "location": "Marysin (pow. piaseczyński)",
+      "isWholePoland": false,
+      "salary": "6 000–14 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:10:00.613Z",
+      "expiresAt": "2026-03-21T22:59:59Z",
+      "description": "Twój zakres obowiązków, Dostawa zakupów spożywczych ze sklepu internetowego bezpośrednio do klientów, Profesjonalna obsługa klienta...",
+      "url": "https://www.pracuj.pl/praca/kierowca-dostawca-marysin-pow-piaseczynski,oferta,1004657247",
+      "categories": [
+        {
+          "id": 5022008,
+          "name": "Kurierzy / Dostawcy",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "11879437",
+      "title": "Pracownik budowlany: Zbrojarz (M/K/N)",
+      "company": "ForManWay",
+      "companyId": 20149426,
+      "location": "Sint-Truiden, Belgia",
+      "isWholePoland": false,
+      "salary": "16 800–21 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:10:00Z",
+      "expiresAt": "2026-04-04T21:59:59Z",
+      "description": "Twój zakres obowiązków, Zadania:, Prace żelbetowe i konstrukcyjne:, wykonywanie i montaż zbrojeń zgodnie z dokumentacją techniczną, przygotowanie oraz montaż szalunków systemowych i tradycyjnych, betonowanie elementów konstrukcyjnych, zagęszczanie...",
+      "url": "https://www.pracuj.pl/praca/pracownik-budowlany-zbrojarz-m-k-n-belgia,oferta,11879437",
+      "categories": [
+        {
+          "id": 5022003,
+          "name": "Pracownicy budowlani",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "1004698955",
+      "title": "Dietetyk – właściciel poradni (k/m)",
+      "company": "Poradnia Effecta Agnieszka Jeżewska",
+      "companyId": 20421193,
+      "location": "Szczecin",
+      "isWholePoland": false,
+      "salary": "5 000–15 000 zł netto (+ VAT) / mies.",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Menedżer / Menedżerka",
+        "Dyrektor / Dyrektorka"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:10:00Z",
+      "expiresAt": "2026-04-10T21:59:59Z",
+      "description": "Twój zakres obowiązków, Skuteczne rozszerzanie liczby swoich podopiecznych., Przygotowanie zaleceń odpowiednich dla potrzeb klienta., Prowadzenie wizyt według ustalonego standardu., Profesjonalne szkolenia i rozwój: Weźmiesz udział w szkoleniach...",
+      "url": "https://www.pracuj.pl/praca/dietetyk-wlasciciel-poradni-k-m-szczecin,oferta,1004698955",
+      "categories": [
+        {
+          "id": 5035002,
+          "name": "Inne",
+          "parentId": 5035,
+          "parentName": "Zdrowie / Uroda / Rekreacja"
+        }
+      ]
+    },
+    {
+      "id": "1004701737",
+      "title": "Asystent / Asystentka Obsługi Biura Centrum Usług",
+      "company": "Comp S.A.",
+      "companyId": 11589634,
+      "location": "Warszawa",
+      "isWholePoland": false,
+      "salary": "5 000–6 500 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Asystent / Asystentka",
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:10:00Z",
+      "expiresAt": "2026-04-11T21:59:59Z",
+      "description": "Twój zakres obowiązków, Obsługa i ewidencja dokumentów oraz korespondencji zewnętrznej i wewnętrznej w systemie EOD (Elektroniczny Obieg Dokumentów),, Obsługa archiwum dokumentów Centrum Usług (zarządzanie obiegiem i archiwizacją dokumentów w...",
+      "url": "https://www.pracuj.pl/praca/asystent-asystentka-obslugi-biura-centrum-uslug-warszawa,oferta,1004701737",
+      "categories": [
+        {
+          "id": 5001001,
+          "name": "Sekretariat / Recepcja",
+          "parentId": 5001,
+          "parentName": "Administracja biurowa"
+        },
+        {
+          "id": 5001002,
+          "name": "Stanowiska asystenckie",
+          "parentId": 5001,
+          "parentName": "Administracja biurowa"
+        },
+        {
+          "id": 5001005,
+          "name": "Wsparcie administracyjne",
+          "parentId": 5001,
+          "parentName": "Administracja biurowa"
+        }
+      ]
+    },
+    {
+      "id": "1004717198",
+      "title": "Starszy Konstruktor (m/k)",
+      "company": "ADRIATICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166417,
+      "location": "Ełk",
+      "isWholePoland": false,
+      "salary": "7 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:59.837Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Opracowywanie konstrukcji tapicerek w programie Rhinoceros na podstawie dostarczonych modeli 3d przez naszych klientów., Konstruowanie elementów wyposażenia tapicerskiego (materace, sklejki, stelaże, pianki, pokrowce itd.),...",
+      "url": "https://www.pracuj.pl/praca/starszy-konstruktor-m-k-elk,oferta,1004717198",
+      "categories": [
+        {
+          "id": 5014010,
+          "name": "Projektowanie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5014011,
+          "name": "Konstrukcja / Technologie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        }
+      ]
+    },
+    {
+      "id": "1004717199",
+      "title": "Starszy Konstruktor (m/k)",
+      "company": "ADRIATICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166417,
+      "location": "Giżycko",
+      "isWholePoland": false,
+      "salary": "7 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:59.837Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Opracowywanie konstrukcji tapicerek w programie Rhinoceros na podstawie dostarczonych modeli 3d przez naszych klientów., Konstruowanie elementów wyposażenia tapicerskiego (materace, sklejki, stelaże, pianki, pokrowce itd.),...",
+      "url": "https://www.pracuj.pl/praca/starszy-konstruktor-m-k-gizycko,oferta,1004717199",
+      "categories": [
+        {
+          "id": 5014010,
+          "name": "Projektowanie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5014011,
+          "name": "Konstrukcja / Technologie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        }
+      ]
+    },
+    {
+      "id": "1004717200",
+      "title": "Starszy Konstruktor (m/k)",
+      "company": "ADRIATICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166417,
+      "location": "Gołdap",
+      "isWholePoland": false,
+      "salary": "7 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:59.837Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Opracowywanie konstrukcji tapicerek w programie Rhinoceros na podstawie dostarczonych modeli 3d przez naszych klientów., Konstruowanie elementów wyposażenia tapicerskiego (materace, sklejki, stelaże, pianki, pokrowce itd.),...",
+      "url": "https://www.pracuj.pl/praca/starszy-konstruktor-m-k-goldap,oferta,1004717200",
+      "categories": [
+        {
+          "id": 5014010,
+          "name": "Projektowanie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5014011,
+          "name": "Konstrukcja / Technologie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        }
+      ]
+    },
+    {
+      "id": "1004717197",
+      "title": "Starszy Konstruktor (m/k)",
+      "company": "ADRIATICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166417,
+      "location": "Olecko",
+      "isWholePoland": false,
+      "salary": "7 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:59.837Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Opracowywanie konstrukcji tapicerek w programie Rhinoceros na podstawie dostarczonych modeli 3d przez naszych klientów., Konstruowanie elementów wyposażenia tapicerskiego (materace, sklejki, stelaże, pianki, pokrowce itd.),...",
+      "url": "https://www.pracuj.pl/praca/starszy-konstruktor-m-k-olecko-przemyslowa-6,oferta,1004717197",
+      "categories": [
+        {
+          "id": 5014010,
+          "name": "Projektowanie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5014011,
+          "name": "Konstrukcja / Technologie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        }
+      ]
+    },
+    {
+      "id": "1004717201",
+      "title": "Starszy Konstruktor (m/k)",
+      "company": "ADRIATICA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074166417,
+      "location": "Suwałki",
+      "isWholePoland": false,
+      "salary": "7 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:59.837Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Opracowywanie konstrukcji tapicerek w programie Rhinoceros na podstawie dostarczonych modeli 3d przez naszych klientów., Konstruowanie elementów wyposażenia tapicerskiego (materace, sklejki, stelaże, pianki, pokrowce itd.),...",
+      "url": "https://www.pracuj.pl/praca/starszy-konstruktor-m-k-suwalki,oferta,1004717201",
+      "categories": [
+        {
+          "id": 5014010,
+          "name": "Projektowanie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5014011,
+          "name": "Konstrukcja / Technologie",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        }
+      ]
+    },
+    {
+      "id": "1004671638",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "companyId": 20174691,
+      "location": "Inowrocław",
+      "isWholePoland": false,
+      "salary": "34–65 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:40.353Z",
+      "expiresAt": "2026-03-28T22:59:59Z",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-inowroclaw,oferta,1004671638",
+      "categories": [
+        {
+          "id": 5028011,
+          "name": "Usługi profesjonalne",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
+    },
+    {
+      "id": "1004717195",
+      "title": "DevOps",
+      "company": "eLeader Sp. z o.o.",
+      "companyId": 20069699,
+      "location": "Lublin",
+      "isWholePoland": false,
+      "salary": "10 000–19 320 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:09:05.53Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, współpraca z zespołami developerskimi przy projektowaniu, wdrażaniu i utrzymaniu rozwiązań infrastrukturalnych,, projektowanie, rozwój i utrzymanie procesów CI/CD oraz automatyzacja deploymentu aplikacji,, zarządzanie i...",
+      "url": "https://www.pracuj.pl/praca/devops-lublin-naleczowska-16,oferta,1004717195",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5016002,
+          "name": "Architektura",
+          "parentId": 5016,
+          "parentName": "IT - Rozwój oprogramowania"
+        }
+      ]
+    },
+    {
+      "id": "1004693363",
+      "title": "Recepcjonista / Recepcjonistka",
+      "company": "Polski Holding Hotelowy sp. z o.o.",
+      "companyId": 3979066,
+      "location": "Warszawa, Włochy",
+      "isWholePoland": false,
+      "salary": "4 806–5 376 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:09:00Z",
+      "expiresAt": "2026-04-08T21:59:59Z",
+      "description": "Twój zakres obowiązków, Obsługa gości hotelowych zgodnie z obowiązującymi standardami., Realizacja procesu zameldowania i wymeldowania gości., Udzielanie informacji o ofercie hotelu oraz usługach dodatkowych., Przyjmowanie i realizacja rezerwacji...",
+      "url": "https://www.pracuj.pl/praca/recepcjonista-recepcjonistka-warszawa-zwirki-i-wigury-1h,oferta,1004693363",
+      "categories": [
+        {
+          "id": 5001001,
+          "name": "Sekretariat / Recepcja",
+          "parentId": 5001,
+          "parentName": "Administracja biurowa"
+        },
+        {
+          "id": 5010001,
+          "name": "Hotelarstwo",
+          "parentId": 5010,
+          "parentName": "Hotelarstwo / Gastronomia / Turystyka"
+        }
+      ]
+    },
+    {
+      "id": "1004717194",
+      "title": "Barber / Barberka z doświadczeniem",
+      "company": "GENTLEMAN BARBER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074101218,
+      "location": "Rzeszów",
+      "isWholePoland": false,
+      "salary": "4 000–10 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:08:58.163Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wykonywanie profesjonalnych strzyżeń włosów oraz brody, golenie brzytwą, wykonywanie coveru, depilacja woskiem, Profesjonalna obsługa klientów w barbershopie, Budowanie relacji z klientami, Utrzymanie wysokich standardów...",
+      "url": "https://www.pracuj.pl/praca/barber-barberka-z-doswiadczeniem-rzeszow-architektow-9,oferta,1004717194",
+      "categories": [
+        {
+          "id": 5022013,
+          "name": "Fryzjer / Kosmetyczka",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        },
+        {
+          "id": 5035002,
+          "name": "Inne",
+          "parentId": 5035,
+          "parentName": "Zdrowie / Uroda / Rekreacja"
+        },
+        {
+          "id": 5035003,
+          "name": "Kosmetyka / Fryzjerstwo",
+          "parentId": 5035,
+          "parentName": "Zdrowie / Uroda / Rekreacja"
+        }
+      ]
+    },
+    {
+      "id": "1004717192",
+      "title": "Starsza Księgowa / Starszy Księgowy - Biuro dewelopera",
+      "company": "Nowa Deweloper sp. z o.o.",
+      "companyId": 1074069469,
+      "location": "Częstochowa",
+      "isWholePoland": false,
+      "salary": "9 000–15 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:08:27.417Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, kontrola formalno-prawna, merytoryczna i rachunkowa dokumentów księgowych, księgowanie faktur zakupu, faktur sprzedaży, wyciągów bankowych i kasowych, prowadzenie księgi inwentarzowej, przygotowanie danych do deklaracji VAT...",
+      "url": "https://www.pracuj.pl/praca/starsza-ksiegowa-starszy-ksiegowy-biuro-dewelopera-czestochowa,oferta,1004717192",
+      "categories": [
+        {
+          "id": 5008002,
+          "name": "Doradztwo / Konsulting",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        },
+        {
+          "id": 5008004,
+          "name": "Kontroling",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        },
+        {
+          "id": 5008005,
+          "name": "Księgowość",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        }
+      ]
+    },
+    {
+      "id": "1004684241",
+      "title": "Specjalista / Specjalistka ds. Kadr i Płac",
+      "company": "Grupa POL-TAX",
+      "companyId": 20186713,
+      "location": "Warszawa, Praga-Południe",
+      "isWholePoland": false,
+      "salary": "10 000–15 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:08:03.627Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Kompleksowa obsługa kadrowa pracowników oraz współpracowników (umowy  o pracę, umowy cywilnoprawne, aneksy, świadectwa pracy) oraz dbałość o zgodność z RODO., Samodzielne naliczanie wynagrodzeń, sporządzanie list płac oraz...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-kadr-i-plac-warszawa-marii-rodziewiczowny-1,oferta,1004684241",
+      "categories": [
+        {
+          "id": 5001005,
+          "name": "Wsparcie administracyjne",
+          "parentId": 5001,
+          "parentName": "Administracja biurowa"
+        },
+        {
+          "id": 5008001,
+          "name": "Audyt / Podatki",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        },
+        {
+          "id": 5011002,
+          "name": "Kadry / Wynagrodzenia",
+          "parentId": 5011,
+          "parentName": "Human Resources / Zasoby ludzkie"
+        }
+      ]
+    },
+    {
+      "id": "1004701724",
+      "title": "Specjalistka/Specjalista ds. ochrony danych",
+      "company": "Currenda Sp. z o. o.",
+      "companyId": 20063767,
+      "location": "Sopot",
+      "isWholePoland": false,
+      "salary": "5 000–10 300 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:08:00Z",
+      "expiresAt": "2026-04-11T21:59:59Z",
+      "description": "Twój zakres obowiązków, Monitorowanie i kontrolowanie przestrzegania zasad ochrony danych osobowych w Spółce,, Realizacja praw podmiotów danych oraz obsługa incydentów bezpieczeństwa i naruszeń ochrony danych osobowych,, Realizowanie czynności...",
+      "url": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-ochrony-danych-sopot-aleja-niepodleglosci-703a,oferta,1004701724",
+      "categories": [
+        {
+          "id": 5015004,
+          "name": "Bezpieczeństwo / Audyt",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5023001,
+          "name": "Prawnik",
+          "parentId": 5023,
+          "parentName": "Prawo"
+        },
+        {
+          "id": 5023002,
+          "name": "Specjaliści",
+          "parentId": 5023,
+          "parentName": "Prawo"
+        }
+      ]
+    },
+    {
+      "id": "1004660049",
+      "title": "D365 / Power Platform Developer (Mid/Senior)",
+      "company": "B2B.NET S.A.",
+      "companyId": 20424689,
+      "location": "Warszawa",
+      "isWholePoland": true,
+      "salary": "120–150 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:07:23.017Z",
+      "expiresAt": "2026-03-22T22:59:59Z",
+      "description": "Twój zakres obowiązków, Rozwój i konfiguracja rozwiązań w Microsoft Dynamics 365 Sales Enterprise, Tworzenie i rozwój aplikacji w Power Apps (model-driven, canvas), Implementacja oraz utrzymanie procesów w Power Automate (flow integracyjne,...",
+      "url": "https://www.pracuj.pl/praca/d365-power-platform-developer-mid-senior-warszawa,oferta,1004660049",
+      "categories": [
+        {
+          "id": 5016002,
+          "name": "Architektura",
+          "parentId": 5016,
+          "parentName": "IT - Rozwój oprogramowania"
+        },
+        {
+          "id": 5016003,
+          "name": "Programowanie",
+          "parentId": 5016,
+          "parentName": "IT - Rozwój oprogramowania"
+        }
+      ]
+    },
+    {
+      "id": "1004668719",
+      "title": "Osoba do obsługi działu mięsnego",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Borkowo (pow. gdański)",
+      "isWholePoland": false,
+      "salary": "32,40 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:07:00Z",
+      "expiresAt": "2026-03-27T22:59:59Z",
+      "description": "Twój zakres obowiązków, wykładanie towaru, zapewnienie odpowiedniej ekspozycji towarów, obsługa klienta, utrzymanie czystości na dziale...",
+      "url": "https://www.pracuj.pl/praca/osoba-do-obslugi-dzialu-miesnego-borkowo-pow-gdanski,oferta,1004668719",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
+    },
+    {
+      "id": "1004684237",
+      "title": "Specjalista/ka ds. Windykacji i Negocjacji",
+      "company": "Kancelaria Prawa Gospodarczego PFW Sp. z o.o.",
+      "companyId": 20201618,
+      "location": "Wrocław, Psie Pole",
+      "isWholePoland": false,
+      "salary": "5 300–8 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:07:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, prowadzenie windykacji i negocjacji warunków spłaty zobowiązań dla Klientów z sektora B2B i B2C, koordynacja działań w obszarze realizowanych projektów z obszaru zarządzania wierzytelnościami na wszystkich etapach...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ka-ds-windykacji-i-negocjacji-wroclaw-zmigrodzka-83,oferta,1004684237",
+      "categories": [
+        {
+          "id": 5021003,
+          "name": "Finanse / Bankowość / Ubezpieczenia",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5021010,
+          "name": "Usługi profesjonalne",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5023003,
+          "name": "Windykacja",
+          "parentId": 5023,
+          "parentName": "Prawo"
+        }
+      ]
+    },
+    {
+      "id": "1004698951",
+      "title": "Sprzedawca/Sprzedawczyni",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Drelów (pow. bialski)",
+      "isWholePoland": false,
+      "salary": "31,40 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:07:00Z",
+      "expiresAt": "2026-04-10T21:59:59Z",
+      "description": "Twój zakres obowiązków, obsługa klienta, obsługa kasy fiskalnej i terminala, kontrola terminów produktów spożywczych, wykładanie towaru, zapewnienie porządku na stanowisku pracy, zapewnienie odpowiedniej ekspozycji towaru...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-drelow-pow-bialski,oferta,1004698951",
+      "categories": [
+        {
+          "id": 5021006,
+          "name": "Sprzedawcy",
+          "parentId": 5021,
+          "parentName": "Obsługa klienta"
+        },
+        {
+          "id": 5028013,
+          "name": "Sieci handlowe",
+          "parentId": 5028,
+          "parentName": "Sprzedaż"
+        }
+      ]
+    },
+    {
+      "id": "1004704484",
+      "title": "Monter/ Monterka Serwisu",
+      "company": "Job Impulse Polska Sp. z o.o.",
+      "companyId": 18801120,
+      "location": "Pietrzykowice (pow. wrocławski; gm. Kąty Wrocławskie)",
+      "isWholePoland": false,
+      "salary": "5 200 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:06:00Z",
+      "expiresAt": "2026-04-12T21:59:59Z",
+      "description": "Twój zakres obowiązków, Naprawa drukarek,, Diagnozowanie, kwalifikacja sprzętu elektronicznego i elektrotechnicznego (duża różnorodność),, Rozwiązywanie problemów technicznych., Obsługa komputera....",
+      "url": "https://www.pracuj.pl/praca/monter-monterka-serwisu-pietrzykowice-pow-wroclawski-gm-katy-wroclawskie,oferta,1004704484",
+      "categories": [
+        {
+          "id": 5022009,
+          "name": "Mechanicy / Blacharze / Lakiernicy",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        },
+        {
+          "id": 5022010,
+          "name": "Monterzy / Serwisanci / Elektrycy",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        }
+      ]
+    },
+    {
+      "id": "1004634127",
+      "title": "Lider zespołu utrzymania ruchu (m/f/x)",
+      "company": "FORTNA Europe B.V.",
+      "companyId": 1074219729,
+      "location": "Robakowo (pow. poznański)",
+      "isWholePoland": true,
+      "salary": "10 000–15 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:05:18.293Z",
+      "expiresAt": "2026-03-26T22:59:59Z",
+      "description": "Twój zakres obowiązków, Jako Lider Zespołu Utrzymania Ruchu będziesz pełnić kluczową rolę w organizacji pracy zespołu technicznego odpowiedzialnego za utrzymanie zautomatyzowanego sprzętu przeładunkowego (MHE) w nowoczesnym centrum logistycznym....",
+      "url": "https://www.pracuj.pl/praca/lider-zespolu-utrzymania-ruchu-m-f-x-robakowo-pow-poznanski-szkolna-98,oferta,1004634127",
+      "categories": [
+        {
+          "id": 5014001,
+          "name": "Automatyka",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5014002,
+          "name": "Elektronika / Elektryka",
+          "parentId": 5014,
+          "parentName": "Inżynieria"
+        },
+        {
+          "id": 5024003,
+          "name": "Utrzymanie ruchu",
+          "parentId": 5024,
+          "parentName": "Produkcja"
+        }
+      ]
+    },
+    {
+      "id": "1004717184",
+      "title": "Samodzielny księgowy / Samodzielna księgowa",
+      "company": "KANCELARIA DORADZTWA PODATKOWEGO REMBIAŁKOWSKI SP. Z O.O.",
+      "companyId": 20184770,
+      "location": "Sopot",
+      "isWholePoland": true,
+      "salary": "10 000–11 000 zł netto (+ VAT) / mies.",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:04:43.357Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, prowadzenie księgowości, sporządzanie deklaracji, rozliczanie podatku VAT, rozliczanie bankowe - dekretacja, rozliczanie rozrachunków - preliminarz płatności, rozliczanie raportu kasowego, wyliczanie podatku dochodowego i...",
+      "url": "https://www.pracuj.pl/praca/samodzielny-ksiegowy-samodzielna-ksiegowa-sopot-3-maja-33,oferta,1004717184",
+      "categories": [
+        {
+          "id": 5008001,
+          "name": "Audyt / Podatki",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        },
+        {
+          "id": 5008002,
+          "name": "Doradztwo / Konsulting",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        },
+        {
+          "id": 5008005,
+          "name": "Księgowość",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        }
+      ]
+    },
+    {
+      "id": "1004717183",
+      "title": "Project Manager (K/M)",
+      "company": "BCF Software Sp. z o.o.",
+      "companyId": 20261550,
+      "location": "Płock",
+      "isWholePoland": true,
+      "salary": "90 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:04:35.247Z",
+      "expiresAt": "2026-04-18T21:59:59Z",
+      "description": "Twój zakres obowiązków, Zarządzanie cyklem życia projektów IT: kompleksowe planowanie prac, nadzór nad harmonogramem oraz wdrażanie standardów zarządzania projektami (zgodnie z PMBOK)., Nadzór nad architekturą i jakością: walidacja techniczna...",
+      "url": "https://www.pracuj.pl/praca/project-manager-k-m-plock,oferta,1004717183",
+      "categories": [
+        {
+          "id": 5016005,
+          "name": "Zarządzanie projektem/produktem",
+          "parentId": 5016,
+          "parentName": "IT - Rozwój oprogramowania"
+        }
+      ]
+    },
+    {
+      "id": "1004674177",
+      "title": "Pielęgniarka koordynująca / Pielęgniarz koordynujący",
+      "company": "115 SZPITAL WOJSKOWY Z PRZYCHODNIĄ SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ W HELU",
+      "companyId": 1074230970,
+      "location": "Hel",
+      "isWholePoland": false,
+      "salary": "10 600–12 720 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:04:29.75Z",
+      "expiresAt": "2026-03-29T21:59:59Z",
+      "description": "Twój zakres obowiązków, planowanie obsad dla kompleksowej całodobowej opieki pielęgniarskiej na oddziale,, wdrażanie nowych pracowników,, ocenianie pracy podległego zespołu,, monitorowanie przebiegu opieki nad pacjentem,, zapewnienie ciągłości...",
+      "url": "https://www.pracuj.pl/praca/pielegniarka-koordynujaca-pielegniarz-koordynujacy-hel-boczna-10,oferta,1004674177",
+      "categories": [
+        {
+          "id": 5035004,
+          "name": "Lekarze / Opieka medyczna",
+          "parentId": 5035,
+          "parentName": "Zdrowie / Uroda / Rekreacja"
+        }
+      ]
+    },
+    {
+      "id": "1004674176",
+      "title": "Operator Wypalarki Plazmowej (m/k)",
+      "company": "FABRYKA NOTEĆ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074198045,
+      "location": "Pakość",
+      "isWholePoland": false,
+      "salary": "5 000–6 700 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:04:20.597Z",
+      "expiresAt": "2026-03-29T21:59:59Z",
+      "description": "Twój zakres obowiązków, Umiejętności obsługi wypalarki plazmowej CNC. (Zapewniamy szkolenie wdrożeniowe z obsługi maszyny), Znajomość rysunku technicznego., Umiejętności posługiwania się miarą suwmiarką....",
+      "url": "https://www.pracuj.pl/praca/operator-wypalarki-plazmowej-m-k-pakosc,oferta,1004674176",
+      "categories": [
+        {
+          "id": 5022012,
+          "name": "Pracownicy produkcji",
+          "parentId": 5022,
+          "parentName": "Praca fizyczna"
+        },
+        {
+          "id": 5024001,
+          "name": "Optymalizacja procesu produkcji",
+          "parentId": 5024,
+          "parentName": "Produkcja"
+        },
+        {
+          "id": 5024002,
+          "name": "Pracownicy produkcyjni",
+          "parentId": 5024,
+          "parentName": "Produkcja"
+        }
+      ]
+    },
+    {
+      "id": "1004684207",
+      "title": "IT Project Manager",
+      "company": "FORCOM Sp. z o.o.",
+      "companyId": 18797771,
+      "location": "Poznań, Jeżyce",
+      "isWholePoland": false,
+      "salary": "9 500–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:04:19.077Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, opieka nad całym cyklem życia projektów, prowadzenie kilku projektów jednocześnie, prowadzenie spotkań z klientami zarówno samodzielne jak i z udziałem zespołu projektowego, nadzorowanie komunikacji z klientami,...",
+      "url": "https://www.pracuj.pl/praca/it-project-manager-poznan-gajowa-6,oferta,1004684207",
+      "categories": [
+        {
+          "id": 5016005,
+          "name": "Zarządzanie projektem/produktem",
+          "parentId": 5016,
+          "parentName": "IT - Rozwój oprogramowania"
+        }
+      ]
+    },
+    {
+      "id": "1004684205",
+      "title": "Młodszy księgowy / Młodsza księgowa w biurze rachunkowym",
+      "company": "WARSZAWSKIE CENTRUM DORADZTWA FINANSOWEGO I sp. z o.o.",
+      "companyId": 1074070327,
+      "location": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "salary": "5 000–8 500 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-03-19T11:04:05.697Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, W naszym zespole będziesz zajmował(a) się:, - prowadzeniem pełnych ksiąg rachunkowych spółki/spółek pod nadzorem Głównych Księgowych,, - weryfikacją dokumentów pod kątem merytorycznym i podatkowym,, - przygotowywaniem...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-ksiegowy-mlodsza-ksiegowa-w-biurze-rachunkowym-warszawa-nowy-swiat-35,oferta,1004684205",
+      "categories": [
+        {
+          "id": 5008005,
+          "name": "Księgowość",
+          "parentId": 5008,
+          "parentName": "Finanse / Ekonomia"
+        }
+      ]
+    },
+    {
+      "id": "1004684223",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Białystok",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-bialystok,oferta,1004684223",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684222",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Bydgoszcz",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-bydgoszcz,oferta,1004684222",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684221",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Gdańsk",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-gdansk,oferta,1004684221",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684220",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Gorzów Wielkopolski",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-gorzow-wielkopolski,oferta,1004684220",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684219",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Katowice",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-katowice,oferta,1004684219",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684218",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Kielce",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-kielce,oferta,1004684218",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684217",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Kraków",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-krakow,oferta,1004684217",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684216",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Lublin",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-lublin,oferta,1004684216",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684215",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Łódź",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-lodz,oferta,1004684215",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684214",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Olsztyn",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-olsztyn,oferta,1004684214",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684213",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Opole",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-opole,oferta,1004684213",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684212",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Poznań",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-poznan,oferta,1004684212",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684211",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Rzeszów",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-rzeszow,oferta,1004684211",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684210",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Szczecin",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-szczecin,oferta,1004684210",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684209",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Warszawa",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-warszawa,oferta,1004684209",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
+    },
+    {
+      "id": "1004684208",
+      "title": "IT Specialist",
+      "company": "Meritoros SA",
+      "companyId": 20070455,
+      "location": "Wrocław",
+      "isWholePoland": false,
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-03-19T11:04:00Z",
+      "expiresAt": "2026-04-03T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wsparcie systemów ERP:, Administracja techniczna i konfiguracja systemu Comarch Optima (Handel, Księgowość, Kadry i Płace, HRM, BPM, itp.), Wsparcie techniczne i merytoryczne dla istniejących systemów ERP używanych w...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-wroclaw,oferta,1004684208",
+      "categories": [
+        {
+          "id": 5015002,
+          "name": "Administrowanie sieciami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015003,
+          "name": "Administrowanie systemami",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        },
+        {
+          "id": 5015006,
+          "name": "Wsparcie techniczne / Helpdesk",
+          "parentId": 5015,
+          "parentName": "IT - Administracja"
+        }
+      ]
     }
   ]
 }
