@@ -101,9 +101,9 @@ var Game = {  // a modified version of the game loop from my previous boulderdas
 
   run: function(options) {
 
-    Game.loadImages(options.images, function(images) {
+    Game.loadSprites(function() {
 
-      options.ready(images); // tell caller to initialize itself because images are loaded and we're ready to rumble
+      options.ready(); // tell caller to initialize itself because images are loaded and we're ready to rumble
 
       Game.setKeyListener(options.keys);
 
@@ -151,6 +151,37 @@ var Game = {  // a modified version of the game loop from my previous boulderdas
       result[n] = document.createElement('img');
       Dom.on(result[n], 'load', onload);
       result[n].src = "images/" + name + ".png";
+    }
+  },
+
+  //---------------------------------------------------------------------------
+
+  loadSprites: function(callback) { // load all individual sprite and background images into SPRITES/BACKGROUND objects
+    var entries = [];
+
+    // collect all SPRITES entries
+    for (var key in SPRITES) {
+      if (SPRITES[key] && SPRITES[key].file)
+        entries.push(SPRITES[key]);
+    }
+    // collect all BACKGROUND entries
+    for (var bkey in BACKGROUND) {
+      if (BACKGROUND[bkey] && BACKGROUND[bkey].file)
+        entries.push(BACKGROUND[bkey]);
+    }
+
+    var count = entries.length;
+    if (count === 0) { callback(); return; }
+
+    var onload = function() {
+      if (--count === 0) callback();
+    };
+
+    for (var i = 0; i < entries.length; i++) {
+      var entry = entries[i];
+      entry.img = document.createElement('img');
+      Dom.on(entry.img, 'load', onload);
+      entry.img.src = "images/" + entry.file + ".png";
     }
   },
 
@@ -274,19 +305,20 @@ var Render = {
     var imageW = layer.w/2;
     var imageH = layer.h;
 
-    var sourceX = layer.x + Math.floor(layer.w * rotation);
-    var sourceY = layer.y
-    var sourceW = Math.min(imageW, layer.x+layer.w-sourceX);
+    var sourceX = Math.floor(layer.w * rotation);
+    var sourceY = 0;
+    var sourceW = Math.min(imageW, layer.w-sourceX);
     var sourceH = imageH;
-    
+
     var destX = 0;
     var destY = offset;
     var destW = Math.floor(width * (sourceW/imageW));
     var destH = height;
 
-    ctx.drawImage(background, sourceX, sourceY, sourceW, sourceH, destX, destY, destW, destH);
+    var img = layer.img;
+    ctx.drawImage(img, sourceX, sourceY, sourceW, sourceH, destX, destY, destW, destH);
     if (sourceW < imageW)
-      ctx.drawImage(background, layer.x, sourceY, imageW-sourceW, sourceH, destW-1, destY, width-destW, destH);
+      ctx.drawImage(img, 0, sourceY, imageW-sourceW, sourceH, destW-1, destY, width-destW, destH);
   },
 
   //---------------------------------------------------------------------------
@@ -301,8 +333,11 @@ var Render = {
     destY = destY + (destH * (offsetY || 0));
 
     var clipH = clipY ? Math.max(0, destY+destH-clipY) : 0;
-    if (clipH < destH)
-      ctx.drawImage(sprites, sprite.x, sprite.y, sprite.w, sprite.h - (sprite.h*clipH/destH), destX, destY, destW, destH - clipH);
+    if (clipH < destH) {
+      var srcW = sprite.img.naturalWidth;
+      var srcH = sprite.img.naturalHeight;
+      ctx.drawImage(sprite.img, 0, 0, srcW, srcH - (srcH*clipH/destH), destX, destY, destW, destH - clipH);
+    }
 
   },
 
@@ -364,51 +399,52 @@ var COLORS = {
 };
 
 var BACKGROUND = {
-  HILLS: { x:   5, y:   5, w: 1280, h: 480 },
-  SKY:   { x:   5, y: 495, w: 1280, h: 480 },
-  TREES: { x:   5, y: 985, w: 1280, h: 480 }
+  HILLS: { file: 'background/hills', w: 1280, h: 480 },
+  SKY:   { file: 'background/sky',   w: 1280, h: 480 },
+  TREES: { file: 'background/trees', w: 1280, h: 480 }
 };
 
 var SPRITES = {
-  PALM_TREE:              { x:    5, y:    5, w:  215, h:  540 },
-  BILLBOARD08:            { x:  230, y:    5, w:  385, h:  265 },
-  TREE1:                  { x:  625, y:    5, w:  360, h:  360 },
-  DEAD_TREE1:             { x:    5, y:  555, w:  135, h:  332 },
-  BILLBOARD09:            { x:  150, y:  555, w:  328, h:  282 },
-  BOULDER3:               { x:  230, y:  280, w:  320, h:  220 },
-  COLUMN:                 { x:  995, y:    5, w:  200, h:  315 },
-  BILLBOARD01:            { x:  625, y:  375, w:  300, h:  170 },
-  BILLBOARD06:            { x:  488, y:  555, w:  298, h:  190 },
-  BILLBOARD05:            { x:    5, y:  897, w:  298, h:  190 },
-  BILLBOARD07:            { x:  313, y:  897, w:  298, h:  190 },
-  BOULDER2:               { x:  621, y:  897, w:  298, h:  140 },
-  TREE2:                  { x: 1205, y:    5, w:  282, h:  295 },
-  BILLBOARD04:            { x: 1205, y:  310, w:  268, h:  170 },
-  DEAD_TREE2:             { x: 1205, y:  490, w:  150, h:  260 },
-  BOULDER1:               { x: 1205, y:  760, w:  168, h:  248 },
-  BUSH1:                  { x:    5, y: 1097, w:  240, h:  155 },
-  CACTUS:                 { x:  929, y:  897, w:  235, h:  118 },
-  BUSH2:                  { x:  255, y: 1097, w:  232, h:  152 },
-  BILLBOARD03:            { x:    5, y: 1262, w:  230, h:  220 },
-  BILLBOARD02:            { x:  245, y: 1262, w:  215, h:  220 },
-  STUMP:                  { x:  995, y:  330, w:  195, h:  140 },
-  SEMI:                   { x: 1365, y:  490, w:  122, h:  144 },
-  TRUCK:                  { x: 1365, y:  644, w:  100, h:   78 },
-  CAR03:                  { x: 1383, y:  760, w:   88, h:   55 },
-  CAR02:                  { x: 1383, y:  825, w:   80, h:   59 },
-  CAR04:                  { x: 1383, y:  894, w:   80, h:   57 },
-  CAR01:                  { x: 1205, y: 1018, w:   80, h:   56 },
-  PLAYER_UPHILL_LEFT:     { x: 1383, y:  961, w:   80, h:   45 },
-  PLAYER_UPHILL_STRAIGHT: { x: 1295, y: 1018, w:   80, h:   45 },
-  PLAYER_UPHILL_RIGHT:    { x: 1385, y: 1018, w:   80, h:   45 },
-  PLAYER_LEFT:            { x:  995, y:  480, w:   80, h:   41 },
-  PLAYER_STRAIGHT:        { x: 1085, y:  480, w:   80, h:   41 },
-  PLAYER_RIGHT:           { x:  995, y:  531, w:   80, h:   41 }
+  PALM_TREE:              { file: 'sprites/palm_tree',              w:  215, h:  540 },
+  BILLBOARD08:            { file: 'sprites/billboard08',            w:  385, h:  265 },
+  TREE1:                  { file: 'sprites/tree1',                  w:  360, h:  360 },
+  DEAD_TREE1:             { file: 'sprites/dead_tree1',             w:  135, h:  332 },
+  BILLBOARD09:            { file: 'sprites/billboard09',            w:  328, h:  282 },
+  BOULDER3:               { file: 'sprites/boulder3',               w:  320, h:  220 },
+  COLUMN:                 { file: 'sprites/column',                 w:  200, h:  315 },
+  BILLBOARD01:            { file: 'sprites/billboard01',            w:  300, h:  170 },
+  BILLBOARD06:            { file: 'sprites/billboard06',            w:  298, h:  190 },
+  BILLBOARD05:            { file: 'sprites/billboard05',            w:  298, h:  190 },
+  BILLBOARD07:            { file: 'sprites/billboard07',            w:  298, h:  190 },
+  BOULDER2:               { file: 'sprites/boulder2',               w:  298, h:  140 },
+  TREE2:                  { file: 'sprites/tree2',                  w:  282, h:  295 },
+  BILLBOARD04:            { file: 'sprites/billboard04',            w:  268, h:  170 },
+  DEAD_TREE2:             { file: 'sprites/dead_tree2',             w:  150, h:  260 },
+  BOULDER1:               { file: 'sprites/boulder1',               w:  168, h:  248 },
+  BUSH1:                  { file: 'sprites/bush1',                  w:  240, h:  155 },
+  CACTUS:                 { file: 'sprites/cactus',                 w:  235, h:  118 },
+  BUSH2:                  { file: 'sprites/bush2',                  w:  232, h:  152 },
+  BILLBOARD03:            { file: 'sprites/billboard03',            w:  230, h:  220 },
+  BILLBOARD02:            { file: 'sprites/billboard02',            w:  215, h:  220 },
+  STUMP:                  { file: 'sprites/stump',                  w:  195, h:  140 },
+  SEMI:                   { file: 'sprites/semi',                   w:  122, h:  144 },
+  TRUCK:                  { file: 'sprites/truck',                  w:  100, h:   78 },
+  CAR03:                  { file: 'sprites/car03',                  w:   88, h:   55 },
+  CAR02:                  { file: 'sprites/car02',                  w:   80, h:   59 },
+  CAR04:                  { file: 'sprites/car04',                  w:   80, h:   57 },
+  CAR01:                  { file: 'sprites/car01',                  w:   80, h:   56 },
+  CAR05:                  { file: 'sprites/car05',                  w:   80, h:   70 },
+  PLAYER_UPHILL_LEFT:     { file: 'sprites/player_uphill_left',     w:   80, h:   45 },
+  PLAYER_UPHILL_STRAIGHT: { file: 'sprites/player_uphill_straight', w:   80, h:   45 },
+  PLAYER_UPHILL_RIGHT:    { file: 'sprites/player_uphill_right',    w:   80, h:   45 },
+  PLAYER_LEFT:            { file: 'sprites/player_left',            w:   80, h:   41 },
+  PLAYER_STRAIGHT:        { file: 'sprites/player_straight',        w:   80, h:   41 },
+  PLAYER_RIGHT:           { file: 'sprites/player_right',           w:   80, h:   41 }
 };
 
 SPRITES.SCALE = 0.3 * (1/SPRITES.PLAYER_STRAIGHT.w) // the reference sprite width should be 1/3rd the (half-)roadWidth
 
 SPRITES.BILLBOARDS = [SPRITES.BILLBOARD01, SPRITES.BILLBOARD02, SPRITES.BILLBOARD03, SPRITES.BILLBOARD04, SPRITES.BILLBOARD05, SPRITES.BILLBOARD06, SPRITES.BILLBOARD07, SPRITES.BILLBOARD08, SPRITES.BILLBOARD09];
 SPRITES.PLANTS     = [SPRITES.TREE1, SPRITES.TREE2, SPRITES.DEAD_TREE1, SPRITES.DEAD_TREE2, SPRITES.PALM_TREE, SPRITES.BUSH1, SPRITES.BUSH2, SPRITES.CACTUS, SPRITES.STUMP, SPRITES.BOULDER1, SPRITES.BOULDER2, SPRITES.BOULDER3];
-SPRITES.CARS       = [SPRITES.CAR01, SPRITES.CAR02, SPRITES.CAR03, SPRITES.CAR04, SPRITES.SEMI, SPRITES.TRUCK];
+SPRITES.CARS       = [SPRITES.CAR01, SPRITES.CAR02, SPRITES.CAR03, SPRITES.CAR04, SPRITES.CAR05, SPRITES.SEMI, SPRITES.TRUCK];
 

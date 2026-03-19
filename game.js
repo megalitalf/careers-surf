@@ -34,8 +34,7 @@ var cars = [];                      // array of cars on the road
 var stats = Game.stats('fps');       // mr.doobs FPS counter
 var canvas = Dom.get('canvas');       // our canvas...
 var ctx = canvas.getContext('2d'); // ...and its drawing context
-var background = null;                    // our background image (loaded below)
-var sprites = null;                    // our spritesheet (loaded below)
+
 var resolution = null;                    // scaling factor to provide resolution independence (computed)
 
 var segmentLength = 200;                     // length of a single segment
@@ -373,9 +372,9 @@ function render() {
 
     visibleSemis = []; // reset tracked semis each frame
 
-    Render.background(ctx, background, width, height, BACKGROUND.SKY, skyOffset, resolution * skySpeed * playerY);
-    Render.background(ctx, background, width, height, BACKGROUND.HILLS, hillOffset, resolution * hillSpeed * playerY);
-    Render.background(ctx, background, width, height, BACKGROUND.TREES, treeOffset, resolution * treeSpeed * playerY);
+    Render.background(ctx, null, width, height, BACKGROUND.SKY, skyOffset, resolution * skySpeed * playerY);
+    Render.background(ctx, null, width, height, BACKGROUND.HILLS, hillOffset, resolution * hillSpeed * playerY);
+    Render.background(ctx, null, width, height, BACKGROUND.TREES, treeOffset, resolution * treeSpeed * playerY);
 
     var n, i, segment, car, sprite, spriteScale, spriteX, spriteY;
 
@@ -419,7 +418,7 @@ function render() {
             spriteScale = Util.interpolate(segment.p1.screen.scale, segment.p2.screen.scale, car.percent);
             spriteX = Util.interpolate(segment.p1.screen.x, segment.p2.screen.x, car.percent) + (spriteScale * car.offset * roadWidth * width / 2);
             spriteY = Util.interpolate(segment.p1.screen.y, segment.p2.screen.y, car.percent);
-            Render.sprite(ctx, width, height, resolution, roadWidth, sprites, car.sprite, spriteScale, spriteX, spriteY, -0.5, -1, segment.clip);
+            Render.sprite(ctx, width, height, resolution, roadWidth, null, car.sprite, spriteScale, spriteX, spriteY, -0.5, -1, segment.clip);
 
             // Track SEMI position for click detection and draw price label
             if (car.sprite === SPRITES.SEMI) {
@@ -465,11 +464,11 @@ function render() {
             spriteScale = segment.p1.screen.scale;
             spriteX = segment.p1.screen.x + (spriteScale * sprite.offset * roadWidth * width / 2);
             spriteY = segment.p1.screen.y;
-            Render.sprite(ctx, width, height, resolution, roadWidth, sprites, sprite.source, spriteScale, spriteX, spriteY, (sprite.offset < 0 ? -1 : 0), -1, segment.clip);
+            Render.sprite(ctx, width, height, resolution, roadWidth, null, sprite.source, spriteScale, spriteX, spriteY, (sprite.offset < 0 ? -1 : 0), -1, segment.clip);
         }
 
         if (segment == playerSegment) {
-            Render.player(ctx, width, height, resolution, roadWidth, sprites, speed / maxSpeed,
+            Render.player(ctx, width, height, resolution, roadWidth, null, speed / maxSpeed,
                 cameraDepth / playerZ,
                 width / 2,
                 (height / 2) - (cameraDepth / playerZ * Util.interpolate(playerSegment.p1.camera.y, playerSegment.p2.camera.y, playerPercent) * height / 2),
@@ -679,7 +678,6 @@ function resetCars() {
 
 Game.run({
     canvas: canvas, render: render, update: update, stats: stats, step: step,
-    images: ["background", "sprites"],
     keys: [
         { keys: [KEY.LEFT, KEY.A], mode: 'down', action: function () { keyLeft = true; } },
         { keys: [KEY.RIGHT, KEY.D], mode: 'down', action: function () { keyRight = true; } },
@@ -690,9 +688,7 @@ Game.run({
         { keys: [KEY.UP, KEY.W], mode: 'up', action: function () { keyFaster = false; } },
         { keys: [KEY.DOWN, KEY.S], mode: 'up', action: function () { keySlower = false; } }
     ],
-    ready: function (images) {
-        background = images[0];
-        sprites = images[1];
+    ready: function () {
         reset();
         Dom.storage.fast_lap_time = Dom.storage.fast_lap_time || 180;
         updateHud('fast_lap_time', formatTime(Util.toFloat(Dom.storage.fast_lap_time)));
