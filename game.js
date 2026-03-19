@@ -63,6 +63,10 @@ var totalCars = 200;                     // total number of cars on the road
 var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
+var followedSemi  = null;                  // the SEMI car currently being tailed by ACC
+var followTimer   = 0;                     // seconds spent tailing followedSemi
+var FOLLOW_DELAY  = 2.0;                   // seconds before popup auto-opens
+var popupManuallyOpen = false;             // true when user clicked ×  to dismiss
 
 // Job listings from jobs.js (produced by scrape_jobs.js).
 // jobs.js is loaded as a <script> before game.js and declares: var jobs = [...];
@@ -122,6 +126,7 @@ function update(dt) {
     // Adaptive cruise control: scan ahead and match speed of any slower car in our lane
     var accFollowing = false;
     var accTarget = maxSpeed / 2; // default cruise
+    var nearestSemi = null;       // closest SEMI with a listing in our lane
     for (var i = 1; i <= accLookahead; i++) {
         var lookSeg = segments[(playerSegment.index + i) % segments.length];
         for (var j = 0; j < lookSeg.cars.length; j++) {
@@ -132,6 +137,37 @@ function update(dt) {
                 accTarget = Math.min(accTarget, ahead.speed * (i / accLookahead));
                 accFollowing = true;
             }
+            // track the closest SEMI with a listing we are locked onto
+            if (!nearestSemi && ahead.sprite === SPRITES.SEMI && ahead.listing &&
+                Util.overlap(playerX, playerW, ahead.offset, aheadW, 1.2)) {
+                nearestSemi = ahead;
+            }
+        }
+    }
+
+    // Follow-timer: count up while tailing a SEMI with a listing
+    if (nearestSemi) {
+        if (nearestSemi !== followedSemi) {
+            // switched to a different truck — reset
+            followedSemi = nearestSemi;
+            followTimer  = 0;
+            popupManuallyOpen = false;
+        }
+        if (!popupManuallyOpen) {
+            followTimer += dt;
+            if (followTimer >= FOLLOW_DELAY) {
+                showCarPopup(followedSemi.listing);
+            }
+        }
+    } else {
+        if (followedSemi) {
+            // lost the truck — close popup and reset
+            followedSemi = null;
+            followTimer  = 0;
+            if (!popupManuallyOpen) {
+                Dom.get('car_popup').style.display = 'none';
+            }
+            popupManuallyOpen = false;
         }
     }
     var activeCruise = keyFaster ? maxSpeed / 2 : accTarget; // ACC ignored while player boosts
@@ -384,8 +420,8 @@ function render() {
                 // Draw labels above the truck — only when a listing is loaded
                 var listing = car.listing;
                 if (listing) {
-                    var labelX   = sx + sw / 2;
-                    var labelY   = sy - 8;
+                    var labelX    = sx + sw / 2;
+                    var labelY    = sy - 8;
                     var priceSize = Math.max(10, Math.round(sh * 0.35));
                     var nameSize  = Math.max(8,  Math.round(sh * 0.22));
                     ctx.save();
@@ -406,6 +442,26 @@ function render() {
                         ctx.fillText(listing.title, labelX + 1, labelY - priceSize + 1);
                         ctx.fillStyle = '#ffffff';
                         ctx.fillText(listing.title, labelX, labelY - priceSize);
+                    }
+
+                    // Arc loader — shown while follow timer is counting for this truck
+                    if (car === followedSemi && followTimer < FOLLOW_DELAY) {
+                        var progress = followTimer / FOLLOW_DELAY;
+                        var arcR     = Math.max(8, Math.round(sh * 0.28));
+                        var arcX     = labelX;
+                        var arcY     = sy - sh * 0.55;
+                        // background ring
+                        ctx.beginPath();
+                        ctx.arc(arcX, arcY, arcR, 0, Math.PI * 2);
+                        ctx.strokeStyle = 'rgba(255,255,255,0.2)';
+                        ctx.lineWidth = Math.max(2, arcR * 0.28);
+                        ctx.stroke();
+                        // progress arc (clockwise from top)
+                        ctx.beginPath();
+                        ctx.arc(arcX, arcY, arcR, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * progress);
+                        ctx.strokeStyle = '#ffe066';
+                        ctx.lineWidth = Math.max(2, arcR * 0.28);
+                        ctx.stroke();
                     }
 
                     ctx.restore();
@@ -694,6 +750,7 @@ canvas.addEventListener('click', function (ev) {
     for (var i = 0; i < visibleSemis.length; i++) {
         var s = visibleSemis[i];
         if (cx >= s.x && cx <= s.x + s.w && cy >= s.y && cy <= s.y + s.h) {
+            popupManuallyOpen = true;
             showCarPopup(s.car.listing);
             break;
         }
@@ -708,6 +765,13 @@ function showCarPopup(listing) {
     Dom.get('car_popup_loc').innerHTML     = listing.location || '';
     Dom.get('car_popup_buy').onclick = function () { window.open(listing.url, '_blank'); };
     Dom.get('car_popup').style.display = 'flex';
+}
+
+function closeCarPopup() {
+    popupManuallyOpen = false;
+    followedSemi  = null;
+    followTimer   = 0;
+    Dom.get('car_popup').style.display = 'none';
 }
 
 //=========================================================================
