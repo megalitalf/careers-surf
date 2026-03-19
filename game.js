@@ -64,58 +64,11 @@ var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
 
-var SEMI_LISTINGS = [
-    {
-        title: 'IT Analyst', 
-        price: '$140k/yr', company: 'Stripe', location: 'Remote / SF', type: 'Full-time', stack: 'React, TypeScript', exp: '5+ years', desc: 'Build the next generation of payment UIs used by millions.',
-        url: 'https://justjoin.it/job-offer/dcg-it-analyst-warszawa-analytics-d68d844a'
-    },
-    {
-        title: 'Business Analyst', 
-        price: '18 480 PLN', company: 'Cloudflare', location: 'Remote / Austin', type: 'Full-time', stack: 'Go, Rust', exp: '3+ years', desc: 'Work on distributed systems at global edge scale.',
-        url: 'https://justjoin.it/job-offer/univio-business-analyst-wroclaw-analytics-6814eb70'
-    },
-    {
-        title: 'Staff Software Engineer - Backend (Scala)', 
-        price: '29 500 - 40 500 PLN', company: 'Duolingo', location: 'Pittsburgh, PA', type: 'Full-time', stack: 'Swift, SwiftUI', exp: '2+ years', desc: 'Shape the learning experience for 50M+ daily active users.',
-        url: 'https://justjoin.it/job-offer/sprout-social-staff-software-engineer---backend-scala--krakow-scala'
-    },
-    {
-        title: 'Junior Delivery Engineer', 
-        price: '6 000 - 10 000 PLN', company: 'Cohere', location: 'Remote', type: 'Full-time', stack: 'Python, PyTorch', exp: '4+ years', desc: 'Train and fine-tune large language models for enterprise clients.',
-        url: 'https://justjoin.it/job-offer/masterborn-sp-z-o-o--junior-delivery-engineer-wroclaw-data'
-    },
-    {
-        title: 'Administrator(-ka) sieci i systemów/DevOps', 
-        price: 'n/a', company: 'Vercel', location: 'Remote', type: 'Full-time', stack: 'Kubernetes, Terraform', exp: '3+ years', desc: 'Own the infra that deploys millions of sites every day.',
-        url: 'https://justjoin.it/job-offer/postdata-administrator--ka-sieci-i-systemow-devops-gdansk-admin'
-    },
-    {
-        title: 'Senior Python Software Engineer (with GenAI)', 
-        price: '21 185.47 - 24 902.23 PLN', company: 'Linear', location: 'Remote', type: 'Full-time', stack: 'Figma, Framer', exp: '4+ years', desc: 'Craft the design system behind the best PM tool in the industry.',
-        url: 'https://justjoin.it/job-offer/n-ix-senior-python-software-engineer-with-genai--krakow-python'
-    },
-    {
-        title: 'AI/ML Engineer (NLP/GenAi)', 
-        price: 'n/a', company: 'Notion', location: 'NYC / Remote', type: 'Full-time', stack: 'Node.js, React', exp: '3+ years', desc: 'Build collaborative features for 30M+ knowledge workers.',
-        url: 'https://justjoin.it/job-offer/kratos-growth-ai-ml-engineer-nlp-genai--new-york-ai'
-    },
-    {
-        title: 'MID Administrator / DevOps Engineer', 
-        price: '100 - 120 PLN / h', company: 'Tailscale', location: 'Remote', type: 'Full-time', stack: 'Go, WireGuard', exp: '5+ years', desc: 'Secure the network layer for teams of all sizes.',
-        url: 'https://justjoin.it/job-offer/rits-professional-services-mid-administrator-devops-engineer-warszawa-devops'
-    },
-    {
-        title: 'Offensive Security Engineer', 
-        price: 'n/a', company: 'dbt Labs', location: 'Remote', type: 'Full-time', stack: 'dbt, Spark, SQL', exp: '3+ years', desc: 'Help data teams build reliable, scalable analytics pipelines.',
-        url: 'https://justjoin.it/job-offer/procter-gamble-offensive-security-engineer-penetration-testing-and-intake-management-warsaw-security'
-    },
-    {
-        title: 'Python Developer (m/k)', 
-        price: '145 PLN/h', company: 'Larian Studios', location: 'Dublin / Remote', type: 'Full-time', stack: 'C++, Divinity Engine', exp: '3+ years', desc: 'Build the next epic RPG. Ship games people will play for decades.',
-        url: 'https://justjoin.it/job-offer/team-up-python-developer-m-k--lodz-python'
-    }
-];
+// Job listings from jobs.js (produced by scrape_jobs.js).
+// jobs.js is loaded as a <script> before game.js and declares: var jobs = [...];
+var SEMI_LISTINGS = (typeof jobs !== 'undefined') ? jobs : [];
+if (!SEMI_LISTINGS.length) console.warn('No job listings — run: node scrape_jobs.js');
+else console.log('Loaded ' + SEMI_LISTINGS.length + ' job listings.');
 
 var keyLeft = false;
 var keyRight = false;
@@ -428,34 +381,35 @@ function render() {
                 var sy = spriteY - sh;
                 visibleSemis.push({ car: car, x: sx, y: sy, w: sw, h: sh });
 
-                // Draw labels above the truck — price always, name when close enough
-                var labelX = sx + sw / 2;
-                var labelY = sy - 8;
-                var priceSize = Math.max(10, Math.round(sh * 0.35));
-                var nameSize = Math.max(8, Math.round(sh * 0.22));
+                // Draw labels above the truck — only when a listing is loaded
                 var listing = car.listing;
+                if (listing) {
+                    var labelX   = sx + sw / 2;
+                    var labelY   = sy - 8;
+                    var priceSize = Math.max(10, Math.round(sh * 0.35));
+                    var nameSize  = Math.max(8,  Math.round(sh * 0.22));
+                    ctx.save();
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'bottom';
 
-                ctx.save();
-                ctx.textAlign = 'center';
-                ctx.textBaseline = 'bottom';
-
-                // Price label (always visible)
-                ctx.font = 'bold ' + priceSize + 'px Arial';
-                ctx.fillStyle = 'rgba(0,0,0,0.55)';
-                ctx.fillText(listing.price, labelX + 1, labelY + 1);
-                ctx.fillStyle = '#ffe066';
-                ctx.fillText(listing.price, labelX, labelY);
-
-                // Name label — only when truck is large enough (close)
-                if (sh > 28) {
-                    ctx.font = nameSize + 'px Arial';
+                    // Salary label (always visible)
+                    ctx.font = 'bold ' + priceSize + 'px Arial';
                     ctx.fillStyle = 'rgba(0,0,0,0.55)';
-                    ctx.fillText(listing.title, labelX + 1, labelY - priceSize + 1);
-                    ctx.fillStyle = '#ffffff';
-                    ctx.fillText(listing.title, labelX, labelY - priceSize);
-                }
+                    ctx.fillText(listing.salary || '?', labelX + 1, labelY + 1);
+                    ctx.fillStyle = '#ffe066';
+                    ctx.fillText(listing.salary || '?', labelX, labelY);
 
-                ctx.restore();
+                    // Name label — only when truck is large enough (close)
+                    if (sh > 28) {
+                        ctx.font = nameSize + 'px Arial';
+                        ctx.fillStyle = 'rgba(0,0,0,0.55)';
+                        ctx.fillText(listing.title, labelX + 1, labelY - priceSize + 1);
+                        ctx.fillStyle = '#ffffff';
+                        ctx.fillText(listing.title, labelX, labelY - priceSize);
+                    }
+
+                    ctx.restore();
+                }
             }
         }
 
@@ -748,14 +702,10 @@ canvas.addEventListener('click', function (ev) {
 
 function showCarPopup(listing) {
     if (!listing) return;
-    Dom.get('car_popup_title').innerHTML = listing.title;
-    Dom.get('car_popup_price').innerHTML = listing.price;
-    Dom.get('car_popup_engine').innerHTML = listing.company;
-    Dom.get('car_popup_trans').innerHTML = listing.location;
-    Dom.get('car_popup_miles').innerHTML = listing.type;
-    Dom.get('car_popup_sleeper').innerHTML = listing.stack;
-    Dom.get('car_popup_cond').innerHTML = listing.exp;
-    Dom.get('car_popup_desc').innerHTML = listing.desc;
+    Dom.get('car_popup_title').innerHTML   = listing.title   || '';
+    Dom.get('car_popup_salary').innerHTML  = listing.salary  || 'Salary not disclosed';
+    Dom.get('car_popup_company').innerHTML = listing.company || '';
+    Dom.get('car_popup_loc').innerHTML     = listing.location || '';
     Dom.get('car_popup_buy').onclick = function () { window.open(listing.url, '_blank'); };
     Dom.get('car_popup').style.display = 'flex';
 }

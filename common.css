@@ -66,7 +66,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     font-size: 1.3em;
     color: #ffffff;
 }
-#car_popup_price {
+#car_popup_salary {
     font-size: 2em;
     font-weight: bold;
     color: #e94560;
@@ -87,11 +87,6 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     color: #aaa;
     font-weight: normal;
     width: 40%;
-}
-#car_popup_desc {
-    font-size: 0.85em;
-    color: #bbb;
-    margin: 0 0 18px;
 }
 #car_popup_buy {
     width: 100%;
