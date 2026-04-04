@@ -63,6 +63,7 @@ var totalCars = 200;                     // total number of cars on the road
 var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
+var playerCarRect = null;                  // screen rect of player car (updated each render frame)
 var followedSemi  = null;                  // the SEMI car currently being tailed by ACC
 var followTimer   = 0;                     // seconds spent tailing followedSemi
 var FOLLOW_DELAY  = 2.0;                   // seconds before popup auto-opens
@@ -479,22 +480,33 @@ function render() {
 
         if (segment == playerSegment) {
             var playerScale = cameraDepth / playerZ;
+            // On touch devices boost the rendered car size so it's easier to tap
+            var touchScaleBoost = ('ontouchstart' in window) ? 2.0 : 1.0;
+            var renderScale = playerScale * touchScaleBoost;
             var playerDestX = width / 2;
             var playerDestY = (height / 2) - (cameraDepth / playerZ * Util.interpolate(playerSegment.p1.camera.y, playerSegment.p2.camera.y, playerPercent) * height / 2);
             Render.player(ctx, width, height, resolution, roadWidth, null, speed / maxSpeed,
-                playerScale,
+                renderScale,
                 playerDestX,
                 playerDestY,
                 speed * (keyLeft ? -1 : keyRight ? 1 : (playerSegment.curve < -0.05 ? -1 : playerSegment.curve > 0.05 ? 1 : 0)),
                 playerSegment.p2.world.y - playerSegment.p1.world.y);
 
+            // Expose car screen rect for touch zone & overlay (updated every frame)
+            var sprW = SPRITES.PLAYER_STRAIGHT.w * renderScale * roadWidth * width / 2 * SPRITES.SCALE;
+            var sprH = SPRITES.PLAYER_STRAIGHT.h * renderScale * roadWidth * width / 2 * SPRITES.SCALE;
+            playerCarRect = {
+                left:   playerDestX - sprW * 0.5,
+                right:  playerDestX + sprW * 0.5,
+                bottom: playerDestY,
+                top:    playerDestY - sprH
+            };
+
             // Brake lights — only on manual braking (DOWN / S), not cruise control
             if (keySlower) {
-                var sprW = SPRITES.PLAYER_STRAIGHT.w * playerScale * roadWidth * width / 2 * SPRITES.SCALE;
-                var sprH = SPRITES.PLAYER_STRAIGHT.h * playerScale * roadWidth * width / 2 * SPRITES.SCALE;
-                var lightY  = playerDestY - sprH * 0.18;         // near bottom of sprite
-                var lightRX = playerDestX + sprW * 0.36;         // right tail light
-                var lightLX = playerDestX - sprW * 0.36;         // left tail light
+                var lightY  = playerDestY - sprH * 0.18;  // near bottom of sprite
+                var lightRX = playerDestX + sprW * 0.36;  // right tail light
+                var lightLX = playerDestX - sprW * 0.36;  // left tail light
                 var rx = Math.max(2, sprW * 0.09);
                 var ry = Math.max(1, sprH * 0.13);
 
@@ -790,23 +802,20 @@ window.addEventListener('resize', function () {
 // • tap middle+above → accelerate (keyFaster)
 // • tap middle+car   → brake      (keySlower)
 
-var CAR_ZONE_W = 0.40;  // fraction of width  (centred)
-var CAR_ZONE_H = 0.35;  // fraction of height (from bottom)
-
 // Map from touch identifier → which flags it set
 var touchFlags = {};
 
 function getTouchZone(cx, cy) {
-    var carLeft  = width  * (0.5 - CAR_ZONE_W / 2);
-    var carRight = width  * (0.5 + CAR_ZONE_W / 2);
-    var carTop   = height * (1   - CAR_ZONE_H);
-
-    var inCarH = (cx >= carLeft && cx <= carRight);
-    var inCarV = (cy >= carTop);
-
-    if (inCarH && inCarV)  return 'brake';
-    if (inCarH && !inCarV) return 'accel';
-    if (cx < width / 2)    return 'left';
+    // Use actual rendered car bounds when available
+    var r = playerCarRect;
+    if (r) {
+        var inCarH = (cx >= r.left && cx <= r.right);
+        var carMidY = (r.top + r.bottom) / 2;
+        if (inCarH && cy >= carMidY) return 'brake';  // bottom half of car
+        if (inCarH && cy <  carMidY) return 'accel';  // top half of car
+    }
+    // Outside car horizontally → steer
+    if (cx < width / 2) return 'left';
     return 'right';
 }
 
@@ -883,6 +892,7 @@ var TOUCH_HINT_FADE  = 0.8;    // fade-in / fade-out duration
 function renderTouchHints(dt) {
     // Only relevant on touch devices
     if (!('ontouchstart' in window)) return;
+    if (!playerCarRect) return;
 
     var anyActive = Object.keys(touchFlags).length > 0;
     if (anyActive) {
@@ -899,40 +909,41 @@ function renderTouchHints(dt) {
 
     if (touchHintAlpha <= 0) return;
 
-    var a = touchHintAlpha * 0.22;  // keep it subtle
-    var carLeft  = width  * (0.5 - CAR_ZONE_W / 2);
-    var carRight = width  * (0.5 + CAR_ZONE_W / 2);
-    var carTop   = height * (1   - CAR_ZONE_H);
+    var r       = playerCarRect;
+    var carMidY = (r.top + r.bottom) / 2;
+    var a  = touchHintAlpha * 0.22;
+    var a2 = a * 2.5;  // active zone brightness
+    var fs = Math.round(height * 0.035);
 
     ctx.save();
 
-    // Left zone
-    ctx.fillStyle = keyLeft ? 'rgba(255,220,0,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
-    ctx.fillRect(0, 0, carLeft, height);
+    // Left strip (full height)
+    ctx.fillStyle = keyLeft  ? 'rgba(255,220,0,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(0, 0, r.left, height);
 
-    // Right zone
-    ctx.fillStyle = keyRight ? 'rgba(255,220,0,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
-    ctx.fillRect(carRight, 0, width - carRight, height);
+    // Right strip (full height)
+    ctx.fillStyle = keyRight ? 'rgba(255,220,0,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(r.right, 0, width - r.right, height);
 
-    // Accel zone (middle-top)
-    ctx.fillStyle = keyFaster ? 'rgba(0,220,100,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
-    ctx.fillRect(carLeft, 0, carRight - carLeft, carTop);
+    // Accel zone — top half of car
+    ctx.fillStyle = keyFaster ? 'rgba(0,220,100,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(r.left, r.top, r.right - r.left, carMidY - r.top);
 
-    // Brake zone (middle-bottom / car area)
-    ctx.fillStyle = keySlower ? 'rgba(255,60,60,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
-    ctx.fillRect(carLeft, carTop, carRight - carLeft, height - carTop);
+    // Brake zone — bottom half of car
+    ctx.fillStyle = keySlower ? 'rgba(255,60,60,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(r.left, carMidY, r.right - r.left, r.bottom - carMidY);
 
     // Labels
-    ctx.globalAlpha = touchHintAlpha * 0.55;
-    ctx.font = 'bold ' + Math.round(height * 0.04) + 'px Arial';
+    ctx.globalAlpha = touchHintAlpha * 0.6;
+    ctx.font = 'bold ' + fs + 'px Arial';
     ctx.textBaseline = 'middle';
     ctx.fillStyle = '#fff';
-
     ctx.textAlign = 'center';
-    ctx.fillText('◀', carLeft  / 2, height / 2);
-    ctx.fillText('▶', (width + carRight) / 2, height / 2);
-    ctx.fillText('▲ ACCEL', width / 2, carTop / 2);
-    ctx.fillText('■ BRAKE', width / 2, carTop + (height - carTop) / 2);
+
+    ctx.fillText('◀', r.left  / 2,              height / 2);
+    ctx.fillText('▶', (width + r.right) / 2,    height / 2);
+    ctx.fillText('▲',  width / 2, (r.top  + carMidY)  / 2);
+    ctx.fillText('▼',  width / 2, (carMidY + r.bottom) / 2);
 
     ctx.restore();
 }
