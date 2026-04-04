@@ -516,6 +516,8 @@ function render() {
             }
         }
     }
+
+    renderTouchHints(step);
 }
 
 function findSegment(z) {
@@ -769,6 +771,171 @@ function reset(options) {
 window.addEventListener('resize', function () {
     reset({ width: window.innerWidth, height: window.innerHeight });
 });
+
+//=========================================================================
+// TOUCH CONTROLS
+//=========================================================================
+
+// The player car is always centred at (width/2, height/2).
+// We split the screen into zones per touch point:
+//
+//   ┌──────────────────────────────┐
+//   │   LEFT  │   ACCEL   │ RIGHT  │   (above car zone)
+//   ├──────────┼───────────┼───────┤
+//   │   LEFT  │   BRAKE   │ RIGHT  │   (car zone: middle 40% of width, bottom 35% of height)
+//   └──────────┴───────────┴───────┘
+//
+// • tap left third   → steer left
+// • tap right third  → steer right
+// • tap middle+above → accelerate (keyFaster)
+// • tap middle+car   → brake      (keySlower)
+
+var CAR_ZONE_W = 0.40;  // fraction of width  (centred)
+var CAR_ZONE_H = 0.35;  // fraction of height (from bottom)
+
+// Map from touch identifier → which flags it set
+var touchFlags = {};
+
+function getTouchZone(cx, cy) {
+    var carLeft  = width  * (0.5 - CAR_ZONE_W / 2);
+    var carRight = width  * (0.5 + CAR_ZONE_W / 2);
+    var carTop   = height * (1   - CAR_ZONE_H);
+
+    var inCarH = (cx >= carLeft && cx <= carRight);
+    var inCarV = (cy >= carTop);
+
+    if (inCarH && inCarV)  return 'brake';
+    if (inCarH && !inCarV) return 'accel';
+    if (cx < width / 2)    return 'left';
+    return 'right';
+}
+
+function applyTouchZone(zone, on) {
+    if (zone === 'left')  keyLeft   = on;
+    if (zone === 'right') keyRight  = on;
+    if (zone === 'accel') keyFaster = on;
+    if (zone === 'brake') keySlower = on;
+}
+
+function getCanvasCoords(touch) {
+    var rect = canvas.getBoundingClientRect();
+    var scaleX = width  / rect.width;
+    var scaleY = height / rect.height;
+    return {
+        x: (touch.clientX - rect.left) * scaleX,
+        y: (touch.clientY - rect.top)  * scaleY
+    };
+}
+
+canvas.addEventListener('touchstart', function (ev) {
+    ev.preventDefault();
+    for (var i = 0; i < ev.changedTouches.length; i++) {
+        var t   = ev.changedTouches[i];
+        var pos = getCanvasCoords(t);
+        var zone = getTouchZone(pos.x, pos.y);
+        touchFlags[t.identifier] = zone;
+        applyTouchZone(zone, true);
+    }
+}, { passive: false });
+
+canvas.addEventListener('touchmove', function (ev) {
+    ev.preventDefault();
+    for (var i = 0; i < ev.changedTouches.length; i++) {
+        var t    = ev.changedTouches[i];
+        var pos  = getCanvasCoords(t);
+        var newZone = getTouchZone(pos.x, pos.y);
+        var oldZone = touchFlags[t.identifier];
+        if (newZone !== oldZone) {
+            applyTouchZone(oldZone, false);
+            touchFlags[t.identifier] = newZone;
+            applyTouchZone(newZone, true);
+        }
+    }
+}, { passive: false });
+
+function releaseTouches(changedTouches) {
+    for (var i = 0; i < changedTouches.length; i++) {
+        var t = changedTouches[i];
+        var zone = touchFlags[t.identifier];
+        if (zone) {
+            applyTouchZone(zone, false);
+            delete touchFlags[t.identifier];
+        }
+    }
+}
+
+canvas.addEventListener('touchend',    function (ev) { ev.preventDefault(); releaseTouches(ev.changedTouches); }, { passive: false });
+canvas.addEventListener('touchcancel', function (ev) { ev.preventDefault(); releaseTouches(ev.changedTouches); }, { passive: false });
+
+//=========================================================================
+// TOUCH ZONE OVERLAY (visual hint)
+//=========================================================================
+
+// Draw semi-transparent touch zone hints on top of the game canvas.
+// They fade out after a short idle period so they don't clutter gameplay.
+
+var touchHintAlpha   = 0;      // 0 = invisible, 1 = fully visible
+var touchHintTimer   = 0;      // seconds since last touch
+var TOUCH_HINT_SHOW  = 3.0;    // seconds to show hint after last touch
+var TOUCH_HINT_FADE  = 0.8;    // fade-in / fade-out duration
+
+// Called from render() after the main scene is drawn
+function renderTouchHints(dt) {
+    // Only relevant on touch devices
+    if (!('ontouchstart' in window)) return;
+
+    var anyActive = Object.keys(touchFlags).length > 0;
+    if (anyActive) {
+        touchHintTimer = 0;
+        touchHintAlpha = Math.min(1, touchHintAlpha + dt / TOUCH_HINT_FADE);
+    } else {
+        touchHintTimer += dt;
+        if (touchHintTimer > TOUCH_HINT_SHOW) {
+            touchHintAlpha = Math.max(0, touchHintAlpha - dt / TOUCH_HINT_FADE);
+        } else {
+            touchHintAlpha = Math.min(1, touchHintAlpha + dt / TOUCH_HINT_FADE);
+        }
+    }
+
+    if (touchHintAlpha <= 0) return;
+
+    var a = touchHintAlpha * 0.22;  // keep it subtle
+    var carLeft  = width  * (0.5 - CAR_ZONE_W / 2);
+    var carRight = width  * (0.5 + CAR_ZONE_W / 2);
+    var carTop   = height * (1   - CAR_ZONE_H);
+
+    ctx.save();
+
+    // Left zone
+    ctx.fillStyle = keyLeft ? 'rgba(255,220,0,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(0, 0, carLeft, height);
+
+    // Right zone
+    ctx.fillStyle = keyRight ? 'rgba(255,220,0,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(carRight, 0, width - carRight, height);
+
+    // Accel zone (middle-top)
+    ctx.fillStyle = keyFaster ? 'rgba(0,220,100,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(carLeft, 0, carRight - carLeft, carTop);
+
+    // Brake zone (middle-bottom / car area)
+    ctx.fillStyle = keySlower ? 'rgba(255,60,60,' + (a * 2.5) + ')' : 'rgba(255,255,255,' + a + ')';
+    ctx.fillRect(carLeft, carTop, carRight - carLeft, height - carTop);
+
+    // Labels
+    ctx.globalAlpha = touchHintAlpha * 0.55;
+    ctx.font = 'bold ' + Math.round(height * 0.04) + 'px Arial';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = '#fff';
+
+    ctx.textAlign = 'center';
+    ctx.fillText('◀', carLeft  / 2, height / 2);
+    ctx.fillText('▶', (width + carRight) / 2, height / 2);
+    ctx.fillText('▲ ACCEL', width / 2, carTop / 2);
+    ctx.fillText('■ BRAKE', width / 2, carTop + (height - carTop) / 2);
+
+    ctx.restore();
+}
 
 // Canvas click: open popup when a SEMI truck is clicked
 canvas.addEventListener('click', function (ev) {
