@@ -1,169 +1,22 @@
 {
   "meta": {
-    "source": "https://www.pracuj.pl/praca?sal=1&wp=72-400&rd=30&latitude=53.9713996&longitude=14.8005381",
-    "scrapedAt": "2026-03-19T12:01:13.502Z",
-    "pages": 0,
-    "total": 29,
+    "source": "https://www.pracuj.pl/praca?sal=1",
+    "scrapedAt": "2026-04-05T20:09:20.908Z",
+    "pages": 1,
+    "total": 56,
     "errors": 0,
-    "location": "72-400",
-    "radius": 30
+    "location": null,
+    "radius": null
   },
   "listings": [
     {
-      "id": "1004687103",
-      "title": "Kierownik Sklepu (M/K)",
-      "company": "TEDi Sieć Handlowa Sp. z o.o.",
-      "companyId": 20297387,
-      "location": "Międzyzdroje",
+      "id": "1004751514",
+      "title": "Handlowiec",
+      "company": "TERMOJET sp. z o.o.",
+      "companyId": 1074036078,
+      "location": "Zabrze",
       "isWholePoland": false,
-      "salary": "7 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-19T10:59:00Z",
-      "expiresAt": "2026-04-04T21:59:59Z",
-      "description": "Twój zakres obowiązków, planowanie czasu pracy – swojego oraz podległego personelu sklepu,, wsparcie Regionalnego Kierownika ds. Sprzedaży w procesach rekrutacyjnych podległej filii,, prowadzenie sklepu zgodnie z procedurami wewnętrznymi oraz...",
-      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-miedzyzdroje-nowomysliwska-23,oferta,1004687103"
-    },
-    {
-      "id": "1004717018",
-      "title": "Technik / Techniczka Utrzymania Obiektu",
-      "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
-      "companyId": 1074041053,
-      "location": "Gryfice",
-      "isWholePoland": false,
-      "salary": "6 500–8 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-03-19T10:32:00.99Z",
-      "expiresAt": "2026-04-18T21:59:59Z",
-      "description": "Twój zakres obowiązków, wykonywanie czynności przeglądowych, naprawczych, diagnozowanie usterek w instalacjach elektrycznych oraz szafach sterowniczych występujących na hali produkcyjnej, jak i poza nią,, nadzór nad instalacją elektryczną...",
-      "url": "https://www.pracuj.pl/praca/technik-techniczka-utrzymania-obiektu-gryfice,oferta,1004717018"
-    },
-    {
-      "id": "1004693030",
-      "title": "Agent / Agentka Nieruchomości",
-      "company": "WGN - NIERUCHOMOŚCI",
-      "companyId": 20052638,
-      "location": "Międzyzdroje",
-      "isWholePoland": false,
-      "salary": "1 000–100 000 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [],
-      "typesOfContract": [
-        "Umowa zlecenie",
-        "Kontrakt B2B",
-        "Umowa agencyjna"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)",
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-19T10:22:05.583Z",
-      "expiresAt": "2026-04-08T21:59:59Z",
-      "description": "Twój zakres obowiązków, Jeżeli interesuje Cię rynek nieruchomości, lubisz kontakt z klientem i chcesz pracować w prestiżowej oraz stabilnej firmie działającej od 35 lat na rynku to właśnie WGN Nieruchomości jest tą MARKĄ., , Poszukujemy osób...",
-      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-miedzyzdroje,oferta,1004693030"
-    },
-    {
-      "id": "1004678390",
-      "title": "Zastępca Kierownika Sklepu (M/K)",
-      "company": "TEDi Sieć Handlowa Sp. z o.o.",
-      "companyId": 20297387,
-      "location": "Międzyzdroje",
-      "isWholePoland": false,
-      "salary": "5 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-18T11:47:00Z",
-      "expiresAt": "2026-04-01T21:59:59Z",
-      "description": "Twój zakres obowiązków, planowanie czasu pracy – swojego oraz podległego personelu sklepu,, wsparcie Regionalnego Kierownika ds. Sprzedaży w procesach rekrutacyjnych podległej filii,, prowadzenie sklepu zgodnie z procedurami wewnętrznymi oraz...",
-      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-miedzyzdroje-nowomysliwska-23,oferta,1004678390"
-    },
-    {
-      "id": "1004704664",
-      "title": "Kierownik / Kierowniczka Gastronomii",
-      "company": "Holiday Park & Resort",
-      "companyId": 20290551,
-      "location": "Kamień Pomorski",
-      "isWholePoland": false,
-      "salary": "9 500–11 500 zł netto (+ VAT) / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
-        "Menedżer / Menedżerka"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-18T11:43:00Z",
-      "expiresAt": "2026-04-12T21:59:59Z",
-      "description": "Twój zakres obowiązków, Zarządzanie punktami gastronomicznymi na terenie jednego z resortów turystycznych (Pobierowo lub Niechorze), Zapewnienie najwyższej jakości obsługi Gości oraz jakości serwowanych dań, Kontrola poprawności przygotowywania i...",
-      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-gastronomii-kamien-pomorski,oferta,1004704664"
-    },
-    {
-      "id": "1004672469",
-      "title": "Fizjoterapeuta / Fizjoterapeutka",
-      "company": "DELANTE MIRA CIEŚLEWICZ sp.k.",
-      "companyId": 1074142042,
-      "location": "Dziwnówek (pow. kamieński)",
-      "isWholePoland": false,
-      "salary": "od 5 000 zł brutto / mies.",
+      "salary": "6 000–10 000 zł brutto / mies.",
       "workModes": [
         "Praca stacjonarna"
       ],
@@ -180,106 +33,19 @@
       "isSuperOffer": false,
       "isOptionalCv": false,
       "isOneClickApply": true,
-      "publishedAt": "2026-03-18T11:23:53.037Z",
-      "expiresAt": "2026-03-28T22:59:59Z",
-      "description": "Twój zakres obowiązków, Realizacja indywidualnych planów rehabilitacji  , Prowadzenie gimnastyki i zabiegów fizykalnych  , Wykonywanie masaży klasycznych/relaksacyjnych, Budowanie pozytywnej relacji z Gośćmi i dbanie o wysoki standard obsługi...",
-      "url": "https://www.pracuj.pl/praca/fizjoterapeuta-fizjoterapeutka-dziwnowek-pow-kamienski-morska-20,oferta,1004672469"
+      "publishedAt": "2026-04-05T19:29:59.163Z",
+      "expiresAt": "2026-05-05T21:59:59Z",
+      "description": "Twój zakres obowiązków, aktywna sprzedaż produktów Termojet na rynku B2B (instalatorzy, hurtownie, firmy wykonawcze, projektanci), budowanie i utrzymywanie długofalowych relacji z klientami, doradztwo techniczne w zakresie doboru produktów i...",
+      "url": "https://www.pracuj.pl/praca/handlowiec-zabrze-gdanska-27,oferta,1004751514"
     },
     {
-      "id": "1004677919",
-      "title": "Kierowca / Kierowczyni asenizacyjny/a C, C+E",
-      "company": "WC SERWIS POLSKA sp. z o.o.",
-      "companyId": 20144967,
-      "location": "Rewal (pow. gryficki)",
+      "id": "1004710165",
+      "title": "Kierowca samochodu ciężarowego z HDSem - Operator HDS",
+      "company": "Sebastian Wałęga Usługi transportowe",
+      "companyId": 1074190508,
+      "location": "Oświęcim",
       "isWholePoland": false,
-      "salary": "5 970–8 750 zł brutto / mies.",
-      "workModes": [
-        "Praca mobilna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-18T10:35:00Z",
-      "expiresAt": "2026-04-01T21:59:59Z",
-      "description": "Twój zakres obowiązków, Realizacja tras zaplanowanych w obrębie województwa., Transport, stawianie i odbiór kabin., Serwisowanie i dbanie o czystość kabin oraz ich sprawność techniczną., Praca na aplikacji mobilnej kierowcy., Dbanie o powierzone...",
-      "url": "https://www.pracuj.pl/praca/kierowca-kierowczyni-asenizacyjny-a-c-c%2be-rewal-pow-gryficki,oferta,1004677919"
-    },
-    {
-      "id": "1004677910",
-      "title": "Kierowca / Kierowczyni asenizacyjny/a C, C+E",
-      "company": "WC SERWIS POLSKA sp. z o.o.",
-      "companyId": 20144967,
-      "location": "Kamień Pomorski",
-      "isWholePoland": false,
-      "salary": "5 970–8 750 zł brutto / mies.",
-      "workModes": [
-        "Praca mobilna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-18T10:34:00Z",
-      "expiresAt": "2026-04-01T21:59:59Z",
-      "description": "Twój zakres obowiązków, Realizacja tras zaplanowanych w obrębie województwa., Transport, stawianie i odbiór kabin., Serwisowanie i dbanie o czystość kabin oraz ich sprawność techniczną., Praca na aplikacji mobilnej kierowcy., Dbanie o powierzone...",
-      "url": "https://www.pracuj.pl/praca/kierowca-kierowczyni-asenizacyjny-a-c-c%2be-kamien-pomorski,oferta,1004677910"
-    },
-    {
-      "id": "1004677905",
-      "title": "Kierowca / Kierowczyni asenizacyjny/a C, C+E",
-      "company": "WC SERWIS POLSKA sp. z o.o.",
-      "companyId": 20144967,
-      "location": "Pobierowo (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 970–8 750 zł brutto / mies.",
-      "workModes": [
-        "Praca mobilna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-18T10:34:00Z",
-      "expiresAt": "2026-04-01T21:59:59Z",
-      "description": "Twój zakres obowiązków, Realizacja tras zaplanowanych w obrębie województwa., Transport, stawianie i odbiór kabin., Serwisowanie i dbanie o czystość kabin oraz ich sprawność techniczną., Praca na aplikacji mobilnej kierowcy., Dbanie o powierzone...",
-      "url": "https://www.pracuj.pl/praca/kierowca-kierowczyni-asenizacyjny-a-c-c%2be-pobierowo-pow-gryficki,oferta,1004677905"
-    },
-    {
-      "id": "1004689333",
-      "title": "Pracownik Sklepu (M/K)",
-      "company": "TEDi Sieć Handlowa Sp. z o.o.",
-      "companyId": 20297387,
-      "location": "Międzyzdroje",
-      "isWholePoland": false,
-      "salary": "5 000 zł brutto / mies.",
+      "salary": "8 000–11 000 zł brutto / mies.",
       "workModes": [
         "Praca stacjonarna"
       ],
@@ -293,80 +59,56 @@
         "Pracownik fizyczny / Pracowniczka fizyczna"
       ],
       "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
       "isOneClickApply": true,
-      "publishedAt": "2026-03-18T09:36:00Z",
-      "expiresAt": "2026-04-05T21:59:59Z",
-      "description": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosowanie się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
-      "url": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-miedzyzdroje-nowomysliwska-23,oferta,1004689333"
+      "publishedAt": "2026-04-05T19:26:51.57Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Firma z bazą w Oświęcimiu działająca na rynku od 8 lat zatrudni kierowcę z kat. C+E w transporcie krajowym. , Samochód z HDS'em., Oferujemy:, ⁃\tumowę o pracę bądź inny rodzaj umowy , ⁃\tterminowe wypłaty (tygodniówki lub raz...",
+      "url": "https://www.pracuj.pl/praca/kierowca-samochodu-ciezarowego-z-hdsem-operator-hds-oswiecim,oferta,1004710165"
     },
     {
-      "id": "1004700847",
-      "title": "Kierowca / Kierowczyni asenizacyjny/a C, C+E",
-      "company": "WC SERWIS POLSKA sp. z o.o.",
-      "companyId": 20144967,
-      "location": "Międzywodzie (pow. kamieński)",
+      "id": "1004751513",
+      "title": "Kucharz / Kucharka",
+      "company": "JANUSZ FRAS \"FRAMAR\" - FIRMA",
+      "companyId": 1074220792,
+      "location": "Zaniemyśl (pow. średzki)",
       "isWholePoland": false,
-      "salary": "5 970–8 750 zł brutto / mies.",
+      "salary": "4 666–7 000 zł / mies. (zal. od umowy)",
       "workModes": [
-        "Praca mobilna"
+        "Praca stacjonarna"
       ],
       "workSchedules": [
-        "Pełny etat"
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
       ],
       "typesOfContract": [
-        "Umowa o pracę"
+        "Umowa o pracę",
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
       ],
       "positionLevels": [
         "Pracownik fizyczny / Pracowniczka fizyczna"
       ],
       "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-18T08:18:00Z",
-      "expiresAt": "2026-04-11T21:59:59Z",
-      "description": "Twój zakres obowiązków, Realizacja tras zaplanowanych w obrębie województwa., Transport, stawianie i odbiór kabin., Serwisowanie i dbanie o czystość kabin oraz ich sprawność techniczną., Praca na aplikacji mobilnej kierowcy., Dbanie o powierzone...",
-      "url": "https://www.pracuj.pl/praca/kierowca-kierowczyni-asenizacyjny-a-c-c%2be-miedzywodzie-pow-kamienski,oferta,1004700847"
-    },
-    {
-      "id": "1004661949",
-      "title": "Technik/czka Utrzymania Obiektu (Elektryk/Automatyk)",
-      "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
-      "companyId": 1074041053,
-      "location": "Cerkwica (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "od 6 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
+      "isSuperOffer": false,
       "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-03-17T16:00:00Z",
-      "expiresAt": "2026-03-23T22:59:59Z",
-      "description": "Twój zakres obowiązków, wykonywanie czynności przeglądowych, naprawczych, diagnozowanie usterek w instalacjach elektrycznych oraz szafach sterowniczych występujących na hali produkcyjnej, jak i poza nią,, nadzór nad instalacją elektryczną...",
-      "url": "https://www.pracuj.pl/praca/technik-czka-utrzymania-obiektu-elektryk-automatyk-cerkwica-pow-gryficki,oferta,1004661949"
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T19:20:49.193Z",
+      "expiresAt": "2026-05-05T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przygotowywanie potraw, Dbanie o odpowiednie składniki i ich jakość, Przygotowywanie zup, dań głównych, sałatek, sosów i deserów, Utrzymywanie porządku w kuchni i dbanie o higienę pracy, Nadzorowanie stanu magazynów i...",
+      "url": "https://www.pracuj.pl/praca/kucharz-kucharka-zaniemysl-pow-sredzki,oferta,1004751513"
     },
     {
-      "id": "1004683496",
-      "title": "Doradca sprzedaży - sieć plus i polsat box",
-      "company": "DESIGN DEVELOPMENT SEBASTIAN MORZYC",
-      "companyId": 1074088619,
-      "location": "Gryfice",
+      "id": "1004721615",
+      "title": "Nauczyciel / Nauczycielka języka angielskiego",
+      "company": "SOVO DEVELOPMENT S.A.",
+      "companyId": 1074133588,
+      "location": "Poznań",
       "isWholePoland": false,
-      "salary": "4 806–9 000 zł / mies. (zal. od umowy)",
+      "salary": "6 000–10 500 zł / mies. (zal. od umowy)",
       "workModes": [
         "Praca stacjonarna"
       ],
@@ -375,7 +117,488 @@
       ],
       "typesOfContract": [
         "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T19:19:30.913Z",
+      "expiresAt": "2026-04-20T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przygotowywanie oraz prowadzenie zajęć z języka angielskiego w grupie dzieci (3-4 osoby), Realizacja planu dydaktycznego, Codzienna komunikacja z dziećmi wyłącznie w języku angielskim, Prowadzenie zabaw, aktywności i nauki...",
+      "url": "https://www.pracuj.pl/praca/nauczyciel-nauczycielka-jezyka-angielskiego-poznan,oferta,1004721615"
+    },
+    {
+      "id": "11918000",
+      "title": "Kierowca kat. B - dostawca zakupów",
+      "company": "OTTO Work Force",
+      "companyId": 20017671,
+      "location": "Wiele lokalizacji, Holandia",
+      "isWholePoland": false,
+      "salary": "12 000–17 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T19:18:00Z",
+      "expiresAt": "2026-04-23T21:59:59Z",
+      "description": "Twój zakres obowiązków, Załadunek/rozładunek ciężarówek, Sprawdzanie jakości, Prowadzenie samochodu lub busa, Dostarczanie artykułów spożywczych do domów klientów...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-b-dostawca-zakupow-holandia,oferta,11918000"
+    },
+    {
+      "id": "1004751512",
+      "title": "Kierowca kat. B",
+      "company": "TARASENKO-TRANS VLADYSLAV TARASENKO",
+      "companyId": 1074222476,
+      "location": "Plewiska (pow. poznański)",
+      "isWholePoland": false,
+      "salary": "5 000–8 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "typesOfContract": [
         "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T19:08:04.66Z",
+      "expiresAt": "2026-05-05T21:59:59Z",
+      "description": "Twój zakres obowiązków, Dostarczanie zakupów do klienta końcowego, Kontrola stanu technicznego pojazdu, Kontakt z klientem, Obsługa skanera...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-b-plewiska-pow-poznanski-skladowa-3,oferta,1004751512"
+    },
+    {
+      "id": "1004751511",
+      "title": "Kelner / Kelnerka",
+      "company": "RedRally Andrzej Biały",
+      "companyId": 1074068600,
+      "location": "Wrocław",
+      "isWholePoland": false,
+      "salary": "40–45 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T19:07:25.94Z",
+      "expiresAt": "2026-05-05T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przyjmowanie zamówień od gości  , Serwowanie potraw i napojów  , Doradzanie gościom w wyborze dań i napojów  , Utrzymywanie czystości na sali oraz dbanie o estetykę stołów  , obsługa kasy (POS)...",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-wroclaw-krzycka-14,oferta,1004751511"
+    },
+    {
+      "id": "1004736922",
+      "title": "IT Project / Opportunity Managerr",
+      "company": "BCF Software Sp. z o.o.",
+      "companyId": 20261550,
+      "location": "Wrocław",
+      "isWholePoland": false,
+      "salary": "6 000–8 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T19:03:00Z",
+      "expiresAt": "2026-04-28T21:59:59Z",
+      "description": "Twój zakres obowiązków, Identyfikacja i zarządzanie szansami biznesowymi (opportunity management) na rynkach zagranicznych, Koordynacja i nadzór nad procesami projektów — od inicjacji po zamknięcie, Współpraca z klientami z Anglii, Niemiec i...",
+      "url": "https://www.pracuj.pl/praca/it-project-opportunity-managerr-wroclaw,oferta,1004736922"
+    },
+    {
+      "id": "1004736920",
+      "title": "Opportunity / Project Manager",
+      "company": "BCF Software Sp. z o.o.",
+      "companyId": 20261550,
+      "location": "Opole",
+      "isWholePoland": false,
+      "salary": "6 000–8 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T18:56:00Z",
+      "expiresAt": "2026-04-28T21:59:59Z",
+      "description": "Twój zakres obowiązków, Identyfikacja i zarządzanie szansami biznesowymi (opportunity management) na rynkach zagranicznych, Koordynacja i nadzór nad procesami projektów — od inicjacji po zamknięcie, Współpraca z klientami z Anglii, Niemiec i...",
+      "url": "https://www.pracuj.pl/praca/opportunity-project-manager-opole-technologiczna-2,oferta,1004736920"
+    },
+    {
+      "id": "1004742471",
+      "title": "Monter instalacji fotowoltaicznych",
+      "company": "MULTISUN ENERGY sp. z o.o. SK",
+      "companyId": 1074073447,
+      "location": "Wrocław, Psie Pole",
+      "isWholePoland": false,
+      "salary": "5 000–8 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T18:46:52.46Z",
+      "expiresAt": "2026-04-30T21:59:59Z",
+      "description": "Twój zakres obowiązków, Montaż instalacji fotowoltaicznych na dachach oraz konstrukcjach gruntowych, Montaż konstrukcji wsporczych oraz paneli PV, Prowadzenie tras kablowych po stronie DC i AC, Współpraca z elektrykiem przy podłączeniach do...",
+      "url": "https://www.pracuj.pl/praca/monter-instalacji-fotowoltaicznych-wroclaw-zakrzowska-21,oferta,1004742471"
+    },
+    {
+      "id": "1004733498",
+      "title": "Specjalista ds. sklepu internetowego i marketingu (branża muzyczna )",
+      "company": "ANDERSKI - instrumenty muzyczne",
+      "companyId": 20079660,
+      "location": "Rybnik, Golejów",
+      "isWholePoland": false,
+      "salary": "6 000–10 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T18:29:52.447Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, Dodawanie i aktualizacja produktów w sklepie (instrumenty, akcesoria), Wykonywanie zdjęć produktowych (lustrzanka) i ich obróbka, Monitorowanie cen konkurencji, Tworzenie kampanii reklamowych (Facebook Ads, Google Ads),...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-sklepu-internetowego-i-marketingu-branza-muzyczna-rybnik-gliwicka-246,oferta,1004733498"
+    },
+    {
+      "id": "1004710154",
+      "title": "Specjalista ds. uruchomień i integracji systemów - branża elektryczna i teletechniczna (+BMS)",
+      "company": "INTER-COM sp. z o.o.",
+      "companyId": 1074223966,
+      "location": "Gdańsk",
+      "isWholePoland": false,
+      "salary": "10 000–14 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T18:22:48.613Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Realizacja zadań inżynieryjnych: Wykonywanie prac uruchomieniowych na różnych obiektach na podstawie zleceń spływających od Inżynierów poszczególnych budów., Konfiguracja i Oprogramowanie: Programowanie SSP, CCTV, SSWiN,...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-uruchomien-i-integracji-systemow-branza-elektryczna-i-teletechnic-gdansk,oferta,1004710154"
+    },
+    {
+      "id": "1004751509",
+      "title": "Ogrodnik",
+      "company": "OGRODY SZYDŁOWSKI ADAM SZYDŁOWSKI",
+      "companyId": 1074208736,
+      "location": "Tychy, Mąkołowiec",
+      "isWholePoland": false,
+      "salary": "31–41 zł brutto / godz.",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:29:49.6Z",
+      "expiresAt": "2026-05-05T21:59:59Z",
+      "description": "Twój zakres obowiązków, Wykonywanie prac Brukarskich oraz wszystkie prace potrzebne do zakładania ogrodów KONIECZNIE PRAWO JAZDY i bardzo dobra znajomość  JĘZYKA POLSKIEGO ...",
+      "url": "https://www.pracuj.pl/praca/ogrodnik-tychy-pawia-1,oferta,1004751509"
+    },
+    {
+      "id": "1004721771",
+      "title": "Pracownik fizyczny - prace ziemne",
+      "company": "LanFAST Andrzej Stafisz",
+      "companyId": 1074227156,
+      "location": "Siemiatycze",
+      "isWholePoland": false,
+      "salary": "od 30 zł / godz. (zal. od umowy)",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:19:09.907Z",
+      "expiresAt": "2026-04-21T21:59:59Z",
+      "description": "Twój zakres obowiązków, Pomocnik przy koparce, Rozłożenie mikrorurki, Ułożenie taśmy ostrzegawczej, Zagęszczenie skoczkiem...",
+      "url": "https://www.pracuj.pl/praca/pracownik-fizyczny-prace-ziemne-siemiatycze,oferta,1004721771"
+    },
+    {
+      "id": "1004733486",
+      "title": "Telemarketer / Telemarketerka",
+      "company": "FIRMA PRODUKCYJNO-HANDLOWA \"MULTIPAK\" sp.j. T.IWANICKI, Z.LEGIERSKI I WSPÓLNICY",
+      "companyId": 1074180828,
+      "location": "Palowice (pow. rybnicki)",
+      "isWholePoland": false,
+      "salary": "4 666–6 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:15:37.74Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przyjmowanie zamówień sprzedaży, Przedstawianie ofert produktów, Udzielanie informacji o oferowanych produktach , Budowanie i utrzymywanie pozytywnych relacji z klientami  , Realizacja planów sprzedażowych oraz raportowanie...",
+      "url": "https://www.pracuj.pl/praca/telemarketer-telemarketerka-palowice-pow-rybnicki,oferta,1004733486"
+    },
+    {
+      "id": "1004733483",
+      "title": "Pielęgniarka POZ / Pielęgniarz POZ",
+      "company": "\"CENTRUM MEDYCZNE WARSZAWSKIEGO UNIWERSYTETU MEDYCZNEGO\" sp. z o.o.",
+      "companyId": 1074094032,
+      "location": "Warszawa, Ochota",
+      "isWholePoland": false,
+      "salary": "65–8 346 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:10:36.433Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, sprawowanie kompleksowej opieki nad Pacjentami,, wykonywanie świadczeń zdrowotnych zgodnie z ustalonymi procedurami,, monitorowanie stanu pacjentów, podawanie leków,, prowadzenie dokumentacji medycznej zgodnie z...",
+      "url": "https://www.pracuj.pl/praca/pielegniarka-poz-pielegniarz-poz-warszawa-jana-nielubowicza-5,oferta,1004733483"
+    },
+    {
+      "id": "1004733477",
+      "title": "Technik sterylizacji medycznej",
+      "company": "\"CENTRUM MEDYCZNE WARSZAWSKIEGO UNIWERSYTETU MEDYCZNEGO\" sp. z o.o.",
+      "companyId": 1074094032,
+      "location": "Warszawa, Ochota",
+      "isWholePoland": false,
+      "salary": "31,40–35 zł / godz. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:10:34.517Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przyjmowanie, mycie, dezynfekcja i sterylizacja narzędzi stomatologicznych, Obsługa autoklawu oraz urządzeń myjąco-dezynfekujących, Prowadzenie i kontrola dokumentacji procesów sterylizacji, Pakietowanie i znakowanie...",
+      "url": "https://www.pracuj.pl/praca/technik-sterylizacji-medycznej-warszawa-stanislawa-binieckiego-6,oferta,1004733477"
+    },
+    {
+      "id": "1004739803",
+      "title": "Pracownik biurowy / Pracowniczka biurowa - ubezpieczenia - księgowość",
+      "company": "STALMAT SERVICE sp. z o.o.",
+      "companyId": 1074092768,
+      "location": "Warszawa",
+      "isWholePoland": false,
+      "salary": "31–34 zł brutto / godz.",
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:10:28.587Z",
+      "expiresAt": "2026-04-29T21:59:59Z",
+      "description": "Twój zakres obowiązków, Zarządzanie dokumentacją księgową- dbanie o jej prawidłowy obieg do Biura Rachungkowego w Polsce i Niemczech., Obsługa korespondencji w zakresie księgowym., Porządkowanie i archiwizowanie dokumentacji księgowej firmy:...",
+      "url": "https://www.pracuj.pl/praca/pracownik-biurowy-pracowniczka-biurowa-ubezpieczenia-ksiegowosc-warszawa,oferta,1004739803"
+    },
+    {
+      "id": "1004739804",
+      "title": "Pracownik biurowy / Pracowniczka biurowa",
+      "company": "STALMAT SERVICE sp. z o.o.",
+      "companyId": 1074092768,
+      "location": "Warszawa",
+      "isWholePoland": false,
+      "salary": "30–33 zł brutto / godz.",
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T17:10:28.293Z",
+      "expiresAt": "2026-04-29T21:59:59Z",
+      "description": "Twój zakres obowiązków, Zarządzanie dokumentacją biurową - dbanie o jej prawidłowy obieg., Obsługa korespondencji – przychodzącej, wychodzącej i mailowej., Nadzór nad sprawnym funkcjonowaniem biura., Wsparcie Zarządu w bieżących działaniach...",
+      "url": "https://www.pracuj.pl/praca/pracownik-biurowy-pracowniczka-biurowa-warszawa,oferta,1004739804"
+    },
+    {
+      "id": "1004721612",
+      "title": "Specjalista / Specjalistka ds. IT",
+      "company": "PISYSTEMS Marcin Zieliński",
+      "companyId": 1074165834,
+      "location": "Warszawa, Praga-Północ",
+      "isWholePoland": false,
+      "salary": "5 000–10 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
       ],
       "positionLevels": [
         "Młodszy specjalista / Młodsza specjalistka (junior)",
@@ -385,19 +608,49 @@
       "isSuperOffer": false,
       "isOptionalCv": false,
       "isOneClickApply": true,
-      "publishedAt": "2026-03-17T14:55:00Z",
-      "expiresAt": "2026-04-02T21:59:59Z",
-      "description": "Twój zakres obowiązków, Realizacja celów sprzedażowych wyznaczonych przez przełożonych, Obsługa klienta w punkcie sprzedaży Plus i Polsat Box, Doradztwo w zakresie ofert abonamentowych oraz sprzedaż produktów i usług, Aktywne pozyskiwanie usług...",
-      "url": "https://www.pracuj.pl/praca/doradca-sprzedazy-siec-plus-i-polsat-box-gryfice,oferta,1004683496"
+      "publishedAt": "2026-04-05T17:09:30.093Z",
+      "expiresAt": "2026-04-20T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przyjmowanie, rejestrowanie i wstępna weryfikacja problemów zgłaszanych przez użytkowników, Administracja i zarządzanie urządzeniami mobilnymi (MDM), Administrowanie, monitorowanie i bieżące wsparcie systemów...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-it-warszawa-kijowska-20,oferta,1004721612"
     },
     {
-      "id": "1004712099",
-      "title": "Osoba do obsługi kasy / sali sprzedaży",
-      "company": "Polskie Supermarkety Sp. z.o.o.",
-      "companyId": 12586057,
-      "location": "Dziwnów",
+      "id": "1004710088",
+      "title": "Kelner / Kelnerka",
+      "company": "TRANSPORT MIĘDZYNARODOWY I KRAJOWY TOMASZ DZIDA sp. z o.o.",
+      "companyId": 20208755,
+      "location": "Jastrzębie-Zdrój",
       "isWholePoland": false,
-      "salary": "4 806 zł brutto / mies.",
+      "salary": "od 4 806 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T16:49:39.863Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Przyjmowanie zamówień od gości  , Serwowanie potraw i napojów  , Utrzymywanie czystości na stanowisku pracy i na sali  , Doradzanie gościom w wyborze dań i napojów  , Rozliczanie płatności i wydawanie rachunków...",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-jastrzebie-zdroj-zamkowa-5,oferta,1004710088"
+    },
+    {
+      "id": "1004721334",
+      "title": "Sprzedawca/Sprzedawczyni",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074144897,
+      "location": "Bydgoszcz",
+      "isWholePoland": false,
+      "salary": "31,40 zł brutto / godz.",
       "workModes": [
         "Praca stacjonarna"
       ],
@@ -406,7 +659,7 @@
         "Część etatu"
       ],
       "typesOfContract": [
-        "Umowa o pracę"
+        "Umowa zlecenie"
       ],
       "positionLevels": [
         "Pracownik fizyczny / Pracowniczka fizyczna"
@@ -415,28 +668,28 @@
       "isSuperOffer": true,
       "isOptionalCv": false,
       "isOneClickApply": true,
-      "publishedAt": "2026-03-17T12:45:14.85Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, Obsługa klientów na kasie oraz sali sprzedaży,, Dbanie o prawidłową komunikację cenową,, Dbanie o prawidłową jakość i ekspozycję towarów, Dbanie o czystość w sklepie oraz jego obrębie,, Wypiek pieczywa....",
-      "url": "https://www.pracuj.pl/praca/osoba-do-obslugi-kasy-sali-sprzedazy-dziwnow,oferta,1004712099"
+      "publishedAt": "2026-04-05T16:47:00Z",
+      "expiresAt": "2026-04-19T21:59:59Z",
+      "description": "Twój zakres obowiązków, obsługa klienta, obsługa kasy fiskalnej i terminala, zapewnienie porządku na stanowisku pracy, wykładanie towaru, prace porządkowe...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-bydgoszcz,oferta,1004721334"
     },
     {
-      "id": "1004712086",
-      "title": "Osoba do obsługi kasy / sali sprzedaży",
-      "company": "Polskie Supermarkety Sp. z.o.o.",
-      "companyId": 12586057,
-      "location": "Dziwnówek (pow. kamieński)",
+      "id": "1004694990",
+      "title": "Kurier/Kurierka - dostawa zakupów",
+      "company": "Lisek.app",
+      "companyId": 20436838,
+      "location": "Łódź",
       "isWholePoland": false,
-      "salary": "4 806 zł brutto / mies.",
+      "salary": "35–42 zł brutto / godz.",
       "workModes": [
-        "Praca stacjonarna"
+        "Praca mobilna"
       ],
       "workSchedules": [
         "Pełny etat",
         "Część etatu"
       ],
       "typesOfContract": [
-        "Umowa o pracę"
+        "Umowa zlecenie"
       ],
       "positionLevels": [
         "Pracownik fizyczny / Pracowniczka fizyczna"
@@ -444,50 +697,20 @@
       "isRemote": false,
       "isSuperOffer": true,
       "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-17T12:44:09.423Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, Obsługa klientów na kasie oraz sali sprzedaży,, Dbanie o prawidłową komunikację cenową,, Dbanie o prawidłową jakość i ekspozycję towarów, Dbanie o czystość w sklepie oraz jego obrębie,, Wypiek pieczywa....",
-      "url": "https://www.pracuj.pl/praca/osoba-do-obslugi-kasy-sali-sprzedazy-dziwnowek-pow-kamienski,oferta,1004712086"
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T16:12:32.903Z",
+      "expiresAt": "2026-04-08T21:59:59Z",
+      "description": "Twój zakres obowiązków, Pakowanie i dostarczanie zakupów spożywczych do klientów Liska, Realizacja zamówień na krótkich trasach miejskich, Kontakt z klientem przy odbiorze zamówienia, Praca z aplikacją mobilną wspierającą dostawy...",
+      "url": "https://www.pracuj.pl/praca/kurier-kurierka-dostawa-zakupow-lodz,oferta,1004694990"
     },
     {
-      "id": "1004712083",
-      "title": "Osoba do obsługi kasy / sali sprzedaży",
-      "company": "Polskie Supermarkety Sp. z.o.o.",
-      "companyId": 12586057,
-      "location": "Rewal (pow. gryficki)",
+      "id": "1004733446",
+      "title": "Pracownik ogólnobudowlany / Pracowniczka ogólnobudowlana",
+      "company": "GRABOWSKI TADEUSZ USŁUGI REMONTOWO - BUDOWLANE",
+      "companyId": 1074218003,
+      "location": "Świątniki Górne",
       "isWholePoland": false,
-      "salary": "4 806 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-17T12:43:49.037Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, Obsługa klientów na kasie oraz sali sprzedaży,, Dbanie o prawidłową komunikację cenową,, Dbanie o prawidłową jakość i ekspozycję towarów, Dbanie o czystość w sklepie oraz jego obrębie,, Wypiek pieczywa....",
-      "url": "https://www.pracuj.pl/praca/osoba-do-obslugi-kasy-sali-sprzedazy-rewal-pow-gryficki,oferta,1004712083"
-    },
-    {
-      "id": "1004710283",
-      "title": "Referent/inspektor ds. Restrukturyzacji i Windykacji (k/m)",
-      "company": "BANK SPÓŁDZIELCZY W GRYFICACH",
-      "companyId": 20149073,
-      "location": "Gryfice",
-      "isWholePoland": false,
-      "salary": "6 000–8 000 zł brutto / mies.",
+      "salary": "35–40 zł brutto / godz.",
       "workModes": [
         "Praca stacjonarna"
       ],
@@ -496,333 +719,6 @@
       ],
       "typesOfContract": [
         "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-17T06:52:14.33Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, pomoc w koordynowaniu procesu restrukturyzacji i windykacji w Oddziałach Banku, prowadzenie postępowań restrukturyzacyjnych i ugodowych klientów Banku, pomoc w prowadzeniu postępowań sądowych wspólnie z kancelarią prawną...",
-      "url": "https://www.pracuj.pl/praca/referent-inspektor-ds-restrukturyzacji-i-windykacji-k-m-gryfice-plac-zwyciestwa-5,oferta,1004710283"
-    },
-    {
-      "id": "1004710279",
-      "title": "Opiekun klienta w dziale kredytów (k/m)",
-      "company": "BANK SPÓŁDZIELCZY W GRYFICACH",
-      "companyId": 20149073,
-      "location": "Gryfice",
-      "isWholePoland": false,
-      "salary": "6 000–8 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-17T06:45:53.59Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, indywidualne doradztwo w zakresie produktów kredytowych, dopasowanie produktów do potrzeb i możliwości Klienta, aktywne pozyskiwanie nowych Klientów oraz budowanie trwałych relacji, ocena kondycji finansowej i zdolności...",
-      "url": "https://www.pracuj.pl/praca/opiekun-klienta-w-dziale-kredytow-k-m-gryfice-plac-zwyciestwa-5,oferta,1004710279"
-    },
-    {
-      "id": "1004674841",
-      "title": "Księgowy / Księgowa",
-      "company": "\"PORTA MARE\" sp. z o.o.",
-      "companyId": 1074093527,
-      "location": "Dziwnówek (pow. kamieński)",
-      "isWholePoland": false,
-      "salary": "od 6 000 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-14T13:30:10.497Z",
-      "expiresAt": "2026-03-29T21:59:59Z",
-      "description": "Twój zakres obowiązków, wprowadzanie, dekretowanie i księgowanie faktur zakupu, sprzedaży i innych dokumentów księgowych, weryfikacja kont rozrachunkowych z dostawcami i odbiorcami, księgowanie rozliczeń międzyokresowych, rozliczanie magazynów,...",
-      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-dziwnowek-pow-kamienski-wolnosci-38,oferta,1004674841"
-    },
-    {
-      "id": "1004650667",
-      "title": "Kwalifikowany pracownik ochrony fizycznej",
-      "company": "SIGN POLSKA sp. z o.o. SK",
-      "companyId": 1074216596,
-      "location": "Międzyzdroje",
-      "isWholePoland": false,
-      "salary": "5 200–5 600 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-13T06:47:35.703Z",
-      "expiresAt": "2026-03-19T22:59:59Z",
-      "description": "Twój zakres obowiązków, Ochrona życia, zdrowia i mienia powierzonego do zabezpieczenia  , Praca przy patrolowaniu i interwencjach, Kontrola ruchu osobowego i materiałowego na terenie chronionego obiektu  , Ujawnianie i przeciwdziałanie zagrożeniom...",
-      "url": "https://www.pracuj.pl/praca/kwalifikowany-pracownik-ochrony-fizycznej-miedzyzdroje,oferta,1004650667"
-    },
-    {
-      "id": "1004702973",
-      "title": "Kasjer / Kasjerka",
-      "company": "Joanna KUTA WILLA 777",
-      "companyId": 20376311,
-      "location": "Międzyzdroje",
-      "isWholePoland": false,
-      "salary": "6 500–7 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-12T15:04:05.997Z",
-      "expiresAt": "2026-04-11T21:59:59Z",
-      "description": "Twój zakres obowiązków, obsługa kasy fiskalnej i terminala płatniczego, obsługa baru, obsługa gości, przygotowywanie baru do sprzedaży, dbanie o estetykę i porządek, współpraca z zespołem kuchni i recepcji, przestrzeganie standardów obsługi i...",
-      "url": "https://www.pracuj.pl/praca/kasjer-kasjerka-miedzyzdroje-ignacego-krasickiego-8,oferta,1004702973"
-    },
-    {
-      "id": "1004691412",
-      "title": "Pokojowa / Pokojowy",
-      "company": "ADEKSANA sp. z o.o. SKA",
-      "companyId": 1074103908,
-      "location": "Trzęsacz (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 000–6 888 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-06T18:10:35.84Z",
-      "expiresAt": "2026-04-05T21:59:59Z",
-      "description": "Twój zakres obowiązków, Do naszego obiektu hotelowego nad morzem zatrudnimy Panie/Panów na stanowisko pokojowa/pokojowy. Praca od zaraz. Możliwość zakwaterowania (jeśli dotyczy - opcjonalnie)., , Zakres obowiązków:, , Zapewnienie czystości i...",
-      "url": "https://www.pracuj.pl/praca/pokojowa-pokojowy-trzesacz-pow-gryficki,oferta,1004691412"
-    },
-    {
-      "id": "1004691411",
-      "title": "Barman / Barmanka",
-      "company": "ADEKSANA sp. z o.o. SKA",
-      "companyId": 1074103908,
-      "location": "Trzęsacz (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 000–7 056 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-06T18:10:35.75Z",
-      "expiresAt": "2026-04-05T21:59:59Z",
-      "description": "Twój zakres obowiązków, Do naszego obiektu hotelowego nad morzem poszukujemy barmana / barmanki. Mile widziani studenci. Dostępna opcja zakwaterowania., Zakres obowiązków:, przygotowywanie i serwowanie napojów oraz drinków zgodnie z recepturami i...",
-      "url": "https://www.pracuj.pl/praca/barman-barmanka-trzesacz-pow-gryficki,oferta,1004691411"
-    },
-    {
-      "id": "1004691405",
-      "title": "Pomoc kuchenna",
-      "company": "ADEKSANA sp. z o.o. SKA",
-      "companyId": 1074103908,
-      "location": "Trzęsacz (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 000–7 056 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-06T18:10:30.677Z",
-      "expiresAt": "2026-04-05T21:59:59Z",
-      "description": "Twój zakres obowiązków, Do naszego obiektu hotelowego nad morzem zatrudnimy pomoce kuchenne. Praca całoroczna od trzeciej dekady marca., Zakres obowiązków:, przygotowywanie potraw zgodnie z recepturami i obowiązującymi normami jakości,...",
-      "url": "https://www.pracuj.pl/praca/pomoc-kuchenna-trzesacz-pow-gryficki,oferta,1004691405"
-    },
-    {
-      "id": "1004691404",
-      "title": "Recepcjonista / Recepcjonistka",
-      "company": "ADEKSANA sp. z o.o. SKA",
-      "companyId": 1074103908,
-      "location": "Trzęsacz (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 000–7 224 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-06T18:10:30.553Z",
-      "expiresAt": "2026-04-05T21:59:59Z",
-      "description": "Twój zakres obowiązków, Do naszego obiektu hotelowego nad morzem zatrudnimy osoby na stanowisko recepcjonista/recepcjonistka. Praca całoroczna od trzeciej dekady marca. Mile widziani studenci., Zakres obowiązków:, obsługa gości hotelowych podczas...",
-      "url": "https://www.pracuj.pl/praca/recepcjonista-recepcjonistka-trzesacz-pow-gryficki,oferta,1004691404"
-    },
-    {
-      "id": "1004691401",
-      "title": "Kucharz / Kucharka",
-      "company": "ADEKSANA sp. z o.o. SKA",
-      "companyId": 1074103908,
-      "location": "Trzęsacz (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "6 500–9 072 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-06T18:10:30.267Z",
-      "expiresAt": "2026-04-05T21:59:59Z",
-      "description": "Twój zakres obowiązków, Do naszego obiektu hotelowego nad morzem zatrudnimy kucharza/kucharkę. Praca całoroczna od trzeciej dekady marca. , Zakres obowiązków:, samodzielne przygotowywanie potraw zgodnie z recepturami i standardami obiektu, nadzór...",
-      "url": "https://www.pracuj.pl/praca/kucharz-kucharka-trzesacz-pow-gryficki,oferta,1004691401"
-    },
-    {
-      "id": "1004680111",
-      "title": "Sprzedawca / Sprzedawczyni",
-      "company": "MultiBigBang Łukasz Łącki",
-      "companyId": 1074231273,
-      "location": "Rewal (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 200–11 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna",
-        "Praca zdalna",
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": true,
-      "isSuperOffer": false,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-03-03T08:10:48.427Z",
-      "expiresAt": "2026-04-02T21:59:59Z",
-      "description": "Twój zakres obowiązków, Uczenie się wszystkiego na tym stanowisku, choć jak zostaniesz tylko kasjerem to ok., kasjer: higiena i czystość sklepu, szukanie ofert kupna taniej asortymentu by sprzedać drożej, obsługa drukarki fiskalnej, wystawianie...",
-      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-rewal-pow-gryficki-westerplatte-10,oferta,1004680111"
-    },
-    {
-      "id": "1004676354",
-      "title": "Pracownik budowlany - Pomocnik",
-      "company": "Usługi Hydrauliczne Marcin Salamon",
-      "companyId": 1074185299,
-      "location": "Pobierowo (pow. gryficki)",
-      "isWholePoland": false,
-      "salary": "5 000–6 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
       ],
       "positionLevels": [
         "Pracownik fizyczny / Pracowniczka fizyczna"
@@ -831,19 +727,19 @@
       "isSuperOffer": false,
       "isOptionalCv": true,
       "isOneClickApply": true,
-      "publishedAt": "2026-03-01T16:42:47.223Z",
-      "expiresAt": "2026-03-31T21:59:59Z",
-      "description": "Twój zakres obowiązków, prace hydrauliczne ...",
-      "url": "https://www.pracuj.pl/praca/pracownik-budowlany-pomocnik-pobierowo-pow-gryficki,oferta,1004676354"
+      "publishedAt": "2026-04-05T16:01:20.33Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, wykonywanie wskazanych prac remontowo-budowlanych, obsługa narzędzi, montaż i demontaż rusztowania, przygotowywanie miejsca pracy, rozładunek materiałów budowlanych...",
+      "url": "https://www.pracuj.pl/praca/pracownik-ogolnobudowlany-pracowniczka-ogolnobudowlana-swiatniki-gorne,oferta,1004733446"
     },
     {
-      "id": "1004673068",
-      "title": "Recepcjonistka - Pani Pokojowa",
-      "company": "VILLA MODIVA - KRST",
-      "companyId": 20410107,
-      "location": "Międzyzdroje",
+      "id": "1004710059",
+      "title": "Kierowca kat. C",
+      "company": "STB TRANS Sp. z o.o.",
+      "companyId": 20301335,
+      "location": "Bielany Wrocławskie (pow. wrocławski)",
       "isWholePoland": false,
-      "salary": "5 000–6 000 zł / mies. (zal. od umowy)",
+      "salary": "6 000–6 597 zł / mies. (zal. od umowy)",
       "workModes": [
         "Praca stacjonarna"
       ],
@@ -859,12 +755,943 @@
       ],
       "isRemote": false,
       "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:48:07.97Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, CO BĘDZIE NALEŻAŁO DO TWOICH OBOWIĄZKÓW?, znalezienie towaru na magazynie i załadowanie go na samochód;, rozplanowanie trasy i dostarczenie towaru do klienta;, kontakt telefoniczny z klientem oraz spedycją;, rozliczenie się...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-c-bielany-wroclawskie-pow-wroclawski,oferta,1004710059"
+    },
+    {
+      "id": "11912053",
+      "title": "Order Picker w Centrum Dystrybucyjnym",
+      "company": "OTTO Work Force",
+      "companyId": 20017671,
+      "location": "Geldermalsen, Pijnacker, Tilburgu, Zaandam i Zwolle, Holandia",
+      "isWholePoland": false,
+      "salary": "10 000–15 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:47:00Z",
+      "expiresAt": "2026-04-21T21:59:59Z",
+      "description": "Twój zakres obowiązków, Jako order picker zostaniesz przeszkolony do wykonywania takich zadań jak:, Kompletacja produktów za pomocą ręcznego lub głosowego systemu kompletacji, Podnoszenie paczek o różnej wadze, Uszczelnianie palet i...",
+      "url": "https://www.pracuj.pl/praca/order-picker-w-centrum-dystrybucyjnym-holandia,oferta,11912053"
+    },
+    {
+      "id": "1004719789",
+      "title": "Księgowy / Księgowa",
+      "company": "ZAWODOWI KSIĘGOWI sp. z o.o.",
+      "companyId": 1074231126,
+      "location": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "salary": "8 000–14 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
       "isOptionalCv": false,
       "isOneClickApply": true,
-      "publishedAt": "2026-02-27T07:20:43.797Z",
-      "expiresAt": "2026-03-29T21:59:59Z",
-      "description": "Twój zakres obowiązków, obsługa gości, sprzątanie pokoi, przygotowywanie oraz podawanie śniadań, obsługa systemów rezerwacyjnych i portali sprzedażowych w szczególności Bookingu, mile widziana znajomość NF Hotel, dbanie o najwyższą jakość obsługi...",
-      "url": "https://www.pracuj.pl/praca/recepcjonistka-pani-pokojowa-miedzyzdroje-bohaterow-warszawy-2,oferta,1004673068"
+      "publishedAt": "2026-04-05T15:43:06.797Z",
+      "expiresAt": "2026-04-19T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie księgowości jednoosobowych działalności gospodarczych (KPiR, ryczałt) , Prowadzenie księgowości małych spółek z o.o. , Rozliczenia ZUS i proste kadry , Bieżąca komunikacja oraz obsługa klientów , Dbanie o...",
+      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-warszawa-zurawia-22,oferta,1004719789"
+    },
+    {
+      "id": "1004710054",
+      "title": "Przedstawiciel medyczny / Przedstawicielka medyczna",
+      "company": "XERTUS sp. z o.o.",
+      "companyId": 1074145340,
+      "location": "Kraków",
+      "isWholePoland": false,
+      "salary": "5 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:38:04.997Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, realizacja planów sprzedażowych, praca mobilna na terenie danego województwa , pozyskiwanie nowych klientów, utrzymywanie dobrych relacji z klientami, promocja produktów firmy u lekarzy specjalistów , kreowanie wizerunku...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-medyczny-przedstawicielka-medyczna-krakow,oferta,1004710054"
+    },
+    {
+      "id": "1004710055",
+      "title": "Przedstawiciel medyczny / Przedstawicielka medyczna",
+      "company": "XERTUS sp. z o.o.",
+      "companyId": 1074145340,
+      "location": "Poznań",
+      "isWholePoland": false,
+      "salary": "5 000–13 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:38:04.997Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, realizacja planów sprzedażowych, praca mobilna na terenie danego województwa , pozyskiwanie nowych klientów, utrzymywanie dobrych relacji z klientami, promocja produktów firmy u lekarzy specjalistów , kreowanie wizerunku...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-medyczny-przedstawicielka-medyczna-poznan,oferta,1004710055"
+    },
+    {
+      "id": "1004710052",
+      "title": "Telefoniczny doradca / Telefoniczna doradczyni klienta",
+      "company": "FRANKI KANCELARIA sp. z o.o.",
+      "companyId": 1074187760,
+      "location": "Kraków, Stare Miasto",
+      "isWholePoland": false,
+      "salary": "5 500–10 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:35:02.49Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie klientów - nawiązywanie kontaktów z klientami przez połączenia wychodzące, wykorzystując zróżnicowaną bazę danych, a także indywidualne dopasowanie podejścia do każdego klienta, aby efektywnie...",
+      "url": "https://www.pracuj.pl/praca/telefoniczny-doradca-telefoniczna-doradczyni-klienta-krakow-izaaka-7,oferta,1004710052"
+    },
+    {
+      "id": "1004730755",
+      "title": "Zastępca Kierownika Sklepu (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyId": 921,
+      "location": "Nowy Targ",
+      "isWholePoland": false,
+      "salary": "5 950–6 350 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:22:47.45Z",
+      "expiresAt": "2026-04-24T21:59:59Z",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Zastępcy / Zastępczyni Kierownika Sklepu / Zastępcy / Zastępczyni Kierowniczki Sklepu., Planowanie i organizowanie pracy zespołu, Obsługa klienta przy kasie fiskalnej i na sali...",
+      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-nowy-targ,oferta,1004730755"
+    },
+    {
+      "id": "1004730753",
+      "title": "Zastępca Kierownika Sklepu (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyId": 921,
+      "location": "Zakopane",
+      "isWholePoland": false,
+      "salary": "6 600–7 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:20:02.133Z",
+      "expiresAt": "2026-04-24T21:59:59Z",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Zastępcy / Zastępczyni Kierownika Sklepu / Zastępcy / Zastępczyni Kierowniczki Sklepu., Planowanie i organizowanie pracy zespołu, Obsługa klienta przy kasie fiskalnej i na sali...",
+      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-zakopane,oferta,1004730753"
+    },
+    {
+      "id": "1004710036",
+      "title": "Pracownik budowlany / Pracowniczka budowlana",
+      "company": "\"LUX-HAUS\" J.KAMIŃSKA - PISKOREK I WSPÓLNICY sp.j.",
+      "companyId": 1074133537,
+      "location": "Bielsko-Biała",
+      "isWholePoland": false,
+      "salary": "5 275–10 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:15:48.713Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Firma poszukuje pracowników budowlanych do montażu domów prefabrykowanych. Wymagane doświadczenie w pracy na budowie, umiejętność pracy w zespole, zdolności manualne, zmysł techniczny, dyspozycyjność do pracy na terenie...",
+      "url": "https://www.pracuj.pl/praca/pracownik-budowlany-pracowniczka-budowlana-bielsko-biala,oferta,1004710036"
+    },
+    {
+      "id": "1004733429",
+      "title": "Drukarz cyfrowy (m/k)",
+      "company": "SIMPLICITY PRINTING HOUSE SP.ZO.O. SPÓŁKA KOMANDYTOWA",
+      "companyId": 1074098988,
+      "location": "Dąbrówka (pow. poznański)",
+      "isWholePoland": false,
+      "salary": "4 850–6 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:15:42.607Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, Obsługa maszyn do druku wielkoformatowego w technologii UV, lateks, Terminowa realizacja zleceń...",
+      "url": "https://www.pracuj.pl/praca/drukarz-cyfrowy-m-k-dabrowka-pow-poznanski,oferta,1004733429"
+    },
+    {
+      "id": "1004733422",
+      "title": "Technolog folii PE/PP",
+      "company": "KABLONEX Sp z o.o.",
+      "companyId": 20305970,
+      "location": "Podanin (pow. chodzieski)",
+      "isWholePoland": false,
+      "salary": "7 000–8 500 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:15:40.507Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, Jeśli znasz się na przetwórstwie tworzyw sztucznych, masz doświadczenie przy wytłaczaniu i lubisz pracę, w której technologia spotyka się z praktyką – szukamy właśnie Ciebie., , Rozwijamy nasze projekty w dziale R&D i...",
+      "url": "https://www.pracuj.pl/praca/technolog-folii-pe-pp-podanin-pow-chodzieski,oferta,1004733422"
+    },
+    {
+      "id": "1004736228",
+      "title": "Kierowca C+E międzynarodowy M/F/X",
+      "company": "KUŁTON TRANSPORT SP. Z O.O. SP.K.",
+      "companyId": 20290446,
+      "location": "Czekanów (pow. ostrowski)",
+      "isWholePoland": false,
+      "salary": "od 10 500 zł brutto / mies.",
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:11:11.197Z",
+      "expiresAt": "2026-04-26T21:59:59Z",
+      "description": "Twój zakres obowiązków, Do Twoich obowiązków należeć będzie :, transport towarów na terenie całej Europy , dopilnowanie dokumentacji załadunkowo – rozładunkowej, dbałość o powierzone mienie , wykonywanie czynności kontrolno – obsługowych...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-miedzynarodowy-m-f-x-czekanow-pow-ostrowski-kaliska-25,oferta,1004736228"
+    },
+    {
+      "id": "1004742356",
+      "title": "Koordynator / Koordynatorka robót budowlanych",
+      "company": "BOX HAUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074048746,
+      "location": "Zabrze",
+      "isWholePoland": false,
+      "salary": "7 000–8 500 zł brutto / mies.",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:10:59.52Z",
+      "expiresAt": "2026-04-30T21:59:59Z",
+      "description": "Twój zakres obowiązków, koordynacja i nadzór nad realizacją robót budowlanych zgodnie z harmonogramem i dokumentacją techniczną,, współpraca z pozostałymi działami firmy, podwykonawcami, inwestorem oraz projektantami,, kontrola jakości,...",
+      "url": "https://www.pracuj.pl/praca/koordynator-koordynatorka-robot-budowlanych-zabrze-ziemska-42,oferta,1004742356"
+    },
+    {
+      "id": "1004710025",
+      "title": "Technolog Tworzyw Sztucznych / Procesu Wtrysku",
+      "company": "AWENTA E.W.A. CHOMKA sp.j.",
+      "companyId": 1074045014,
+      "location": "Stojadła (pow. miński)",
+      "isWholePoland": false,
+      "salary": "6 000–8 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:10:49.643Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, tworzenie i nadzór nad dokumentacją produkcyjną i jakościową (karty technologiczne, instrukcje), rozwiązywanie problemów produkcyjnych i jakościowych (analizy, wdrażanie rozwiązań), weryfikacja przyczyn źródłowych...",
+      "url": "https://www.pracuj.pl/praca/technolog-tworzyw-sztucznych-procesu-wtrysku-stojadla-pow-minski,oferta,1004710025"
+    },
+    {
+      "id": "1004710019",
+      "title": "Doradca techniczno-handlowy branża Wod-KAN",
+      "company": "CONECTO PROFILES sp. z o.o.",
+      "companyId": 1074095280,
+      "location": "Kalisz",
+      "isWholePoland": false,
+      "salary": "10 000–16 000 zł brutto / mies.",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:10:48.167Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, dbanie o odpowiednie zaprezentowanie towarów firmy, podtrzymywanie długofalowych relacji z kontrahentami, prowadzenie działań nakierowanych na pozyskiwanie nowych klientów, monitorowanie procesów reklamacyjnych,...",
+      "url": "https://www.pracuj.pl/praca/doradca-techniczno-handlowy-branza-wod-kan-kalisz,oferta,1004710019"
+    },
+    {
+      "id": "1004751508",
+      "title": "Kurier - Kierowca kat. B",
+      "company": "ONETRANSPORT sp. z o.o.",
+      "companyId": 1074165744,
+      "location": "Długołęka (pow. wrocławski)",
+      "isWholePoland": false,
+      "salary": "6 691–8 000 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:05:07.713Z",
+      "expiresAt": "2026-05-05T21:59:59Z",
+      "description": "Twój zakres obowiązków, sortowanie oraz skanowanie przesyłek, załadunek auta, doręczanie przesyłek do paczkomatów , realizacja zleconych odbiorów, rozładunek oraz rozliczenie na magazynie...",
+      "url": "https://www.pracuj.pl/praca/kurier-kierowca-kat-b-dlugoleka-pow-wroclawski,oferta,1004751508"
+    },
+    {
+      "id": "1004733397",
+      "title": "Pracownik magazynowy | praca dodatkowa na 3 dni",
+      "company": "Agencja Pracy Czasowej TEMPUS A Sp. z o.o. Sp. K.",
+      "companyId": 20216730,
+      "location": "Warszawa",
+      "isWholePoland": false,
+      "salary": "32–37,70 zł brutto / godz.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:05:02.327Z",
+      "expiresAt": "2026-04-25T21:59:59Z",
+      "description": "Twój zakres obowiązków, ręczne sortowanie przesyłek,, rozładunek i załadunek transportu,, praca ze skanerem,, rozdzielanie towaru na dalsze kierunki wysyłki....",
+      "url": "https://www.pracuj.pl/praca/pracownik-magazynowy-praca-dodatkowa-na-3-dni-warszawa,oferta,1004733397"
+    },
+    {
+      "id": "1004739736",
+      "title": "Magazyn| Tyniec Mały| Darmowy transport |",
+      "company": "Gi Group Poland S.A.",
+      "companyId": 20408755,
+      "location": "Wrocław",
+      "isWholePoland": false,
+      "salary": "5 100–5 300 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:03:00Z",
+      "expiresAt": "2026-04-29T21:59:59Z",
+      "description": "Twój zakres obowiązków, Kompletowanie zamówień przy użyciu skanera, Ręczne układanie towarów na paletach, Obsługa wózków paletowych (po przeszkoleniu dostępne wózki elektryczne)...",
+      "url": "https://www.pracuj.pl/praca/magazyn-tyniec-maly-darmowy-transport-wroclaw,oferta,1004739736"
+    },
+    {
+      "id": "1004742339",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "companyId": 20270775,
+      "location": "Białystok, Antoniuk",
+      "isWholePoland": false,
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-bialystok-wierzbowa-12,oferta,1004742339"
+    },
+    {
+      "id": "1004742340",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "companyId": 20270775,
+      "location": "Kielce",
+      "isWholePoland": false,
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-kielce-aleja-solidarnosci-34,oferta,1004742340"
+    },
+    {
+      "id": "1004742338",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "companyId": 20270775,
+      "location": "Kraków, Stare Miasto",
+      "isWholePoland": false,
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-krakow-aleja-29-listopada-20,oferta,1004742338"
+    },
+    {
+      "id": "1004742341",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "companyId": 20270775,
+      "location": "Lublin",
+      "isWholePoland": false,
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-lublin-doktora-witolda-chodzki-27,oferta,1004742341"
+    },
+    {
+      "id": "1004742342",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "companyId": 20270775,
+      "location": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-warszawa-nowogrodzka-42,oferta,1004742342"
+    },
+    {
+      "id": "1004742337",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "companyId": 20270775,
+      "location": "Wrocław, Stare Miasto",
+      "isWholePoland": false,
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-wroclaw-rybacka-9,oferta,1004742337"
+    },
+    {
+      "id": "1004745269",
+      "title": "Data Engineer - databricks (k/m/x)",
+      "company": "SQUARE ONE RESOURCES sp. z o.o.",
+      "companyId": 20409928,
+      "location": "Warszawa",
+      "isWholePoland": true,
+      "salary": "100–140 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:02:00Z",
+      "expiresAt": "2026-05-01T21:59:59Z",
+      "description": "Twój zakres obowiązków, Analiza dużych wolumenów danych z sensorów w celu identyfikacji edge cases (np. nagłe hamowanie, bliskie pojazdy), Pisanie złożonych zapytań w SQL / Python / Spark (PySpark) do filtrowania, agregowania i transformowania...",
+      "url": "https://www.pracuj.pl/praca/data-engineer-databricks-k-m-x-warszawa,oferta,1004745269"
+    },
+    {
+      "id": "1004709997",
+      "title": "Konserwator maszyn i urządzeń - Mechanik",
+      "company": "RW LIFT ROBERT WOŹNIAK",
+      "companyId": 1074136775,
+      "location": "Luboń, Żabikowo",
+      "isWholePoland": false,
+      "salary": "6 000–8 000 zł / mies. (zal. od umowy)",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:01:27.06Z",
+      "expiresAt": "2026-04-15T21:59:59Z",
+      "description": "Twój zakres obowiązków, Chcemy zaoferować Ci stanowisko konserwatora urządzeń dźwigowych. Serwisujemy nowoczesne urządzenia czołowych światowych producentów. Praca przy urządzeniach dźwigowych pod okiem wykwalifikowanego i doświadczonego...",
+      "url": "https://www.pracuj.pl/praca/konserwator-maszyn-i-urzadzen-mechanik-lubon-poniatowskiego-14,oferta,1004709997"
+    },
+    {
+      "id": "1004745265",
+      "title": "Ślusarz nitowacz (m/k/x)",
+      "company": "Trenkwalder",
+      "companyId": 18802336,
+      "location": "Świdnik",
+      "isWholePoland": false,
+      "salary": "5 590–6 180 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:01:00Z",
+      "expiresAt": "2026-05-01T21:59:59Z",
+      "description": "Twój zakres obowiązków, prace produkcyjne polegające na montażu struktur i podzespołów z gotowych elementów,, w zależności od działu będzie to: łączenie elementów, wiercenie, rozwiercanie lub nitowanie....",
+      "url": "https://www.pracuj.pl/praca/slusarz-nitowacz-m-k-x-swidnik,oferta,1004745265"
+    },
+    {
+      "id": "1004745266",
+      "title": "Automation Tester (SQL, Cypress) k/m/*",
+      "company": "SQUARE ONE RESOURCES sp. z o.o.",
+      "companyId": 20409928,
+      "location": "Warszawa",
+      "isWholePoland": true,
+      "salary": "70–110 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:01:00Z",
+      "expiresAt": "2026-05-01T21:59:59Z",
+      "description": "Twój zakres obowiązków, Projektowanie, rozwój i utrzymanie frameworków automatyzacji testów (Cypress), Tworzenie i wykonywanie testów UI oraz API (REST/JSON), Testowanie integracyjne, regresyjne i walidacyjne API, Analiza danych testowych i...",
+      "url": "https://www.pracuj.pl/praca/automation-tester-sql-cypress-k-m-warszawa,oferta,1004745266"
+    },
+    {
+      "id": "1004713009",
+      "title": "Qlik Sense Developer",
+      "company": "Cyclad",
+      "companyId": 20005890,
+      "location": "Warszawa",
+      "isWholePoland": true,
+      "salary": "140–160 zł netto (+ VAT) / godz.",
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "isRemote": true,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "publishedAt": "2026-04-05T15:00:08.087Z",
+      "expiresAt": "2026-04-16T21:59:59Z",
+      "description": "Your responsibilities, Develop interactive and user-friendly dashboards and reports using Qlik Sense, Collaborate with business users to gather and clarify requirements, challenge unclear or low value requests and suggest improvements, Translate...",
+      "url": "https://www.pracuj.pl/praca/qlik-sense-developer-warszawa,oferta,1004713009"
+    },
+    {
+      "id": "11918016",
+      "title": "Kierowca C+E - System 2/1, 2/2, 3/1, 4/1, 4/2",
+      "company": "SAWI PERSONAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyId": 1074129660,
+      "location": "Görlitz, Cottbus, Berlin, Lipsk, Drezno, Dortmund, Hamburg, Magdeburg, Hanower i inne miasta, Niemcy",
+      "isWholePoland": false,
+      "salary": "10 000–19 500 zł brutto / mies.",
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:00:00Z",
+      "expiresAt": "2026-04-23T21:59:59Z",
+      "description": "Twój zakres obowiązków, Praca na trasach po Niemczech bądź na trasach międzynarodowych – do wyboru, Praca w systemie 2/2, 2/1, 3/1, 4/1, 4/2, bez systemu z wolnymi weekendami – do wyboru, Praca na zestawach typu: plandeka, firanka, silos,...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-system-2-1-2-2-3-1-4-1-4-2-niemcy,oferta,11918016"
+    },
+    {
+      "id": "11934136",
+      "title": "Opiekunka / Opiekun osoby starszej w Irlandii",
+      "company": "ALHomecare",
+      "companyId": 1074073706,
+      "location": "Irlandia",
+      "isWholePoland": true,
+      "salary": "8 185–16 755 zł brutto / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:00:00Z",
+      "expiresAt": "2026-05-01T21:59:59Z",
+      "description": "Twój zakres obowiązków, Poszukujemy sumiennych, troskliwych Pań / Panów mających doświadczenie zarówno zawodowe jak i prywatne w opiece nad starszymi osobami, do opieki nad seniorami w ich własnych domach w Irlandii., , Oferujemy pracę również...",
+      "url": "https://www.pracuj.pl/praca/opiekunka-opiekun-osoby-starszej-w-irlandii-irlandia,oferta,11934136"
+    },
+    {
+      "id": "11911941",
+      "title": "Cieśla Dachowy",
+      "company": "ZAKRZEWSKI -RENOVIERUNG",
+      "companyId": 1074164322,
+      "location": "Niemcy",
+      "isWholePoland": false,
+      "salary": "15 000–22 000 zł netto (+ VAT) / mies.",
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "isRemote": false,
+      "isSuperOffer": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "publishedAt": "2026-04-05T15:00:00Z",
+      "expiresAt": "2026-04-20T21:59:59Z",
+      "description": "Twój zakres obowiązków, Realizacja prac ciesielskich związanych z konstrukcją drewnianych szkieletów dachów budynków, Montaż i wzmocnienie konstrukcji dachowych zgodnie z projektami technicznymi, Współpraca z innymi członkami zespołu na każdym...",
+      "url": "https://www.pracuj.pl/praca/ciesla-dachowy-niemcy,oferta,11911941"
     }
   ]
 }

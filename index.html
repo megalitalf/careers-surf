@@ -101,8 +101,30 @@
 
   <script src="stats.js"></script>
   <script src="common.js"></script>
-  <script src="jobs.js"></script>
-  <script src="game.js"></script>
+  <script>
+    // Load jobs.js from S3, fall back to local, then load game.js once ready.
+    (function() {
+      function loadGame() {
+        var g = document.createElement("script");
+        g.src = "game.js";
+        document.head.appendChild(g);
+      }
+      function loadLocal() {
+        console.warn("S3 jobs.js unavailable, falling back to local jobs.js");
+        var fallback = document.createElement("script");
+        fallback.src = "jobs.js";
+        fallback.onload  = loadGame;
+        fallback.onerror = loadGame; // start game even without listings
+        document.head.appendChild(fallback);
+      }
+      var S3_URL = "https://careers-surf-data.s3.eu-north-1.amazonaws.com/jobs/jobs.js";
+      var s = document.createElement("script");
+      s.src    = S3_URL;
+      s.onload  = loadGame;
+      s.onerror = loadLocal;
+      document.head.appendChild(s);
+    })();
+  </script>
 
 </body> 
 </html>

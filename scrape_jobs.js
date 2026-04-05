@@ -34,6 +34,7 @@ puppeteer.use(StealthPlugin());
 const fs    = require("fs");
 const path  = require("path");
 const https = require("https");
+const { S3Client, PutObjectCommand } = require("@aws-sdk/client-s3");
 
 // ── CLI args ──────────────────────────────────────────────────────────────────
 const args    = process.argv.slice(2);
@@ -44,6 +45,9 @@ const TOTAL_PAGES  = parseInt(getArg("--pages", "1"), 10);
 const OUT_FILE     = getArg("--out", path.join(__dirname, "jobs.json"));
 const HEADLESS     = !hasFlag("--visible");
 const ENRICH       = hasFlag("--enrich");
+const S3_BUCKET    = getArg("--s3-bucket", process.env.S3_BUCKET || "");
+const S3_PREFIX    = getArg("--s3-prefix", process.env.S3_PREFIX || "jobs");
+const S3_REGION    = process.env.AWS_REGION || "eu-north-1";
 const _locArg      = getArg("--location", "");
 const _radiusArg   = getArg("--radius", "");
 
@@ -384,6 +388,39 @@ async function main() {
     "utf8"
   );
   console.log(`✔  Saved ${jsListings.length} listings → ${jsFile}`);
+
+  // ── Upload to S3 if --s3-bucket / S3_BUCKET is set ───────────────────────
+  if (S3_BUCKET) {
+    const s3 = new S3Client({ region: S3_REGION });
+    const uploads = [
+      {
+        key:  `${S3_PREFIX}/jobs.json`,
+        body: JSON.stringify(output, null, 2),
+        type: "application/json",
+      },
+      {
+        key:  `${S3_PREFIX}/jobs.js`,
+        body: fs.readFileSync(jsFile, "utf8"),
+        type: "application/javascript",
+      },
+    ];
+    for (const { key, body, type } of uploads) {
+      process.stdout.write(`  ☁   Uploading s3://${S3_BUCKET}/${key} ... `);
+      try {
+        await s3.send(new PutObjectCommand({
+          Bucket:       S3_BUCKET,
+          Key:          key,
+          Body:         body,
+          ContentType:  type,
+          CacheControl: "max-age=300",
+        }));
+        console.log("✅");
+      } catch (err) {
+        console.log(`❌  ${err.message}`);
+      }
+    }
+    console.log(`\n✔  S3 upload complete → https://${S3_BUCKET}.s3.${S3_REGION}.amazonaws.com/${S3_PREFIX}/jobs.js`);
+  }
 
   if (errors.length) console.warn(`⚠   ${errors.length} page(s) failed:`, errors);
 }
