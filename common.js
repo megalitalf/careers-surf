@@ -434,12 +434,12 @@ var SPRITES = {
   CAR04:                  { file: 'sprites/car04',                  w:   80, h:   57 },
   CAR01:                  { file: 'sprites/car01',                  w:   80, h:   56 },
   CAR05:                  { file: 'sprites/car05',                  w:   80, h:   70 },
-  PLAYER_UPHILL_LEFT:     { file: 'sprites/player_uphill_left',     w:   80, h:   45 },
-  PLAYER_UPHILL_STRAIGHT: { file: 'sprites/player_uphill_straight', w:   80, h:   45 },
-  PLAYER_UPHILL_RIGHT:    { file: 'sprites/player_uphill_right',    w:   80, h:   45 },
-  PLAYER_LEFT:            { file: 'sprites/player_left',            w:   80, h:   41 },
-  PLAYER_STRAIGHT:        { file: 'sprites/player_straight',        w:   80, h:   41 },
-  PLAYER_RIGHT:           { file: 'sprites/player_right',           w:   80, h:   41 }
+  PLAYER_UPHILL_LEFT:     { file: 'sprites/player_uphill_left',     w:   80, h:   60 },
+  PLAYER_UPHILL_STRAIGHT: { file: 'sprites/player_uphill_straight', w:   80, h:   60 },
+  PLAYER_UPHILL_RIGHT:    { file: 'sprites/player_uphill_right',    w:   80, h:   60 },
+  PLAYER_LEFT:            { file: 'sprites/player_left',            w:   80, h:   60 },
+  PLAYER_STRAIGHT:        { file: 'sprites/player_straight',        w:   80, h:   60 },
+  PLAYER_RIGHT:           { file: 'sprites/player_right',           w:   80, h:   60 }
 };
 
 SPRITES.SCALE = 0.3 * (1/SPRITES.PLAYER_STRAIGHT.w) // the reference sprite width should be 1/3rd the (half-)roadWidth
