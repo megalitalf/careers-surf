@@ -115,6 +115,15 @@
   </audio>
   <span id="mute"></span>
 
+  <script>
+    // Fix for mobile browsers where 100vh includes hidden nav bar area (old Android, etc.)
+    function setVh() {
+      document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');
+    }
+    setVh();
+    window.addEventListener('resize', setVh);
+  </script>
+
   <script src="stats.js"></script>
   <script src="common.js"></script>
   <script>
