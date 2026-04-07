@@ -60,14 +60,16 @@ var accLookahead = 10;                // segments ahead to scan for ACC (adaptiv
 var lkaRate = 1.2;                    // how gently LKA pulls back to lane centre (lower = softer)
 var offRoadDecel = -maxSpeed / 2;             // off road deceleration is somewhere in between
 var offRoadLimit = maxSpeed / 4;             // limit when off road deceleration no longer applies (e.g. you can always go at least this speed even when off road)
-var totalCars = 200;                     // total number of cars on the road
+var totalCars = 80;                      // total number of non-semi cars on the road
 var LAP_DURATION   = 60;                   // target seconds per lap (used to pace job reveals)
 var JOBS_PER_LAP   = 10;                   // job-truck listings shown per lap
 var currentLap     = 0;                    // lap counter (0 = first lap)
 var lapJobOffset   = 0;                    // index into SEMI_LISTINGS for the current lap's batch
 var seenListings   = new Set();            // ids of listings whose popup was opened (for purple dot)
+var clickedListings = new Set();           // ids of listings whose Apply Now was clicked
 var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
+var lapActive = false;                     // true while a race lap is running (false = results screen / before start)
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
 var playerCarRect = null;                  // screen rect of player car (updated each render frame)
 var followedSemi  = null;                  // the SEMI car currently being tailed by ACC
@@ -173,6 +175,7 @@ function initMenu() {
                         currentLap = 0;
                         lapJobOffset = 0;
                         seenListings = new Set();
+                        clickedListings = new Set();
                         resetCars();
                         console.log('Loaded ' + cityJobs.length + ' listings for ' + CITY_SLUGS[selectedCity] + ' (' + label + ')');
                     } else {
@@ -365,27 +368,25 @@ function update(dt) {
     treeOffset = Util.increase(treeOffset, treeSpeed * playerSegment.curve * (position - startPosition) / segmentLength, 1);
 
     if (position > playerZ) {
-        if (currentLapTime && (startPosition < playerZ)) {
+        if (lapActive && currentLapTime && (startPosition < playerZ)) {
             lastLapTime = currentLapTime;
             currentLapTime = 0;
-            // Advance to the next batch of job listings
-            currentLap++;
-            lapJobOffset = (currentLap * JOBS_PER_LAP) % (SEMI_LISTINGS.length || 1);
-            resetCars();
+            lapActive = false;
+            menuActive = true;  // freeze controls while results are up
             if (lastLapTime <= Util.toFloat(Dom.storage.fast_lap_time)) {
                 Dom.storage.fast_lap_time = lastLapTime;
                 updateHud('fast_lap_time', formatTime(lastLapTime));
                 Dom.addClassName('fast_lap_time', 'fastest');
                 Dom.addClassName('last_lap_time', 'fastest');
-            }
-            else {
+            } else {
                 Dom.removeClassName('fast_lap_time', 'fastest');
                 Dom.removeClassName('last_lap_time', 'fastest');
             }
             updateHud('last_lap_time', formatTime(lastLapTime));
             Dom.show('last_lap_time');
+            showResults();
         }
-        else {
+        else if (lapActive) {
             currentLapTime += dt;
         }
     }
@@ -877,26 +878,45 @@ function resetCars() {
     // Clear per-segment car lists so stale cars don't linger on the road
     for (var s = 0; s < segments.length; s++)
         segments[s].cars = [];
-    var n, car, segment, offset, z, sprite, speed;
-    for (var n = 0; n < totalCars; n++) {
-        offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
-        z = Math.floor(Math.random() * segments.length) * segmentLength;
-        sprite = Util.randomChoice(SPRITES.CARS);
-        var isSemi = SPRITES.SEMIS.indexOf(sprite) >= 0;
-        speed = maxSpeed / 4 + Math.random() * maxSpeed / (isSemi ? 4 : 2);
-        // Pick from the current lap's slice of listings (wraps around if needed)
-        var lapListings = [];
-        if (SEMI_LISTINGS.length) {
-            for (var li = 0; li < JOBS_PER_LAP; li++) {
-                lapListings.push(SEMI_LISTINGS[(lapJobOffset + li) % SEMI_LISTINGS.length]);
-            }
+    var car, segment, offset, z, sprite, speed;
+
+    // Build the current lap's 10 listings
+    var lapListings = [];
+    if (SEMI_LISTINGS.length) {
+        for (var li = 0; li < JOBS_PER_LAP; li++) {
+            lapListings.push(SEMI_LISTINGS[(lapJobOffset + li) % SEMI_LISTINGS.length]);
         }
-        var listing = isSemi ? Util.randomChoice(lapListings.length ? lapListings : SEMI_LISTINGS) : null;
-        car = { offset: offset, z: z, sprite: sprite, speed: speed, listing: listing };
+    }
+
+    // Spawn exactly one SEMI per listing, spread evenly across the track
+    var numSemis = lapListings.length;
+    for (var si = 0; si < numSemis; si++) {
+        // Space semis evenly, with a small random jitter so they're not perfectly aligned
+        var zFraction = (si / numSemis) + (Math.random() * 0.04);
+        z = Math.floor(zFraction * segments.length) * segmentLength;
+        offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
+        sprite = Util.randomChoice(SPRITES.SEMIS);
+        speed = maxSpeed / 4 + Math.random() * maxSpeed / 4;
+        car = { offset: offset, z: z, sprite: sprite, speed: speed, listing: lapListings[si] };
         segment = findSegment(car.z);
         segment.cars.push(car);
         cars.push(car);
     }
+
+    // Spawn regular traffic (no listings)
+    var regularSprites = [SPRITES.CAR01, SPRITES.CAR02, SPRITES.CAR03, SPRITES.CAR04, SPRITES.CAR05, SPRITES.TRUCK];
+    for (var n = 0; n < totalCars; n++) {
+        offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
+        z = Math.floor(Math.random() * segments.length) * segmentLength;
+        sprite = Util.randomChoice(regularSprites);
+        speed = maxSpeed / 4 + Math.random() * maxSpeed / 2;
+        car = { offset: offset, z: z, sprite: sprite, speed: speed, listing: null };
+        segment = findSegment(car.z);
+        segment.cars.push(car);
+        cars.push(car);
+    }
+
+    lapActive = (lapListings.length > 0); // only activate timing when there are actual job trucks
 }
 
 //=========================================================================
@@ -1179,7 +1199,10 @@ function showCarPopup(listing) {
     // Dev info: seen badge
     var seenBadge = Dom.get('car_popup_seen');
     if (seenBadge) seenBadge.style.display = (listing.id && seenListings.has(listing.id)) ? 'inline-flex' : 'none';
-    Dom.get('car_popup_buy').onclick = function () { window.open(listing.url, '_blank'); };
+    Dom.get('car_popup_buy').onclick = function () {
+        if (listing.id) clickedListings.add(listing.id);
+        window.open(listing.url, '_blank');
+    };
     Dom.get('car_popup').style.display = 'flex';
 }
 
@@ -1187,6 +1210,121 @@ function closeCarPopup() {
     dismissedSemi = followedSemi;   // lock this truck — won't re-show until player leaves its zone
     Dom.get('car_popup').style.display = 'none';
 }
+
+// ─── Results screen ────────────────────────────────────────────────────────────
+
+function showResults() {
+    var el = Dom.get('results');
+    if (!el) return;
+
+    // Build the current batch listings (same slice used by resetCars)
+    var batch = [];
+    for (var li = 0; li < JOBS_PER_LAP; li++) {
+        if (SEMI_LISTINGS.length)
+            batch.push(SEMI_LISTINGS[(lapJobOffset + li) % SEMI_LISTINGS.length]);
+    }
+
+    var totalBatches = Math.ceil((SEMI_LISTINGS.length || 1) / JOBS_PER_LAP);
+    var isLast = (currentLap + 1) >= totalBatches;
+
+    // Populate header
+    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches;
+
+    // Populate job list
+    var list = Dom.get('results-list');
+    list.innerHTML = '';
+    for (var i = 0; i < batch.length; i++) {
+        var job = batch[i];
+        var opened  = job && job.id && seenListings.has(job.id);
+        var clicked = job && job.id && clickedListings.has(job.id);
+
+        var row = document.createElement('div');
+        row.className = 'results-row' + (clicked ? ' results-clicked' : opened ? ' results-opened' : '');
+
+        var title = document.createElement('div');
+        title.className = 'results-job-title';
+        title.textContent = (job && job.title) ? job.title : '—';
+
+        var co = document.createElement('div');
+        co.className = 'results-job-co';
+        co.textContent = (job && job.company) ? job.company : '';
+
+        var info = document.createElement('div');
+        info.className = 'results-job-info';
+
+        var salary = document.createElement('span');
+        salary.className = 'results-salary';
+        salary.textContent = (job && job.salary) ? job.salary : '';
+
+        var badges = document.createElement('span');
+        badges.className = 'results-badges';
+        if (clicked) {
+            var b = document.createElement('span');
+            b.className = 'badge badge-clicked';
+            b.textContent = '✓ Applied';
+            badges.appendChild(b);
+        } else if (opened) {
+            var b = document.createElement('span');
+            b.className = 'badge badge-opened';
+            b.textContent = '👁 Opened';
+            badges.appendChild(b);
+        }
+
+        info.appendChild(salary);
+        info.appendChild(badges);
+        row.appendChild(title);
+        row.appendChild(co);
+        row.appendChild(info);
+
+        // Clicking a row opens the job URL
+        if (job && job.url) {
+            (function(j) {
+                row.style.cursor = 'pointer';
+                row.addEventListener('click', function() {
+                    if (j.id) clickedListings.add(j.id);
+                    window.open(j.url, '_blank');
+                    // refresh badge
+                    row.classList.remove('results-opened');
+                    row.classList.add('results-clicked');
+                    badges.innerHTML = '';
+                    var b2 = document.createElement('span');
+                    b2.className = 'badge badge-clicked';
+                    b2.textContent = '✓ Applied';
+                    badges.appendChild(b2);
+                });
+            })(job);
+        }
+
+        list.appendChild(row);
+    }
+
+    // Next / Finish button
+    var btn = Dom.get('results-next-btn');
+    if (isLast) {
+        btn.textContent = '🏆 Finish';
+        btn.className = 'results-next-btn results-finish-btn';
+    } else {
+        btn.textContent = '🚛 Next Job Convoy';
+        btn.className = 'results-next-btn';
+    }
+
+    el.style.display = 'flex';
+    requestAnimationFrame(function() { el.classList.add('visible'); });
+}
+
+function nextConvoy() {
+    var el = Dom.get('results');
+    if (el) {
+        el.classList.remove('visible');
+        setTimeout(function() { el.style.display = 'none'; }, 400);
+    }
+    // Advance to the next batch
+    currentLap++;
+    lapJobOffset = (currentLap * JOBS_PER_LAP) % (SEMI_LISTINGS.length || 1);
+    menuActive = false;
+    resetCars();
+}
+// ──────────────────────────────────────────────────────────────────────────────
 
 //=========================================================================
 // TWEAK UI HANDLERS
