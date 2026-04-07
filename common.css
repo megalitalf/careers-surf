@@ -39,6 +39,102 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 #hud .fastest          { background-color: rgba(255,215,0,0.5); }
 
 /******************/
+/* Main menu      */
+/******************/
+
+#menu {
+    position: fixed;
+    z-index: 500;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    transition: opacity 0.5s ease;
+}
+#menu.hide {
+    opacity: 0;
+    pointer-events: none;
+}
+#menu-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0;
+    width: min(420px, 88vw);
+    padding: 40px 44px 36px;
+}
+#menu-title {
+    font-family: Arial Black, Arial, sans-serif;
+    font-size: clamp(1.8rem, 6vw, 2.8rem);
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: 0.04em;
+    margin-bottom: 6px;
+}
+#menu-title span { color: #72D7EE; }
+#menu-tagline {
+    font-family: Arial, sans-serif;
+    font-size: 0.82em;
+    color: #aaa;
+    letter-spacing: 0.1em;
+    font-style: italic;
+    margin-bottom: 32px;
+}
+
+/* City select */
+#menu-city-wrap {
+    width: 100%;
+    margin-bottom: 28px;
+}
+#menu-city-wrap label {
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 0.78em;
+    color: #aaa;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 7px;
+}
+#menu-city-select {
+    width: 100%;
+    padding: 11px 14px;
+    font-size: 1em;
+    background: rgba(255,255,255,0.07);
+    border: 1.5px solid rgba(255,255,255,0.18);
+    border-radius: 8px;
+    color: #fff;
+    outline: none;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+}
+#menu-city-select:focus { border-color: #72D7EE; }
+#menu-city-select option { background: #1a1a2e; color: #fff; }
+
+/* Start button */
+#menu-start {
+    width: 100%;
+    padding: 16px;
+    font-size: 1.2em;
+    font-weight: 900;
+    font-family: Arial Black, Arial, sans-serif;
+    letter-spacing: 0.06em;
+    background: #2ecc71;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    box-shadow: 0 4px 20px rgba(46,204,113,0.4);
+}
+#menu-start:hover  { background: #27ae60; }
+#menu-start:active { transform: scale(0.97); }
+
+/******************/
 /* Loading screen */
 /******************/
 

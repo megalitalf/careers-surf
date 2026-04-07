@@ -113,6 +113,19 @@ var keyLeft = false;
 var keyRight = false;
 var keyFaster = false;
 var keySlower = false;
+var menuActive = true;   // controls blocked until player hits Start
+
+function initMenu() {
+    var menuEl = document.getElementById('menu');
+    if (!menuEl || menuEl.dataset.init) return;
+    menuEl.dataset.init = '1';
+    menuEl.style.display = 'flex';
+    document.getElementById('menu-start').addEventListener('click', function () {
+        menuActive = false;
+        menuEl.classList.add('hide');
+        setTimeout(function () { menuEl.style.display = 'none'; }, 520);
+    });
+}
 
 var hud = {
     speed: { value: null, dom: Dom.get('speed_value') },
@@ -767,14 +780,14 @@ function resetCars() {
 Game.run({
     canvas: canvas, render: render, update: update, stats: stats, step: step,
     keys: [
-        { keys: [KEY.LEFT, KEY.A], mode: 'down', action: function () { keyLeft = true; } },
-        { keys: [KEY.RIGHT, KEY.D], mode: 'down', action: function () { keyRight = true; } },
-        { keys: [KEY.UP, KEY.W], mode: 'down', action: function () { keyFaster = true; } },
-        { keys: [KEY.DOWN, KEY.S], mode: 'down', action: function () { keySlower = true; } },
-        { keys: [KEY.LEFT, KEY.A], mode: 'up', action: function () { keyLeft = false; } },
-        { keys: [KEY.RIGHT, KEY.D], mode: 'up', action: function () { keyRight = false; } },
-        { keys: [KEY.UP, KEY.W], mode: 'up', action: function () { keyFaster = false; } },
-        { keys: [KEY.DOWN, KEY.S], mode: 'up', action: function () { keySlower = false; } }
+        { keys: [KEY.LEFT, KEY.A],  mode: 'down', action: function () { if (!menuActive) keyLeft   = true;  } },
+        { keys: [KEY.RIGHT, KEY.D], mode: 'down', action: function () { if (!menuActive) keyRight  = true;  } },
+        { keys: [KEY.UP, KEY.W],    mode: 'down', action: function () { if (!menuActive) keyFaster = true;  } },
+        { keys: [KEY.DOWN, KEY.S],  mode: 'down', action: function () { if (!menuActive) keySlower = true;  } },
+        { keys: [KEY.LEFT, KEY.A],  mode: 'up',   action: function () { keyLeft   = false; } },
+        { keys: [KEY.RIGHT, KEY.D], mode: 'up',   action: function () { keyRight  = false; } },
+        { keys: [KEY.UP, KEY.W],    mode: 'up',   action: function () { keyFaster = false; } },
+        { keys: [KEY.DOWN, KEY.S],  mode: 'up',   action: function () { keySlower = false; } }
     ],
     ready: function () {
         reset();
@@ -788,8 +801,13 @@ Game.run({
             var remaining = Math.max(0, minDisplay - elapsed);
             setTimeout(function() {
                 loadingEl.classList.add('hide');
-                setTimeout(function() { loadingEl.style.display = 'none'; }, 520);
+                setTimeout(function() {
+                    loadingEl.style.display = 'none';
+                    initMenu();
+                }, 520);
             }, remaining);
+        } else {
+            initMenu();
         }
     }
 });
