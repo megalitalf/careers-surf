@@ -428,12 +428,12 @@ var SPRITES = {
   BILLBOARD02:            { file: 'sprites/billboard02',            w:  215, h:  220 },
   STUMP:                  { file: 'sprites/stump',                  w:  195, h:  140 },
   SEMI:                   { file: 'sprites/semi',                   w:  122, h:  144 },
-  TRUCK:                  { file: 'sprites/truck',                  w:  100, h:   78 },
-  CAR03:                  { file: 'sprites/car03',                  w:   88, h:   55 },
-  CAR02:                  { file: 'sprites/car02',                  w:   80, h:   59 },
-  CAR04:                  { file: 'sprites/car04',                  w:   80, h:   57 },
-  CAR01:                  { file: 'sprites/car01',                  w:   80, h:   56 },
-  CAR05:                  { file: 'sprites/car05',                  w:   80, h:   70 },
+  TRUCK:                  { file: 'sprites/truck',                  w:   80, h:   60 },
+  CAR01:                  { file: 'sprites/car01',                  w:   70, h:   55 },
+  CAR02:                  { file: 'sprites/car02',                  w:   70, h:   55 },
+  CAR03:                  { file: 'sprites/car03',                  w:   70, h:   55 },
+  CAR04:                  { file: 'sprites/car04',                  w:   70, h:   55 },
+  CAR05:                  { file: 'sprites/car05',                  w:   70, h:   55 },
   PLAYER_UPHILL_LEFT:     { file: 'sprites/player_uphill_left',     w:   80, h:   60 },
   PLAYER_UPHILL_STRAIGHT: { file: 'sprites/player_uphill_straight', w:   80, h:   60 },
   PLAYER_UPHILL_RIGHT:    { file: 'sprites/player_uphill_right',    w:   80, h:   60 },
@@ -442,7 +442,7 @@ var SPRITES = {
   PLAYER_RIGHT:           { file: 'sprites/player_right',           w:   80, h:   60 }
 };
 
-SPRITES.SCALE = 0.3 * (1/SPRITES.PLAYER_STRAIGHT.w) // the reference sprite width should be 1/3rd the (half-)roadWidth
+SPRITES.SCALE = (1/SPRITES.PLAYER_STRAIGHT.w) * 0.5  // the reference sprite width should be 1/3rd the (half-)roadWidth
 
 SPRITES.BILLBOARDS = [SPRITES.BILLBOARD01, SPRITES.BILLBOARD02, SPRITES.BILLBOARD03, SPRITES.BILLBOARD04, SPRITES.BILLBOARD05, SPRITES.BILLBOARD06, SPRITES.BILLBOARD07, SPRITES.BILLBOARD08, SPRITES.BILLBOARD09];
 SPRITES.PLANTS     = [SPRITES.TREE1, SPRITES.TREE2, SPRITES.DEAD_TREE1, SPRITES.DEAD_TREE2, SPRITES.PALM_TREE, SPRITES.BUSH1, SPRITES.BUSH2, SPRITES.CACTUS, SPRITES.STUMP, SPRITES.BOULDER1, SPRITES.BOULDER2, SPRITES.BOULDER3];

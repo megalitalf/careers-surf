@@ -19,6 +19,7 @@ var fogDensity = 5;
 
 var fps = 60;                      // how many 'update' frames per second
 var step = 1 / fps;                   // how long is each frame (in seconds)
+var mobileSpeedFactor = ('ontouchstart' in window) ? 0.75 : 1.0; // mobile screens feel faster, compensate
 var width = window.innerWidth;       // logical canvas width
 var height = window.innerHeight;     // logical canvas height
 var centrifugal = 0.15;                    // centrifugal force multiplier when going around curves
@@ -49,7 +50,7 @@ var playerZ = null;                    // player relative z distance from camera
 
 var position = 0;                       // current camera Z position (add playerZ to get player's absolute Z position)
 var speed = 0;                       // current speed (will be set to cruiseSpeed after reset)
-var maxSpeed = segmentLength / step;      // top speed (ensure we can't move more than 1 segment in a single frame to make collision detection easier)
+var maxSpeed = segmentLength / step * mobileSpeedFactor; // top speed (ensure we can't move more than 1 segment in a single frame to make collision detection easier)
 var cruiseSpeed = maxSpeed / 2;       // cruise control speed - matches average traffic speed
 var accel = maxSpeed / 5;             // acceleration rate when pressing UP
 var breaking = -maxSpeed;               // deceleration rate when braking (DOWN key)
@@ -273,7 +274,7 @@ function update(dt) {
         }
     }
 
-    updateHud('speed', Math.round(speed / maxSpeed * 120));
+    updateHud('speed', Math.round(speed / maxSpeed * 200));
     updateHud('current_lap_time', formatTime(currentLapTime));
 
     var accEl = Dom.get('acc_indicator');
@@ -513,9 +514,7 @@ function render() {
 
         if (segment == playerSegment) {
             var playerScale = cameraDepth / playerZ;
-            // On touch devices boost the rendered car size so it's easier to tap
-            var touchScaleBoost = ('ontouchstart' in window) ? 2.0 : 1.0;
-            var renderScale = playerScale * touchScaleBoost;
+            var renderScale = playerScale;
             var playerDestX = width / 2;
             var playerDestY = (height / 2) - (cameraDepth / playerZ * Util.interpolate(playerSegment.p1.camera.y, playerSegment.p2.camera.y, playerPercent) * height / 2);
             Render.player(ctx, width, height, resolution, roadWidth, null, speed / maxSpeed,
@@ -797,7 +796,7 @@ function reset(options) {
     cameraDepth = 1 / Math.tan((fieldOfView / 2) * Math.PI / 180);
     playerZ = (cameraHeight * cameraDepth);
     resolution = height / 480;
-    maxSpeed = segmentLength / step;
+    maxSpeed = segmentLength / step * mobileSpeedFactor;
     cruiseSpeed = maxSpeed / 2;
     accel = maxSpeed / 5;
     breaking = -maxSpeed;
@@ -827,13 +826,14 @@ window.addEventListener('resize', function () {
 //   ┌──────────────────────────────┐
 //   │   LEFT  │   ACCEL   │ RIGHT  │   (above car zone)
 //   ├──────────┼───────────┼───────┤
-//   │   LEFT  │   BRAKE   │ RIGHT  │   (car zone: middle 40% of width, bottom 35% of height)
+//   │   LEFT  │   ACCEL   │ RIGHT  │   (above car: middle column, top of screen to car top)
+//   │   LEFT  │   BRAKE   │ RIGHT  │   (car zone: middle column, full car height)
 //   └──────────┴───────────┴───────┘
 //
 // • tap left third   → steer left
 // • tap right third  → steer right
-// • tap middle+above → accelerate (keyFaster)
-// • tap middle+car   → brake      (keySlower)
+// • tap middle+above car → accelerate (keyFaster)
+// • tap middle+on car   → brake      (keySlower)
 
 // Map from touch identifier → which flags it set
 var touchFlags = {};
@@ -843,9 +843,8 @@ function getTouchZone(cx, cy) {
     var r = playerCarRect;
     if (r) {
         var inCarH = (cx >= r.left && cx <= r.right);
-        var carMidY = (r.top + r.bottom) / 2;
-        if (inCarH && cy >= carMidY) return 'brake';  // bottom half of car
-        if (inCarH && cy <  carMidY) return 'accel';  // top half of car
+        if (inCarH && cy >= r.top)  return 'brake';  // on the car
+        if (inCarH && cy <  r.top)  return 'accel';  // above the car
     }
     // Outside car horizontally → steer
     if (cx < width / 2) return 'left';
@@ -943,7 +942,6 @@ function renderTouchHints(dt) {
     if (touchHintAlpha <= 0) return;
 
     var r       = playerCarRect;
-    var carMidY = (r.top + r.bottom) / 2;
     var a  = touchHintAlpha * 0.22;
     var a2 = a * 2.5;  // active zone brightness
     var fs = Math.round(height * 0.035);
@@ -958,13 +956,13 @@ function renderTouchHints(dt) {
     ctx.fillStyle = keyRight ? 'rgba(255,220,0,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
     ctx.fillRect(r.right, 0, width - r.right, height);
 
-    // Accel zone — top half of car
+    // Accel zone — middle column, above the car
     ctx.fillStyle = keyFaster ? 'rgba(0,220,100,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
-    ctx.fillRect(r.left, r.top, r.right - r.left, carMidY - r.top);
+    ctx.fillRect(r.left, 0, r.right - r.left, r.top);
 
-    // Brake zone — bottom half of car
+    // Brake zone — full car rect
     ctx.fillStyle = keySlower ? 'rgba(255,60,60,' + a2 + ')' : 'rgba(255,255,255,' + a + ')';
-    ctx.fillRect(r.left, carMidY, r.right - r.left, r.bottom - carMidY);
+    ctx.fillRect(r.left, r.top, r.right - r.left, r.bottom - r.top);
 
     // Labels
     ctx.globalAlpha = touchHintAlpha * 0.6;
@@ -973,10 +971,10 @@ function renderTouchHints(dt) {
     ctx.fillStyle = '#fff';
     ctx.textAlign = 'center';
 
-    ctx.fillText('◀', r.left  / 2,              height / 2);
-    ctx.fillText('▶', (width + r.right) / 2,    height / 2);
-    ctx.fillText('▲',  width / 2, (r.top  + carMidY)  / 2);
-    ctx.fillText('▼',  width / 2, (carMidY + r.bottom) / 2);
+    ctx.fillText('◀', r.left  / 2,           height / 2);
+    ctx.fillText('▶', (width + r.right) / 2, height / 2);
+    ctx.fillText('▲',  width / 2, r.top / 2);
+    ctx.fillText('▼',  width / 2, (r.top + r.bottom) / 2);
 
     ctx.restore();
 }
