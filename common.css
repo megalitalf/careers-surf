@@ -92,6 +92,14 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     letter-spacing: 0.12em;
     text-transform: uppercase;
 }
+#loading-tagline {
+    margin-top: 8px;
+    color: #555;
+    font-family: Arial, sans-serif;
+    font-size: 0.78em;
+    letter-spacing: 0.08em;
+    font-style: italic;
+}
 
 /******************/
 /* Car info popup */
