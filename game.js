@@ -121,8 +121,65 @@ function initMenu() {
     // Wire buttons once
     if (!menuEl.dataset.init) {
         menuEl.dataset.init = '1';
+
+        // ── City combobox ──────────────────────────────────────────────
+        var CITIES = ['Białystok','Bielsko-Biała','Bydgoszcz','Częstochowa',
+            'Gdańsk','Gdynia','Gliwice','Katowice','Kielce','Kraków',
+            'Lublin','Łódź','Olsztyn','Opole','Płock','Poznań','Radom',
+            'Rzeszów','Sopot','Szczecin','Tychy','Warszawa','Wrocław',
+            'Zakopane','Zielona Góra'];
+        var cityInput = document.getElementById('menu-city-input');
+        var cityDrop  = document.getElementById('menu-city-dropdown');
+        var activeIdx = -1;
+
+        function renderDrop(filter) {
+            var q = (filter || '').toLowerCase();
+            var matches = q ? CITIES.filter(function(c) { return c.toLowerCase().indexOf(q) >= 0; }) : CITIES;
+            cityDrop.innerHTML = '';
+            activeIdx = -1;
+            if (!matches.length) { cityDrop.classList.remove('open'); return; }
+            matches.forEach(function(city) {
+                var d = document.createElement('div');
+                d.textContent = city;
+                d.addEventListener('mousedown', function(e) {
+                    e.preventDefault();
+                    cityInput.value = city;
+                    cityDrop.classList.remove('open');
+                });
+                cityDrop.appendChild(d);
+            });
+            cityDrop.classList.add('open');
+        }
+
+        cityInput.addEventListener('input', function() { renderDrop(cityInput.value); });
+        cityInput.addEventListener('focus', function() { renderDrop(cityInput.value); });
+        cityInput.addEventListener('blur',  function() { cityDrop.classList.remove('open'); });
+        cityInput.addEventListener('keydown', function(e) {
+            var items = cityDrop.querySelectorAll('div');
+            if (!items.length) return;
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                activeIdx = Math.min(activeIdx + 1, items.length - 1);
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                activeIdx = Math.max(activeIdx - 1, -1);
+            } else if (e.key === 'Enter' && activeIdx >= 0) {
+                e.preventDefault();
+                cityInput.value = items[activeIdx].textContent;
+                cityDrop.classList.remove('open');
+                return;
+            } else if (e.key === 'Escape') {
+                cityDrop.classList.remove('open');
+                return;
+            }
+            items.forEach(function(el, i) { el.classList.toggle('active', i === activeIdx); });
+            if (activeIdx >= 0) items[activeIdx].scrollIntoView({ block: 'nearest' });
+        });
+        // ──────────────────────────────────────────────────────────────
+
         document.getElementById('menu-start').addEventListener('click', function () {
             menuActive = false;
+            cityDrop.classList.remove('open');
             menuEl.classList.add('hide');
             setTimeout(function () { menuEl.style.display = 'none'; }, 520);
         });

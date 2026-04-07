@@ -85,7 +85,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     margin-bottom: 32px;
 }
 
-/* City select */
+/* City combobox */
 #menu-city-wrap {
     width: 100%;
     margin-bottom: 28px;
@@ -99,7 +99,11 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     text-transform: uppercase;
     margin-bottom: 7px;
 }
-#menu-city-select {
+#menu-city-box {
+    position: relative;
+    width: 100%;
+}
+#menu-city-input {
     width: 100%;
     padding: 11px 14px;
     font-size: 1em;
@@ -110,12 +114,33 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     outline: none;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
-    cursor: pointer;
-    appearance: none;
-    -webkit-appearance: none;
+    transition: border-color 0.2s;
 }
-#menu-city-select:focus { border-color: #72D7EE; }
-#menu-city-select option { background: #1a1a2e; color: #fff; }
+#menu-city-input::placeholder { color: #666; }
+#menu-city-input:focus { border-color: #72D7EE; }
+#menu-city-dropdown {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0; right: 0;
+    background: rgba(15,15,30,0.97);
+    border: 1.5px solid rgba(255,255,255,0.15);
+    border-radius: 8px;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 600;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.6);
+}
+#menu-city-dropdown.open { display: block; }
+#menu-city-dropdown div {
+    padding: 10px 14px;
+    color: #ddd;
+    font-family: Arial, sans-serif;
+    font-size: 0.95em;
+    cursor: pointer;
+}
+#menu-city-dropdown div:hover,
+#menu-city-dropdown div.active { background: rgba(114,215,238,0.15); color: #fff; }
 
 /* Start button */
 #menu-start {
