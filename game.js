@@ -848,6 +848,9 @@ function resetSprites() {
 
 function resetCars() {
     cars = [];
+    // Clear per-segment car lists so stale cars don't linger on the road
+    for (var s = 0; s < segments.length; s++)
+        segments[s].cars = [];
     var n, car, segment, offset, z, sprite, speed;
     for (var n = 0; n < totalCars; n++) {
         offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
