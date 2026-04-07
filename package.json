@@ -6,7 +6,9 @@
   "scripts": {
     "build": "node build.js",
     "scrape": "S3_BUCKET=careers-surf-data node scrape_jobs.js --pages 3",
+    "scrape:city": "S3_BUCKET=careers-surf-data node scrape_jobs.js --pages 3 --city",
     "scrape:local": "node scrape_jobs.js --pages 3",
+    "scrape:local:city": "node scrape_jobs.js --pages 3 --city",
     "upload": "S3_BUCKET=careers-surf-data node upload_jobs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
