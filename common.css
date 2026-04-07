@@ -46,7 +46,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     position: fixed;
     z-index: 999;
     inset: 0;
-    background: #111;
+    background: #72D7EE;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -60,7 +60,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 #loading-road {
     width: 120px;
     height: 180px;
-    background: #444;
+    background: #5a5a5a;
     border-radius: 4px;
     position: relative;
     overflow: hidden;
@@ -76,7 +76,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     height: 400%;
     background: repeating-linear-gradient(
         to bottom,
-        #f0c040 0px, #f0c040 30px,
+        #ffffff 0px, #ffffff 30px,
         transparent 30px, transparent 60px
     );
     animation: roadScroll 0.6s linear infinite;
@@ -86,7 +86,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     to   { transform: translateX(-50%) translateY(60px); }
 }
 #loading-label {
-    color: #ccc;
+    color: #0a3a4a;
     font-family: Arial, sans-serif;
     font-size: 1em;
     letter-spacing: 0.12em;
@@ -94,7 +94,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 }
 #loading-tagline {
     margin-top: 8px;
-    color: #555;
+    color: #1a6a80;
     font-family: Arial, sans-serif;
     font-size: 0.78em;
     letter-spacing: 0.08em;
