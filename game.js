@@ -793,7 +793,8 @@ Game.run({
         reset();
         Dom.storage.fast_lap_time = Dom.storage.fast_lap_time || 180;
         updateHud('fast_lap_time', formatTime(Util.toFloat(Dom.storage.fast_lap_time)));
-        // Hide loading screen — show for at least 800ms to avoid a flash
+        // Show menu immediately (underneath splash), then fade splash out
+        initMenu();
         var loadingEl = document.getElementById('loading');
         if (loadingEl) {
             var minDisplay = 800;
@@ -803,11 +804,8 @@ Game.run({
                 loadingEl.classList.add('hide');
                 setTimeout(function() {
                     loadingEl.style.display = 'none';
-                    initMenu();
                 }, 520);
             }, remaining);
-        } else {
-            initMenu();
         }
     }
 });
