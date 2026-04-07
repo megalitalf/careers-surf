@@ -68,7 +68,7 @@ var playerCarRect = null;                  // screen rect of player car (updated
 var followedSemi  = null;                  // the SEMI car currently being tailed by ACC
 var followTimer   = 0;                     // seconds spent tailing followedSemi
 var FOLLOW_DELAY  = 2.0;                   // seconds before popup auto-opens
-var popupManuallyOpen = false;             // true when user clicked ×  to dismiss
+var dismissedSemi = null;                  // truck whose banner the user last closed — won't re-show until player leaves and re-enters its zone
 
 // ── Session UUID ──────────────────────────────────────────────────────────────
 // Generates a v4-style UUID on first visit and persists it in localStorage so
@@ -183,12 +183,15 @@ function update(dt) {
     // Follow-timer: count up while tailing a SEMI with a listing
     if (nearestSemi) {
         if (nearestSemi !== followedSemi) {
-            // switched to a different truck — reset
-            followedSemi = nearestSemi;
-            followTimer  = 0;
-            popupManuallyOpen = false;
+            // switched to a different truck — reset timer and clear dismiss lock
+            followedSemi  = nearestSemi;
+            followTimer   = 0;
+            // clear dismiss lock only when the player moves to a genuinely different truck
+            if (dismissedSemi && dismissedSemi !== nearestSemi) {
+                dismissedSemi = null;
+            }
         }
-        if (!popupManuallyOpen) {
+        if (nearestSemi !== dismissedSemi) {
             followTimer += dt;
             if (followTimer >= FOLLOW_DELAY) {
                 showCarPopup(followedSemi.listing);
@@ -196,13 +199,11 @@ function update(dt) {
         }
     } else {
         if (followedSemi) {
-            // lost the truck — close popup and reset
-            followedSemi = null;
-            followTimer  = 0;
-            if (!popupManuallyOpen) {
-                Dom.get('car_popup').style.display = 'none';
-            }
-            popupManuallyOpen = false;
+            // lost the truck — close popup, reset timer, clear dismiss lock for that truck
+            followedSemi  = null;
+            followTimer   = 0;
+            dismissedSemi = null;
+            Dom.get('car_popup').style.display = 'none';
         }
     }
     var activeCruise = keyFaster ? maxSpeed / 2 : accTarget; // ACC ignored while player boosts
@@ -989,7 +990,7 @@ canvas.addEventListener('click', function (ev) {
     for (var i = 0; i < visibleSemis.length; i++) {
         var s = visibleSemis[i];
         if (cx >= s.x && cx <= s.x + s.w && cy >= s.y && cy <= s.y + s.h) {
-            popupManuallyOpen = true;
+            dismissedSemi = null;  // explicit tap — clear dismiss lock so it can show
             showCarPopup(s.car.listing);
             break;
         }
@@ -1007,9 +1008,7 @@ function showCarPopup(listing) {
 }
 
 function closeCarPopup() {
-    popupManuallyOpen = false;
-    followedSemi  = null;
-    followTimer   = 0;
+    dismissedSemi = followedSemi;   // lock this truck — won't re-show until player leaves its zone
     Dom.get('car_popup').style.display = 'none';
 }
 
