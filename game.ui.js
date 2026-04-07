@@ -136,6 +136,9 @@ function showCarPopup(listing) {
     if (!listing) return;
     // Mark as seen
     if (listing.id) seenListings.add(listing.id);
+    
+    console.log(' >>> seenListings listing:', seenListings);
+
     Dom.get('car_popup_title').innerHTML   = listing.title   || '';
     Dom.get('car_popup_salary').innerHTML  = listing.salary  || 'Salary not disclosed';
     Dom.get('car_popup_company').innerHTML = listing.company || '';
@@ -213,10 +216,16 @@ function showResults() {
 
         var badges = document.createElement('span');
         badges.className = 'results-badges';
+        var seen = jobKey && seenListings.has(job.id);
         if (clicked) {
             var b = document.createElement('span');
             b.className = 'badge badge-clicked';
             b.textContent = '✓ Applied';
+            badges.appendChild(b);
+        } else if (seen) {
+            var b = document.createElement('span');
+            b.className = 'badge badge-opened';
+            b.textContent = '👁 Seen';
             badges.appendChild(b);
         }
 

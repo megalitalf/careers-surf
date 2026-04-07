@@ -1,1524 +1,508 @@
 {
   "meta": {
     "source": "https://www.pracuj.pl/praca?sal=1",
-    "scrapedAt": "2026-04-07T14:32:02.520Z",
+    "scrapedAt": "2026-04-07T22:17:41.872Z",
     "pages": 1,
-    "total": 51,
+    "total": 55,
     "errors": 0,
     "location": null,
     "radius": null
   },
   "listings": [
     {
-      "id": "1004754879",
-      "title": "DevOps & Python Backend Engineer",
-      "company": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "companyId": 1074164809,
-      "location": "Kraków",
-      "isWholePoland": false,
-      "salary": "26 000–39 000 zł netto (+ VAT) / godz.",
-      "workModes": [
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:31:13.54Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Your responsibilities, Design, implement, and maintain infrastructure in Google Cloud Platform, including Cloud Run, Cloud Build, Artifact Registry, Secret Manager, VPC, IAM, and Workload Identity, Manage infrastructure as code using Terraform for...",
-      "url": "https://www.pracuj.pl/praca/devops-python-backend-engineer-krakow,oferta,1004754879"
+      "id": "1004736671",
+      "title": "stanowisko w Sekcji Dziekanatów Administracyjnych ds. wsparcia Wydziału Rzeźby - 1/2 etatu",
+      "salary": "3 000–3 850 zł brutto / mies.",
+      "company": "Akademia Sztuk Pięknych im. Jana Matejki w Krakowie",
+      "location": "Kraków, Bronowice",
+      "description": "Twój zakres obowiązków, Wsparcie realizacji zadań administracyjnych prowadzonych przez pracowników Wydziału Rzeźby, w szczególności koordynacja obiegu wniosków zakupowych, faktur, umów, regulaminów, udział w opracowywaniu umów i regulaminów,...",
+      "url": "https://www.pracuj.pl/praca/stanowisko-w-sekcji-dziekanatow-administracyjnych-ds-wsparcia-wydzialu-rzezby-1-krakow-bronowicka-117,oferta,1004736671"
     },
     {
-      "id": "1004754878",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Ryga",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Szczecin",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:31:06.437Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-ryga-szczecin,oferta,1004754878"
-    },
-    {
-      "id": "1004754877",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Nova Park",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Gorzów Wielkopolski",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:30:30.117Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-nova-park-gorzow-wielkopolski,oferta,1004754877"
-    },
-    {
-      "id": "1004754876",
-      "title": "KPOF z pozwoleniem na broń Police (możliwość zakwaterowania)",
-      "company": "Seris Konsalnet Holding S.A.",
-      "companyId": 20075027,
-      "location": "Gorzów Wielkopolski",
-      "isWholePoland": false,
-      "salary": "9 600–11 040 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:30:18.44Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Lokalizacja: obiekt przemysłowy, Police (okolice Szczecina),,  , Dni i godziny pracy: według grafiku poniedziałek - niedziela na zmianach 12h/12h. 6:30-18:30/18:30-6:30,  , Zakres obowiązków: kontrola osób na terenie...",
-      "url": "https://www.pracuj.pl/praca/kpof-z-pozwoleniem-na-bron-police-mozliwosc-zakwaterowania-gorzow-wielkopolski,oferta,1004754876"
-    },
-    {
-      "id": "1004754875",
-      "title": "Key Account Manager (izolacje techniczne)",
-      "company": "SALES HR",
-      "companyId": 20396028,
-      "location": "Kraków",
-      "isWholePoland": true,
-      "salary": "15 000 zł brutto / mies.",
-      "workModes": [
-        "Praca zdalna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)",
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:30:07.583Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Sprzedaż przez dystrybutorów branżowych lub przez segment OEM, Praca na inwestycjach: spotkania z GW, inwestorami, projektantami, biurami projektowymi lub przez producentów urządzeń, Wpisywanie produktów do dokumentacji...",
-      "url": "https://www.pracuj.pl/praca/key-account-manager-izolacje-techniczne-krakow,oferta,1004754875"
-    },
-    {
-      "id": "1004754874",
-      "title": "Key Account Manager (izolacje techniczne)",
-      "company": "SALES HR",
-      "companyId": 20396028,
-      "location": "Warszawa",
-      "isWholePoland": true,
-      "salary": "15 000 zł brutto / mies.",
-      "workModes": [
-        "Praca zdalna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)",
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:30:07.583Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Sprzedaż przez dystrybutorów branżowych lub przez segment OEM, Praca na inwestycjach: spotkania z GW, inwestorami, projektantami, biurami projektowymi lub przez producentów urządzeń, Wpisywanie produktów do dokumentacji...",
-      "url": "https://www.pracuj.pl/praca/key-account-manager-izolacje-techniczne-warszawa,oferta,1004754874"
-    },
-    {
-      "id": "1004754872",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Statoil",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Poznań",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:29:16.897Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-statoil-poznan,oferta,1004754872"
-    },
-    {
-      "id": "1004754871",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Galaxy Echo",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Szczecin",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:28:41.977Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-galaxy-echo-szczecin,oferta,1004754871"
-    },
-    {
-      "id": "1004742269",
-      "title": "Inżynier / Inżynierka ds. Elektroniki",
-      "company": "Astek",
-      "companyId": 20006857,
-      "location": "Wrocław",
-      "isWholePoland": false,
-      "salary": "150–190 zł netto (+ VAT) / godz.",
-      "workModes": [
-        "Praca zdalna",
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)",
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:28:00Z",
-      "expiresAt": "2026-04-30T21:59:59Z",
-      "description": "Twój zakres obowiązków, Opracowywanie projektów układów PCB dla elektroniki montowanej wewnątrz pojazdów, Tworzenie layoutów elektronicznych zgodnie z wymaganiami technicznymi i standardami jakości, Współpraca z zespołem inżynierów w ramach...",
-      "url": "https://www.pracuj.pl/praca/inzynier-inzynierka-ds-elektroniki-wroclaw,oferta,1004742269"
-    },
-    {
-      "id": "1004754855",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Stary Browar",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Poznań",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:27:52.52Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-stary-browar-poznan,oferta,1004754855"
-    },
-    {
-      "id": "1004754854",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Plaza",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Sosnowiec",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:27:15.737Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-plaza-sosnowiec,oferta,1004754854"
-    },
-    {
-      "id": "1004724824",
-      "title": "Full-Stack Developer (Java, Angular)",
-      "company": "Motife Sp. z o.o.",
-      "companyId": 20382547,
-      "location": "Kraków",
-      "isWholePoland": false,
-      "salary": "21 000–24 000 zł brutto / mies.",
-      "workModes": [
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:26:52.163Z",
-      "expiresAt": "2026-04-22T21:59:59Z",
-      "description": "Your responsibilities, Design, develop, and test complex application components across backend and frontend layers., Implement high-quality, maintainable code following best engineering practices., Develop and maintain integrations using REST/SOAP...",
-      "url": "https://www.pracuj.pl/praca/full-stack-developer-java-angular-krakow,oferta,1004724824"
-    },
-    {
-      "id": "1004754849",
-      "title": "Pracownik / Pracowniczka Restauracji KFC CH Dąbrówka",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
+      "id": "1004755081",
+      "title": "Agent / Agentka Nieruchomości",
+      "salary": "5 000–25 000 zł / mies. (zal. od umowy)",
+      "company": "Freedom Franchise Sp. z o.o.",
       "location": "Katowice",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:26:35.28Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-ch-dabrowka-katowice,oferta,1004754849"
+      "description": "Twój zakres obowiązków, Systematyczne pozyskiwanie nieruchomości w oparciu o umowy na wyłączność, Organizacja cyklu sprzedaży i marketingu własnej bazy ofert nieruchomości, Współpraca z zespołem i dbałość o pozytywne relacje, Utrzymywanie...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-katowice-jana-iii-sobieskiego-27,oferta,1004755081"
     },
     {
-      "id": "1004754848",
-      "title": "Księgowa / Księgowy",
-      "company": "Devire",
-      "companyId": 18802016,
-      "location": "Łódź",
-      "isWholePoland": false,
-      "salary": "9 000–11 000 zł brutto / mies.",
-      "workModes": [
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:26:20.597Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Księgowanie i ewidencjonowanie dokumentów księgowych – faktury zakupowe i sprzedażowe, wyciągi bankowe, raporty kasowe, Uzgadnianie i przegląd sald kont księgi głównej, w szczególności kont bankowych oraz należności i...",
-      "url": "https://www.pracuj.pl/praca/ksiegowa-ksiegowy-lodz,oferta,1004754848"
-    },
-    {
-      "id": "1004754846",
-      "title": "Electrical Design & Product Engineer",
-      "company": "Devire",
-      "companyId": 18802016,
-      "location": "Bolechowo (pow. poznański)",
-      "isWholePoland": false,
-      "salary": "8 000–10 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna",
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:26:01.493Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, opracowywanie oraz bieżąca aktualizacja dokumentacji elektrycznej (projekty, schematy, zestawienia materiałowe), udział w przygotowaniu ofert technicznych oraz wsparcie działu sprzedaży i innych, odpowiedni dobór...",
-      "url": "https://www.pracuj.pl/praca/electrical-design-product-engineer-bolechowo-pow-poznanski,oferta,1004754846"
-    },
-    {
-      "id": "1004754845",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Futura",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Kraków",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:25:45.827Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-futura-krakow,oferta,1004754845"
-    },
-    {
-      "id": "11928688",
-      "title": "Pracownik produkcji (k/m)",
-      "company": "EUROKONTAKT SERWIS PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "companyId": 1074191652,
-      "location": "Lacaune, Francja",
-      "isWholePoland": false,
-      "salary": "8 500–10 000 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie",
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:25:00Z",
-      "expiresAt": "2026-04-29T21:59:59Z",
-      "description": "Twój zakres obowiązków, Materiał marmurowy, kamienny czy tez granitowy, piaskowiec itp. umieszcza się na taśmociągach ,, Materiał jest cięty według wytycznych i zapotrzebowania na płyty podłogowe, ścienne, kostkę itd...",
-      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-k-m-francja,oferta,11928688"
-    },
-    {
-      "id": "11939352",
-      "title": "Elektromechanik utrzymania ruchu (k/m/x)",
-      "company": "Accent Jobs for People Poland Sp. z o.o. w organizacji",
-      "companyId": 1074112393,
-      "location": "Belgia",
-      "isWholePoland": false,
-      "salary": "15 000–20 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa agencyjna"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:25:00Z",
-      "expiresAt": "2026-05-03T21:59:59Z",
-      "description": "Twój zakres obowiązków, utrzymanie w dobrym stanie technicznym maszyn i instalacji przemysłowych zarówno pod kątem koniecznych napraw jak i działań prewencyjnych, przeglądy techniczne, diagnoza i usuwanie usterek linii produkcyjnej, naprawy...",
-      "url": "https://www.pracuj.pl/praca/elektromechanik-utrzymania-ruchu-k-m-x-belgia,oferta,11939352"
-    },
-    {
-      "id": "1004754843",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Sybiraków",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Zabrze",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:24:43.75Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-sybirakow-zabrze,oferta,1004754843"
-    },
-    {
-      "id": "1004754842",
-      "title": "Sprzątacz / Sprzątaczka",
-      "company": "NOWE DZIESIĘCINY sp. z o.o.",
-      "companyId": 1074229099,
-      "location": "Białystok, Dziesięciny I",
-      "isWholePoland": false,
-      "salary": "od 31,40 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:24:36.933Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Utrzymywanie czystości w wyznaczonych pomieszczeniach i przestrzeniach wspólnych  , Mycie podłóg, okien, drzwi oraz innych powierzchni  , Opróżnianie koszy na śmieci i wynoszenie odpadów  , Dezynfekowanie łazienek, toalet i...",
-      "url": "https://www.pracuj.pl/praca/sprzatacz-sprzataczka-bialystok-jasminowa-73,oferta,1004754842"
-    },
-    {
-      "id": "1004739650",
-      "title": "Konsultant/ka ds. Obsługi Klienta, infolinia przychodząca - język angielski",
-      "company": "Mplus Poland Sp. z o.o.",
-      "companyId": 20125157,
-      "location": "Katowice",
-      "isWholePoland": false,
-      "salary": "4 806–5 275 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna",
-        "Praca zdalna",
-        "Praca hybrydowa"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Młodszy specjalista / Młodsza specjalistka (junior)",
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:24:00Z",
-      "expiresAt": "2026-04-29T21:59:59Z",
-      "description": "Twój zakres obowiązków, Szukamy osób, które potrafią rozmawiać spokojnie, uważnie i z empatią. W ramach tego projektu nie zajmujesz się sprzedażą – pomagasz klientom i rozwiązujesz ich sprawy., Odbieranie połączeń przychodzących od klientów,...",
-      "url": "https://www.pracuj.pl/praca/konsultant-ka-ds-obslugi-klienta-infolinia-przychodzaca-jezyk-angielski-katowice-aleja-wojciecha-korfantego-2,oferta,1004739650"
-    },
-    {
-      "id": "11939351",
-      "title": "Operator / programista CNC",
-      "company": "Accent Jobs for People Poland Sp. z o.o. w organizacji",
-      "companyId": 1074112393,
-      "location": "Belgia",
-      "isWholePoland": false,
-      "salary": "14 500–17 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę tymczasową"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:24:00Z",
-      "expiresAt": "2026-05-03T21:59:59Z",
-      "description": "Twój zakres obowiązków, Ustawianie i obsługa frezarek i tokarek  CNC, Samodzielne programowanie maszyn CNC (sterowanie: Siemens, Heidenhain, Fanuc, Mazak), Dobór odpowiednich narzędzi, Przeprowadzanie kontroli jakości i dostosowywanie ustawień...",
-      "url": "https://www.pracuj.pl/praca/operator-programista-cnc-belgia,oferta,11939351"
-    },
-    {
-      "id": "1004739648",
-      "title": "Przedstawiciel handlowy / Przedstawicielka handlowa - Kärcher",
-      "company": "MerService Sp. z o.o.",
-      "companyId": 20061864,
-      "location": "Łódź",
-      "isWholePoland": false,
-      "salary": "8 320–9 900 zł / mies. (zal. od umowy)",
-      "workModes": [
-        "Praca mobilna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:23:00Z",
-      "expiresAt": "2026-04-29T21:59:59Z",
-      "description": "Twój zakres obowiązków, Współpraca z kierownikami i personelem działów w sieciach DIY (np. Castorama, Leroy Merlin, OBI, PSB) oraz elektro (np. Media Expert, RTV Euro AGD, Media Markt)., Zapewnienie odpowiedniej ekspozycji produktów Kärcher w...",
-      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-k%c3%a4rcher-lodz,oferta,1004739648"
-    },
-    {
-      "id": "1004754835",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Modlnica",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Kraków",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:22:37.533Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-modlnica-krakow,oferta,1004754835"
-    },
-    {
-      "id": "11914903",
-      "title": "Pracownik fizyczny / Pracowniczka fizyczna",
-      "company": "Hemservice i Onsala AB",
-      "companyId": 1074196829,
-      "location": "Kungsbacka/ Göteborg, Szwecja",
-      "isWholePoland": false,
-      "salary": "62–75 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:22:33.28Z",
-      "expiresAt": "2026-04-22T21:59:59Z",
-      "description": "Twój zakres obowiązków, Utrzymanie czystości w pomieszczeniach biurowych, sanitarnych i innych przestrzeniach wspólnych., Odkurzanie, mycie podłóg oraz czyszczenie dywanów i wykładzin., Wycieranie kurzu z mebli, sprzętu biurowego oraz innych...",
-      "url": "https://www.pracuj.pl/praca/pracownik-fizyczny-pracowniczka-fizyczna-szwecja,oferta,11914903"
-    },
-    {
-      "id": "1004739644",
-      "title": "Specjalista / Specjalistka ds. sprzedaży w salonie Orange",
-      "company": "GTI Sp. z o.o.",
-      "companyId": 8611557,
-      "location": "Leszno",
-      "isWholePoland": false,
-      "salary": "5 500–7 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:22:00Z",
-      "expiresAt": "2026-04-29T21:59:59Z",
-      "description": "Twój zakres obowiązków, oferowanie pełnej gamy usług i produktów Orange Polska, realizowanie wyznaczonych planów, wsparcie posprzedażowe Klientów, dbanie o standardy obsługi, aktualizowanie i poszerzanie swojej wiedzy, aktywne pozyskiwanie Klienta...",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-w-salonie-orange-leszno-aleja-konstytucji-3-maja-12,oferta,1004739644"
-    },
-    {
-      "id": "1004754834",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Węzeł Mirowski",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Kraków",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:21:47.997Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-wezel-mirowski-krakow,oferta,1004754834"
-    },
-    {
-      "id": "1004754833",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Morzęcino Wschód BP MOP S5",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Morzęcino (pow. trzebnicki)",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:21:08.957Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-morzecino-wschod-bp-mop-s5-morzecino-pow-trzebnicki,oferta,1004754833"
-    },
-    {
-      "id": "11914895",
-      "title": "Asystent / Asystentka Architekta – Freelancer",
-      "company": "KATARZYNA BEDRA DESIGN",
-      "companyId": 1074232762,
-      "location": "Szwajcaria",
-      "isWholePoland": true,
-      "salary": "8 500–10 000 zł brutto / mies.",
-      "workModes": [
-        "Praca zdalna"
-      ],
-      "workSchedules": [
-        "Część etatu",
-        "Dodatkowa / tymczasowa"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:21:05.54Z",
-      "expiresAt": "2026-04-22T21:59:59Z",
-      "description": "Twój zakres obowiązków, Zakres pracy obejmuje projekty wnętrz komercyjnych – głównie biura i hotele – a także zadania związane z brandingiem i identyfikacją wizualną. Praca dotyczy zarówno etapów koncepcyjnych, jak i projektów wykonawczych w...",
-      "url": "https://www.pracuj.pl/praca/asystent-asystentka-architekta-freelancer-szwajcaria,oferta,11914895"
-    },
-    {
-      "id": "1004754832",
-      "title": "Mechanik warsztatu",
-      "company": "GLEŃSK TOMASZ AUTO GLEŃSK",
-      "companyId": 20258976,
-      "location": "Pszczyna",
-      "isWholePoland": false,
-      "salary": "od 5 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:20:59.327Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Auto Gleńsk to autoryzowany punkt sprzedaży oraz serwis samochodów marek Maxus oraz DFSK. Zajmujemy się kompleksową obsługą klientów, od sprzedaży pojazdów po ich profesjonalny serwis i naprawy. , , Zakres obowiązków:, ,...",
-      "url": "https://www.pracuj.pl/praca/mechanik-warsztatu-pszczyna-bierunska-64,oferta,1004754832"
-    },
-    {
-      "id": "1004700117",
-      "title": "Pracownik produkcji - darmowy transport",
-      "company": "Human & Hunter APT",
-      "companyId": 20075795,
-      "location": "Bytom",
-      "isWholePoland": false,
-      "salary": "7 367 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę tymczasową"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:20:53.213Z",
-      "expiresAt": "2026-04-10T21:59:59Z",
-      "description": "Twój zakres obowiązków, kontrola jakości produkowanych odlewów żeliwnych tarcz hamulcowych,, oczyszczanie odlewów żeliwnych przy taśmie produkcyjnej za pomocą prostych narzędzi,, pakowanie gotowych wyrobów,, osadzanie rdzeni w formach....",
-      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-darmowy-transport-bytom,oferta,1004700117"
-    },
-    {
-      "id": "1004700115",
-      "title": "Kucharz / Kucharka",
-      "company": "BAR PRZYSTAŃ KANIEWSCY JUSZCZAKIEWICZOWIE SPÓŁKA JAWNA",
-      "companyId": 1074001677,
-      "location": "Sopot",
-      "isWholePoland": false,
-      "salary": "od 35 zł / godz. (zal. od umowy)",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę",
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:20:11.14Z",
-      "expiresAt": "2026-04-10T21:59:59Z",
-      "description": "Twój zakres obowiązków, Przygotowywanie zimnych dań rybnych zgodnie z recepturami restauracji, Przygotowywanie kuchni do pracy (rozkładanie ryb do chłodni, przyprawianie), Gotowanie, pieczenie i smażenie ryb, Dbanie o porządek na stanowisku pracy,...",
-      "url": "https://www.pracuj.pl/praca/kucharz-kucharka-sopot-aleja-wojska-polskiego-11,oferta,1004700115"
-    },
-    {
-      "id": "11917782",
-      "title": "Operator techniczny – sektor spożywczy (k/m)",
-      "company": "Job Talent NV",
-      "companyId": 20141865,
-      "location": "Gent, Belgia",
-      "isWholePoland": false,
-      "salary": "13 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:20:00Z",
-      "expiresAt": "2026-04-23T21:59:59Z",
-      "description": "Twój zakres obowiązków, W sezonie:, •\tObsługa i nadzór nad liniami produkcyjnymi (mycie, sortowanie, przetwarzanie marchwi), •\tKontrola jakości produktu oraz bieżąca regulacja parametrów maszyn, •\tZapewnienie ciągłości i efektywności produkcji,...",
-      "url": "https://www.pracuj.pl/praca/operator-techniczny-sektor-spozywczy-k-m-belgia,oferta,11917782"
-    },
-    {
-      "id": "11939346",
-      "title": "Koordynator (Supervisor) pracowników oraz lokacji mieszkaniowych",
-      "company": "Carriere",
-      "companyId": 1074075312,
-      "location": "Brielle, Holandia",
-      "isWholePoland": false,
-      "salary": "75–80 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę tymczasową"
-      ],
-      "positionLevels": [
-        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:20:00Z",
-      "expiresAt": "2026-05-03T21:59:59Z",
-      "description": "Twój zakres obowiązków, Koordynowanie pracy podległego zespołu w firmie produkującej sałatki, Sygnalizowanie odchyleń na terenie zakładu - na przykład uchylonych drzwi, źle zaparkowane samochody, Nadzór nad polityką palenia na terenie zakładu...",
-      "url": "https://www.pracuj.pl/praca/koordynator-supervisor-pracownikow-oraz-lokacji-mieszkaniowych-holandia,oferta,11939346"
-    },
-    {
-      "id": "1004754829",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Cieszkowskiego",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Bolesławiec",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:19:43.627Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-cieszkowskiego-boleslawiec,oferta,1004754829"
-    },
-    {
-      "id": "1004700113",
-      "title": "Pracownik produkcji - darmowy transport",
-      "company": "Human & Hunter APT",
-      "companyId": 20075795,
-      "location": "Sosnowiec",
-      "isWholePoland": false,
-      "salary": "7 367 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę tymczasową"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:19:42.97Z",
-      "expiresAt": "2026-04-10T21:59:59Z",
-      "description": "Twój zakres obowiązków, kontrola jakości produkowanych odlewów żeliwnych tarcz hamulcowych,, oczyszczanie odlewów żeliwnych przy taśmie produkcyjnej za pomocą prostych narzędzi,, pakowanie gotowych wyrobów,, osadzanie rdzeni w formach....",
-      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-darmowy-transport-sosnowiec,oferta,1004700113"
-    },
-    {
-      "id": "1004754828",
-      "title": "Senior QA Engineer - Ecommerce / OMS / WMS / PIM",
-      "company": "FORTEGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "companyId": 1074188596,
-      "location": "Warszawa, Mokotów",
-      "isWholePoland": true,
-      "salary": "80–120 zł netto (+ VAT) / godz.",
-      "workModes": [
-        "Praca zdalna"
-      ],
-      "workSchedules": [],
-      "typesOfContract": [
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)",
-        "Starszy specjalista / Starsza specjalistka (senior)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:19:35.247Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Testowanie nowych funkcjonalności systemu OMS / PIM / WMS, Weryfikacja integracji z marketplace'ami (Allegro, Amazon, Empik) i kurierami, Testowanie kodu generowanego przy pomocy AI – wyłapywanie błędów logicznych i...",
-      "url": "https://www.pracuj.pl/praca/senior-qa-engineer-ecommerce-oms-wms-pim-warszawa-gotarda-9,oferta,1004754828"
-    },
-    {
-      "id": "1004745119",
-      "title": "Operator / Operatorka wózka widłowego (aktualne UDT)",
-      "company": "Polmotors Sp. z o.o.",
-      "companyId": 20080962,
-      "location": "Wapienica",
-      "isWholePoland": false,
-      "salary": "5 700–6 200 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:19:00.303Z",
-      "expiresAt": "2026-05-01T21:59:59Z",
-      "description": "Twój zakres obowiązków, załadunek oraz rozładunek towarów, składowanie towaru zgodnie z obowiązującymi standardami, kompletacja zamówień w oparciu o dokumentację, realizacja bieżących zadań, dostarczanie komponentów na wydziały, obsługa skanera...",
-      "url": "https://www.pracuj.pl/praca/operator-operatorka-wozka-widlowego-aktualne-udt-wapienica-ksiedza-jozefa-londzina-106b,oferta,1004745119"
-    },
-    {
-      "id": "1004700087",
-      "title": "Pracownik / Pracownica magazynu z uprawnieniami UDT (M/K)",
-      "company": "Personnel Service Polska sp. z o.o.",
-      "companyId": 1074050911,
-      "location": "Stryków",
-      "isWholePoland": false,
-      "salary": "39 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:18:59.41Z",
-      "expiresAt": "2026-04-10T21:59:59Z",
-      "description": "Twój zakres obowiązków, Sprawna obsługa dostaw i zamówień klientów w zakresie procesów magazynowych przy zachowaniu najwyższych standardów i ścisłej kontroli, Rozładunek samochodów, dokonywanie weryfikacji towarów pod względem ilościowym i...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracownica-magazynu-z-uprawnieniami-udt-m-k-strykow,oferta,1004700087"
-    },
-    {
-      "id": "1004754823",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Sfera",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Bielsko-Biała",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:18:50.5Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-sfera-bielsko-biala,oferta,1004754823"
-    },
-    {
-      "id": "1004754822",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Brzeg",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Brzeg",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:18:15.47Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-brzeg-brzeg,oferta,1004754822"
-    },
-    {
-      "id": "1004706152",
-      "title": "Magazynier / Magazynierka",
-      "company": "Bridgestone Poznań Sp. z o.o.",
-      "companyId": 8836605,
-      "location": "Poznań, Nowe Miasto",
-      "isWholePoland": false,
+      "id": "1004755096",
+      "title": "podreferendarka/podreferendarz ds. obsługi sekretariatu w Departamencie Polityki Europejskiej (DPE 25/2026)",
       "salary": "6 800–7 400 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:18:00Z",
-      "expiresAt": "2026-04-12T21:59:59Z",
-      "description": "Twój zakres obowiązków, przyjęcie palet z oponami do magazynu – praca na wózku widłowym typu reach truck,, kompletacja opon zgodnie z zamówieniami naszych klientów – praca na wózku widłowym typu reach truck,, ręczny załadunek opon z palet na...",
-      "url": "https://www.pracuj.pl/praca/magazynier-magazynierka-poznan-baltycka-65,oferta,1004706152"
+      "company": "Ministerstwo Spraw Zagranicznych",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, OSOBA NA TYM STANOWISKU:, 1. Przyjmuje korespondencję kierowaną do komórki organizacyjnej (w tym również bieżąca obsługa poczty elektronicznej), rejestruje w systemie obiegu dokumentów oraz nadzoruje obieg korespondencji...",
+      "url": "https://www.pracuj.pl/praca/podreferendarka-podreferendarz-ds-obslugi-sekretariatu-w-departamencie-polityki-warszawa-aleja-jana-chrystiana-szucha-23,oferta,1004755096"
     },
     {
-      "id": "1004754812",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Niemodlińska",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Opole",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:17:33.61Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-niemodlinska-opole,oferta,1004754812"
+      "id": "1004755099",
+      "title": "Elektryk (k/m)",
+      "salary": "9 950 zł brutto / mies.",
+      "company": "Aluplast Sp. z o.o.",
+      "location": "Nagradowice (pow. poznański)",
+      "description": "Twój zakres obowiązków, Zapewnienie ciągłości pracy linii i urządzeń produkcyjnych – diagnostyka, analiza oraz usuwanie bieżących awarii z zakresu sterowania oraz urządzeń elektrycznych., Dbanie o stan maszyn i urządzeń technicznych., Usprawnianie...",
+      "url": "https://www.pracuj.pl/praca/elektryk-k-m-nagradowice-pow-poznanski,oferta,1004755099"
     },
     {
-      "id": "1004754810",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Kostomłoty",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
-      "location": "Kostomłoty (pow. średzki)",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:17:02.897Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-kostomloty-kostomloty-pow-sredzki,oferta,1004754810"
-    },
-    {
-      "id": "1004733329",
-      "title": "Data Engineer",
-      "company": "SQUARE ONE RESOURCES sp. z o.o.",
-      "companyId": 20409928,
-      "location": "Warszawa",
-      "isWholePoland": true,
-      "salary": "120–160 zł netto (+ VAT) / godz.",
-      "workModes": [
-        "Praca zdalna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Kontrakt B2B"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": true,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:17:00Z",
-      "expiresAt": "2026-04-25T21:59:59Z",
-      "description": "Your responsibilities, Work within Agile SCRUM methodologies using the Atlassian toolchain (JIRA, Confluence, GitHub, Git), Design, develop, and maintain a modern cloud-based data warehouse on Google Cloud Platform (GCP), Build and enhance data...",
-      "url": "https://www.pracuj.pl/praca/data-engineer-warszawa,oferta,1004733329"
-    },
-    {
-      "id": "11903760",
-      "title": "Elektryk – Instalacja Liczników Smart (k/m)",
-      "company": "Flame Employment Polska Sp. z o.o.",
-      "companyId": 18800278,
-      "location": "Cork, Irlandia",
-      "isWholePoland": false,
-      "salary": "20 000–23 000 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:16:45.213Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, Montaż i wymiana inteligentnych liczników (Smart Meter), Kontakt z właścicielami domów oraz nadzór nad realizacją prac, Wykonywanie pomiarów i testów instalacji elektrycznej (m.in. sprawdzenie napięcia,     ciągłości ...",
-      "url": "https://www.pracuj.pl/praca/elektryk-instalacja-licznikow-smart-k-m-irlandia,oferta,11903760"
-    },
-    {
-      "id": "1004733328",
-      "title": "Sprzedawca/Kasjer, Sprzedawczyni/Kasjerka",
+      "id": "1004755098",
+      "title": "Menedżer/Menedżerka Zespołu",
+      "salary": "7 000–8 500 zł brutto / mies.",
       "company": "KAUFLAND",
-      "companyId": 1074018810,
-      "location": "Pszczyna",
-      "isWholePoland": false,
-      "salary": "4 200–4 275 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:16:44.537Z",
-      "expiresAt": "2026-04-25T21:59:59Z",
-      "description": "Twój zakres obowiązków, wykładanie towaru oraz dbanie o jego odpowiednią ekspozycję, przygotowywanie i umieszczanie prawidłowych oznaczeń cenowych, dbanie o uprzejmą, staranną i sprawną obsługę klienta, dbanie o świeżość i jakość naszych...",
-      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-sprzedawczyni-kasjerka-pszczyna-broniewskiego-1a,oferta,1004733328"
+      "location": "Lubań",
+      "description": "Twój zakres obowiązków, odpowiedzialność za planowanie pracy, zarządzanie i właściwą komunikację w zespole oraz nadzór nad podległymi obszarami, zagwarantowanie właściwego przygotowania działu do sprzedaży, przyjaznej i profesjonalnej obsługi...",
+      "url": "https://www.pracuj.pl/praca/menedzer-menedzerka-zespolu-luban-kopernika-30a,oferta,1004755098"
     },
     {
-      "id": "1004754809",
-      "title": "Pracownik / Pracowniczka Restauracji KFC Makro",
-      "company": "AmRest Sp. z o.o. - KFC",
-      "companyId": 20375664,
+      "id": "1004755116",
+      "title": "Doradca / Doradczyni klienta",
+      "salary": "31,40 zł brutto / godz.",
+      "company": "Golden Rose Sp. z o. o.",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, Obsługa klienta, doradztwo przy doborze kosmetyków, utrzymanie porządku na sklepie....",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-lodz-drewnowska-58,oferta,1004755116"
+    },
+    {
+      "id": "1004755110",
+      "title": "Magazynier / ka",
+      "salary": "5 100–6 500 zł brutto / mies.",
+      "company": "BISTA STANDARD sp. z o.o.",
       "location": "Bydgoszcz",
-      "isWholePoland": false,
-      "salary": "31–32 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat",
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa zlecenie"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": false,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:16:29.59Z",
-      "expiresAt": "2026-05-07T21:59:59Z",
-      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
-      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-makro-bydgoszcz,oferta,1004754809"
+      "description": "Twój zakres obowiązków, Przyjmowanie i rozładunek dostaw towaru do magazynu, Przygotowanie zleceń produkcyjnych, Obsługa hal produkcyjnych, Obsługa urządzeń magazynowych, Obsługa systemów magazynowych, Sprawdzanie stanów magazynowych, Regularna...",
+      "url": "https://www.pracuj.pl/praca/magazynier-ka-bydgoszcz-smolenska-29,oferta,1004755110"
     },
     {
-      "id": "1004733326",
-      "title": "Pracownik Porządkowy, Pracowniczka Porządkowa",
-      "company": "KAUFLAND",
-      "companyId": 1074018810,
-      "location": "Pszczyna",
-      "isWholePoland": false,
-      "salary": "4 200–4 275 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Część etatu"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": false,
-      "isOneClickApply": false,
-      "publishedAt": "2026-04-07T14:16:15.12Z",
-      "expiresAt": "2026-04-25T21:59:59Z",
-      "description": "Twój zakres obowiązków, utrzymanie czystości na hali sprzedaży oraz w pozostałych pomieszczeniach, jak również na terenach przylegających do marketu, kontrola czystości i sprzątanie pomieszczeń sanitarnych, utrzymanie w czystości nośników...",
-      "url": "https://www.pracuj.pl/praca/pracownik-porzadkowy-pracowniczka-porzadkowa-pszczyna-broniewskiego-1a,oferta,1004733326"
+      "id": "1004755080",
+      "title": "Specjalista / Specjalistka ds. projektów i produktów",
+      "salary": "6 000–9 000 zł / mies. (zal. od umowy)",
+      "company": "KOENZA MICROBIOME SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "location": "Łódź, Śródmieście",
+      "description": "Twój zakres obowiązków, wsparcie Project Managera w realizacji bieżących projektów, koordynacja zadań operacyjnych w projektach (statusy, follow-upy, pilnowanie terminów), bieżąca opieka nad produktami obecnymi na rynku, organizacja wysyłki próbek...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-projektow-i-produktow-lodz-plk-jana-kilinskiego-66,oferta,1004755080"
     },
     {
-      "id": "1004712880",
-      "title": "Operator wózka widłowego (k/m)",
-      "company": "FAM SPÓŁKA AKCYJNA",
-      "companyId": 1074009732,
-      "location": "Wrocław, Fabryczna",
-      "isWholePoland": false,
-      "salary": "31,40–50 zł brutto / godz.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Pracownik fizyczny / Pracowniczka fizyczna"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:16:07.733Z",
-      "expiresAt": "2026-04-16T21:59:59Z",
-      "description": "Twój zakres obowiązków, składowanie dostaw, przygotowanie towarów do wysyłki, załadunek i rozładunek towarów, zapewnienie optymalnego wykorzystania powierzchni magazynowej, dbanie o prawidłowy obieg dokumentacji magazynowej, utrzymanie porządku na...",
-      "url": "https://www.pracuj.pl/praca/operator-wozka-widlowego-k-m-wroclaw-ibn-siny-awicenny-16,oferta,1004712880"
+      "id": "1004742501",
+      "title": "Monter instalacji elektrycznych i teletechnicznych (k/m)",
+      "salary": "6 000–6 500 zł brutto / mies.",
+      "company": "TECHNAT IT JAN NATHER ZAKŁAD ELEKTRYCZNO-ELEKTRONICZNY",
+      "location": "Przeźmierowo (pow. poznański)",
+      "description": "Twój zakres obowiązków, wykonywanie instalacji elektrycznych (wewnętrznych i zewnętrznych) zgodnie z dokumentacją techniczną,, wykonywanie instalacji teletechnicznych (LAN, CCTV, systemy alarmowe, kontrola dostępu itp.),, układanie tras kablowych...",
+      "url": "https://www.pracuj.pl/praca/monter-instalacji-elektrycznych-i-teletechnicznych-k-m-przezmierowo-pow-poznanski,oferta,1004742501"
     },
     {
-      "id": "1004733327",
-      "title": "Specjalista ds. Logistyki/Magazynier",
-      "company": "Black Red White S.A.",
-      "companyId": 20089259,
-      "location": "Białystok, Zawady",
-      "isWholePoland": false,
-      "salary": "4 806–6 500 zł brutto / mies.",
-      "workModes": [
-        "Praca stacjonarna"
-      ],
-      "workSchedules": [
-        "Pełny etat"
-      ],
-      "typesOfContract": [
-        "Umowa o pracę"
-      ],
-      "positionLevels": [
-        "Specjalista / Specjalistka (mid / Regular)"
-      ],
-      "isRemote": false,
-      "isSuperOffer": true,
-      "isOptionalCv": true,
-      "isOneClickApply": true,
-      "publishedAt": "2026-04-07T14:16:00Z",
-      "expiresAt": "2026-04-25T21:59:59Z",
-      "description": "Twój zakres obowiązków, Opis stanowiska, Jako Specjalista ds. Logistyki/Magazynier będziesz odpowiedzialny za obsługę klientów w magazynie. To także mnogość sytuacji, w których będziesz mógł wykazać się zdolnościami interpersonalnymi, przyjaznym...",
-      "url": "https://www.pracuj.pl/praca/specjalista-ds-logistyki-magazynier-bialystok-produkcyjna-88,oferta,1004733327"
+      "id": "1004755079",
+      "title": "Kurier",
+      "salary": "5 500–10 000 zł brutto / mies.",
+      "company": "Patrycja Dudkiewicz Usługi Transportowe",
+      "location": "Bronisze (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, Doręczenie oraz odbiór przesyłek na wyznaczonym rejonie, Obsługa paczkomatów InPost, Kontakt z klientem oraz dbanie o pozytywny wizerunek firmy , Raportowanie wykonanych zadań...",
+      "url": "https://www.pracuj.pl/praca/kurier-bronisze-pow-warszawski-zachodni-swierkowa-1aa,oferta,1004755079"
+    },
+    {
+      "id": "1004715975",
+      "title": "Specjalista / Specjalistka ds. zgodności i obowiązków regulacyjnych",
+      "salary": "5 500–9 000 zł brutto / mies.",
+      "company": "BANK SPÓŁDZIELCZY W SZCZEKOCINACH",
+      "location": "Szczekociny",
+      "description": "Twój zakres obowiązków, zarządzanie ryzykiem braku zgodności w Banku, w tym jego identyfikacja, pomiar, monitorowanie i raportowanie,, opracowywanie i aktualizacja regulacji wewnętrznych oraz nadzór nad ich zgodnością z przepisami prawa,,...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-zgodnosci-i-obowiazkow-regulacyjnych-szczekociny-stefana-zeromskiego-8,oferta,1004715975"
+    },
+    {
+      "id": "1004725098",
+      "title": "Sprzedawca / Sprzedawczyni",
+      "salary": "6 248–10 500 zł / mies. (zal. od umowy)",
+      "company": "DWM Tomasz Matysek",
+      "location": "Warka",
+      "description": "Twój zakres obowiązków, 🧠 Na czym będzie polegała Twoja praca:, obsługa zamówień (Allegro + sklep+baselinker), kontakt z klientem (mail / telefon), tworzenie i poprawa ofert produktowych, pilnowanie stanów, wysyłek, ogólnego porządku w systemie,...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-warka-senatorska-25,oferta,1004725098"
+    },
+    {
+      "id": "1004748672",
+      "title": "Patient Recruitment Marketing Manager",
+      "salary": "12 000–16 000 zł brutto / mies.",
+      "company": "FutureMeds sp. z o.o.",
+      "location": "Wrocław, Stare Miasto",
+      "description": "Twój zakres obowiązków, Odpowiedzialność za tworzenie i realizację strategii marketingu rekrutacyjnego pacjentów dla sieci ośrodków badań klinicznych FutureMeds w Polsce oraz wsparcie działań międzynarodowych w razie potrzeby, Zarządzanie zespołem...",
+      "url": "https://www.pracuj.pl/praca/patient-recruitment-marketing-manager-wroclaw-legnicka-16,oferta,1004748672"
+    },
+    {
+      "id": "1004721793",
+      "title": "Regional Sales Manager",
+      "salary": "12 000–14 999 zł netto (+ VAT) / mies.",
+      "company": "StudentSpace",
+      "location": "Warszawa, Mokotów",
+      "description": "Twój zakres obowiązków, Aktywne zarządzanie procesem najmu i realizacja ambitnych celów komercyjnych w warszawskich obiektach (docelowo w ciągu 3 lat 3 lokalizacje), Zarządzanie cennikiem, promocjami i polityką rezerwacyjną; analiza konkurencji i...",
+      "url": "https://www.pracuj.pl/praca/regional-sales-manager-warszawa-woloska-18,oferta,1004721793"
+    },
+    {
+      "id": "1004742495",
+      "title": "Magazynier / Magazynierka – Logistyk / Logistyka",
+      "salary": "od 5 500 zł brutto / mies.",
+      "company": "PPHU \"ROLPOT\" sp.j. KRÓLEWSKI I PANEK",
+      "location": "Płock",
+      "description": "Twój zakres obowiązków, Przyjmowanie i wydawanie towarów z magazynu  , Kontrolowanie stanów magazynowych oraz prowadzenie dokumentacji  , Rozmieszczanie i składowanie produktów zgodnie z procedurami  , Obsługa sprzętu magazynowego, np. wózków...",
+      "url": "https://www.pracuj.pl/praca/magazynier-magazynierka-logistyk-logistyka-plock-targowa-20a,oferta,1004742495"
+    },
+    {
+      "id": "1004725094",
+      "title": "Sprzedawca w sklepie",
+      "salary": "6 248–10 500 zł / mies. (zal. od umowy)",
+      "company": "DWM Tomasz Matysek",
+      "location": "Warka",
+      "description": "Twój zakres obowiązków, Na czym polega praca Sprzedawcy w DWM ?, Jako Sprzedawca DWM będziesz odpowiedzialny za pozyskiwanie nowych klientów i obsługiwanie obecnych, przygotowywanie ofert, przyjmowanie zamówień, przyjmowanie dostaw,...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-w-sklepie-warka-senatorska-25,oferta,1004725094"
+    },
+    {
+      "id": "1004742493",
+      "title": "Doświadczony wykończeniowiec",
+      "salary": "6 500–7 900 zł brutto / mies.",
+      "company": "GIPSPOL - KOMPLEKSOWE WYKOŃCZENIA KAMIL SKORUPA",
+      "location": "Rogoźnik (pow. będziński)",
+      "description": "Twój zakres obowiązków, realizacje kompleksowych wykończeń wnętrz na wysokim poziomie jakości, m.in:, wykonywanie gładzi natryskowych oraz malowania hydrodynamicznego , glazurnictwo , zabudowy GK, zabudowy poddaszy, przygotowanie powierzchni do...",
+      "url": "https://www.pracuj.pl/praca/doswiadczony-wykonczeniowiec-rogoznik-pow-bedzinski,oferta,1004742493"
+    },
+    {
+      "id": "1004736745",
+      "title": "Kierownik / Kierowniczka działu kadrowo - płacowego",
+      "salary": "10 000–14 000 zł / mies. (zal. od umowy)",
+      "company": "SUPPORT Biuro Rachunkowe Sp. z o.o.",
+      "location": "Suchy Las (pow. poznański)",
+      "description": "Twój zakres obowiązków, kierowanie zespołem specjalistów ds. kadr i płac, planowanie pracy zespołu, podział zadań, ustalanie priorytetów,, nadzór nad terminowością i jakością obsługi klientów,, rozwiązywanie problemów organizacyjnych i...",
+      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-dzialu-kadrowo-placowego-suchy-las-pow-poznanski,oferta,1004736745"
+    },
+    {
+      "id": "1004755076",
+      "title": "Kelner / Kelnerka",
+      "salary": "31–35 zł / godz. (zal. od umowy)",
+      "company": "PRZEDSIĘBIORSTWO KULTURALNO-USŁUGOWE OLA ANDRZEJ WAJRAK",
+      "location": "Jabłonna Pierwsza (pow. lubelski)",
+      "description": "Twój zakres obowiązków, profesjonalna obsługa gości podczas wesel i imprez, serwowanie potraw i napojów, przygotowanie sali oraz nakrywanie stołów, dbanie o porządek w trakcie wydarzenia, współpraca z kuchnią i zespołem obsługi, reagowanie na...",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-jablonna-pierwsza-pow-lubelski,oferta,1004755076"
+    },
+    {
+      "id": "1004751516",
+      "title": "Kurier - Kierowca kat. B",
+      "salary": "4 800–7 500 zł / mies. (zal. od umowy)",
+      "company": "eMCe Express Michał Ciemięga",
+      "location": "Żory",
+      "description": "Twój zakres obowiązków, Dostarczanie przesyłek do klientów na terenie Żor , Odbieranie paczek od nadawców na terenie Żor, Prowadzenie pojazdu zgodnie z przepisami ruchu drogowego  , Utrzymywanie pojazdu w czystości i dbanie o jego stan techniczny ...",
+      "url": "https://www.pracuj.pl/praca/kurier-kierowca-kat-b-zory,oferta,1004751516"
+    },
+    {
+      "id": "1004755075",
+      "title": "Pomoc kuchenna",
+      "salary": "5 000–9 000 zł / mies. (zal. od umowy)",
+      "company": "Sławomir Gąsiorowski FIRMA HANDLOWO- USŁUGOWA, GASTRONOMIA",
+      "location": "Władysławowo",
+      "description": "Twój zakres obowiązków, Pomoc lub samodzielne przygotowanie potraw, Utrzymywanie czystości i porządku na stanowisku pracy oraz w kuchni, Pomoc w przygotowywaniu i wydawaniu posiłków, Obsługa kasy fiskalnej i terminala płatniczego, Bezpośrednia...",
+      "url": "https://www.pracuj.pl/praca/pomoc-kuchenna-wladyslawowo-blekitnej-armii-7,oferta,1004755075"
+    },
+    {
+      "id": "1004755074",
+      "title": "Młodszy księgowy / Młodsza księgowa w biurze rachunkowym",
+      "salary": "5 000–8 000 zł / mies. (zal. od umowy)",
+      "company": "SIMPLE TAXES sp. z o.o.",
+      "location": "Warszawa, Ursus",
+      "description": "Twój zakres obowiązków, Samodzielne prowadzenie księgowości jednoosobowych działalności gospodarczych zgodnie z obowiązującymi przepisami,, Sprawdzanie merytoryczne dokumentacji i prawidłowości księgowań,, Sporządzanie deklaracji podatkowych,,...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-ksiegowy-mlodsza-ksiegowa-w-biurze-rachunkowym-warszawa-obroncow-helu-3,oferta,1004755074"
+    },
+    {
+      "id": "1004725085",
+      "title": "Serwisant urządzeń AGD",
+      "salary": "6 400–16 000 zł / mies. (zal. od umowy)",
+      "company": "SmartSerwis AGD Karolina Baran",
+      "location": "Gdynia",
+      "description": "Twój zakres obowiązków, mobilny Serwisant Sprzętu AGD – Miasto i okolice do 25 km, dojazd do klienta, diagnoza i naprawa sprzętu AGD, wystawianie paragonów lub faktur za wykonaną usługę, sporządzanie ekspertyz dla ubezpieczalni...",
+      "url": "https://www.pracuj.pl/praca/serwisant-urzadzen-agd-gdynia,oferta,1004725085"
+    },
+    {
+      "id": "1004725088",
+      "title": "Serwisant urządzeń AGD",
+      "salary": "6 400–16 000 zł / mies. (zal. od umowy)",
+      "company": "SmartSerwis AGD Karolina Baran",
+      "location": "Kielce",
+      "description": "Twój zakres obowiązków, mobilny Serwisant Sprzętu AGD – Miasto i okolice do 25 km, dojazd do klienta, diagnoza i naprawa sprzętu AGD, wystawianie paragonów lub faktur za wykonaną usługę, sporządzanie ekspertyz dla ubezpieczalni...",
+      "url": "https://www.pracuj.pl/praca/serwisant-urzadzen-agd-kielce,oferta,1004725088"
+    },
+    {
+      "id": "1004725086",
+      "title": "Serwisant urządzeń AGD",
+      "salary": "6 400–16 000 zł / mies. (zal. od umowy)",
+      "company": "SmartSerwis AGD Karolina Baran",
+      "location": "Lublin",
+      "description": "Twój zakres obowiązków, mobilny Serwisant Sprzętu AGD – Miasto i okolice do 25 km, dojazd do klienta, diagnoza i naprawa sprzętu AGD, wystawianie paragonów lub faktur za wykonaną usługę, sporządzanie ekspertyz dla ubezpieczalni...",
+      "url": "https://www.pracuj.pl/praca/serwisant-urzadzen-agd-lublin,oferta,1004725086"
+    },
+    {
+      "id": "1004725087",
+      "title": "Serwisant urządzeń AGD",
+      "salary": "6 400–16 000 zł / mies. (zal. od umowy)",
+      "company": "SmartSerwis AGD Karolina Baran",
+      "location": "Toruń",
+      "description": "Twój zakres obowiązków, mobilny Serwisant Sprzętu AGD – Miasto i okolice do 25 km, dojazd do klienta, diagnoza i naprawa sprzętu AGD, wystawianie paragonów lub faktur za wykonaną usługę, sporządzanie ekspertyz dla ubezpieczalni...",
+      "url": "https://www.pracuj.pl/praca/serwisant-urzadzen-agd-torun,oferta,1004725087"
+    },
+    {
+      "id": "1004725084",
+      "title": "Serwisant urządzeń AGD",
+      "salary": "6 400–16 000 zł / mies. (zal. od umowy)",
+      "company": "SmartSerwis AGD Karolina Baran",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, mobilny Serwisant Sprzętu AGD – Miasto i okolice do 25 km, dojazd do klienta, diagnoza i naprawa sprzętu AGD, wystawianie paragonów lub faktur za wykonaną usługę, sporządzanie ekspertyz dla ubezpieczalni...",
+      "url": "https://www.pracuj.pl/praca/serwisant-urzadzen-agd-warszawa,oferta,1004725084"
+    },
+    {
+      "id": "1004725083",
+      "title": "Fizjoterapeuta / Fizjoterapeutka",
+      "salary": "8 346 zł brutto / mies.",
+      "company": "NIEPUBLICZNY REHABILITACYJNY ZAKŁAD OPIEKI ZDROWOTNEJ INREHA sp. z o.o.",
+      "location": "Inowrocław",
+      "description": "Twój zakres obowiązków, wykonywanie zabiegów fizjoterapeutycznych, w szczególności: kinezyterapii i fizykoterapii, prowadzenie dokumentacji medycznej...",
+      "url": "https://www.pracuj.pl/praca/fizjoterapeuta-fizjoterapeutka-inowroclaw-srednia-7a,oferta,1004725083"
+    },
+    {
+      "id": "1004728055",
+      "title": "Kurier - Kierowca kat. B",
+      "salary": "5 500–9 500 zł / mies. (zal. od umowy)",
+      "company": "PROMARKO sp. z o.o.",
+      "location": "Gdańsk",
+      "description": "Twój zakres obowiązków, Wraz z rozwojem firmy poszukujemy 2 osób na stanowisko kuriera., , Oddział GD2 - Gdańsk ul. Botaniczna 20, , Do obsadzenia mamy stanowisko kuriera rejonowego świadczącego usługi door to door oraz kuriera realizującego...",
+      "url": "https://www.pracuj.pl/praca/kurier-kierowca-kat-b-gdansk-botaniczna-20,oferta,1004728055"
+    },
+    {
+      "id": "1004742487",
+      "title": "Stylista / Stylistka paznokci",
+      "salary": "4 806–8 000 zł / mies. (zal. od umowy)",
+      "company": "KLAUDIA GĘBCZYŃSKA \"NOT WASTED\"",
+      "location": "Dąbrowa Górnicza",
+      "description": "Twój zakres obowiązków, Wykonywanie zabiegów manicure metodą klasyczną, hybrydową i żelową oraz pedicure,, stylizacje brwi (opcjonalnie), Obsługa klienta oraz kalendarza elektronicznego,, Obsługa kasy fiskalnej,, Dbałość o narzędzia i stanowisko...",
+      "url": "https://www.pracuj.pl/praca/stylista-stylistka-paznokci-dabrowa-gornicza-iii-powstania-slaskiego-4,oferta,1004742487"
+    },
+    {
+      "id": "1004755073",
+      "title": "Handlowiec / Handlowczyni - branża fotowoltaiczna",
+      "salary": "6 000–10 000 zł brutto / mies.",
+      "company": "SOLUTION ENERGY STORAGE sp. z o.o.",
+      "location": "Kórnik",
+      "description": "Twój zakres obowiązków, Pozyskiwanie nowych klientów zainteresowanych instalacjami fotowoltaicznymi  , Prezentowanie i doradztwo w zakresie oferowanych rozwiązań technologicznych  , Przygotowywanie ofert handlowych oraz prowadzenie negocjacji...",
+      "url": "https://www.pracuj.pl/praca/handlowiec-handlowczyni-branza-fotowoltaiczna-kornik-poznanska-32a,oferta,1004755073"
+    },
+    {
+      "id": "1004755072",
+      "title": "Kierowca C+E",
+      "salary": "12 000–16 000 zł brutto / mies.",
+      "company": "FM POLAND sp. z o.o.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, realizacja zleceń transportowych na trasach krajowych i międzynarodowych, dbałość o powierzony sprzęt, kontakt z działem spedycji, Prowadzenie pojazdów ciężarowych z naczepą lub przyczepą zgodnie z przepisami ruchu...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-warszawa,oferta,1004755072"
+    },
+    {
+      "id": "1004725080",
+      "title": "Kurier - Kierowca",
+      "salary": "5 000–8 000 zł / mies. (zal. od umowy)",
+      "company": "F.H.U. WIKTOR KOŚCIOW",
+      "location": "Rzeszów",
+      "description": "Twój zakres obowiązków, Praca dla Kuriera InPost - Doręczenia D2D., Jesteś energiczny, odpowiedzialny i lubisz pracować z ludźmi? Dołącz do zespołu InPost i zacznij pracę jako kurier!, Praca od pn. do pt. Ew. dodatkowe soboty płatne! Jasne warunki...",
+      "url": "https://www.pracuj.pl/praca/kurier-kierowca-rzeszow,oferta,1004725080"
+    },
+    {
+      "id": "11918000",
+      "title": "Kierowca kat. B - dostawca zakupów",
+      "salary": "12 000–17 000 zł brutto / mies.",
+      "company": "OTTO Work Force",
+      "location": "Wiele lokalizacji, Holandia",
+      "description": "Twój zakres obowiązków, Załadunek/rozładunek ciężarówek, Sprawdzanie jakości, Prowadzenie samochodu lub busa, Dostarczanie artykułów spożywczych do domów klientów...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-b-dostawca-zakupow-holandia,oferta,11918000"
+    },
+    {
+      "id": "1004725078",
+      "title": "Samodzielny Księgowy/ Samodzielna Księgowa",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "company": "AKPE GROUP sp. z o.o.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Samodzielne prowadzenie pełnej księgowości spółek z o.o., Dekretacja i księgowanie dokumentów, w tym rezerw i rozliczeń międzyokresowych, Weryfikacja dokumentów oraz uzgadnianie sald z kontrahentami, Sporządzanie deklaracji...",
+      "url": "https://www.pracuj.pl/praca/samodzielny-ksiegowy-samodzielna-ksiegowa-katowice-budowlana-8a,oferta,1004725078"
+    },
+    {
+      "id": "1004736741",
+      "title": "Agent / Agentka nieruchomości",
+      "salary": "5 000–10 000 zł netto (+ VAT) / mies.",
+      "company": "VAREM ESTATE sp. z o.o.",
+      "location": "Poznań",
+      "description": "Twój zakres obowiązków, Będziesz prowadzić zagranicznych klientów kupujących nieruchomości - od pierwszej rozmowy aż po podpisanie aktu notarialnego., Twoje zadania:, prowadzenie klientów kupujących (end-to-end), analiza potrzeb i strategii...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-poznan,oferta,1004736741"
+    },
+    {
+      "id": "1004715963",
+      "title": "Head of Marketing",
+      "salary": "15 000–22 500 zł / mies. (zal. od umowy)",
+      "company": "Strefa Tenisa Sp. z o.o. SP. K.",
+      "location": "Warszawa, Ochota",
+      "description": "Twój zakres obowiązków, Kreowanie strategii sprzedaży online (Polska i rynki zagraniczne) w celu maksymalizacji przychodów., Ekspansja rynków zagranicznych (Tennis Zone)., Wyznaczanie kierunków dla działań SEM, SEO i płatnych kampanii w Social...",
+      "url": "https://www.pracuj.pl/praca/head-of-marketing-warszawa-bielska-33,oferta,1004715963"
+    },
+    {
+      "id": "1004755070",
+      "title": "Fryzjer / Fryzjerka",
+      "salary": "5 000–10 000 zł brutto / mies.",
+      "company": "EWA BEAUTY Ewa Przybylska",
+      "location": "Rokietnica (pow. poznański)",
+      "description": "Twój zakres obowiązków, Osoba na tym stanowisku będzie odpowiedzialna za samodzielną obsluge klienta wymagania: Koloryzacja , strzyżenie damskie , męskie , dziecięce ,mile widziane barberskie . Praca w młodym zespole w miłej atmosferze . Dojazd z...",
+      "url": "https://www.pracuj.pl/praca/fryzjer-fryzjerka-rokietnica-pow-poznanski-trakt-napoleonski-11,oferta,1004755070"
+    },
+    {
+      "id": "1004736740",
+      "title": "Kelner / Kelnerka - Barista / Baristka",
+      "salary": "31,40 zł brutto / godz.",
+      "company": "ALL4U sp. z o.o.",
+      "location": "Kórnik",
+      "description": "Twój zakres obowiązków, obsługa klienta, obsługa kasy, obsługa ekspresu, dbanie o porządek za barem jak i na sali...",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-barista-baristka-kornik-wodna-9,oferta,1004736740"
+    },
+    {
+      "id": "1004755068",
+      "title": "Kasjer / Kasjerka - Sprzedawca / Sprzedawczyni",
+      "salary": "5 000–5 500 zł brutto / mies.",
+      "company": "Ewelina Wołczyńska F.H.U. EVELL",
+      "location": "Padew Narodowa (pow. mielecki)",
+      "description": "Twój zakres obowiązków, Obsługa klienta zgodnie ze standardami stacji paliw MOYA, dbanie o wizerunek miejsca pracy poprzez czystość oraz porządek na terenie  stacji, aktywna sprzedaż oraz wspieranie promocji,...",
+      "url": "https://www.pracuj.pl/praca/kasjer-kasjerka-sprzedawca-sprzedawczyni-padew-narodowa-pow-mielecki-jana-pawla-ii-24,oferta,1004755068"
+    },
+    {
+      "id": "1004728048",
+      "title": "Specjalista/ Specjalistka ds. wsparcia sprzedaży produktów hipotecznych",
+      "salary": "6 000–8 000 zł brutto / mies.",
+      "company": "Platinum Financial sp. z o.o.",
+      "location": "Poznań, Nowe Miasto",
+      "description": "Twój zakres obowiązków, zapewnianie bieżącego wsparcia merytorycznego w obszarze kredytów hipotecznych dostępnych w ofercie firmy, udział w obsłudze procesu kredytowego w systemach bankowych – od analizy dokumentów po finalizację złożonych...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-wsparcia-sprzedazy-produktow-hipotecznych-poznan-swietego-michala-100,oferta,1004728048"
+    },
+    {
+      "id": "1004755067",
+      "title": "Manager salonu spa/wellness",
+      "salary": "8 000–12 000 zł / mies. (zal. od umowy)",
+      "company": "LDS sp. z o.o.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Budowanie i zarządzanie zespołem 8–10 osób (rekrutacja, grafiki, rozwój, motywacja)., Odpowiedzialność za wynik finansowy salonu — obroty, rentowność, kontrola kosztów., Budowanie bazy klientów i dbanie o ich doświadczenie...",
+      "url": "https://www.pracuj.pl/praca/manager-salonu-spa-wellness-lodz,oferta,1004755067"
+    },
+    {
+      "id": "1004725068",
+      "title": "Pracownik / Pracowniczka pralni",
+      "salary": "od 4 806 zł brutto / mies.",
+      "company": "Anna Metys 'SZYK'",
+      "location": "Gdynia, Orłowo",
+      "description": "Twój zakres obowiązków, Obsługa klientów, Przyjmowanie i wydawanie prania, Obsługa maszyn pralniczych, Czyszczenie, pranie oraz prasowanie odzieży, Dbanie o porządek w miejscu pracy...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-pralni-gdynia-aleja-zwyciestwa-232,oferta,1004725068"
+    },
+    {
+      "id": "1004755065",
+      "title": "Magazynier - Pakowacz",
+      "salary": "31,40–33 zł / godz. (zal. od umowy)",
+      "company": "ASG PROJECT sp. z o.o.",
+      "location": "Sosnowiec",
+      "description": "Twój zakres obowiązków, , Twoje zadania:, , - przygotowywanie i kompletowanie zamówień do wysyłki, - adresowanie i nadawanie przesyłek, - rozpakowywanie dostaw i układanie towaru na magazynie (przenoszenie kartonów ważących ok 20kg i mniej), -...",
+      "url": "https://www.pracuj.pl/praca/magazynier-pakowacz-sosnowiec-braci-mieroszewskich-a6,oferta,1004755065"
+    },
+    {
+      "id": "1004748650",
+      "title": "Specjalista ds. jakości treści internetowych z językiem niemieckim",
+      "salary": "8 500–10 000 zł brutto / mies.",
+      "company": "Recruiters",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, monitorowanie, ocenianie i audyt wybranej próbki połączeń przychodzących/wychodzących oraz innych form kontaktu (czat, e‑mail),, realizacja miesięcznych celów jakościowych i ilościowych (np. liczba odsłuchanych rozmów,...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-jakosci-tresci-internetowych-z-jezykiem-niemieckim-katowice,oferta,1004748650"
+    },
+    {
+      "id": "1004755063",
+      "title": "Księgowy / Księgowa",
+      "salary": "4 410–6 470 zł / mies. (zal. od umowy)",
+      "company": "MHM INVESTMENTS COMPANY sp. z o.o.",
+      "location": "Poznań, Nowe Miasto",
+      "description": "Twój zakres obowiązków, Prowadzenie bieżącej księgowości spółki ( pełna – docelowo, obecnie firma jeszcze współpracuje z biurem rachunkowym), Rozliczenia VAT (krajowy i zagraniczny), Kontrola dokumentów sprzedażowych i kosztowych, Współpraca z...",
+      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-poznan-starolecka-18r,oferta,1004755063"
+    },
+    {
+      "id": "1004751331",
+      "title": "Magazynier - Zaplatacz Lin Włókiennych",
+      "salary": "6 500–7 200 zł brutto / mies.",
+      "company": "YSM and Partners",
+      "location": "Dobra (pow. policki)",
+      "description": "Twój zakres obowiązków, do naszej lokalizacji w Dobrej Szczecińskiej szukamy Magazyniera / Zaplatacza Lin Włókiennych zainteresowanego branżą morską. Zależy nam na osobie z którą osiągniemy sukces dzięki wspólnej motywacji i wzajemnym ciągnięciu w...",
+      "url": "https://www.pracuj.pl/praca/magazynier-zaplatacz-lin-wlokiennych-dobra-pow-policki,oferta,1004751331"
+    },
+    {
+      "id": "1004751330",
+      "title": "Magazynier - Zaplatacz Lin Włókiennych",
+      "salary": "6 500–7 200 zł brutto / mies.",
+      "company": "YSM and Partners",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, do naszej lokalizacji w Dobrej Szczecińskiej szukamy Magazyniera / Zaplatacza Lin Włókiennych zainteresowanego branżą morską. Zależy nam na osobie z którą osiągniemy sukces dzięki wspólnej motywacji i wzajemnym ciągnięciu w...",
+      "url": "https://www.pracuj.pl/praca/magazynier-zaplatacz-lin-wlokiennych-szczecin,oferta,1004751330"
+    },
+    {
+      "id": "1004748646",
+      "title": "Kucharz / Kucharka",
+      "salary": "5 470–8 000 zł brutto / mies.",
+      "company": "HOTEL TAJTY - sp. z o.o.",
+      "location": "Wilkasy (pow. giżycki)",
+      "description": "Twój zakres obowiązków, przygotowywanie potraw zgodnie z obowiązującymi standardami,, dbanie o estetykę i jakość serwowanych dań,, współpraca z zespołem kuchni i obsługą sali,, utrzymanie porządku i higieny na stanowisku pracy,, kontrola stanów...",
+      "url": "https://www.pracuj.pl/praca/kucharz-kucharka-wilkasy-pow-gizycki-przemyslowa-17,oferta,1004748646"
+    },
+    {
+      "id": "1004755061",
+      "title": "Przedstawiciel handlowy / Przedstawicielka handlowa",
+      "salary": "4 000–15 000 zł / mies. (zal. od umowy)",
+      "company": "MHM INVESTMENTS COMPANY sp. z o.o.",
+      "location": "Poznań, Nowe Miasto",
+      "description": "Twój zakres obowiązków, odbieranie telefonów od zainteresowanych klientów, profesjonalna obsługa zapytań i doprowadzanie sprzedaży do końca, doradztwo i prowadzenie rozmów handlowych, sporadyczne wyjazdy do klientów w teren (raczej rzadko niż...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-poznan-starolecka-18r,oferta,1004755061"
+    },
+    {
+      "id": "1004725061",
+      "title": "Mechanik - Serwisant Maszyn Rolniczych i Komunalnych (k/m)",
+      "salary": "5 500–7 000 zł brutto / mies.",
+      "company": "GRUNER MARIOLA \"MARPOL\" Mariola Gruner",
+      "location": "Opole",
+      "description": "Twój zakres obowiązków, Diagnostyka usterek maszyn komunalnych i rolniczych , Wykonywanie napraw mechanicznych, hydraulicznych oraz elektrycznych, Przeglądy techniczne i konserwacja sprzętu zgodnie z harmonogramem, Przygotowanie maszyn do wydania...",
+      "url": "https://www.pracuj.pl/praca/mechanik-serwisant-maszyn-rolniczych-i-komunalnych-k-m-opole-oleska-141a,oferta,1004725061"
+    },
+    {
+      "id": "1004710151",
+      "title": "Operator CTP / DTP i cyfrowych maszyn drukujących",
+      "salary": "6 500–7 200 zł brutto / mies.",
+      "company": "WIELAND DRUKARNIA sp. z o.o.",
+      "location": "Poznań, Grunwald",
+      "description": "Twój zakres obowiązków, przygotowywanie plików do druku, impozycja i optymalizacja plików graficznych, kontrola jakości plików, ścisła współpraca z działem Produkcji i Sprzedaży, obsługa maszyn druku cyfrowego (typu Xerox po przeszkoleniu)...",
+      "url": "https://www.pracuj.pl/praca/operator-ctp-dtp-i-cyfrowych-maszyn-drukujacych-poznan-ziebicka-17,oferta,1004710151"
+    },
+    {
+      "id": "11915126",
+      "title": "Dyrektor operacyjny",
+      "salary": "15 000–20 000 zł brutto / mies.",
+      "company": "Zanglory Investments Ltd",
+      "location": "Pemba, Tanzania",
+      "description": "Twój zakres obowiązków, Nadzór nad codziennym funkcjonowaniem wszystkich działów operacyjnych i działów mających bezpośredni kontakt z gośćmi., Wsparcie procesu pre-opening, w tym rekrutacji, budowy zespołu oraz planowania operacyjnego., Wdrażanie...",
+      "url": "https://www.pracuj.pl/praca/dyrektor-operacyjny-tanzania,oferta,11915126"
+    },
+    {
+      "id": "1004755057",
+      "title": "Monter szyb samochodowych",
+      "salary": "4 700–6 000 zł brutto / mies.",
+      "company": "AUTO - KRAM JANUSZ ROMAN, JACEK OPTOŁOWICZ, GRZEGORZ ROMAN sp.k.",
+      "location": "Kłodzko",
+      "description": "Twój zakres obowiązków, montaż, wymiana i naprawa szyb samochodowych, obsługa klienta , przyjmowanie i organizacja zleceń, podstawowa obsługa magazynu, dbanie o porządek i standard pracy, Przestrzeganie zasad BHP w codziennej pracy...",
+      "url": "https://www.pracuj.pl/praca/monter-szyb-samochodowych-klodzko-zajecza-4,oferta,1004755057"
+    },
+    {
+      "id": "1004725058",
+      "title": "Host / Hostessa - Pracownik / Pracowniczka ds. akcji promocyjnych",
+      "salary": "40–50 zł / godz. (zal. od umowy)",
+      "company": "FUNDACJA ROZWOJU PRZEDSIĘBIORCZOŚCI \"TWÓJ STARTUP\"",
+      "location": "Poznań",
+      "description": "Twój zakres obowiązków, Animator Speed Dating'u & Speed Friending'u, Szukamy partnerki / partnera na stałe, nie jednorazowej przygody 🤞, O Pracy:, Praca dodatkowa 4-5 razy w miesiącu w godzinach 16:-00 - 21:00 z możliwością pracy stałej na pełny...",
+      "url": "https://www.pracuj.pl/praca/host-hostessa-pracownik-pracowniczka-ds-akcji-promocyjnych-poznan,oferta,1004725058"
     }
   ]
 }

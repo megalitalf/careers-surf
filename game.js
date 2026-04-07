@@ -71,7 +71,10 @@ function update(dt) {
         if (nearestSemi !== dismissedSemi) {
             followTimer += dt;
             if (followTimer >= FOLLOW_DELAY) {
-                showCarPopup(followedSemi.listing);
+                var popupEl = Dom.get('car_popup');
+                if (!popupEl || popupEl.style.display === 'none') {
+                    showCarPopup(followedSemi.listing);
+                }
             }
         }
     } else {
