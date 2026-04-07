@@ -780,6 +780,17 @@ Game.run({
         reset();
         Dom.storage.fast_lap_time = Dom.storage.fast_lap_time || 180;
         updateHud('fast_lap_time', formatTime(Util.toFloat(Dom.storage.fast_lap_time)));
+        // Hide loading screen — show for at least 800ms to avoid a flash
+        var loadingEl = document.getElementById('loading');
+        if (loadingEl) {
+            var minDisplay = 800;
+            var elapsed = Date.now() - (window._loadStart || Date.now());
+            var remaining = Math.max(0, minDisplay - elapsed);
+            setTimeout(function() {
+                loadingEl.classList.add('hide');
+                setTimeout(function() { loadingEl.style.display = 'none'; }, 520);
+            }, remaining);
+        }
     }
 });
 
