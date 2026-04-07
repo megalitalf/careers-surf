@@ -30,6 +30,8 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 #hud #lka_indicator.standby   #lka_status { color: #22cc44; }
 #hud #lka_indicator.correcting #lka_status { color: #ff9900; }
 #hud #lka_indicator.off       #lka_status { color: #888888; }
+#hud-menu-btn          { float: left; background: none; border: 1px solid rgba(0,0,0,0.3); border-radius: 4px; color: black; font-size: 1em; line-height: 1; padding: 2px 7px; margin: 0 5px; cursor: pointer; opacity: 0.75; }
+#hud-menu-btn:hover    { opacity: 1; }
 #hud #player_uuid      { float: left; font-size: 0.85em; opacity: 0.75; cursor: default; }
 #hud #player_uuid:hover { opacity: 1; }
 #hud #current_lap_time { float: left;  }

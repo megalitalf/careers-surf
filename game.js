@@ -117,14 +117,27 @@ var menuActive = true;   // controls blocked until player hits Start
 
 function initMenu() {
     var menuEl = document.getElementById('menu');
-    if (!menuEl || menuEl.dataset.init) return;
-    menuEl.dataset.init = '1';
+    if (!menuEl) return;
+    // Wire buttons once
+    if (!menuEl.dataset.init) {
+        menuEl.dataset.init = '1';
+        document.getElementById('menu-start').addEventListener('click', function () {
+            menuActive = false;
+            menuEl.classList.add('hide');
+            setTimeout(function () { menuEl.style.display = 'none'; }, 520);
+        });
+        var hudBtn = document.getElementById('hud-menu-btn');
+        if (hudBtn) {
+            hudBtn.addEventListener('click', function () {
+                menuActive = true;
+                menuEl.classList.remove('hide');
+                menuEl.style.display = 'flex';
+            });
+        }
+    }
+    // Show
+    menuEl.classList.remove('hide');
     menuEl.style.display = 'flex';
-    document.getElementById('menu-start').addEventListener('click', function () {
-        menuActive = false;
-        menuEl.classList.add('hide');
-        setTimeout(function () { menuEl.style.display = 'none'; }, 520);
-    });
 }
 
 var hud = {
@@ -194,7 +207,7 @@ function update(dt) {
     }
 
     // Follow-timer: count up while tailing a SEMI with a listing
-    if (nearestSemi) {
+    if (!menuActive && nearestSemi) {
         if (nearestSemi !== followedSemi) {
             // switched to a different truck — reset timer and clear dismiss lock
             followedSemi  = nearestSemi;
