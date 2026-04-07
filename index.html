@@ -175,12 +175,25 @@
   <script src="stats.js"></script>
   <script src="common.js"></script>
   <script>
-    // Load jobs.js from S3, fall back to local, then load game.js once ready.
+    // Load jobs.js from S3, fall back to local, then load game modules once ready.
     (function() {
       function loadGame() {
-        var g = document.createElement("script");
-        g.src = "game.js";
-        document.head.appendChild(g);
+        var modules = [
+          'game.config.js',
+          'game.session.js',
+          'game.road.js',
+          'game.cars.js',
+          'game.ui.js',
+          'game.input.js',
+          'game.js'
+        ];
+        (function loadNext(i) {
+          if (i >= modules.length) return;
+          var s = document.createElement('script');
+          s.src = modules[i];
+          s.onload = function() { loadNext(i + 1); };
+          document.head.appendChild(s);
+        })(0);
       }
       function loadLocal() {
         console.warn("S3 jobs.js unavailable, falling back to local jobs.js");
@@ -192,7 +205,7 @@
       }
       var S3_URL = "https://careers-surf-data.s3.eu-north-1.amazonaws.com/jobs/jobs.js";
       var s = document.createElement("script");
-      s.src    = S3_URL;
+      s.src     = S3_URL;
       s.onload  = loadGame;
       s.onerror = loadLocal;
       document.head.appendChild(s);

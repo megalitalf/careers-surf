@@ -9,6 +9,12 @@ const FILES = [
   'index.html',
   'common.css',
   'common.js',
+  'game.config.js',
+  'game.session.js',
+  'game.road.js',
+  'game.cars.js',
+  'game.ui.js',
+  'game.input.js',
   'game.js',
   'stats.js',
 ];
