@@ -173,7 +173,7 @@ function update(dt) {
                 accFollowing = true;
             }
             // track the closest SEMI with a listing we are locked onto
-            if (!nearestSemi && ahead.sprite === SPRITES.SEMI && ahead.listing &&
+            if (!nearestSemi && SPRITES.SEMIS.indexOf(ahead.sprite) >= 0 && ahead.listing &&
                 Util.overlap(playerX, playerW, ahead.offset, aheadW, 1.2)) {
                 nearestSemi = ahead;
             }
@@ -446,9 +446,9 @@ function render() {
             Render.sprite(ctx, width, height, resolution, roadWidth, null, car.sprite, spriteScale, spriteX, spriteY, -0.5, -1, segment.clip);
 
             // Track SEMI position for click detection and draw price label
-            if (car.sprite === SPRITES.SEMI) {
-                var sw = (SPRITES.SEMI.w * spriteScale * width / 2) * (SPRITES.SCALE * roadWidth);
-                var sh = (SPRITES.SEMI.h * spriteScale * width / 2) * (SPRITES.SCALE * roadWidth);
+            if (SPRITES.SEMIS.indexOf(car.sprite) >= 0) {
+                var sw = (car.sprite.w * spriteScale * width / 2) * (SPRITES.SCALE * roadWidth);
+                var sh = (car.sprite.h * spriteScale * width / 2) * (SPRITES.SCALE * roadWidth);
                 var sx = spriteX - sw * 0.5;
                 var sy = spriteY - sh;
                 visibleSemis.push({ car: car, x: sx, y: sy, w: sw, h: sh });
@@ -750,8 +750,9 @@ function resetCars() {
         offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
         z = Math.floor(Math.random() * segments.length) * segmentLength;
         sprite = Util.randomChoice(SPRITES.CARS);
-        speed = maxSpeed / 4 + Math.random() * maxSpeed / (sprite == SPRITES.SEMI ? 4 : 2);
-        var listing = (sprite === SPRITES.SEMI) ? Util.randomChoice(SEMI_LISTINGS) : null;
+        var isSemi = SPRITES.SEMIS.indexOf(sprite) >= 0;
+        speed = maxSpeed / 4 + Math.random() * maxSpeed / (isSemi ? 4 : 2);
+        var listing = isSemi ? Util.randomChoice(SEMI_LISTINGS) : null;
         car = { offset: offset, z: z, sprite: sprite, speed: speed, listing: listing };
         segment = findSegment(car.z);
         segment.cars.push(car);

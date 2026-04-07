@@ -427,7 +427,10 @@ var SPRITES = {
   BILLBOARD03:            { file: 'sprites/billboard03',            w:  230, h:  220 },
   BILLBOARD02:            { file: 'sprites/billboard02',            w:  215, h:  220 },
   STUMP:                  { file: 'sprites/stump',                  w:  195, h:  140 },
-  SEMI:                   { file: 'sprites/semi',                   w:  122, h:  144 },
+  SEMI:                   { file: 'sprites/semi01',                  w:  157, h:  221 },
+  SEMI01:                 { file: 'sprites/semi01',                  w:  157, h:  221 },
+  SEMI02:                 { file: 'sprites/semi02',                  w:  166, h:  222 },
+  SEMI03:                 { file: 'sprites/semi03',                  w:  166, h:  204 },
   TRUCK:                  { file: 'sprites/truck',                  w:   80, h:   60 },
   CAR01:                  { file: 'sprites/car01',                  w:   70, h:   55 },
   CAR02:                  { file: 'sprites/car02',                  w:   70, h:   55 },
@@ -446,5 +449,6 @@ SPRITES.SCALE = (1/SPRITES.PLAYER_STRAIGHT.w) * 0.5  // the reference sprite wid
 
 SPRITES.BILLBOARDS = [SPRITES.BILLBOARD01, SPRITES.BILLBOARD02, SPRITES.BILLBOARD03, SPRITES.BILLBOARD04, SPRITES.BILLBOARD05, SPRITES.BILLBOARD06, SPRITES.BILLBOARD07, SPRITES.BILLBOARD08, SPRITES.BILLBOARD09];
 SPRITES.PLANTS     = [SPRITES.TREE1, SPRITES.TREE2, SPRITES.DEAD_TREE1, SPRITES.DEAD_TREE2, SPRITES.PALM_TREE, SPRITES.BUSH1, SPRITES.BUSH2, SPRITES.CACTUS, SPRITES.STUMP, SPRITES.BOULDER1, SPRITES.BOULDER2, SPRITES.BOULDER3];
-SPRITES.CARS       = [SPRITES.CAR01, SPRITES.CAR02, SPRITES.CAR03, SPRITES.CAR04, SPRITES.CAR05, SPRITES.SEMI, SPRITES.TRUCK];
+SPRITES.SEMIS      = [SPRITES.SEMI01, SPRITES.SEMI02, SPRITES.SEMI03];
+SPRITES.CARS       = [SPRITES.CAR01, SPRITES.CAR02, SPRITES.CAR03, SPRITES.CAR04, SPRITES.CAR05, SPRITES.SEMI01, SPRITES.SEMI02, SPRITES.SEMI03, SPRITES.TRUCK];
 
