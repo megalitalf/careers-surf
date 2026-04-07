@@ -2,353 +2,453 @@
 // City: Szczecin  Scraped: 2026-04-07T15:12:17.649Z
 var cityJobs = [
   {
+    "id": "1004706480",
     "title": "Franczyzobiorca w branży e-commerce i logistyki",
     "salary": "20 000–35 000 zł netto (+ VAT) / mies.",
     "company": "Mail Boxes Etc.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Zarządzanie Centrum MBE w swojej lokalizacji, z uwzględnieniem codziennej działalności operacyjnej i jakości obsługi klienta;, Pozyskiwanie oraz kompleksowa obsługa klientów indywidualnych i biznesowych w zakresie logistyki...",
     "url": "https://www.pracuj.pl/praca/franczyzobiorca-w-branzy-e-commerce-i-logistyki-szczecin,oferta,1004706480"
   },
   {
+    "id": "1004725169",
     "title": "National Account Manager (NAM)",
     "salary": "8 500–10 000 zł / mies. (zal. od umowy)",
     "company": "WeNet Group SA",
     "location": "Szczecin, Prawobrzeże",
+    "description": "Twój zakres obowiązków, Kompleksowa sprzedaż pełnego portfolio usług WeNet (strony i sklepy internetowe, Social Media, SEO, Google Ads, Marketing Lokalny) do strategicznych klientów Spółki., Aktywne pozyskiwanie nowych klientów oraz zarządzanie i...",
     "url": "https://www.pracuj.pl/praca/national-account-manager-nam-szczecin-tartaczna-5b,oferta,1004725169"
   },
   {
+    "id": "1004725152",
     "title": "Konsultant / Konsultantka Sprzedaży Bezpośredniej",
     "salary": "5 000–6 500 zł brutto / mies.",
     "company": "WeNet Group SA",
     "location": "Szczecin, Prawobrzeże",
+    "description": "Twój zakres obowiązków, Aktywne pozyskiwanie klientów biznesowych (B2B) na podległym terenie., Umawianie i odbywanie spotkań handlowych bezpośrednio u klientów., Analiza potrzeb marketingowych potencjalnych klientów i profesjonalne doradztwo.,...",
     "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-sprzedazy-bezposredniej-szczecin-tartaczna-5b,oferta,1004725152"
   },
   {
+    "id": "1004748758",
     "title": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
     "salary": "5 400–7 000 zł / mies. (zal. od umowy)",
     "company": "Tutlo Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
     "url": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-szczecin,oferta,1004748758"
   },
   {
+    "id": "1004754925",
     "title": "Pracownik / Pracowniczka Restauracji KFC PKP",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-pkp-szczecin,oferta,1004754925"
   },
   {
+    "id": "1004754885",
     "title": "Pracownik / Pracowniczka Restauracji KFC Casino",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-casino-szczecin,oferta,1004754885"
   },
   {
+    "id": "1004754878",
     "title": "Pracownik / Pracowniczka Restauracji KFC Ryga",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-ryga-szczecin,oferta,1004754878"
   },
   {
+    "id": "1004754871",
     "title": "Pracownik / Pracowniczka Restauracji KFC Galaxy Echo",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-galaxy-echo-szczecin,oferta,1004754871"
   },
   {
+    "id": "1004724715",
     "title": "Księgowy / Księgowa w biurze rachunkowym",
     "salary": "7 500–12 000 zł brutto / mies.",
     "company": "Biuro Rachunkowe Taxman",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, księgowanie bieżących dokumentów, sporządzanie sprawozdań finansowych, prace związane z rozliczaniem podatków, , utrzymywanie relacji z Klientami , sporządzanie zestawień i raportów w programie Excel, obsługa spółek prawa...",
     "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-w-biurze-rachunkowym-szczecin-1-maja-39,oferta,1004724715"
   },
   {
+    "id": "1004754629",
     "title": "Asystent / Asystentka ds. administracji",
     "salary": "5 000–6 000 zł brutto / mies.",
     "company": "CEPA AUTOMOTIVE sp. z o.o.",
     "location": "Szczecin, Gumieńce",
+    "description": "Twój zakres obowiązków, Wsparcie menadżerów w obszarach logistyki, marketingu, zakupów oraz administracji, Koordynowanie bieżących zadań i przepływu informacji między działami, Przygotowywanie raportów, zestawień i analiz, Współpraca z dostawcami...",
     "url": "https://www.pracuj.pl/praca/asystent-asystentka-ds-administracji-szczecin-cukrowa-12d,oferta,1004754629"
   },
   {
+    "id": "1004727499",
     "title": "Przedstawiciel handlowy (k/m)",
     "salary": "6 850–8 500 zł / mies. (zal. od umowy)",
     "company": "EMPIREUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Realizacja planu sprzedażowego oraz wyznaczonych celów biznesowych na powierzonym terenie, Kompleksowa opieka nad dotychczasowymi klientami oraz aktywne pozyskiwanie nowych klientów, Profesjonalne doradztwo produktowe i...",
     "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-k-m-szczecin,oferta,1004727499"
   },
   {
+    "id": "1004712635",
     "title": "Przedstawiciel Handlowy / Przedstawicielka Handlowa w Branży Energetycznej",
     "salary": "1 000–35 000 zł / mies. (zal. od umowy)",
     "company": "J&G ENTERPRISE sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Tworzyć i rozwijać trwałe relacje z klientami biznesowymi., Aktywnie wyszukiwać nowe możliwości i prowadzić klientów przez cały proces zakupowy., Przygotowywać oferty, które naprawdę robią wrażenie i odpowiadają potrzebom...",
     "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-w-branzy-energetycznej-szczecin,oferta,1004712635"
   },
   {
+    "id": "1004739351",
     "title": "Zastępca kierownika sklepu (m/k/x) ul. Szczecińska 5",
     "salary": "6 850 zł brutto / mies.",
     "company": "ALDI Polska",
     "location": "Dobra (pow. policki)",
+    "description": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
     "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-szczecinska-5-dobra-pow-policki-szczecinska-5b,oferta,1004739351"
   },
   {
+    "id": "1004754419",
     "title": "Inspektor ds. inwestycji i remontów",
     "salary": "6 500–9 000 zł brutto / mies.",
     "company": "GMINA GOLENIÓW",
     "location": "Goleniów",
+    "description": "Twój zakres obowiązków, W zakresie prowadzenia wyznaczonych zadań inwestycyjnych:, bezpośredni nadzór nad robotami budowlanymi prowadzonymi przez Gminę Goleniów (uzgodnienia z projektantami, uczestnictwo w odbiorach, podejmowanie decyzji...",
     "url": "https://www.pracuj.pl/praca/inspektor-ds-inwestycji-i-remontow-goleniow-plac-lotnikow-1,oferta,1004754419"
   },
   {
+    "id": "1004727400",
     "title": "Pracownik / Pracownica działu administracji i finansów",
     "salary": "5 000–6 000 zł brutto / mies.",
     "company": "Cellco Communications sp. z o.o.",
     "location": "Kobylanka (pow. stargardzki)",
+    "description": "Twój zakres obowiązków, Wprowadzanie i weryfikowanie pod kątem formalnym elektronicznych faktur w systemie, Wystawianie, weryfikowanie, wysyłanie faktur sprzedaży, korygujących, faktur zaliczkowych, not, kompensat, duplikatów i innych,...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracownica-dzialu-administracji-i-finansow-kobylanka-pow-stargardzki,oferta,1004727400"
   },
   {
+    "id": "1004754284",
     "title": "Team Leader (k/m)",
     "salary": "6 800–7 700 zł brutto / mies.",
     "company": "MOMOX Polska Sp. z o. o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Jako Team Leader Logistyki Wewnętrznej będziesz odpowiedzialny/a za bieżące zarządzanie pracą zespołu na hali magazynowej oraz nadzór nad prawidłowym przebiegiem operacji wewnętrznych w trakcie zmiany., Bezpośrednie...",
     "url": "https://www.pracuj.pl/praca/team-leader-k-m-szczecin-franciszka-ksawerego-druckiego-lubeckiego-1d,oferta,1004754284"
   },
   {
+    "id": "1004754255",
     "title": "Sprzedawca / Sprzedawczyni",
     "salary": "6 000–7 000 zł / mies. (zal. od umowy)",
     "company": "AX TECHNOLOGY sp. z o.o. SPÓŁKA KOMANDYTOWA",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, UWAGA MIEJSCE PRACY LUBIESZYN, obsługa klientów (B2B i B2C) – mail, telefon, komunikatory, aktywna sprzedaż hurtowa i detaliczna odzieży, pozyskiwanie nowych klientów oraz rozwijanie relacji z obecnymi, przygotowywanie...",
     "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-szczecin,oferta,1004754255"
   },
   {
+    "id": "1004754243",
     "title": "Pracownik ogólnobudowlany / Pracowniczka ogólnobudowlana",
     "salary": "6 000–12 000 zł brutto / mies.",
     "company": "CLEANTOM TOMASZ JAMROŻY",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Mycie elewacji z użyciem myjek ciśnieniowych oraz środków chemicznych, Malowanie elewacji różnymi technikami (wałek, pędzel, natrysk hydrodynamiczny), Wykonywanie prac na wysokości przy użyciu:, rusztowań, podnośników...",
     "url": "https://www.pracuj.pl/praca/pracownik-ogolnobudowlany-pracowniczka-ogolnobudowlana-szczecin,oferta,1004754243"
   },
   {
+    "id": "1004724269",
     "title": "Spedytor międzynarodowy",
     "salary": "3 000–15 000 zł / mies. (zal. od umowy)",
     "company": "MATER sp. z o.o. SK",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Poszukiwanie nowych klientów w branży logistycznej, Pozyskiwanie i utrzymywanie długotrwałych relacji handlowych z klientami, Przygotowywanie ofert handlowych i negocjowanie warunków umów, Monitorowanie rynku i analiza...",
     "url": "https://www.pracuj.pl/praca/spedytor-miedzynarodowy-szczecin-5-lipca-2,oferta,1004724269"
   },
   {
+    "id": "1004724188",
     "title": "Doradca / Doradczyni Klienta - Specjalista / Specjalistka ds. sprzedaży",
     "salary": "5 200–7 200 zł / mies. (zal. od umowy)",
     "company": "Kancelaria Radcy Prawnego Sara Ciołek",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Aktywne pozyskiwanie klientów: prowadzenie działań mających na celu nawiązywanie współpracy z nowymi Klientami (telefonicznie, online)., Wstępna analiza prawna: przeprowadzenie pierwszych konsultacji z klientami, wstępna...",
     "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-specjalista-specjalistka-ds-sprzedazy-szczecin-jagiellonska-89,oferta,1004724188"
   },
   {
+    "id": "1004724147",
     "title": "Szlifierz / Szlifierka",
     "salary": "5 300–6 000 zł brutto / mies.",
     "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, obsługa narzędzi i urządzeń szlifierskich (szlifierki kątowe, taśmowe, stołowe),, szlifowanie i obróbka elementów metalowych zgodnie z dokumentacją techniczną,, przygotowanie powierzchni i kontrola jakości wykonanych...",
     "url": "https://www.pracuj.pl/praca/szlifierz-szlifierka-szczecin,oferta,1004724147"
   },
   {
+    "id": "1004753966",
     "title": "Doradca / Doradczyni klienta",
     "salary": "7 000–9 000 zł brutto / mies.",
     "company": "Unum Życie TUiR S.A.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, rozmowy z klientami i budowanie z nimi trwałych relacji, opartych na zaufaniu i zrozumieniu,, tworzenie i proponowanie rozwiązań ubezpieczeniowych dopasowanych do potrzeb klientów,, rozwijanie swojej sieci kontaktów poprzez...",
     "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-szczecin,oferta,1004753966"
   },
   {
+    "id": "1004744324",
     "title": "Praca na produkcji (k/ m/ n)",
     "salary": "29–29,50 zł brutto / godz.",
     "company": "Adecco Poland Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Praca indywidualna i grupowa zgodnie z BHP i wymaganiami stanowiskowymi, Obowiązki produkcyjne (cięcie, szycie, łączenie, pakowanie itp.) z wykorzystaniem różnych materiałów, w tym włókna szklanego...",
     "url": "https://www.pracuj.pl/praca/praca-na-produkcji-k-m-n-szczecin,oferta,1004744324"
   },
   {
+    "id": "1004753915",
     "title": "Menedżerka / Menedżer Zespołu Sprzedaży",
     "salary": "8 000–12 000 zł brutto / mies.",
     "company": "Unum Życie TUiR S.A.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, budowanie i rozwijanie swojego zespołu sprzedażowego – rekrutujesz, szkolisz i wspierasz,, zarządzanie oddziałem – planujesz i pomagasz osiągać cele,, wspierasz i inspirujesz – tworzysz relacje oparte na wspólnych...",
     "url": "https://www.pracuj.pl/praca/menedzerka-menedzer-zespolu-sprzedazy-szczecin,oferta,1004753915"
   },
   {
+    "id": "1004741470",
     "title": "Specjalista / Specjalistka ds. Rekrutacji (k/ m/ n)",
     "salary": "5 500–6 000 zł brutto / mies.",
     "company": "Adecco Poland Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Prowadzenie procesów rekrutacyjnych end-to-end, Aktywne pozyskiwanie kandydatów, zarządzanie bazą talentów, Budowanie i rozwijanie relacji z klientami i doradztwo rekrutacyjne, Analiza rynku pracy oraz identyfikowanie...",
     "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-rekrutacji-k-m-n-szczecin-aleja-piastow-30,oferta,1004741470"
   },
   {
+    "id": "1004723892",
     "title": "Monter/ka Konstrukcji Stalowych",
     "salary": "5 300–6 000 zł brutto / mies.",
     "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, uruchamianie i nadzorowanie pracy maszyn,, odczytywanie rysunków technicznych i instrukcji obsługi,, kontrola jakości za pomocą narzędzi pomiarowych....",
     "url": "https://www.pracuj.pl/praca/monter-ka-konstrukcji-stalowych-szczecin,oferta,1004723892"
   },
   {
+    "id": "1004747330",
     "title": "Elektromechanik / Elektronik urządzeń transportu wewnętrznego",
     "salary": "8 000–10 000 zł / mies. (zal. od umowy)",
     "company": "MTL ASCO Sp.zo.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, praca mobilna na terenie województwa zamieszkania,, aktywne usuwanie awarii urządzeń,, wykonywanie przeglądów maszyn i urządzeń zgodnie z harmonogramem,, konserwacja oraz naprawa maszyn i urządzeń....",
     "url": "https://www.pracuj.pl/praca/elektromechanik-elektronik-urzadzen-transportu-wewnetrznego-szczecin,oferta,1004747330"
   },
   {
+    "id": "1004720237",
     "title": "Sprzedawca/Kasjer, Sprzedawczyni/Kasjerka - Nowy Market",
     "salary": "5 900–6 000 zł brutto / mies.",
     "company": "KAUFLAND",
     "location": "Szczecin, Gumieńce",
+    "description": "Twój zakres obowiązków, wykładanie towaru oraz dbanie o jego odpowiednią ekspozycję, przygotowywanie i umieszczanie prawidłowych oznaczeń cenowych, dbanie o uprzejmą, staranną i sprawną obsługę klienta, dbanie o świeżość i jakość naszych...",
     "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-sprzedawczyni-kasjerka-nowy-market-szczecin-ku-sloncu-71,oferta,1004720237"
   },
   {
+    "id": "1004693775",
     "title": "Kierowca kat. C+E transport międzynarodowy",
     "salary": "14 500–15 000 zł brutto / mies.",
     "company": "Jost Group",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
     "url": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-szczecin,oferta,1004693775"
   },
   {
+    "id": "1004726879",
     "title": "Inżynier / Inżynierka Rozwoju Produktu",
     "salary": "8 000–10 000 zł brutto / mies.",
     "company": "Cellco Communications sp. z o.o.",
     "location": "Kobylanka (pow. stargardzki)",
+    "description": "Twój zakres obowiązków, Udział w projektach wdrożeniowych i rozwojowych produktów od koncepcji do wdrożenia., Przygotowywanie prototypów, testowanie, weryfikacja i walidacja z klientami., Współpraca z wewnętrznymi i zewnętrznymi zespołami oraz...",
     "url": "https://www.pracuj.pl/praca/inzynier-inzynierka-rozwoju-produktu-kobylanka-pow-stargardzki,oferta,1004726879"
   },
   {
+    "id": "1004723774",
     "title": "Serwisant - Technik chłodnictwa serwis chłodniczy",
     "salary": "7 000–15 000 zł brutto / mies.",
     "company": "Mroz-One",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, montaż urządzeń chłodniczych i uruchomienie agregatu wewnętrzne bądź zewnętrzne, kontrola poprawności działania instalacji chłodniczych zgodnie z założonym harmonogramem, przeprowadzanie konserwacji, przeglądów instalacji ...",
     "url": "https://www.pracuj.pl/praca/serwisant-technik-chlodnictwa-serwis-chlodniczy-szczecin,oferta,1004723774"
   },
   {
+    "id": "1004735105",
     "title": "Koordynator Handlowy / Koordynatorka Handlowa",
     "salary": "8 000–14 000 zł netto (+ VAT) / mies.",
     "company": "Premium Mobile sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Pozyskiwanie nowych kontrahentów w tym punktów partnerskich., Motywacja Partnerów i Sprzedawców do promowania i sprzedaży usług Premium Mobile., Realizacja wyznaczonych planów sprzedaży na podległym terenie., Umiejętność...",
     "url": "https://www.pracuj.pl/praca/koordynator-handlowy-koordynatorka-handlowa-szczecin,oferta,1004735105"
   },
   {
+    "id": "1004753635",
     "title": "Sprzedawca (k/m/x)",
     "salary": "4 806 zł brutto / mies.",
     "company": "Netto Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
     "url": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-narutowicza-13e,oferta,1004753635"
   },
   {
+    "id": "1004753613",
     "title": "Pracownik wykładający towar (k/m/x)",
     "salary": "31,40 zł brutto / godz.",
     "company": "Netto Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Wykładanie towarów, Prawidłowe eksponowanie towarów na półkach, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
     "url": "https://www.pracuj.pl/praca/pracownik-wykladajacy-towar-k-m-x-szczecin-boleslawa-krzywoustego-9-10,oferta,1004753613"
   },
   {
+    "id": "1004753602",
     "title": "Sprzedawca (k/m/x)",
     "salary": "4 806 zł brutto / mies.",
     "company": "Netto Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
     "url": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-boleslawa-krzywoustego-9-10,oferta,1004753602"
   },
   {
+    "id": "1004750336",
     "title": "Konsultant / Konsultantka w salonie sprzedaży PLAY",
     "salary": "4 806–7 000 zł brutto / mies.",
     "company": "VIAMIND Sp. z o.o.",
     "location": "Szczecin, Prawobrzeże",
+    "description": "Twój zakres obowiązków, Obsługa klienta zgodnie z obowiązującym standardem, Aktywna sprzedaż i realizacja planów sprzedażowych, która przekłada się na wysokość Twojej premii, Telefoniczna sprzedaż usług telekomunikacyjnych - gotowa baza,...",
     "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-w-salonie-sprzedazy-play-szczecin-andrzeja-struga-36,oferta,1004750336"
   },
   {
+    "id": "1004708392",
     "title": "Kierowca ratownictwa medycznego",
     "salary": "34–36 zł / godz. (zal. od umowy)",
     "company": "Kaiga Med ZBIGNIEW WARZYŃSKI",
     "location": "Szczecin, Prawobrzeże",
+    "description": "Twój zakres obowiązków, Poszukujemy  jednej osoby na stanowisko kierowcy - ratownika w transporcie sanitarnym. Realizujemy zlecenia na terenie Szczecina, Polski oraz Europy.  Praca w małym, kameralnym zespole. Zapewniamy odpowiednie przeszkolenie...",
     "url": "https://www.pracuj.pl/praca/kierowca-ratownictwa-medycznego-szczecin-lniana-25,oferta,1004708392"
   },
   {
+    "id": "1004753396",
     "title": "Account Executive",
     "salary": "6 200–7 000 zł brutto / mies.",
     "company": "Oskar Wegner Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Wsparcie Account Manager’a przy bieżącej obsłudze projektów, Współpraca z innymi działami – IT, dział kreatywny, księgowość, Współpraca z zewnętrznymi dostawcami , Bezpośredni kontakt z zespołem klienta, Tworzenie raportów,...",
     "url": "https://www.pracuj.pl/praca/account-executive-szczecin,oferta,1004753396"
   },
   {
+    "id": "1004753352",
     "title": "Handlowiec B2B HoReCa (z własną bazą klientów)",
     "salary": "3 000–20 000 zł / mies. (zal. od umowy)",
     "company": "HOUSE OF IMPACT sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Pozyskiwanie klientów w segmencie HoReCa (restauracje, hotele), Wykorzystanie i rozwijanie własnej sieci relacji biznesowych, Analiza potrzeb klienta i dopasowanie rozwiązań, Prowadzenie spotkań sprzedażowych (online oraz...",
     "url": "https://www.pracuj.pl/praca/handlowiec-b2b-horeca-z-wlasna-baza-klientow-szczecin,oferta,1004753352"
   },
   {
+    "id": "1004723384",
     "title": "Specjalista(-ka) ds. Sprzedaży Terenowej (B2B)",
     "salary": "7 900–13 700 zł brutto / mies.",
     "company": "E100 International Trade Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów B2B na wyznaczonych województwach., Identyfikacja potencjalnych klientów poprzez telefon i e-mail., Budowanie oraz utrzymywanie długotrwałych relacji z partnerami biznesowymi.,...",
     "url": "https://www.pracuj.pl/praca/specjalista-ka-ds-sprzedazy-terenowej-b2b-szczecin,oferta,1004723384"
   },
   {
+    "id": "1004750009",
     "title": "Zastępca kierownika sklepu (m/k/x) ul. Bronisława Sobola 1",
     "salary": "6 850 zł brutto / mies.",
     "company": "ALDI Polska",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
     "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-bronislawa-sobola-1-szczecin-bronislawa-sobola-1,oferta,1004750009"
   },
   {
+    "id": "1004723327",
     "title": "Sprzedawca (k/m/x)",
     "salary": "4 990 zł brutto / mies.",
     "company": "Netto Sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
     "url": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-slaska-26,oferta,1004723327"
   },
   {
+    "id": "1004734784",
     "title": "Agent / Agentka ds. nieruchomości",
     "salary": "6 000–30 000 zł / mies. (zal. od umowy)",
     "company": "TUR NIERUCHOMOŚCI",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Działać lokalnie, budując swoją rozpoznawalność jako ekspert w nieruchomościach., Pozyskiwać oferty i klientów – nie tylko przez telefon, ale przede wszystkim dzięki naszej strategii widoczności i poleceń., Spotykać się z...",
     "url": "https://www.pracuj.pl/praca/agent-agentka-ds-nieruchomosci-szczecin,oferta,1004734784"
   },
   {
+    "id": "1004717086",
     "title": "Zastępca kierownika sklepu (m/k/x) ul. Przyjaciół Żołnierza 128",
     "salary": "6 850 zł brutto / mies.",
     "company": "ALDI Polska",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
     "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-przyjaciol-zolnierza-128-szczecin-przyjaciol-zolnierza-128,oferta,1004717086"
   },
   {
+    "id": "1004714475",
     "title": "Specjalista / Specjalistka ds. rekrutacji / Headhunter",
     "salary": "8 000–20 000 zł brutto / mies.",
     "company": "MAS LOGISTICS sp. z o.o.",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, samodzielne prowadzenie procesów rekrutacyjnych na stanowiska specjalistyczne i menedżerskie, aktywne wyszukiwanie kandydatów metodą direct search / headhunting, prowadzenie rekrutacji pasywnej (pozyskiwanie kandydatów...",
     "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-rekrutacji-headhunter-szczecin-labedzia-31,oferta,1004714475"
   },
   {
+    "id": "1004714422",
     "title": "Dostawca - Kurier",
     "salary": "30–45 zł / godz. (zal. od umowy)",
     "company": "PTD PARTNER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Odbieranie i dostarczanie posiłków/zakupów, Dostawy kurierskie małych przesyłek (Xpress Delivery), Zabezpieczanie przesyłek przed ewentualnymi uszkodzeniami, Utrzymywanie dobrych relacji z klientami...",
     "url": "https://www.pracuj.pl/praca/dostawca-kurier-szczecin,oferta,1004714422"
   },
   {
+    "id": "1004750403",
     "title": "Sales Manager/Representative Europe (Plywood)",
     "salary": "od 20 000 zł netto (+ VAT) / mies.",
     "company": "Burapha Agro-Forestry Co. Ltd.",
     "location": "Szczecin",
+    "description": "Your responsibilities, This is a high-impact role for a commercially driven professional who understands the plywood industry and is ready to take ownership of market development., Develop new business opportunities across Europe, Manage and grow...",
     "url": "https://www.pracuj.pl/praca/sales-manager-representative-europe-plywood-szczecin,oferta,1004750403"
   },
   {
+    "id": "1004752823",
     "title": "Diagnosta w OSKP (k/m)",
     "salary": "8 000–10 000 zł brutto / mies.",
     "company": "Mojsiuk Sp. z o.o. Sp.K.",
     "location": "Szczecin, Prawobrzeże",
+    "description": "Twój zakres obowiązków, Wykonywanie badań technicznych pojazdów zgodnie z obowiązującymi przepisami i procedurami OSKP., Obsługa urządzeń diagnostycznych oraz dbałość o ich prawidłowy stan techniczny., Rzetelne dokumentowanie wyników badań i...",
     "url": "https://www.pracuj.pl/praca/diagnosta-w-oskp-k-m-szczecin-pomorska-88,oferta,1004752823"
   },
   {
+    "id": "1004731869",
     "title": "Pracownik Magazynowy / Pracowniczka Magazynowa",
     "salary": "31,40–33,90 zł brutto / godz.",
     "company": "Instore Solution Services Polska Sp. z o.o.",
     "location": "Łozienica (pow. goleniowski)",
+    "description": "Twój zakres obowiązków, czynności magazynowe,, kompletacja towaru ze skanerem,, przyjmowanie i rozładunek/ załadunek zamówień, zwrotów,, odpowiednie składowanie towarów zgodnie z zasadami ich przechowywania,, wspieranie innych działów magazynu....",
     "url": "https://www.pracuj.pl/praca/pracownik-magazynowy-pracowniczka-magazynowa-lozienica-pow-goleniowski,oferta,1004731869"
   },
   {
+    "id": "1004721731",
     "title": "Kierowca kat. B – sprzedaż cateringu (K/M)",
     "salary": "5 000–10 000 zł brutto / mies.",
     "company": "Sandwicz Szop",
     "location": "Szczecin",
+    "description": "Twój zakres obowiązków, Dzień pracy rozpoczynamy o godzinie 6:00 i kończymy około 13:00-14:00. Codzienna praca rozpoczyna się od pobrania towaru, spakowania go do pojemników termoizolacyjnych oraz przygotowania do wyjazdu. Każdy kierowca prowadzi...",
     "url": "https://www.pracuj.pl/praca/kierowca-kat-b-sprzedaz-cateringu-k-m-szczecin,oferta,1004721731"
   }
 ];

@@ -2,381 +2,489 @@
 // City: Warsaw  Scraped: 2026-04-07T15:11:51.385Z
 var cityJobs = [
   {
+    "id": "1004710002",
     "title": "Senior API Management & Governance Architect (k/m/x)",
     "salary": "180–210 zł netto (+ VAT) / godz.",
     "company": "SQUARE ONE RESOURCES sp. z o.o.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Definiowanie i rozwijanie enterprise API governance framework, Tworzenie i egzekwowanie standardów dotyczących cyklu życia API (versioning, dokumentacja, deprecjacja), Wsparcie zespołów projektowych w projektowaniu oraz...",
     "url": "https://www.pracuj.pl/praca/senior-api-management-governance-architect-k-m-x-warszawa,oferta,1004710002"
   },
   {
+    "id": "1004754971",
     "title": "Księgowy / Księgowa",
     "salary": "8 000–10 000 zł brutto / mies.",
     "company": "KANCELARIA ROMANIUK sp. z o.o.",
     "location": "Piaseczno",
+    "description": "Twój zakres obowiązków, prowadzenie ewidencji ryczałtu, podatkowych ksiąg przychodów i rozchodów oraz ksiąg rachunkowych, sporządzanie bilansów, sprawozdań finansowych, sporządzenie rozliczeń zobowiązań podatkowych (CIT, VAT, PIT), aktywna...",
     "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-piaseczno-generala-zajaczka-9b,oferta,1004754971"
   },
   {
+    "id": "1004742342",
     "title": "Doradca Klienta Indywidualnego",
     "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
     "company": "Tutlo Sp. z o.o.",
     "location": "Warszawa, Śródmieście",
+    "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
     "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-warszawa-nowogrodzka-42,oferta,1004742342"
   },
   {
+    "id": "1004745269",
     "title": "Data Engineer - databricks (k/m/x)",
     "salary": "100–140 zł netto (+ VAT) / godz.",
     "company": "SQUARE ONE RESOURCES sp. z o.o.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Analiza dużych wolumenów danych z sensorów w celu identyfikacji edge cases (np. nagłe hamowanie, bliskie pojazdy), Pisanie złożonych zapytań w SQL / Python / Spark (PySpark) do filtrowania, agregowania i transformowania...",
     "url": "https://www.pracuj.pl/praca/data-engineer-databricks-k-m-x-warszawa,oferta,1004745269"
   },
   {
+    "id": "1004745266",
     "title": "Automation Tester (SQL, Cypress) k/m/*",
     "salary": "70–110 zł netto (+ VAT) / godz.",
     "company": "SQUARE ONE RESOURCES sp. z o.o.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Projektowanie, rozwój i utrzymanie frameworków automatyzacji testów (Cypress), Tworzenie i wykonywanie testów UI oraz API (REST/JSON), Testowanie integracyjne, regresyjne i walidacyjne API, Analiza danych testowych i...",
     "url": "https://www.pracuj.pl/praca/automation-tester-sql-cypress-k-m-warszawa,oferta,1004745266"
   },
   {
+    "id": "1004706481",
     "title": "Franczyzobiorca w branży e-commerce i logistyki",
     "salary": "20 000–35 000 zł netto (+ VAT) / mies.",
     "company": "Mail Boxes Etc.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Zarządzanie Centrum MBE w swojej lokalizacji, z uwzględnieniem codziennej działalności operacyjnej i jakości obsługi klienta;, Pozyskiwanie oraz kompleksowa obsługa klientów indywidualnych i biznesowych w zakresie logistyki...",
     "url": "https://www.pracuj.pl/praca/franczyzobiorca-w-branzy-e-commerce-i-logistyki-warszawa,oferta,1004706481"
   },
   {
+    "id": "1004697889",
     "title": "Sprzedawca/Kasjer, Sprzedawczyni/Kasjerka",
     "salary": "1 525–1 550 zł brutto / mies.",
     "company": "KAUFLAND",
     "location": "Wołomin",
+    "description": "Twój zakres obowiązków, wykładanie towaru oraz dbanie o jego odpowiednią ekspozycję, przygotowywanie i umieszczanie prawidłowych oznaczeń cenowych, dbanie o uprzejmą, staranną i sprawną obsługę klienta, dbanie o świeżość i jakość naszych...",
     "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-sprzedawczyni-kasjerka-wolomin-wilenska-49,oferta,1004697889"
   },
   {
+    "id": "1004697894",
     "title": "Sprzedawca/Kasjer, Sprzedawczyni/Kasjerka",
     "salary": "1 525–1 550 zł brutto / mies.",
     "company": "KAUFLAND",
     "location": "Warszawa, Wola",
+    "description": "Twój zakres obowiązków, wykładanie towaru oraz dbanie o jego odpowiednią ekspozycję, przygotowywanie i umieszczanie prawidłowych oznaczeń cenowych, dbanie o uprzejmą, staranną i sprawną obsługę klienta, dbanie o świeżość i jakość naszych...",
     "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-sprzedawczyni-kasjerka-warszawa-polczynska-4,oferta,1004697894"
   },
   {
+    "id": "1004700400",
     "title": "Senior Backend Python Developer",
     "salary": "20 000–25 000 zł / mies. (zal. od umowy)",
     "company": "Fundacja Szkoła w Chmurze",
     "location": "Warszawa, Żoliborz",
+    "description": "Twój zakres obowiązków, Doświadczenie w pracy z platformami obsługującymi płatności (przede wszystkim Stripe oraz Przelewy24) – projektowanie, rozwój i utrzymanie integracji, Projektowanie i rozwój Backendu w Pythonie (Django / Django REST...",
     "url": "https://www.pracuj.pl/praca/senior-backend-python-developer-warszawa-powazkowska-44c,oferta,1004700400"
   },
   {
+    "id": "1004700420",
     "title": "Data Governance Specialist",
     "salary": "24 000–27 000 zł netto (+ VAT) / mies.",
     "company": "Mindbox Sp. z o.o.",
     "location": "Warszawa",
+    "description": "Your responsibilities, Co-create and enforce data governance: rules, roles, standards, and metrics., Own data quality and semantics: business glossary, metadata repository, and data lineage., Bridge business and IT: gather needs, set priorities,...",
     "url": "https://www.pracuj.pl/praca/data-governance-specialist-warszawa,oferta,1004700420"
   },
   {
+    "id": "1004706565",
     "title": "Operator Produkcji / Operatorka Produkcji",
     "salary": "5 600–6 000 zł brutto / mies.",
     "company": "LOTTE Wedel",
     "location": "Warszawa, Praga-Południe",
+    "description": "Twój zakres obowiązków, Zaawansowana obsługa procesu produkcyjnego na wydzielonym obszarze, Wykonywanie czynności związanych z procesem produkcji np. skanowanie produktu, obróbka surowców,  mycie linii, Transport ręczny produktów, transport...",
     "url": "https://www.pracuj.pl/praca/operator-produkcji-operatorka-produkcji-warszawa-jana-zamoyskiego-28-30,oferta,1004706565"
   },
   {
+    "id": "1004706537",
     "title": "Team Leader Zespołu Ambasadorów marki PLOOM w kanale Retail",
     "salary": "6 400–8 200 zł brutto / mies.",
     "company": "Modus",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Realizacja wyznaczonych celów zespołowych i indywidualnych  pod kątem ilościowym oraz jakościowym., Zarządzanie pracą zespołu Ambasadorów w kanale Retail., Tworzenie grafiku/harmonogramu pracy., Szkolenia oraz zapewnienie...",
     "url": "https://www.pracuj.pl/praca/team-leader-zespolu-ambasadorow-marki-ploom-w-kanale-retail-warszawa,oferta,1004706537"
   },
   {
+    "id": "1004715992",
     "title": "Project Manager / Managerka",
     "salary": "5 000–12 000 zł / mies. (zal. od umowy)",
     "company": "Fundacja Szkoła w Chmurze",
     "location": "Warszawa, Żoliborz",
+    "description": "Twój zakres obowiązków, skanujesz, analizujesz, poprawiasz – widzisz, co działa, co kuleje i gdzie warto coś zoptymalizować. Zbierasz dane, wyciągasz wnioski, usprawniasz;, wprowadzasz rozwiązania – od narzędzi, przez procesy, po strategie. Nie...",
     "url": "https://www.pracuj.pl/praca/project-manager-managerka-warszawa-powazkowska-44c,oferta,1004715992"
   },
   {
+    "id": "1004715987",
     "title": "Automatyczka / Automatyk w Oddziale Utrzymania Ruchu",
     "salary": "6 400–8 500 zł brutto / mies.",
     "company": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie Spółka Akcyjna",
     "location": "Warszawa, Ochota",
+    "description": "Twój zakres obowiązków, wykonywanie przeglądów i konserwacji aparatury kontrolno-pomiarowej oraz monitoringu w zakresie procesu technologicznego, zabezpieczenie prawidłowego działania i utrzymania ciągłości ruchu urządzeń pomiarowych i...",
     "url": "https://www.pracuj.pl/praca/automatyczka-automatyk-w-oddziale-utrzymania-ruchu-warszawa-koszykowa-81,oferta,1004715987"
   },
   {
+    "id": "1004716000",
     "title": "DevOps Engineer (f/m)",
     "salary": "140–160 zł netto (+ VAT) / godz.",
     "company": "KMD Poland Sp. z o.o.",
     "location": "Warszawa, Śródmieście",
+    "description": "Your responsibilities, Building, operating and maintaining complex hybrid cloud infrastructure for KMD products based on Azure Local and global Azure cloud., Working on cutting edge technologies., Acting as SME in the DevOps area and as a sparring...",
     "url": "https://www.pracuj.pl/praca/devops-engineer-f-m-warszawa-inflancka-4a,oferta,1004716000"
   },
   {
+    "id": "1004718574",
     "title": "Junior Java Developer (f/m)",
     "salary": "7 000–10 000 zł / mies. (zal. od umowy)",
     "company": "Netcompany Poland sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Your responsibilities, Analyse, and understand business and technical requirements and work with clients across different domains and industries, Produce high-quality design deliverables that describe how the solution will accommodate business and...",
     "url": "https://www.pracuj.pl/praca/junior-java-developer-f-m-warszawa-pulawska-180,oferta,1004718574"
   },
   {
+    "id": "1004718570",
     "title": "Java Developer (f/m)",
     "salary": "8 000–12 000 zł / mies. (zal. od umowy)",
     "company": "Netcompany Poland sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Your responsibilities, Analyze, and understand business and technical requirements and work with clients across different domains and industries, Produce high-quality design deliverables that describe how the solution will accommodate business and...",
     "url": "https://www.pracuj.pl/praca/java-developer-f-m-warszawa-pulawska-180,oferta,1004718570"
   },
   {
+    "id": "1004718576",
     "title": "Junior .Net Developer (f/m)",
     "salary": "7 000–10 000 zł / mies. (zal. od umowy)",
     "company": "Netcompany Poland sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Your responsibilities, Analyse, and understand business and technical requirements and work with clients across different domains and industries, Produce high-quality design deliverables that describe how the solution will accommodate business and...",
     "url": "https://www.pracuj.pl/praca/junior-net-developer-f-m-warszawa-pulawska-180,oferta,1004718576"
   },
   {
+    "id": "1004718527",
     "title": ".Net Developer (f/m)",
     "salary": "8 000–12 000 zł / mies. (zal. od umowy)",
     "company": "Netcompany Poland sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Your responsibilities, Analyse, and understand business and technical requirements and work with clients across different domains and industries, Produce high-quality design deliverables that describe how the solution will accommodate business and...",
     "url": "https://www.pracuj.pl/praca/net-developer-f-m-warszawa-pulawska-180,oferta,1004718527"
   },
   {
+    "id": "1004718579",
     "title": "Salesforce Developer",
     "salary": "140–180 zł netto (+ VAT) / godz.",
     "company": "Cyclad",
     "location": "Warszawa",
+    "description": "Your responsibilities, Participate in technical discussions, solution design, and implementation of new requirements, Develop and maintain complex Salesforce logic across multiple classes and packages, Work on advanced integrations between...",
     "url": "https://www.pracuj.pl/praca/salesforce-developer-warszawa,oferta,1004718579"
   },
   {
+    "id": "1004716030",
     "title": "Graficzka/Grafik DTP (flexo i cyfra)",
     "salary": "6 500–8 500 zł / mies. (zal. od umowy)",
     "company": "LabelStore industrial solutions",
     "location": "Warszawa, Bielany",
+    "description": "Twój zakres obowiązków, Obsługa programów graficznych, Weryfikowanie poprawności otrzymanych materiałów graficznych i ich przydatności do dalszych procesów produkcyjnych, Dostosowywanie plików pod konkretne technologie drukowania, druk cyfrowy...",
     "url": "https://www.pracuj.pl/praca/graficzka-grafik-dtp-flexo-i-cyfra-warszawa-palisadowa-20-22,oferta,1004716030"
   },
   {
+    "id": "1004718623",
     "title": "Stacjonarny Przedstawiciel Handlowy / Stacjonarna Przedstawicielka Handlowa",
     "salary": "6 900–10 000 zł brutto / mies.",
     "company": "ANTAR MEDICAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "location": "Warszawa, Targówek",
+    "description": "Twój zakres obowiązków, Osoba zatrudniona na powyższym stanowisku odpowiedzialna będzie za pozyskiwanie i opiekę nad klientami firmy. Do jej obowiązków należeć będzie wyszukiwanie oraz nawiązywanie kontaktu, głównie telefonicznego, z potencjalnymi...",
     "url": "https://www.pracuj.pl/praca/stacjonarny-przedstawiciel-handlowy-stacjonarna-przedstawicielka-handlowa-warszawa-labiszynska-21c,oferta,1004718623"
   },
   {
+    "id": "1004725116",
     "title": "Mechaniczka- Konserwatorka /Mechanik – Konserwator w Oddziale Eksploatacji Przepompowni (k/m/n)",
     "salary": "5 600–7 300 zł brutto / mies.",
     "company": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m. st. Warszawie Spółka Akcyjna",
     "location": "Warszawa, Praga-Północ",
+    "description": "Twój zakres obowiązków, Diagnozowanie i naprawa zespołów pompowych, maszyn i urządzeń, Prowadzenie przeglądów i konserwacja zgodnie z dokumentacją (DTR) zespołów pompowych, maszyn i urządzeń, Demontaż i montaż pomp, Obsługa i eksploatacja sieci...",
     "url": "https://www.pracuj.pl/praca/mechaniczka-konserwatorka-mechanik-konserwator-w-oddziale-eksploatacji-przepompo-warszawa-jagiellonska-65-67,oferta,1004725116"
   },
   {
+    "id": "1004725118",
     "title": "Data Engineer (Spark / Streaming / Java)",
     "salary": "160–200 zł netto (+ VAT) / godz.",
     "company": "KMD Poland Sp. z o.o.",
     "location": "Warszawa, Śródmieście",
+    "description": "Your responsibilities, Develop and maintain the leading IT solution for the energy market using Apache Spark, Databricks, Delta Lake, and Apache Kafka, Have end-to-end responsibility for the full lifecycle of features you develop, Design technical...",
     "url": "https://www.pracuj.pl/praca/data-engineer-spark-streaming-java-warszawa-inflancka-4a,oferta,1004725118"
   },
   {
+    "id": "1004725164",
     "title": "National Account Manager (NAM)",
     "salary": "8 500–10 000 zł / mies. (zal. od umowy)",
     "company": "WeNet Group SA",
     "location": "Warszawa, Mokotów",
+    "description": "Twój zakres obowiązków, Kompleksowa sprzedaż pełnego portfolio usług WeNet (strony i sklepy internetowe, Social Media, SEO, Google Ads, Marketing Lokalny) do strategicznych klientów Spółki., Aktywne pozyskiwanie nowych klientów oraz zarządzanie i...",
     "url": "https://www.pracuj.pl/praca/national-account-manager-nam-warszawa-postepu-14,oferta,1004725164"
   },
   {
+    "id": "1004725165",
     "title": "Konsultant / Konsultantka Sprzedaży Bezpośredniej",
     "salary": "5 000–6 500 zł brutto / mies.",
     "company": "WeNet Group SA",
     "location": "Warszawa, Mokotów",
+    "description": "Twój zakres obowiązków, Aktywne pozyskiwanie klientów biznesowych (B2B) na podległym terenie., Umawianie i odbywanie spotkań handlowych bezpośrednio u klientów., Analiza potrzeb marketingowych potencjalnych klientów i profesjonalne doradztwo.,...",
     "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-sprzedazy-bezposredniej-warszawa-postepu-14,oferta,1004725165"
   },
   {
+    "id": "1004725135",
     "title": "Starszy Specjalista / Starsza Specjalistka ds. Sprzedaży Usług Marketingowych",
     "salary": "5 500–6 500 zł brutto / mies.",
     "company": "WeNet sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Twój zakres obowiązków, Telefoniczna sprzedaż usług i rozwiązań z zakresu digital marketingu oferowanych przez Grupę WeNet., Praca na leadach oraz aktywne pozyskiwanie klientów – będziesz kontaktować się z umówionymi klientami oraz aktywnie...",
     "url": "https://www.pracuj.pl/praca/starszy-specjalista-starsza-specjalistka-ds-sprzedazy-uslug-marketingowych-warszawa-postepu-14,oferta,1004725135"
   },
   {
+    "id": "1004725145",
     "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Sprzedaży Usług Marketingowych",
     "salary": "4 900–5 400 zł brutto / mies.",
     "company": "WeNet sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Twój zakres obowiązków, Telefoniczna sprzedaż usług i rozwiązań z zakresu digital marketingu oferowanych przez Grupę WeNet– nie musisz mieć doświadczenia w branży, dostaniesz pełne wsparcie na etapie wdrożenia!, Analiza potrzeb klientów i dobór...",
     "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-sprzedazy-uslug-marketingowych-warszawa-postepu-14,oferta,1004725145"
   },
   {
+    "id": "1004725129",
     "title": "Ekspert / Ekspertka ds. Sprzedaży SEO & ADS",
     "salary": "6 000–8 000 zł / mies. (zal. od umowy)",
     "company": "WeNet sp. z o.o.",
     "location": "Warszawa, Mokotów",
+    "description": "Twój zakres obowiązków, Telefoniczna sprzedaż usług SEO, kampanii Google Ads, stron i sklepów internetowych – oferujemy rozwiązania, które realnie wspierają biznes klientów., Praca na leadach i aktywnym portfolio klientów – będziesz kontaktować...",
     "url": "https://www.pracuj.pl/praca/ekspert-ekspertka-ds-sprzedazy-seo-ads-warszawa-postepu-14,oferta,1004725129"
   },
   {
+    "id": "1004736650",
     "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
     "salary": "5 750–10 150 zł brutto / mies.",
     "company": "mFinanse S.A.",
     "location": "Janki (pow. pruszkowski)",
+    "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
     "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-janki-pow-pruszkowski,oferta,1004736650"
   },
   {
+    "id": "1004736639",
     "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
     "salary": "5 750–10 150 zł brutto / mies.",
     "company": "mFinanse S.A.",
     "location": "Marki",
+    "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
     "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-marki,oferta,1004736639"
   },
   {
+    "id": "1004736572",
     "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
     "salary": "5 750–10 150 zł brutto / mies.",
     "company": "mFinanse S.A.",
     "location": "Piaseczno",
+    "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
     "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-piaseczno,oferta,1004736572"
   },
   {
+    "id": "1004736643",
     "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
     "salary": "5 750–10 150 zł brutto / mies.",
     "company": "mFinanse S.A.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
     "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-warszawa,oferta,1004736643"
   },
   {
+    "id": "1004736647",
     "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
     "salary": "5 750–10 150 zł brutto / mies.",
     "company": "mFinanse S.A.",
     "location": "Wołomin",
+    "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
     "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-wolomin,oferta,1004736647"
   },
   {
+    "id": "1004754795",
     "title": "Młodszy specjalista ds. administracji (M/K)",
     "salary": "33–6 000 zł / mies. (zal. od umowy)",
     "company": "Devire",
     "location": "Wolica (pow. pruszkowski)",
+    "description": "Twój zakres obowiązków, Obsługa procesów rejestracji pojazdów i innych czynności realizowanych w wydziale komunikacji oraz realizacja procesów wspierających obsługę klienta, Kompletowanie i przygotowanie dokumentacji, Kontakt z Klientami oraz...",
     "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-administracji-m-k-wolica-pow-pruszkowski,oferta,1004754795"
   },
   {
+    "id": "1004748769",
     "title": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
     "salary": "5 400–7 000 zł / mies. (zal. od umowy)",
     "company": "Tutlo Sp. z o.o.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
     "url": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-warszawa,oferta,1004748769"
   },
   {
+    "id": "1004751491",
     "title": "SAP IS-U Billing Analyst",
     "salary": "25 200–29 400 zł netto (+ VAT) / mies.",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Warszawa",
+    "description": "Your responsibilities, Collect and analyze business requirements related to SAP IS-U billing for development projects and support activities., Create detailed functional and technical documentation to guide system enhancements., Configure and...",
     "url": "https://www.pracuj.pl/praca/sap-is-u-billing-analyst-warszawa,oferta,1004751491"
   },
   {
+    "id": "1004736198",
     "title": "Senior Fullstack Engineer",
     "salary": "26 500–30 000 zł brutto / mies.",
     "company": "Motife Sp. z o.o.",
     "location": "Warszawa, Wola",
+    "description": "Twój zakres obowiązków, Build backend services and web-based tooling that support commercial Peloton devices in heavy-use environments., Develop features for signed-out and guest device experiences that enable seamless product use without a...",
     "url": "https://www.pracuj.pl/praca/senior-fullstack-engineer-warszawa-grzybowska-60,oferta,1004736198"
   },
   {
+    "id": "1004742326",
     "title": "Analityk Biznesowy",
     "salary": "14 000–17 000 zł netto (+ VAT) / mies.",
     "company": "Develocraft sp. z o.o.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Współtworzenie i rozwój architektury katalogu produktowego we współpracy z zespołem produktowym, Analiza potrzeb biznesowych oraz ich przekładanie na rozwiązania systemowe i funkcjonalności, Wsparcie w zarządzaniu...",
     "url": "https://www.pracuj.pl/praca/analityk-biznesowy-warszawa,oferta,1004742326"
   },
   {
+    "id": "1004724922",
     "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Komunikacji i Treści (sektor medyczny)",
     "salary": "5 000–7 000 zł brutto / mies.",
     "company": "OGÓLNOPOLSKA IZBA GOSPODARCZA WYROBÓW MEDYCZNYCH \"POLMED\"",
     "location": "Warszawa, Śródmieście",
+    "description": "Twój zakres obowiązków, szukamy osoby, która pomoże nam tworzyć komunikację od A do Z., tworzenie treści na social media (LinkedIn, X, Facebook) i stronę www, pisanie artykułów, postów i prostych materiałów eksperckich (AI może pomagać – ważne,...",
     "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-komunikacji-i-tresci-sektor-medyczny-warszawa-tytusa-chalubinskiego-8,oferta,1004724922"
   },
   {
+    "id": "1004748341",
     "title": "Doradca techniczno-handlowy (k/m)",
     "salary": "10 000–15 000 zł brutto / mies.",
     "company": "Randstad Polska Sp. z o.o.",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Opieka nad portfelem klientów w regionie (województwa: podlaskie, mazowieckie, łódzkie, warmińsko-mazurskie)., Zapewnienie wsparcia technicznego oraz pomoc przy wdrażaniu oferowanych aplikacji., Bezpośrednia i zdalna...",
     "url": "https://www.pracuj.pl/praca/doradca-techniczno-handlowy-k-m-warszawa,oferta,1004748341"
   },
   {
+    "id": "1004736184",
     "title": "Cybersecurity Design Reviewer - Architect",
     "salary": "24 000–31 000 zł netto (+ VAT) / mies.",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Warszawa",
+    "description": "Your responsibilities, Conduct cybersecurity architecture and design reviews for applications, including AI/ML solutions., Advise development teams on secure design and implementation strategies., Analyze penetration test, bug bounty, and code...",
     "url": "https://www.pracuj.pl/praca/cybersecurity-design-reviewer-architect-warszawa,oferta,1004736184"
   },
   {
+    "id": "1004727913",
     "title": "Technik serwisant (K/M)",
     "salary": "5 500–6 000 zł brutto / mies.",
     "company": "Devire",
     "location": "Piaseczno",
+    "description": "Twój zakres obowiązków, Instalacja zmiękczaczy wody w budynkach mieszkalnych., Naprawa i serwis zmiękczaczy wody., Wykonywanie przeglądów okresowych., Zgłaszanie zapotrzebowania na części zamienne niezbędne do wykonywanie napraw., Profesjonalna...",
     "url": "https://www.pracuj.pl/praca/technik-serwisant-k-m-piaseczno,oferta,1004727913"
   },
   {
+    "id": "1004748319",
     "title": "TV Planner / Buyer",
     "salary": "5 166–9 166 zł brutto / mies.",
     "company": "WPP Media",
     "location": "Warszawa, Praga-Północ",
+    "description": "Twój zakres obowiązków, Gdzie będziesz rozwijać swoje kompetencje?, , W T&P łączymy kreatywność, technologię i media, by dostarczać naszym Klientom kompleksowe rozwiązania komunikacyjne. Nasza przedsiębiorcza struktura działa w 45 biurach na...",
     "url": "https://www.pracuj.pl/praca/tv-planner-buyer-warszawa-plac-konesera-11,oferta,1004748319"
   },
   {
+    "id": "1004727912",
     "title": "Młodszy Specjalista ds. należności (M/K)",
     "salary": "33–36 zł brutto / godz.",
     "company": "Devire",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Przygotowanie wniosków o zatwierdzenie oraz porozumień dot. spłaty wymagalnych należności w częściach oraz monitoring zawartych ugód, Wyliczanie oraz weryfikacja należności finansowych, Obsługa korespondencji w zakresie:...",
     "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-naleznosci-m-k-warszawa,oferta,1004727912"
   },
   {
+    "id": "1004724857",
     "title": "Senior Java Developer - ASAP",
     "salary": "18 900–24 150 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Warszawa",
+    "description": "Your responsibilities, Design, develop, and maintain high-quality Java applications aligned with business needs., Participate in technical discussions to drive innovative solutions and best practices., Collaborate with Business Analysts,...",
     "url": "https://www.pracuj.pl/praca/senior-java-developer-asap-warszawa,oferta,1004724857"
   },
   {
+    "id": "1004736166",
     "title": "Oracle Integration Specialist (AIA/SOA/OSB)",
     "salary": "16 000–22 000 zł netto (+ VAT) / mies.",
     "company": "Cyclad",
     "location": "Warszawa",
+    "description": "Your responsibilities, Design and develop integration solutions using Oracle AIA, SOA Suite, and OSB, Build and maintain services based on BPEL, Mediator, and OSB components, Analyze, troubleshoot, and resolve integration issues across systems,...",
     "url": "https://www.pracuj.pl/praca/oracle-integration-specialist-aia-soa-osb-warszawa,oferta,1004736166"
   },
   {
+    "id": "1004754895",
     "title": "Asystent / Asystentka Działu Produktu i Zakupów (Home&Garden)",
     "salary": "6 000–8 000 zł brutto / mies.",
     "company": "Meblobranie.pl Sp. z o.o.",
     "location": "Warszawa, Wola",
+    "description": "Twój zakres obowiązków, Współpraca z dostawcami: Bieżący kontakt z krajowymi i zagranicznymi partnerami w celu pozyskiwania kompletnych specyfikacji technicznych, zdjęć oraz informacji o produktach., Wsparcie logistyki i dokumentacji: Generowanie...",
     "url": "https://www.pracuj.pl/praca/asystent-asystentka-dzialu-produktu-i-zakupow-home-garden-warszawa-gizow-6,oferta,1004754895"
   },
   {
+    "id": "1004754892",
     "title": "Młodszy inżynier / Młodsza inżynierka projektu",
     "salary": "5 500–8 000 zł brutto / mies.",
     "company": "MP PROCESS sp. z o.o.",
     "location": "Słomin (pow. pruszkowski)",
+    "description": "Twój zakres obowiązków, Sporządzanie / weryfikacja rysunków izometrycznych, schematów P&ID oraz Layout’ów,, Przygotowanie dokumentacji technicznej i dokumentacji powykonawczej,, Kalkulacja i koordynacja procesu przygotowania oferty,, Dobór...",
     "url": "https://www.pracuj.pl/praca/mlodszy-inzynier-mlodsza-inzynierka-projektu-slomin-pow-pruszkowski,oferta,1004754892"
   },
   {
+    "id": "1004742277",
     "title": "Główna/y Księgowa/y (profil z biura rach. + znajomość SAP)",
     "salary": "18 000–22 000 zł brutto / mies.",
     "company": "Michael Page",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Odpowiedzialność za prawidłowe i terminowe prowadzenie ksiąg rachunkowych, Odpowiedzialność za sporządzanie sprawozdań finansowych wg UoR + przekształcenia pod MSR na potrzeby Grupy, Uzgadnianie wszystkich księgowań...",
     "url": "https://www.pracuj.pl/praca/glowna-y-ksiegowa-y-profil-z-biura-rach-%2b-znajomosc-sap-warszawa,oferta,1004742277"
   },
   {
+    "id": "1004754880",
     "title": "Pracownik / Pracowniczka Restauracji KFC Suchy Las Ibis",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Suchy Las (pow. pruszkowski)",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-suchy-las-ibis-suchy-las-pow-pruszkowski,oferta,1004754880"
   },
   {
+    "id": "1004754874",
     "title": "Key Account Manager (izolacje techniczne)",
     "salary": "15 000 zł brutto / mies.",
     "company": "SALES HR",
     "location": "Warszawa",
+    "description": "Twój zakres obowiązków, Sprzedaż przez dystrybutorów branżowych lub przez segment OEM, Praca na inwestycjach: spotkania z GW, inwestorami, projektantami, biurami projektowymi lub przez producentów urządzeń, Wpisywanie produktów do dokumentacji...",
     "url": "https://www.pracuj.pl/praca/key-account-manager-izolacje-techniczne-warszawa,oferta,1004754874"
   },
   {
+    "id": "1004706191",
     "title": "Specjalista ds. Planowania (K/M)",
     "salary": "6 510–8 505 zł brutto / mies.",
     "company": "Airbus Poland S.A.",
     "location": "Warszawa, Włochy",
+    "description": "Twój zakres obowiązków, Monitorowanie i analizowanie parametrów planistycznych oraz procesów związanych z planowaniem i kontrolą produkcji,, Udział w tworzeniu i zarządzaniu harmonogramem pracy działu,, Zapewnienie optymalnego poziomu zapasu...",
     "url": "https://www.pracuj.pl/praca/specjalista-ds-planowania-k-m-warszawa-aleja-krakowska-110-114,oferta,1004706191"
   },
   {
+    "id": "1004754828",
     "title": "Senior QA Engineer - Ecommerce / OMS / WMS / PIM",
     "salary": "80–120 zł netto (+ VAT) / godz.",
     "company": "FORTEGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "location": "Warszawa, Mokotów",
+    "description": "Twój zakres obowiązków, Testowanie nowych funkcjonalności systemu OMS / PIM / WMS, Weryfikacja integracji z marketplace'ami (Allegro, Amazon, Empik) i kurierami, Testowanie kodu generowanego przy pomocy AI – wyłapywanie błędów logicznych i...",
     "url": "https://www.pracuj.pl/praca/senior-qa-engineer-ecommerce-oms-wms-pim-warszawa-gotarda-9,oferta,1004754828"
   }
 ];

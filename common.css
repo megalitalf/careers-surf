@@ -241,6 +241,53 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     font-size: 1.3em;
     color: #ffffff;
 }
+/* Dev meta row: id · batch · seen */
+#car_popup_meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}
+#car_popup_id {
+    font-size: 0.72em;
+    color: #888;
+    font-family: monospace;
+    background: rgba(255,255,255,0.06);
+    border-radius: 4px;
+    padding: 2px 6px;
+}
+#car_popup_batch {
+    font-size: 0.72em;
+    color: #a78bfa;
+    background: rgba(168,85,247,0.12);
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-weight: bold;
+}
+#car_popup_seen {
+    display: none;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.72em;
+    font-weight: bold;
+    color: #a855f7;
+    background: rgba(168,85,247,0.15);
+    border-radius: 4px;
+    padding: 2px 7px;
+}
+/* Description snippet */
+#car_popup_desc {
+    font-size: 0.8em;
+    color: #999;
+    line-height: 1.45;
+    margin-top: 10px;
+    margin-bottom: 14px;
+    max-height: 80px;
+    overflow-y: auto;
+    border-left: 2px solid #333;
+    padding-left: 8px;
+}
 #car_popup_salary {
     font-size: 2em;
     font-weight: bold;

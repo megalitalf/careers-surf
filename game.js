@@ -61,6 +61,11 @@ var lkaRate = 1.2;                    // how gently LKA pulls back to lane centr
 var offRoadDecel = -maxSpeed / 2;             // off road deceleration is somewhere in between
 var offRoadLimit = maxSpeed / 4;             // limit when off road deceleration no longer applies (e.g. you can always go at least this speed even when off road)
 var totalCars = 200;                     // total number of cars on the road
+var LAP_DURATION   = 60;                   // target seconds per lap (used to pace job reveals)
+var JOBS_PER_LAP   = 10;                   // job-truck listings shown per lap
+var currentLap     = 0;                    // lap counter (0 = first lap)
+var lapJobOffset   = 0;                    // index into SEMI_LISTINGS for the current lap's batch
+var seenListings   = new Set();            // ids of listings whose popup was opened (for purple dot)
 var currentLapTime = 0;                       // current lap time
 var lastLapTime = null;                    // last lap time
 var visibleSemis = [];                     // screen rects of visible SEMI trucks this frame
@@ -165,6 +170,9 @@ function initMenu() {
                 function applyCityJobs(label) {
                     if (typeof cityJobs !== 'undefined' && cityJobs.length) {
                         SEMI_LISTINGS = cityJobs;
+                        currentLap = 0;
+                        lapJobOffset = 0;
+                        seenListings = new Set();
                         resetCars();
                         console.log('Loaded ' + cityJobs.length + ' listings for ' + CITY_SLUGS[selectedCity] + ' (' + label + ')');
                     } else {
@@ -360,6 +368,10 @@ function update(dt) {
         if (currentLapTime && (startPosition < playerZ)) {
             lastLapTime = currentLapTime;
             currentLapTime = 0;
+            // Advance to the next batch of job listings
+            currentLap++;
+            lapJobOffset = (currentLap * JOBS_PER_LAP) % (SEMI_LISTINGS.length || 1);
+            resetCars();
             if (lastLapTime <= Util.toFloat(Dom.storage.fast_lap_time)) {
                 Dom.storage.fast_lap_time = lastLapTime;
                 updateHud('fast_lap_time', formatTime(lastLapTime));
@@ -600,6 +612,20 @@ function render() {
                         ctx.arc(arcX, arcY, arcR, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * progress);
                         ctx.strokeStyle = '#ffe066';
                         ctx.lineWidth = Math.max(2, arcR * 0.28);
+                        ctx.stroke();
+                    }
+
+                    // Purple seen-dot — shown when this listing was already opened
+                    if (listing.id && seenListings.has(listing.id)) {
+                        var dotR = Math.max(5, Math.round(sh * 0.18));
+                        var dotX = sx + sw - dotR * 0.6;
+                        var dotY = sy + dotR * 0.6;
+                        ctx.beginPath();
+                        ctx.arc(dotX, dotY, dotR, 0, Math.PI * 2);
+                        ctx.fillStyle = '#a855f7';
+                        ctx.fill();
+                        ctx.lineWidth = 1.5;
+                        ctx.strokeStyle = '#fff';
                         ctx.stroke();
                     }
 
@@ -858,7 +884,14 @@ function resetCars() {
         sprite = Util.randomChoice(SPRITES.CARS);
         var isSemi = SPRITES.SEMIS.indexOf(sprite) >= 0;
         speed = maxSpeed / 4 + Math.random() * maxSpeed / (isSemi ? 4 : 2);
-        var listing = isSemi ? Util.randomChoice(SEMI_LISTINGS) : null;
+        // Pick from the current lap's slice of listings (wraps around if needed)
+        var lapListings = [];
+        if (SEMI_LISTINGS.length) {
+            for (var li = 0; li < JOBS_PER_LAP; li++) {
+                lapListings.push(SEMI_LISTINGS[(lapJobOffset + li) % SEMI_LISTINGS.length]);
+            }
+        }
+        var listing = isSemi ? Util.randomChoice(lapListings.length ? lapListings : SEMI_LISTINGS) : null;
         car = { offset: offset, z: z, sprite: sprite, speed: speed, listing: listing };
         segment = findSegment(car.z);
         segment.cars.push(car);
@@ -1120,10 +1153,32 @@ canvas.addEventListener('click', function (ev) {
 
 function showCarPopup(listing) {
     if (!listing) return;
+    // Mark as seen
+    if (listing.id) seenListings.add(listing.id);
     Dom.get('car_popup_title').innerHTML   = listing.title   || '';
     Dom.get('car_popup_salary').innerHTML  = listing.salary  || 'Salary not disclosed';
     Dom.get('car_popup_company').innerHTML = listing.company || '';
     Dom.get('car_popup_loc').innerHTML     = listing.location || '';
+    // Dev info: id
+    var idEl = Dom.get('car_popup_id');
+    if (idEl) idEl.textContent = listing.id ? '#' + listing.id : '';
+    // Dev info: description
+    var descEl = Dom.get('car_popup_desc');
+    if (descEl) descEl.textContent = listing.description || '';
+    // Dev info: batch (e.g. "Batch 1/5 · jobs 1–10")
+    var batchEl = Dom.get('car_popup_batch');
+    if (batchEl && SEMI_LISTINGS.length) {
+        var batchNum   = currentLap + 1;
+        var totalBatches = Math.ceil(SEMI_LISTINGS.length / JOBS_PER_LAP);
+        var firstJob   = lapJobOffset + 1;
+        var lastJob    = Math.min(lapJobOffset + JOBS_PER_LAP, SEMI_LISTINGS.length);
+        batchEl.textContent = 'Batch ' + batchNum + '/' + totalBatches + ' · jobs ' + firstJob + '–' + lastJob;
+    } else if (batchEl) {
+        batchEl.textContent = '';
+    }
+    // Dev info: seen badge
+    var seenBadge = Dom.get('car_popup_seen');
+    if (seenBadge) seenBadge.style.display = (listing.id && seenListings.has(listing.id)) ? 'inline-flex' : 'none';
     Dom.get('car_popup_buy').onclick = function () { window.open(listing.url, '_blank'); };
     Dom.get('car_popup').style.display = 'flex';
 }

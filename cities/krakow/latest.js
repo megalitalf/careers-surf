@@ -2,353 +2,453 @@
 // City: Krakow  Scraped: 2026-04-07T15:12:27.768Z
 var cityJobs = [
   {
+    "id": "1004754979",
     "title": "Specjalistka / Specjalista ds. programów edukacyjnych w wydawnictwie gier planszowych",
     "salary": "5 300–5 700 zł / mies. (zal. od umowy)",
     "company": "WYDAWNICTWO IUVI sp. z o.o. sp.j.",
     "location": "Kraków, Bieżanów-Prokocim",
+    "description": "Twój zakres obowiązków, •\tPlanowanie i realizacja programów edukacyjnych wydawnictwa., •\tWspółtworzenie treści oraz aktualizacji na stronie WWW., •\tWspółpraca z prasą branżową., •\tPrzygotowywanie krótkich raportów dotyczących prowadzonych...",
     "url": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-programow-edukacyjnych-w-wydawnictwie-gier-planszowy-krakow-pollanki-12c,oferta,1004754979"
   },
   {
+    "id": "1004742338",
     "title": "Doradca Klienta Indywidualnego",
     "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
     "company": "Tutlo Sp. z o.o.",
     "location": "Kraków, Stare Miasto",
+    "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
     "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-krakow-aleja-29-listopada-20,oferta,1004742338"
   },
   {
+    "id": "1004706485",
     "title": "Franczyzobiorca w branży e-commerce i logistyki",
     "salary": "20 000–35 000 zł netto (+ VAT) / mies.",
     "company": "Mail Boxes Etc.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Zarządzanie Centrum MBE w swojej lokalizacji, z uwzględnieniem codziennej działalności operacyjnej i jakości obsługi klienta;, Pozyskiwanie oraz kompleksowa obsługa klientów indywidualnych i biznesowych w zakresie logistyki...",
     "url": "https://www.pracuj.pl/praca/franczyzobiorca-w-branzy-e-commerce-i-logistyki-krakow,oferta,1004706485"
   },
   {
+    "id": "1004700413",
     "title": "Data Engineer",
     "salary": "22 000–26 000 zł netto (+ VAT) / mies.",
     "company": "Mindbox Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Design, implement, and maintain scalable data infrastructure, Optimize data pipelines and ensure data integrity across platforms, Collaborate with cross-functional teams to drive data-driven decisions, Contribute to the...",
     "url": "https://www.pracuj.pl/praca/data-engineer-krakow,oferta,1004700413"
   },
   {
+    "id": "1004700385",
     "title": "Fullstack Developer",
     "salary": "22 000–26 000 zł netto (+ VAT) / mies.",
     "company": "Mindbox Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, As a Fullstack Engineer, you will play a crucial role in developing and optimizing cutting-edge solutions. Your responsibilities will include:, Designing, coding, testing, and deploying fullstack applications, Collaborating...",
     "url": "https://www.pracuj.pl/praca/fullstack-developer-krakow,oferta,1004700385"
   },
   {
+    "id": "1004706620",
     "title": "Przedstawiciel handlowy / Przedstawicielka handlowa",
     "salary": "9 000–15 000 zł brutto / mies.",
     "company": "\"JBB\" BAŁDYGA Józef Bałdyga",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, obsługa i rozwój współpracy z klientami detalicznymi na podległym terenie,, skuteczna realizacja planów sprzedażowych,, pozyskiwanie nowych punktów handlowych i rozwijanie portfolio klientów,, monitorowanie rynku,...",
     "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-krakow,oferta,1004706620"
   },
   {
+    "id": "1004739875",
     "title": "Regionalny Przedstawiciel Handlowy / Regionalna Przedstawicielka Handlowa (Fizjoterapeuta) – sprzęt fizjo / rehab",
     "salary": "5 000–20 000 zł / mies. (zal. od umowy)",
     "company": "BardoMed Sp. z o. o.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Aktywna sprzedaż sprzętu rehab/fizjo całe portfolio firmy)  na powierzonym obszarze (3–5 województw),, Budowanie i rozwijanie relacji z klientami: fizjoterapeutami, placówkami medycznymi, rehabilitacyjnymi i partnerami...",
     "url": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-regionalna-przedstawicielka-handlowa-fizjoter-krakow,oferta,1004739875"
   },
   {
+    "id": "1004725171",
     "title": "National Account Manager (NAM)",
     "salary": "8 500–10 000 zł / mies. (zal. od umowy)",
     "company": "WeNet Group SA",
     "location": "Kraków, Podgórze",
+    "description": "Twój zakres obowiązków, Kompleksowa sprzedaż pełnego portfolio usług WeNet (strony i sklepy internetowe, Social Media, SEO, Google Ads, Marketing Lokalny) do strategicznych klientów Spółki., Aktywne pozyskiwanie nowych klientów oraz zarządzanie i...",
     "url": "https://www.pracuj.pl/praca/national-account-manager-nam-krakow-wadowicka-6,oferta,1004725171"
   },
   {
+    "id": "1004725155",
     "title": "Konsultant / Konsultantka Sprzedaży Bezpośredniej",
     "salary": "5 000–6 500 zł brutto / mies.",
     "company": "WeNet Group SA",
     "location": "Kraków, Podgórze",
+    "description": "Twój zakres obowiązków, Aktywne pozyskiwanie klientów biznesowych (B2B) na podległym terenie., Umawianie i odbywanie spotkań handlowych bezpośrednio u klientów., Analiza potrzeb marketingowych potencjalnych klientów i profesjonalne doradztwo.,...",
     "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-sprzedazy-bezposredniej-krakow-wadowicka-6,oferta,1004725155"
   },
   {
+    "id": "1004725140",
     "title": "Starszy Specjalista / Starsza Specjalistka ds. Sprzedaży Usług Marketingowych",
     "salary": "5 500–6 500 zł brutto / mies.",
     "company": "WeNet sp. z o.o.",
     "location": "Kraków, Podgórze",
+    "description": "Twój zakres obowiązków, Telefoniczna sprzedaż usług i rozwiązań z zakresu digital marketingu oferowanych przez Grupę WeNet., Praca na leadach oraz aktywne pozyskiwanie klientów – będziesz kontaktować się z umówionymi klientami oraz aktywnie...",
     "url": "https://www.pracuj.pl/praca/starszy-specjalista-starsza-specjalistka-ds-sprzedazy-uslug-marketingowych-krakow-wadowicka-6,oferta,1004725140"
   },
   {
+    "id": "1004725147",
     "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Sprzedaży Usług Marketingowych",
     "salary": "4 900–5 400 zł brutto / mies.",
     "company": "WeNet sp. z o.o.",
     "location": "Kraków, Podgórze",
+    "description": "Twój zakres obowiązków, Telefoniczna sprzedaż usług i rozwiązań z zakresu digital marketingu oferowanych przez Grupę WeNet– nie musisz mieć doświadczenia w branży, dostaniesz pełne wsparcie na etapie wdrożenia!, Analiza potrzeb klientów i dobór...",
     "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-sprzedazy-uslug-marketingowych-krakow-wadowicka-6,oferta,1004725147"
   },
   {
+    "id": "1004725136",
     "title": "Ekspert / Ekspertka ds. Sprzedaży SEO & ADS",
     "salary": "6 000–8 000 zł / mies. (zal. od umowy)",
     "company": "WeNet sp. z o.o.",
     "location": "Kraków, Podgórze",
+    "description": "Twój zakres obowiązków, Telefoniczna sprzedaż usług SEO, kampanii Google Ads, stron i sklepów internetowych – oferujemy rozwiązania, które realnie wspierają biznes klientów., Praca na leadach i aktywnym portfolio klientów – będziesz kontaktować...",
     "url": "https://www.pracuj.pl/praca/ekspert-ekspertka-ds-sprzedazy-seo-ads-krakow-wadowicka-6,oferta,1004725136"
   },
   {
+    "id": "1004736601",
     "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
     "salary": "5 750–10 150 zł brutto / mies.",
     "company": "mFinanse S.A.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
     "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-krakow,oferta,1004736601"
   },
   {
+    "id": "1004748768",
     "title": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
     "salary": "5 400–7 000 zł / mies. (zal. od umowy)",
     "company": "Tutlo Sp. z o.o.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
     "url": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-krakow,oferta,1004748768"
   },
   {
+    "id": "1004751391",
     "title": "Magazynier / Magazynierka, Operator / Operatorka wózka widłowego (k/m)",
     "salary": "5 100–6 100 zł brutto / mies.",
     "company": "U Jędrusia",
     "location": "Morawica (pow. krakowski)",
+    "description": "Twój zakres obowiązków, Wykonywanie obowiązków magazynowych zgodnie z obowiązującymi procedurami (składowanie towaru, przygotowywanie zamówień, załadunki i rozładunki towarów, kompletacja)., Obsługa skanera., Prawidłowe wypełnianie dokumentów i...",
     "url": "https://www.pracuj.pl/praca/magazynier-magazynierka-operator-operatorka-wozka-widlowego-k-m-morawica-pow-krakowski-306,oferta,1004751391"
   },
   {
+    "id": "1004739701",
     "title": "Telefoniczna obsługa klienta Orange (bez doświadczenia)",
     "salary": "32,50–40 zł brutto / godz.",
     "company": "Armatis Polska Sp. Z o. o.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Kontakt telefoniczny z klientami Orange w związku z kończącą się umową lub koniecznością aktualizacji warunków obecnej oferty,, Przedstawienie korzyści produktu, wyjaśnianie wątpliwości klientów oraz pomoc w wyborze...",
     "url": "https://www.pracuj.pl/praca/telefoniczna-obsluga-klienta-orange-bez-doswiadczenia-krakow,oferta,1004739701"
   },
   {
+    "id": "1004742307",
     "title": "Cloud FinOps Programme Manager – Technology Infrastructure Optimization",
     "salary": "23 100–29 400 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Lead end-to-end management of technology infrastructure cost transformation programmes, from design and planning to successful delivery., Develop project scope, desired outcomes, plans, budgets, resource estimates,...",
     "url": "https://www.pracuj.pl/praca/cloud-finops-programme-manager-technology-infrastructure-optimization-krakow,oferta,1004742307"
   },
   {
+    "id": "1004724859",
     "title": "Mid-Level Business Data Analyst",
     "salary": "23 100–25 200 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Collaborate closely with the Product Owner to understand customer requests and define user requirements, Analyze large data sets to support decision-making, assessing project feasibility and impact, Utilize tools like Excel,...",
     "url": "https://www.pracuj.pl/praca/mid-level-business-data-analyst-krakow,oferta,1004724859"
   },
   {
+    "id": "1004754921",
     "title": "Pracownik / Pracowniczka Restauracji KFC Widoma S7 MOP West",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Poskwitów (pow. krakowski)",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-widoma-s7-mop-west-poskwitow-pow-krakowski,oferta,1004754921"
   },
   {
+    "id": "1004724858",
     "title": "Business Analyst – Cybersecurity Endpoint Protection",
     "salary": "23 100–27 300 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Gathering, clarifying, and documenting business and technical requirements related to endpoint protection and malware prevention capabilities., Assisting in translating security needs into detailed functional requirements,...",
     "url": "https://www.pracuj.pl/praca/business-analyst-cybersecurity-endpoint-protection-krakow,oferta,1004724858"
   },
   {
+    "id": "1004724851",
     "title": "Senior Network Visibility and Cybersecurity Requirements Analyst",
     "salary": "25 200–29 400 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Collaborate with control owners and stakeholders to elicit, define, and manage network visibility requirements aligned with the bank’s risk appetite., Support capability leads in maintaining comprehensive visibility of all...",
     "url": "https://www.pracuj.pl/praca/senior-network-visibility-and-cybersecurity-requirements-analyst-krakow,oferta,1004724851"
   },
   {
+    "id": "1004742287",
     "title": "Fullstack Engineer",
     "salary": "24 000–29 600 zł netto (+ VAT) / mies.",
     "company": "Mindbox Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Implement solutions following best design patterns and coding standards, Analyze requirements, recommend improvements, and create clear documentation, Lead UI changes and improvements to enhance UX and application stability,...",
     "url": "https://www.pracuj.pl/praca/fullstack-engineer-krakow,oferta,1004742287"
   },
   {
+    "id": "1004742285",
     "title": "Senior Fullstack Engineer – .NET and React Analytics Platform",
     "salary": "24 150–30 450 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Design and implement solutions following industry best practices and proven design patterns., Analyze requirements thoroughly to recommend improvements and ensure optimal architecture., Lead UI enhancements to boost user...",
     "url": "https://www.pracuj.pl/praca/senior-fullstack-engineer-net-and-react-analytics-platform-krakow,oferta,1004742285"
   },
   {
+    "id": "1004754891",
     "title": "Pracownik / Pracowniczka Restauracji KFC Opolska",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-opolska-krakow,oferta,1004754891"
   },
   {
+    "id": "1004742283",
     "title": "Senior Java React Tech Lead – Payments Platform",
     "salary": "25 200–29 400 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Building and maintaining services, microservices, and applications (both back-end and front-end) using Java 11/17/21, ReactJS, and related technologies., Migrating from mainframe and IBM WebSphere systems to modern...",
     "url": "https://www.pracuj.pl/praca/senior-java-react-tech-lead-payments-platform-krakow,oferta,1004742283"
   },
   {
+    "id": "1004742279",
     "title": "Senior Threat and Controls Assessment Analyst – Cybersecurity",
     "salary": "18 900–25 200 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Perform comprehensive threat and control assessments of bank's internal, external, and cloud services., Collaborate with Developers, Architects, and technical leads to understand service architecture and identify control...",
     "url": "https://www.pracuj.pl/praca/senior-threat-and-controls-assessment-analyst-cybersecurity-krakow,oferta,1004742279"
   },
   {
+    "id": "1004715809",
     "title": "Specjalista / Specjalistka ds. obsługi klienta",
     "salary": "5 000–8 000 zł / mies. (zal. od umowy)",
     "company": "MATURALNI sp. z o.o.",
     "location": "Kraków, Łagiewniki-Borek Fałęcki",
+    "description": "Twój zakres obowiązków, 💙 Zapewnienie najwyższego standardu obsługi - realizacja działań zgodnie z wartościami firmy, gdzie każda odpowiedź buduje profesjonalny wizerunek marki., 💙 Budowanie trwałych relacji z użytkownikami - aktywne wspieranie...",
     "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-krakow-narcyzy-zmichowskiej-18,oferta,1004715809"
   },
   {
+    "id": "1004742274",
     "title": "Mid-Level Java & React Microservices Engineer – Payments Platform",
     "salary": "23 100–27 300 zł / mies. (zal. od umowy)",
     "company": "ITDS Polska Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Building and supporting microservices and applications (both front-end and back-end) using Java 11/17/21 and ReactJS, ensuring high-quality standards and reliability., Migrating from mainframe systems and IBM WebSphere to...",
     "url": "https://www.pracuj.pl/praca/mid-level-java-react-microservices-engineer-payments-platform-krakow,oferta,1004742274"
   },
   {
+    "id": "1004754879",
     "title": "DevOps & Python Backend Engineer",
     "salary": "26 000–39 000 zł netto (+ VAT) / godz.",
     "company": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "location": "Kraków",
+    "description": "Your responsibilities, Design, implement, and maintain infrastructure in Google Cloud Platform, including Cloud Run, Cloud Build, Artifact Registry, Secret Manager, VPC, IAM, and Workload Identity, Manage infrastructure as code using Terraform for...",
     "url": "https://www.pracuj.pl/praca/devops-python-backend-engineer-krakow,oferta,1004754879"
   },
   {
+    "id": "1004754875",
     "title": "Key Account Manager (izolacje techniczne)",
     "salary": "15 000 zł brutto / mies.",
     "company": "SALES HR",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Sprzedaż przez dystrybutorów branżowych lub przez segment OEM, Praca na inwestycjach: spotkania z GW, inwestorami, projektantami, biurami projektowymi lub przez producentów urządzeń, Wpisywanie produktów do dokumentacji...",
     "url": "https://www.pracuj.pl/praca/key-account-manager-izolacje-techniczne-krakow,oferta,1004754875"
   },
   {
+    "id": "1004724824",
     "title": "Full-Stack Developer (Java, Angular)",
     "salary": "21 000–24 000 zł brutto / mies.",
     "company": "Motife Sp. z o.o.",
     "location": "Kraków",
+    "description": "Your responsibilities, Design, develop, and test complex application components across backend and frontend layers., Implement high-quality, maintainable code following best engineering practices., Develop and maintain integrations using REST/SOAP...",
     "url": "https://www.pracuj.pl/praca/full-stack-developer-java-angular-krakow,oferta,1004724824"
   },
   {
+    "id": "1004754845",
     "title": "Pracownik / Pracowniczka Restauracji KFC Futura",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-futura-krakow,oferta,1004754845"
   },
   {
+    "id": "1004754835",
     "title": "Pracownik / Pracowniczka Restauracji KFC Modlnica",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-modlnica-krakow,oferta,1004754835"
   },
   {
+    "id": "1004754834",
     "title": "Pracownik / Pracowniczka Restauracji KFC Węzeł Mirowski",
     "salary": "31–32 zł brutto / godz.",
     "company": "AmRest Sp. z o.o. - KFC",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
     "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-wezel-mirowski-krakow,oferta,1004754834"
   },
   {
+    "id": "1004754792",
     "title": "Head of Cloud and Container Device Protection",
     "salary": "23 300–34 500 zł brutto / mies.",
     "company": "HSBC Service Delivery (Polska) Sp. z o.o.",
     "location": "Kraków, Dębniki",
+    "description": "Your responsibilities, Manage relationships with key stakeholders with in the relevant Cloud Service Provider Teams within HSBC., Review Coverage and Compliance across the Cloud Environments and Escalating as required., Collaborate with other...",
     "url": "https://www.pracuj.pl/praca/head-of-cloud-and-container-device-protection-krakow-kapelanka-42a,oferta,1004754792"
   },
   {
+    "id": "1004754789",
     "title": "Młodszy Przedstawiciel Handlowy - Młodszy Inżynier Sprzedaży - Junior Key Account Manager with English (fresh graduates)",
     "salary": "10 000–12 000 zł brutto / mies.",
     "company": "Recruit Europe Sp.zo.o.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Budowanie i realizacja strategii sprzedaży produktu na obsługiwanych rynkach;, Kreowanie długofalowych relacji z nowymi i obecnymi klientami;, Kompleksowe przygotowywanie ofert handlowych;, Reprezentowanie firmy w...",
     "url": "https://www.pracuj.pl/praca/mlodszy-przedstawiciel-handlowy-mlodszy-inzynier-sprzedazy-junior-key-account-ma-krakow,oferta,1004754789"
   },
   {
+    "id": "1004727805",
     "title": "Asystent / Asystentka - Recepcjonista / Recepcjonistka",
     "salary": "4 900–5 500 zł brutto / mies.",
     "company": "AUTO KRAK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "location": "Kraków, Prądnik Biały",
+    "description": "Twój zakres obowiązków, Obsługa recepcji salonu: przyjmowanie gości, odbieranie telefonów, udzielanie podstawowych informacji, Prowadzenie i archiwizacja dokumentacji salonu (umowy, protokoły, korespondencja, dokumenty sprzedażowe), Rejestracja i...",
     "url": "https://www.pracuj.pl/praca/asystent-asystentka-recepcjonista-recepcjonistka-krakow-walerego-eljasza-radzikowskiego-160,oferta,1004727805"
   },
   {
+    "id": "1004754664",
     "title": "Specjalista ds. Certyfikacji / Specjalistka ds. Certyfikacji / Starszy Specjalista ds. Certyfikacji / Starsza Specjalistka ds. Certyfikacji",
     "salary": "6 000–8 500 zł brutto / mies.",
     "company": "Instytut Nafty i Gazu - Państwowy Instytut Badawczy",
     "location": "Kraków, Grzegórzki",
+    "description": "Twój zakres obowiązków, prowadzenie ocen zgodności (certyfikacji) wyrobów będących w zakresie działalności Biura Certyfikacji - gazomierze i przeliczniki objętości gazu, dodatkowo urządzenia ciśnieniowe, wyroby budowlane do budowy sieci i...",
     "url": "https://www.pracuj.pl/praca/specjalista-ds-certyfikacji-specjalistka-ds-certyfikacji-starszy-specjalista-ds-krakow-lubicz-25a,oferta,1004754664"
   },
   {
+    "id": "1004739552",
     "title": "Dyrektor / Dyrektorka Sprzedaży",
     "salary": "20 000–25 000 zł netto (+ VAT) / mies.",
     "company": "HireWise Szymon Negacz sp.k.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Zarządzanie i rozwój 15 osobowego zespołu sprzedaży (teren, biuro, e-commerce B2B), Budowę i standaryzację procesów sprzedażowych oraz wdrożenie KPI i docelowo systemu CRM, Rozwój kanału e-commerce B2B jako samodzielnego i...",
     "url": "https://www.pracuj.pl/praca/dyrektor-dyrektorka-sprzedazy-krakow,oferta,1004739552"
   },
   {
+    "id": "1004742476",
     "title": "Sprzedawca – lada tradycyjna (m/k)",
     "salary": "2 655–2 905 zł brutto / mies.",
     "company": "Biedronka (Jeronimo Martins Polska S.A.)",
     "location": "Wiśniowa (pow. myślenicki)",
+    "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca (Lada Tradycyjna) / Sprzedawczyni (Lada Tradycyjna)., Obsługa klienta na ladzie tradycyjnej, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
     "url": "https://www.pracuj.pl/praca/sprzedawca-lada-tradycyjna-m-k-wisniowa-pow-myslenicki-749,oferta,1004742476"
   },
   {
+    "id": "1004754602",
     "title": "Automation Intern",
     "salary": "31,40–35 zł brutto / godz.",
     "company": "GGS IT Consulting",
     "location": "Kraków, Grzegórzki",
+    "description": "Your responsibilities, Be a part of the Team and work together with developers and different Clients in an agile software-development environment;, Work in one of the following areas: Oracle, Apex, Power Platform, or Robotic Process Automation...",
     "url": "https://www.pracuj.pl/praca/automation-intern-krakow-cystersow-13a,oferta,1004754602"
   },
   {
+    "id": "1004754600",
     "title": "Support Specialist with SQL",
     "salary": "8 000–12 000 zł / mies. (zal. od umowy)",
     "company": "GGS IT Consulting",
     "location": "Kraków, Grzegórzki",
+    "description": "Your responsibilities, Resolve technical queries and communicate solutions to clients on a daily basis via various tools, Manage and work with the queues and case tracking system to effectively triage and resolve complex client application issues,...",
     "url": "https://www.pracuj.pl/praca/support-specialist-with-sql-krakow-cystersow-13,oferta,1004754600"
   },
   {
+    "id": "1004754596",
     "title": "Automation Support Specialist",
     "salary": "8 000–12 000 zł / mies. (zal. od umowy)",
     "company": "GGS IT Consulting",
     "location": "Kraków, Grzegórzki",
+    "description": "Your responsibilities, Provide hands-on technical support for automation platforms including UiPath, Oracle APEX, Microsoft Power Automate, and workflow orchestration., Manage and resolve technical inquiries via ticketing and communication...",
     "url": "https://www.pracuj.pl/praca/automation-support-specialist-krakow-cystersow-13a,oferta,1004754596"
   },
   {
+    "id": "1004739495",
     "title": "Doradca Techniczno Handlowy (k/m)",
     "salary": "6 000–14 000 zł / mies. (zal. od umowy)",
     "company": "Sabaj System Sp. z o.o.",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Wsparcie i szkolenie klientów w zakresie produktów firmy, Konsultowanie wycen , nadzór nad sporządzonymi ofertami, uzyskiwanie feedbacku od klientów odnośnie produktów, Śledzenie rynku i konkurencji w zakresie nowych...",
     "url": "https://www.pracuj.pl/praca/doradca-techniczno-handlowy-k-m-krakow,oferta,1004739495"
   },
   {
+    "id": "1004715559",
     "title": "Manager Financial Crime Analysis",
     "salary": "16 565–24 840 zł brutto / mies.",
     "company": "HSBC Service Delivery (Polska) Sp. z o.o.",
     "location": "Kraków, Dębniki",
+    "description": "Your responsibilities, Assess and articulate potential financial crime risks to HSBC from existing and emerging threats, actors, and typologies across all financial crime types (e.g., fraud, money laundering, sanctions and export control evasion,...",
     "url": "https://www.pracuj.pl/praca/manager-financial-crime-analysis-krakow-kapelanka-42a,oferta,1004715559"
   },
   {
+    "id": "1004724653",
     "title": "Kelner / Kelnerka",
     "salary": "31,40–35 zł brutto / godz.",
     "company": "RESTAURACJA GRANDA",
     "location": "Myślenice",
+    "description": "Twój zakres obowiązków, Przyjmowanie zamówień od gości i przekazywanie ich do kuchni  , Serwowanie potraw i napojów do stolików  , Doradzanie gościom przy wyborze dań i napojów  , Utrzymywanie porządku na sali konsumpcyjnej i dbanie o nakrycia  ,...",
     "url": "https://www.pracuj.pl/praca/kelner-kelnerka-myslenice-kasprowicza-13a,oferta,1004724653"
   },
   {
+    "id": "1004724627",
     "title": "Administrator / Administratorka sieci komputerowej",
     "salary": "10 000–16 000 zł brutto / mies.",
     "company": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
     "location": "Kraków, Krowodrza",
+    "description": "Twój zakres obowiązków, Utrzymanie i rozwój sieci LAN/WAN/Wi-Fi w środowisku on-prem oraz między lokalizacjami (multi-site),, Projektowanie i wdrażanie zmian: VLAN, adresacja IP, routing, redundancja, segmentacja,, Konfiguracja i utrzymanie...",
     "url": "https://www.pracuj.pl/praca/administrator-administratorka-sieci-komputerowej-krakow-kawiory-21,oferta,1004724627"
   },
   {
+    "id": "1004724609",
     "title": "DevOps",
     "salary": "12 000–18 000 zł brutto / mies.",
     "company": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
     "location": "Kraków, Krowodrza",
+    "description": "Twój zakres obowiązków, Administrowanie usługami opartymi na systemie Linux,, Opracowywanie i utrzymywanie konfiguracji wdrożeniowych systemów informatycznych,, Przygotowywanie i wdrażanie serwisów i stron internetowych z uwzględnieniem...",
     "url": "https://www.pracuj.pl/praca/devops-krakow-kawiory-21,oferta,1004724609"
   },
   {
+    "id": "1004724607",
     "title": "Administrator / Administratorka IT",
     "salary": "9 000–15 000 zł brutto / mies.",
     "company": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie",
     "location": "Kraków, Krowodrza",
+    "description": "Twój zakres obowiązków, Administrowanie usługami w 95% opartych na systemie Linux, Współpraca we wdrożeniach nowych systemów, Tworzenie koncepcji i nowych rozwiązań, dla wyzwań które stawiają przed nami m.in. deweloperzy, Tworzenie dokumentacji,...",
     "url": "https://www.pracuj.pl/praca/administrator-administratorka-it-krakow-kawiory-21,oferta,1004724607"
   },
   {
+    "id": "1004754545",
     "title": "Inżynier wsparcia technicznego – Zuken E3.series (m/k)",
     "salary": "10 000–13 000 zł brutto / mies.",
     "company": "ZUKEN E3 GMBH sp. z o.o. ODDZIAŁ W POLSCE",
     "location": "Kraków",
+    "description": "Twój zakres obowiązków, Prezentacja rozwiązań firmy w zakresie oprogramowania w formie prezentacji oraz demonstracji dla Klienta, Wsparcie techniczne oraz merytoryczne Klientów przy wdrażaniu oprogramowania, Prowadzenie ustaleń technicznych oraz...",
     "url": "https://www.pracuj.pl/praca/inzynier-wsparcia-technicznego-zuken-e3-series-m-k-krakow,oferta,1004754545"
   }
 ];
