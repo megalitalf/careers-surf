@@ -38,10 +38,11 @@
       <div id="menu-tagline">Real jobs. Chase the trucks.</div>
 
       <div id="menu-city-wrap">
-        <label for="menu-city-input">City</label>
-        <div id="menu-city-box">
-          <input id="menu-city-input" type="text" placeholder="All cities" autocomplete="off" spellcheck="false"/>
-          <div id="menu-city-dropdown"></div>
+        <label>City</label>
+        <div id="menu-city-pills">
+          <button class="city-pill" data-city="warsaw"  data-label="Warsaw">Warsaw</button>
+          <button class="city-pill" data-city="szczecin" data-label="Szczecin">Szczecin</button>
+          <button class="city-pill" data-city="krakow"  data-label="Kraków">Kraków</button>
         </div>
       </div>
 
@@ -142,6 +143,9 @@
 
   <script>
     window._loadStart = Date.now();
+    // S3 base URLs — used by game.js for city job files
+    window._S3_BASE    = "https://careers-surf-data.s3.eu-north-1.amazonaws.com";
+    window._S3_CITIES  = window._S3_BASE + "/cities";
     // Fix for mobile browsers where 100vh includes hidden nav bar area (old Android, etc.)
     function setVh() {
       document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');

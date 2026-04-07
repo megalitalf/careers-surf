@@ -10,6 +10,8 @@
     "scrape:local": "node scrape_jobs.js --pages 3",
     "scrape:local:city": "node scrape_jobs.js --pages 3 --city",
     "upload": "S3_BUCKET=careers-surf-data node upload_jobs.js",
+    "upload:cities": "S3_BUCKET=careers-surf-data node upload_cities.js",
+    "upload:city": "S3_BUCKET=careers-surf-data node upload_cities.js --city",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
