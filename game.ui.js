@@ -161,6 +161,8 @@ function salaryDollarIcons(salaryAvg, median) {
 function updateFuelHud() {
     var el = Dom.get('fuel_drops_value');
     if (el) el.textContent = fuelDrops;
+    var rel = Dom.get('results-fuel');
+    if (rel) rel.textContent = '⛽ ' + fuelDrops;
 }
 
 function showCarPopup(listing) {
@@ -233,12 +235,21 @@ function showResults() {
     var isLast = (currentLap + 1) >= totalBatches;
 
     var mapName = (typeof MAPS !== 'undefined') ? MAPS[currentMapIndex % MAPS.length].name : '';
-    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches + (mapName ? ' · ' + mapName : '') + '  ·  ⛽ ' + fuelDrops;
+    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches + (mapName ? ' · ' + mapName : '');
+    updateFuelHud();
 
     var list = Dom.get('results-list');
     list.innerHTML = '';
     console.log('[results] batch:', batch.length, 'seen:', [...seenListings], 'clicked:', [...clickedListings]);
     var resultsMedian = calcMedianSalary(SEMI_LISTINGS);
+    var allRevealBtns = []; // track all reveal buttons to sync disabled state after each spend
+
+    function syncRevealBtns() {
+        for (var ri = 0; ri < allRevealBtns.length; ri++) {
+            allRevealBtns[ri].disabled = fuelDrops < 1;
+        }
+    }
+
     for (var i = 0; i < batch.length; i++) {
         var job = batch[i];
         var jobKey  = job && job.id;
@@ -263,6 +274,7 @@ function showResults() {
             revealBtn.className = 'results-reveal-btn';
             revealBtn.textContent = '⛽ 1  Reveal';
             revealBtn.disabled = fuelDrops < 1;
+            allRevealBtns.push(revealBtn);
 
             row.appendChild(compactSalary);
             row.appendChild(revealBtn);
@@ -274,6 +286,10 @@ function showResults() {
                         if (fuelDrops < 1) return;
                         fuelDrops--;
                         updateFuelHud();
+                        // Remove this button from the tracked list (it's gone after rebuild)
+                        var idx = allRevealBtns.indexOf(rBtn);
+                        if (idx >= 0) allRevealBtns.splice(idx, 1);
+                        syncRevealBtns();
                         // Rebuild row as full detail
                         r.className = 'results-row results-opened';
                         r.innerHTML = '';
@@ -312,6 +328,7 @@ function showResults() {
                             if (j.id) clickedListings.add(j.id);
                             fuelDrops++;
                             updateFuelHud();
+                            syncRevealBtns();
                             window.open(j.url, '_blank');
                             r.classList.remove('results-opened');
                             r.classList.add('results-clicked');
@@ -371,6 +388,7 @@ function showResults() {
                         if (j.id) clickedListings.add(j.id);
                         fuelDrops++;
                         updateFuelHud();
+                        syncRevealBtns();
                         window.open(j.url, '_blank');
                         r.classList.remove('results-opened');
                         r.classList.add('results-clicked');
