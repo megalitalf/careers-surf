@@ -231,6 +231,81 @@ function extractListings() {
   return results;
 }
 
+// ── Parse salary string → average monthly PLN (integer) or null ──────────────
+// Handles formats like:
+//   "5 000–7 000 zł brutto / mies."
+//   "31,40–45 zł brutto / godz."
+//   "4 806 zł brutto / mies."
+// Numbers use Polish spacing (thousands) and comma decimal separator.
+//
+// Hourly vs monthly is determined by value magnitude (more reliable than keywords):
+//   avg < 1 000  → definitely hourly  → multiply by 160 (40h × 4 weeks)
+//   avg > 4 000  → definitely monthly → use as-is
+//   in between   → fall back to keyword hint (godz / mies)
+function parseSalary(salary) {
+  if (!salary) return null;
+
+  // Isolate the numeric range portion (everything before "zł")
+  const numericPart = salary.split("zł")[0];
+
+  // Split range on en-dash (–) or hyphen to get lo and hi values
+  const parts = numericPart.split(/[–-]/).map(s => s.trim()).filter(Boolean);
+
+  // Parse a Polish-formatted number: "5 000" → 5000, "31,40" → 31.40
+  const parseNum = (s) => {
+    const n = s.replace(/\s/g, "").replace(",", ".");
+    const v = parseFloat(n);
+    return isNaN(v) ? null : v;
+  };
+
+  const nums = parts.map(parseNum).filter(v => v !== null && v > 0);
+  if (nums.length === 0) return null;
+
+  const lo  = nums[0];
+  const hi  = nums.length > 1 ? nums[1] : nums[0];
+  const avg = (lo + hi) / 2;
+
+  // Magnitude-first detection; keyword as tiebreaker in ambiguous 1k–4k range
+  let isHourly;
+  if (avg < 1000)      isHourly = true;
+  else if (avg > 4000) isHourly = false;
+  else                 isHourly = salary.includes("godz");
+
+  // Convert hourly → monthly  (40 h/week × 4 weeks = 160 h/month)
+  const monthly = isHourly ? avg * 160 : avg;
+
+  return Math.round(monthly);
+}
+
+// ── Classify positionLevels into one of three tiers ─────────────────────────
+// Returns: "manager" | "specialist" | "worker" | null
+function classifyPositionLevel(positionLevels) {
+  if (!positionLevels || positionLevels.length === 0) return null;
+
+  // Highest-priority label wins when a listing spans multiple levels
+  for (const level of positionLevels) {
+    const l = level.toLowerCase();
+    if (
+      l.includes("dyrektor")   ||
+      l.includes("menedżer")   ||
+      l.includes("kierownik")  ||
+      l.includes("koordynator")
+    ) return "manager";
+  }
+  for (const level of positionLevels) {
+    const l = level.toLowerCase();
+    if (
+      l.includes("specjalista") ||
+      l.includes("ekspert")     ||
+      l.includes("junior")      ||
+      l.includes("senior")      ||
+      l.includes("mid")
+    ) return "specialist";
+  }
+  // worker: pracownik fizyczny, asystent, praktykant/stażysta, or unknown
+  return "worker";
+}
+
 // ── Helpers ───────────────────────────────────────────────────────────────────
 function toSlug(name) {
   return name
@@ -407,10 +482,12 @@ async function main() {
         id:          l.id          || null,
         title:       l.title,
         salary:      l.salary      || null,
+        salaryAvg:   parseSalary(l.salary),
         company:     l.company     || null,
         location:    l.location    || (l.isWholePoland ? "Ca\u0142a Polska" : null),
         description: l.description || null,
         url:         l.url,
+        jobLevel:    classifyPositionLevel(l.positionLevels),
       }));
 
     // JSON (slim schema — same fields as .js)
@@ -437,10 +514,12 @@ async function main() {
         id:          l.id          || null,
         title:       l.title,
         salary:      l.salary      || null,
+        salaryAvg:   parseSalary(l.salary),
         company:     l.company     || null,
         location:    l.location    || (l.isWholePoland ? "Cała Polska" : null),
         description: l.description || null,
         url:         l.url,
+        jobLevel:    classifyPositionLevel(l.positionLevels),
       }));
 
     // JSON (slim schema — same fields as .js)

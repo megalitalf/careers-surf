@@ -26,7 +26,10 @@ function resetCars() {
         var zFraction = (si / numSemis) + (Math.random() * 0.04);
         z      = Math.floor(zFraction * segments.length) * segmentLength;
         offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
-        sprite = Util.randomChoice(SPRITES.SEMIS);
+        var jobLevel = lapListings[si] && lapListings[si].jobLevel;
+        sprite = jobLevel === 'manager'    ? SPRITES.SEMI03
+               : jobLevel === 'specialist' ? SPRITES.SEMI02
+               :                            SPRITES.SEMI01;  // worker (default)
         speed  = maxSpeed / 4 + Math.random() * maxSpeed / 4;
         car    = { offset: offset, z: z, sprite: sprite, speed: speed, listing: lapListings[si] };
         segment = findSegment(car.z);
