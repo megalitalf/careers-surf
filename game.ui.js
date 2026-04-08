@@ -186,7 +186,8 @@ function showResults() {
     var totalBatches = Math.ceil((SEMI_LISTINGS.length || 1) / JOBS_PER_LAP);
     var isLast = (currentLap + 1) >= totalBatches;
 
-    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches;
+    var mapName = (typeof MAPS !== 'undefined') ? MAPS[currentMapIndex % MAPS.length].name : '';
+    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches + (mapName ? ' · ' + mapName : '');
 
     var list = Dom.get('results-list');
     list.innerHTML = '';
@@ -276,9 +277,12 @@ function nextConvoy() {
         setTimeout(function() { el.style.display = 'none'; }, 400);
     }
     currentLap++;
+    currentMapIndex = currentLap % MAPS.length;  // advance map
     lapJobOffset = (currentLap * JOBS_PER_LAP) % (SEMI_LISTINGS.length || 1);
     menuActive   = false;
-    resetCars();
+    // Rebuild road for the new map (force by clearing segments)
+    segments = [];
+    reset();
 }
 
 // ── Tweak UI ──────────────────────────────────────────────────────────────────
