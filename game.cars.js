@@ -31,6 +31,16 @@ function resetCars() {
                : jobLevel === 'specialist' ? SPRITES.SEMI02
                :                            SPRITES.SEMI01;  // worker (default)
         speed  = maxSpeed / 4 + Math.random() * maxSpeed / 4;
+
+        // Guarantee player can catch this truck before the finish line.
+        // At near-maxSpeed the player crosses finish in trackLength/maxSpeed seconds.
+        // A truck at position z with its speed crosses finish in (trackLength-z)/speed seconds.
+        // We need the truck to finish NO EARLIER than the player, so:
+        //   z <= trackLength * (1 - speed/maxSpeed)
+        // Apply a small safety margin (0.9) so the truck is visibly ahead, not right at the line.
+        var zMax = trackLength * (1 - speed / maxSpeed) * 0.9;
+        if (z > zMax) z = zMax;
+
         car    = { offset: offset, z: z, sprite: sprite, speed: speed, listing: lapListings[si] };
         segment = findSegment(car.z);
         segment.cars.push(car);
