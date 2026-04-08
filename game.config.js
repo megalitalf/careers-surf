@@ -86,6 +86,9 @@ var followTimer   = 0;               // seconds spent tailing followedSemi
 var FOLLOW_DELAY  = 2.0;             // seconds before popup auto-opens
 var dismissedSemi = null;            // truck whose banner the user last closed — won't re-show until player leaves and re-enters its zone
 
+// ── Fuel drops (credits) ─────────────────────────────────────────────────────
+var fuelDrops = 0;                   // earned by seeing jobs (+1 each), spent by applying (-1 each)
+
 // ── Input state ───────────────────────────────────────────────────────────────
 var keyLeft    = false;
 var keyRight   = false;

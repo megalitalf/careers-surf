@@ -158,11 +158,21 @@ function salaryDollarIcons(salaryAvg, median) {
     return '';
 }
 
+function updateFuelHud() {
+    var el = Dom.get('fuel_drops_value');
+    if (el) el.textContent = fuelDrops;
+}
+
 function showCarPopup(listing) {
     if (!listing) return;
+    // Earn a fuel drop the first time this listing is seen
+    if (listing.id && !seenListings.has(listing.id)) {
+        fuelDrops++;
+        updateFuelHud();
+    }
     // Mark as seen
     if (listing.id) seenListings.add(listing.id);
-    
+
     console.log(' >>> seenListings listing:', seenListings);
 
     Dom.get('car_popup_title').innerHTML   = listing.title   || '';
@@ -191,9 +201,17 @@ function showCarPopup(listing) {
     // Dev info: seen badge
     var seenBadge = Dom.get('car_popup_seen');
     if (seenBadge) seenBadge.style.display = (listing.id && seenListings.has(listing.id)) ? 'inline-flex' : 'none';
-    Dom.get('car_popup_buy').onclick = function () {
+    var buyBtn = Dom.get('car_popup_buy');
+    var alreadyApplied = listing.id && clickedListings.has(listing.id);
+    buyBtn.disabled = false;
+    buyBtn.onclick = function () {
+        if (!alreadyApplied) {
+            fuelDrops++;
+            updateFuelHud();
+        }
         if (listing.id) clickedListings.add(listing.id);
         window.open(listing.url, '_blank');
+        alreadyApplied = true;
     };
     Dom.get('car_popup').style.display = 'flex';
 }
@@ -215,73 +233,155 @@ function showResults() {
     var isLast = (currentLap + 1) >= totalBatches;
 
     var mapName = (typeof MAPS !== 'undefined') ? MAPS[currentMapIndex % MAPS.length].name : '';
-    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches + (mapName ? ' · ' + mapName : '');
+    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches + (mapName ? ' · ' + mapName : '') + '  ·  ⛽ ' + fuelDrops;
 
     var list = Dom.get('results-list');
     list.innerHTML = '';
     console.log('[results] batch:', batch.length, 'seen:', [...seenListings], 'clicked:', [...clickedListings]);
+    var resultsMedian = calcMedianSalary(SEMI_LISTINGS);
     for (var i = 0; i < batch.length; i++) {
         var job = batch[i];
         var jobKey  = job && job.id;
         var clicked = jobKey && clickedListings.has(job.id);
+        var seen    = jobKey && seenListings.has(job.id);
+        var engaged = clicked || seen;
 
         var row = document.createElement('div');
-        row.className = 'results-row' + (clicked ? ' results-clicked' : '');
-
-        var title = document.createElement('div');
-        title.className = 'results-job-title';
-        title.textContent = (job && job.title) ? job.title : '—';
-
-        var co = document.createElement('div');
-        co.className = 'results-job-co';
-        co.textContent = (job && job.company) ? job.company : '';
-
-        var info = document.createElement('div');
-        info.className = 'results-job-info';
-
-        var salary = document.createElement('span');
-        salary.className = 'results-salary';
-        var resultsMedian = calcMedianSalary(SEMI_LISTINGS);
         var salaryIcons = (job && job.salaryAvg) ? salaryDollarIcons(job.salaryAvg, resultsMedian) : '';
-        salary.innerHTML = ((job && job.salary) ? job.salary : '') + (salaryIcons ? '<span class="salary-icons">' + salaryIcons + '</span>' : '');
 
-        var badges = document.createElement('span');
-        badges.className = 'results-badges';
-        var seen = jobKey && seenListings.has(job.id);
-        if (clicked) {
-            var b = document.createElement('span');
-            b.className = 'badge badge-clicked';
-            b.textContent = '✓ Applied';
-            badges.appendChild(b);
-        } else if (seen) {
-            var b = document.createElement('span');
-            b.className = 'badge badge-opened';
-            b.textContent = '👁 Seen';
-            badges.appendChild(b);
-        }
+        if (!engaged) {
+            // ── Compact row for unseen jobs — can spend 1 fuel to reveal ──
+            row.className = 'results-row results-row-unseen';
 
-        info.appendChild(salary);
-        info.appendChild(badges);
-        row.appendChild(title);
-        row.appendChild(co);
-        row.appendChild(info);
+            var compactSalary = document.createElement('span');
+            compactSalary.className = 'results-salary results-salary-unseen';
+            compactSalary.innerHTML = (job && job.salaryAvg)
+                ? job.salaryAvg.toLocaleString() + ' zł avg' + (salaryIcons ? '<span class="salary-icons">' + salaryIcons + '</span>' : '')
+                : '—';
 
-        // Clicking a row opens the job URL
-        if (job && job.url) {
-            (function(j) {
-                row.style.cursor = 'pointer';
-                row.addEventListener('click', function() {
-                    if (j.id) clickedListings.add(j.id);
-                    window.open(j.url, '_blank');
-                    row.classList.remove('results-opened');
-                    row.classList.add('results-clicked');
-                    badges.innerHTML = '';
-                    var b2 = document.createElement('span');
-                    b2.className = 'badge badge-clicked';
-                    b2.textContent = '✓ Applied';
-                    badges.appendChild(b2);
-                });
-            })(job);
+            var revealBtn = document.createElement('button');
+            revealBtn.className = 'results-reveal-btn';
+            revealBtn.textContent = '⛽ 1  Reveal';
+            revealBtn.disabled = fuelDrops < 1;
+
+            row.appendChild(compactSalary);
+            row.appendChild(revealBtn);
+
+            if (job) {
+                (function(j, r, rBtn, icons) {
+                    rBtn.addEventListener('click', function(e) {
+                        e.stopPropagation();
+                        if (fuelDrops < 1) return;
+                        fuelDrops--;
+                        updateFuelHud();
+                        // Rebuild row as full detail
+                        r.className = 'results-row results-opened';
+                        r.innerHTML = '';
+
+                        var t = document.createElement('div');
+                        t.className = 'results-job-title';
+                        t.textContent = j.title || '—';
+
+                        var c = document.createElement('div');
+                        c.className = 'results-job-co';
+                        c.textContent = j.company || '';
+
+                        var inf = document.createElement('div');
+                        inf.className = 'results-job-info';
+
+                        var sal = document.createElement('span');
+                        sal.className = 'results-salary';
+                        sal.innerHTML = (j.salary || '') + (icons ? '<span class="salary-icons">' + icons + '</span>' : '');
+
+                        var bdg = document.createElement('span');
+                        bdg.className = 'results-badges';
+                        var bv = document.createElement('span');
+                        bv.className = 'badge badge-opened';
+                        bv.textContent = '👁 Seen';
+                        bdg.appendChild(bv);
+
+                        inf.appendChild(sal);
+                        inf.appendChild(bdg);
+                        r.appendChild(t);
+                        r.appendChild(c);
+                        r.appendChild(inf);
+
+                        // Now clickable to apply
+                        r.style.cursor = 'pointer';
+                        r.addEventListener('click', function() {
+                            if (j.id) clickedListings.add(j.id);
+                            fuelDrops++;
+                            updateFuelHud();
+                            window.open(j.url, '_blank');
+                            r.classList.remove('results-opened');
+                            r.classList.add('results-clicked');
+                            bdg.innerHTML = '';
+                            var b2 = document.createElement('span');
+                            b2.className = 'badge badge-clicked';
+                            b2.textContent = '✓ Applied';
+                            bdg.appendChild(b2);
+                        });
+                    });
+                })(job, row, revealBtn, salaryIcons);
+            }
+        } else {
+            // ── Full row for seen / applied jobs ──
+            row.className = 'results-row' + (clicked ? ' results-clicked' : ' results-opened');
+
+            var title = document.createElement('div');
+            title.className = 'results-job-title';
+            title.textContent = (job && job.title) ? job.title : '—';
+
+            var co = document.createElement('div');
+            co.className = 'results-job-co';
+            co.textContent = (job && job.company) ? job.company : '';
+
+            var info = document.createElement('div');
+            info.className = 'results-job-info';
+
+            var salary = document.createElement('span');
+            salary.className = 'results-salary';
+            salary.innerHTML = ((job && job.salary) ? job.salary : '') + (salaryIcons ? '<span class="salary-icons">' + salaryIcons + '</span>' : '');
+
+            var badges = document.createElement('span');
+            badges.className = 'results-badges';
+            if (clicked) {
+                var b = document.createElement('span');
+                b.className = 'badge badge-clicked';
+                b.textContent = '✓ Applied';
+                badges.appendChild(b);
+            } else {
+                var b = document.createElement('span');
+                b.className = 'badge badge-opened';
+                b.textContent = '👁 Seen';
+                badges.appendChild(b);
+            }
+
+            info.appendChild(salary);
+            info.appendChild(badges);
+            row.appendChild(title);
+            row.appendChild(co);
+            row.appendChild(info);
+
+            // Clicking a full row opens the job URL
+            if (job && job.url) {
+                (function(j, r, bdg) {
+                    r.style.cursor = 'pointer';
+                    r.addEventListener('click', function() {
+                        if (j.id) clickedListings.add(j.id);
+                        fuelDrops++;
+                        updateFuelHud();
+                        window.open(j.url, '_blank');
+                        r.classList.remove('results-opened');
+                        r.classList.add('results-clicked');
+                        bdg.innerHTML = '';
+                        var b2 = document.createElement('span');
+                        b2.className = 'badge badge-clicked';
+                        b2.textContent = '✓ Applied';
+                        bdg.appendChild(b2);
+                    });
+                })(job, row, badges);
+            }
         }
 
         list.appendChild(row);

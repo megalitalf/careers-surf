@@ -34,6 +34,8 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 #hud-menu-btn:hover    { opacity: 1; }
 #hud #player_uuid      { float: left; font-size: 0.85em; opacity: 0.75; cursor: default; }
 #hud #player_uuid:hover { opacity: 1; }
+#hud #fuel_drops       { float: left; }
+#hud #fuel_drops_value { color: #00cfff; }
 #hud #current_lap_time { float: left;  }
 #hud #last_lap_time    { float: left; display: none;  }
 #hud #fast_lap_time    { display: block; width: 12em;  margin: 0 auto; text-align: center; transition-property: background-color; transition-duration: 2s; -webkit-transition-property: background-color; -webkit-transition-duration: 2s; }
@@ -327,6 +329,28 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     font-weight: bold;
 }
 #car_popup_buy:hover { background: #c73652; }
+.results-row-unseen {
+    justify-content: space-between;
+}
+.results-reveal-btn {
+    flex-shrink: 0;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.18);
+    border-radius: 5px;
+    color: #72d7ee;
+    font-size: 0.75em;
+    font-weight: bold;
+    padding: 3px 10px;
+    cursor: pointer;
+    transition: background 0.15s, opacity 0.15s;
+}
+.results-reveal-btn:hover:not(:disabled) {
+    background: rgba(114,215,238,0.18);
+}
+.results-reveal-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+}
 #car_popup_close {
     position: absolute;
     top: 10px; right: 14px;
@@ -422,6 +446,22 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 .results-row.results-clicked {
     border-color: rgba(46,204,113,0.5);
     background: rgba(46,204,113,0.07);
+}
+.results-row.results-row-unseen {
+    padding: 5px 14px;
+    opacity: 0.4;
+    display: flex;
+    align-items: center;
+    cursor: default;
+}
+.results-row.results-row-unseen:hover {
+    background: rgba(255,255,255,0.04);
+    border-color: rgba(255,255,255,0.08);
+}
+.results-salary-unseen {
+    font-size: 0.78em;
+    font-weight: normal;
+    color: #aaa;
 }
 
 .results-job-title {
