@@ -294,6 +294,11 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     color: #e94560;
     margin-bottom: 16px;
 }
+#car_popup_salary .salary-icons {
+    margin-left: 8px;
+    font-size: 0.7em;
+    vertical-align: middle;
+}
 #car_popup_specs {
     width: 100%;
     border-collapse: collapse;
@@ -446,6 +451,10 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     font-size: 0.85em;
     font-weight: bold;
     color: #e94560;
+}
+.results-salary .salary-icons {
+    margin-left: 5px;
+    font-size: 0.9em;
 }
 .results-badges {
     display: flex;

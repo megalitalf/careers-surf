@@ -132,6 +132,32 @@ function formatTime(dt) {
 
 // ── Job listing popup ─────────────────────────────────────────────────────────
 
+function calcMedianSalary(listings) {
+    if (!listings || !listings.length) return 0;
+    var vals = [];
+    for (var i = 0; i < listings.length; i++) {
+        if (typeof listings[i].salaryAvg === 'number') vals.push(listings[i].salaryAvg);
+    }
+    if (!vals.length) return 0;
+    vals.sort(function(a, b) { return a - b; });
+    var mid = Math.floor(vals.length / 2);
+    return vals.length % 2 !== 0 ? vals[mid] : (vals[mid - 1] + vals[mid]) / 2;
+}
+
+function salaryDollarIcons(salaryAvg, median) {
+    if (!salaryAvg || !median) return '';
+    // upper 3rd: above median + (max - median) * 2/3
+    var vals = [];
+    for (var i = 0; i < SEMI_LISTINGS.length; i++) {
+        if (typeof SEMI_LISTINGS[i].salaryAvg === 'number') vals.push(SEMI_LISTINGS[i].salaryAvg);
+    }
+    var maxSalary = vals.length ? Math.max.apply(null, vals) : median * 2;
+    var upper3rdThreshold = median + (maxSalary - median) * (2 / 3);
+    if (salaryAvg >= upper3rdThreshold) return '💰💰';
+    if (salaryAvg > median) return '💰';
+    return '';
+}
+
 function showCarPopup(listing) {
     if (!listing) return;
     // Mark as seen
@@ -140,7 +166,9 @@ function showCarPopup(listing) {
     console.log(' >>> seenListings listing:', seenListings);
 
     Dom.get('car_popup_title').innerHTML   = listing.title   || '';
-    Dom.get('car_popup_salary').innerHTML  = listing.salary  || 'Salary not disclosed';
+    var median = calcMedianSalary(SEMI_LISTINGS);
+    var icons  = listing.salaryAvg ? salaryDollarIcons(listing.salaryAvg, median) : '';
+    Dom.get('car_popup_salary').innerHTML  = (listing.salary  || 'Salary not disclosed') + (icons ? '<span class="salary-icons">' + icons + '</span>' : '');
     Dom.get('car_popup_company').innerHTML = listing.company || '';
     Dom.get('car_popup_loc').innerHTML     = listing.location || '';
     // Dev info: id
@@ -213,7 +241,9 @@ function showResults() {
 
         var salary = document.createElement('span');
         salary.className = 'results-salary';
-        salary.textContent = (job && job.salary) ? job.salary : '';
+        var resultsMedian = calcMedianSalary(SEMI_LISTINGS);
+        var salaryIcons = (job && job.salaryAvg) ? salaryDollarIcons(job.salaryAvg, resultsMedian) : '';
+        salary.innerHTML = ((job && job.salary) ? job.salary : '') + (salaryIcons ? '<span class="salary-icons">' + salaryIcons + '</span>' : '');
 
         var badges = document.createElement('span');
         badges.className = 'results-badges';

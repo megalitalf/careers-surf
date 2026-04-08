@@ -256,11 +256,14 @@ function render() {
                     ctx.textBaseline = 'bottom';
 
                     // Salary label (always visible)
+                    var median      = calcMedianSalary(SEMI_LISTINGS);
+                    var dollarIcons = listing.salaryAvg ? salaryDollarIcons(listing.salaryAvg, median) : '';
+                    var salaryText  = (listing.salary || '?') + (dollarIcons ? ' ' + dollarIcons : '');
                     ctx.font      = 'bold ' + priceSize + 'px Arial';
                     ctx.fillStyle = 'rgba(0,0,0,0.55)';
-                    ctx.fillText(listing.salary || '?', labelX + 1, labelY + 1);
+                    ctx.fillText(salaryText, labelX + 1, labelY + 1);
                     ctx.fillStyle = '#ffe066';
-                    ctx.fillText(listing.salary || '?', labelX, labelY);
+                    ctx.fillText(salaryText, labelX, labelY);
 
                     // Name label — only when truck is large enough (close)
                     if (sh > 28) {
