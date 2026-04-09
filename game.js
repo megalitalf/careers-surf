@@ -362,6 +362,7 @@ function render() {
     }
 
     renderTouchHints(step);
+    renderMinimap();
 }
 
 //=========================================================================

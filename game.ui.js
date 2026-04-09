@@ -462,3 +462,102 @@ function refreshTweakUI() {
     Dom.get('currentFieldOfView').innerHTML  = Dom.get('fieldOfView').value  = fieldOfView;
     Dom.get('currentFogDensity').innerHTML   = Dom.get('fogDensity').value   = fogDensity;
 }
+
+// ── Mini-map widget ───────────────────────────────────────────────────────────
+
+(function () {
+    var mmCanvas = null;
+    var mmCtx    = null;
+
+    function initMinimap() {
+        mmCanvas = Dom.get('minimap');
+        if (!mmCanvas) return;
+        // Sync the canvas drawing buffer to its CSS pixel size
+        var dpr = window.devicePixelRatio || 1;
+        mmCanvas.width  = Math.round(mmCanvas.offsetWidth  * dpr);
+        mmCanvas.height = Math.round(mmCanvas.offsetHeight * dpr);
+        mmCtx = mmCanvas.getContext('2d');
+        if (dpr !== 1) mmCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+
+    window.renderMinimap = function () {
+        if (!mmCanvas || !mmCtx) initMinimap();
+        if (!mmCanvas || !mmCtx) return;
+        if (!trackLength || menuActive) return;
+
+        var W = mmCanvas.offsetWidth;
+        var H = mmCanvas.offsetHeight;
+
+        // Resize backing store if CSS size changed (e.g. window resize)
+        var dpr = window.devicePixelRatio || 1;
+        var bW  = Math.round(W * dpr);
+        var bH  = Math.round(H * dpr);
+        if (mmCanvas.width !== bW || mmCanvas.height !== bH) {
+            mmCanvas.width  = bW;
+            mmCanvas.height = bH;
+            mmCtx.setTransform(dpr, 0, 0, dpr, 0, 0);
+        }
+
+        mmCtx.clearRect(0, 0, W, H);
+
+        // Background pill
+        mmCtx.fillStyle = 'rgba(0,0,0,0.52)';
+        mmCtx.beginPath();
+        mmCtx.roundRect(0, 0, W, H, H / 2);
+        mmCtx.fill();
+
+        // Margins inside the pill
+        var PAD  = H * 0.8;
+        var MIDY = H / 2;
+        var lineY = MIDY;
+
+        // Track line
+        mmCtx.strokeStyle = 'rgba(255,255,255,0.28)';
+        mmCtx.lineWidth   = 2;
+        mmCtx.beginPath();
+        mmCtx.moveTo(PAD, lineY);
+        mmCtx.lineTo(W - PAD, lineY);
+        mmCtx.stroke();
+
+        // Finish-line tick
+        mmCtx.strokeStyle = 'rgba(255,255,255,0.6)';
+        mmCtx.lineWidth   = 2;
+        mmCtx.beginPath();
+        mmCtx.moveTo(W - PAD, lineY - H * 0.3);
+        mmCtx.lineTo(W - PAD, lineY + H * 0.3);
+        mmCtx.stroke();
+
+        var trackW = W - PAD * 2;
+
+        // Helper: z position → x pixel on the bar
+        function zToX(z) {
+            return PAD + (z / trackLength) * trackW;
+        }
+
+        var DOT_R_SEMI   = Math.max(3, H * 0.26);
+        var DOT_R_PLAYER = Math.max(4, H * 0.32);
+
+        // Red dots — job-truck semis only
+        for (var i = 0; i < cars.length; i++) {
+            var car = cars[i];
+            if (!car.listing) continue; // skip regular traffic
+            var cx = zToX(car.z);
+            mmCtx.beginPath();
+            mmCtx.arc(cx, lineY, DOT_R_SEMI, 0, Math.PI * 2);
+            mmCtx.fillStyle = '#ff3b3b';
+            mmCtx.fill();
+        }
+
+        // Yellow dot — player
+        var playerPos = position + playerZ;
+        if (playerPos > trackLength) playerPos -= trackLength;
+        var px = zToX(playerPos);
+        mmCtx.beginPath();
+        mmCtx.arc(px, lineY, DOT_R_PLAYER, 0, Math.PI * 2);
+        mmCtx.fillStyle   = '#ffe800';
+        mmCtx.fill();
+        mmCtx.strokeStyle = 'rgba(0,0,0,0.5)';
+        mmCtx.lineWidth   = 1.5;
+        mmCtx.stroke();
+    };
+})();

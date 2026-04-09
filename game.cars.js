@@ -34,7 +34,7 @@ function resetCars() {
         sprite = jobLevel === 'manager'    ? SPRITES.SEMI03
                : jobLevel === 'specialist' ? SPRITES.SEMI02
                :                            SPRITES.SEMI01;  // worker (default)
-        speed  = cruiseSpeed * 0.8 + Math.random() * cruiseSpeed * 0.4; // 0.8–1.2× cruiseSpeed
+        speed  = cruiseSpeed * 0.8 + Math.random() * cruiseSpeed * 0.2; // 0.8–1.2× cruiseSpeed
 
         // z is already within usableTrack (first 75%), so no finish-line clamp needed
 

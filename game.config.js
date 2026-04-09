@@ -63,11 +63,11 @@ var accLookahead = 10;               // segments ahead to scan for ACC (adaptive
 var lkaRate      = 1.2;              // how gently LKA pulls back to lane centre (lower = softer)
 var offRoadDecel = -maxSpeed / 2;    // off road deceleration is somewhere in between
 var offRoadLimit = maxSpeed / 4;     // limit when off road deceleration no longer applies (e.g. you can always go at least this speed even when off road)
-var totalCars    = 80;               // total number of non-semi cars on the road
+var totalCars    = 50;               // total number of non-semi cars on the road
 
 // ── Lap / job-reveal pacing ───────────────────────────────────────────────────
 var LAP_DURATION    = 60;            // target seconds per lap (used to pace job reveals)
-var JOBS_PER_LAP    = 10;            // job-truck listings shown per lap
+var JOBS_PER_LAP    = 6;            // job-truck listings shown per lap
 var currentLap      = 0;             // lap counter (0 = first lap)
 var currentMapIndex = 0;             // which MAP entry is active (0 = first map)
 var lapJobOffset    = 0;             // index into SEMI_LISTINGS for the current lap's batch

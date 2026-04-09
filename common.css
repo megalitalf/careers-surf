@@ -42,6 +42,24 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 #hud .fastest          { background-color: rgba(255,215,0,0.5); }
 
 /******************/
+/* Mini-map       */
+/******************/
+
+#minimap {
+    visibility: hidden;
+    position: absolute;
+    z-index: 2;
+    bottom: 18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: min(340px, 72vw);
+    height: 18px;
+    border-radius: 9px;
+    pointer-events: none;
+    opacity: 0.88;
+}
+
+/******************/
 /* Main menu      */
 /******************/
 
