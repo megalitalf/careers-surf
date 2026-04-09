@@ -298,14 +298,13 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 /* Description snippet */
 #car_popup_desc {
     font-size: 0.8em;
-    color: #999;
-    line-height: 1.45;
+    color: #aaa;
+    line-height: 1.5;
     margin-top: 10px;
     margin-bottom: 14px;
-    max-height: 80px;
     overflow-y: auto;
     border-left: 2px solid #333;
-    padding-left: 8px;
+    padding: 8px;
 }
 #car_popup_salary {
     font-size: 2em;
