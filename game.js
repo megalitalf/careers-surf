@@ -378,8 +378,17 @@ function findSegment(z) {
 
 function reset(options) {
     options       = options || {};
-    canvas.width  = width        = Util.toInt(options.width,         width);
-    canvas.height = height       = Util.toInt(options.height,        height);
+    var dpr       = window.devicePixelRatio || 1;
+    width         = Util.toInt(options.width,  width);
+    height        = Util.toInt(options.height, height);
+    // Scale the canvas backing store for retina/high-DPI screens.
+    // The CSS size stays at logical pixels; the drawing buffer is multiplied
+    // by devicePixelRatio so it matches physical pixels and looks sharp.
+    canvas.width  = Math.round(width  * dpr);
+    canvas.height = Math.round(height * dpr);
+    canvas.style.width  = width  + 'px';
+    canvas.style.height = height + 'px';
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0); // scale all drawing to match logical coords
     lanes         = Util.toInt(options.lanes,         lanes);
     roadWidth     = Util.toInt(options.roadWidth,     roadWidth);
     cameraHeight  = Util.toInt(options.cameraHeight,  cameraHeight);
