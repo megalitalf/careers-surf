@@ -30,11 +30,6 @@ const IMAGE_DIRS = [
   'images/background',
 ];
 
-const MUSIC_FILES = [
-  'music/racer.mp3',
-  'music/racer.ogg',
-];
-
 function ensureDir(dir) {
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
 }
@@ -66,7 +61,7 @@ fs.writeFileSync(path.join(DIST, 'jobs.js'), jobsJs);
 console.log('  generated: jobs.js');
 
 // 3. Copy static files
-for (const file of [...FILES, ...IMAGE_FILES, ...MUSIC_FILES]) {
+for (const file of [...FILES, ...IMAGE_FILES]) {
   copyFile(path.join(__dirname, file), path.join(DIST, file));
 }
 
