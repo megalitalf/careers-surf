@@ -1,7 +1,7 @@
 {
   "name": "job_surfers",
   "version": "1.0.0",
-  "description": "Javascript Pseudo 3D Racer ==========================",
+  "description": "job_surfers",
   "main": "common.js",
   "scripts": {
     "build": "node build.js",
