@@ -19,27 +19,24 @@ function resetCars() {
     }
     currentLapBatch = lapListings.slice(); // snapshot for results screen
 
-    // Spawn exactly one SEMI per listing, spread evenly across the track
+    // Spawn exactly one SEMI per listing, spread evenly across the track.
+    // Each semi gets its own slot so they can't bunch together.
     var numSemis = lapListings.length;
+    var usableTrack = trackLength * 0.50; // keep all semis within first 75% so none finish before player
     for (var si = 0; si < numSemis; si++) {
-        // Space semis evenly, with a small random jitter so they're not perfectly aligned
-        var zFraction = (si / numSemis) + (Math.random() * 0.04);
-        z      = Math.floor(zFraction * segments.length) * segmentLength;
+        var slotStart = (si / numSemis) * usableTrack;
+        var slotEnd   = ((si + 1) / numSemis) * usableTrack;
+        // Place randomly within the slot, with 15% padding on each side to avoid slot-edge bunching
+        var slotPad = (slotEnd - slotStart) * 0.15;
+        z      = slotStart + slotPad + Math.random() * (slotEnd - slotStart - 2 * slotPad);
         offset = Math.random() * Util.randomChoice([-0.8, 0.8]);
         var jobLevel = lapListings[si] && lapListings[si].jobLevel;
         sprite = jobLevel === 'manager'    ? SPRITES.SEMI03
                : jobLevel === 'specialist' ? SPRITES.SEMI02
                :                            SPRITES.SEMI01;  // worker (default)
-        speed  = maxSpeed / 4 + Math.random() * maxSpeed / 4;
+        speed  = cruiseSpeed * 0.8 + Math.random() * cruiseSpeed * 0.4; // 0.8–1.2× cruiseSpeed
 
-        // Guarantee player can catch this truck before the finish line.
-        // At near-maxSpeed the player crosses finish in trackLength/maxSpeed seconds.
-        // A truck at position z with its speed crosses finish in (trackLength-z)/speed seconds.
-        // We need the truck to finish NO EARLIER than the player, so:
-        //   z <= trackLength * (1 - speed/maxSpeed)
-        // Apply a small safety margin (0.9) so the truck is visibly ahead, not right at the line.
-        var zMax = trackLength * (1 - speed / maxSpeed) * 0.9;
-        if (z > zMax) z = zMax;
+        // z is already within usableTrack (first 75%), so no finish-line clamp needed
 
         car    = { offset: offset, z: z, sprite: sprite, speed: speed, listing: lapListings[si] };
         segment = findSegment(car.z);

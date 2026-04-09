@@ -67,7 +67,7 @@ var totalCars    = 80;               // total number of non-semi cars on the roa
 
 // ── Lap / job-reveal pacing ───────────────────────────────────────────────────
 var LAP_DURATION    = 60;            // target seconds per lap (used to pace job reveals)
-var JOBS_PER_LAP    = 20;            // job-truck listings shown per lap
+var JOBS_PER_LAP    = 10;            // job-truck listings shown per lap
 var currentLap      = 0;             // lap counter (0 = first lap)
 var currentMapIndex = 0;             // which MAP entry is active (0 = first map)
 var lapJobOffset    = 0;             // index into SEMI_LISTINGS for the current lap's batch
