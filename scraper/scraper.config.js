@@ -152,7 +152,16 @@ module.exports = {
   },
 
   // ── Output ───────────────────────────────────────────────────────────────────
-  citiesDir:  "../cities",    // relative to scraper/; same folder as before
+  // Pipeline phases write here.  Structure per profile:
+  //   output/<slug>/raw/<timestamp>.json   ← phase 1 (scrape)
+  //   output/<slug>/latest.json            ← phase 2 (normalize)
+  //   output/<slug>/latest.js             ← phase 2 (normalize)
+  output: {
+    dir: "../output",         // relative to scraper/; created automatically
+  },
+
+  // Legacy paths — kept for backward compat with old scripts and the UI
+  citiesDir:   "../cities",
   flatOutFile: "../jobs.json",
 
   // ── S3 ───────────────────────────────────────────────────────────────────────

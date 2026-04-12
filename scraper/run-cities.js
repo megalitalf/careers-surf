@@ -3,8 +3,13 @@
 /**
  * scraper/run-cities.js
  * ─────────────────────
- * Iterates every search profile defined in scraper.config.js and runs
- * scrape_jobs.js for each one sequentially with a human-paced gap.
+ * Orchestrates the 3-phase pipeline for every search profile in scraper.config.js:
+ *   Phase 1  phases/scrape.js    — browser scraping → raw JSON
+ *   Phase 2  phases/normalize.js — transform raw → slim JSON + JS
+ *   Phase 3  phases/upload.js    — push slim output to S3  (skipped if S3_BUCKET unset)
+ *
+ * Phase 2+3 are skipped per-profile if Phase 1 fails.
+ * Phases can also be run individually — see package.json scripts.
  *
  * Features:
  *   • Lock file  — prevents concurrent runs if cron fires while a run is live
@@ -15,6 +20,7 @@
  * Usage:
  *   node run-cities.js                        # run all enabled profiles
  *   node run-cities.js --searches 01,03       # run specific profiles by key
+ *   node run-cities.js --search 01            # run a single profile
  *   node run-cities.js --pages 2              # override pages for all profiles
  *   node run-cities.js --dry-run              # print plan, don't scrape
  *
@@ -51,7 +57,7 @@ const hasFlag = (flag) => args.includes(flag);
 
 const DRY_RUN        = hasFlag("--dry-run");
 const PAGE_OVERRIDE  = getArg("--pages",    "");
-const SEARCH_FILTER  = getArg("--searches", "");  // comma-separated keys, e.g. "01,03"
+const SEARCH_FILTER  = getArg("--searches", "") || getArg("--search", "");  // "01,03" or "01"
 
 // Build the list of profiles to run: CLI filter > all enabled in config
 const allSearches = CFG.searches;
@@ -68,9 +74,11 @@ const searches = searchKeys.map(key => ({ key, ...allSearches[key] }));
 if (PAGE_OVERRIDE) searches.forEach(s => { s.pages = parseInt(PAGE_OVERRIDE, 10); });
 
 // ── Paths ─────────────────────────────────────────────────────────────────────
-const LOCK_FILE = path.resolve(__dirname, CFG.orchestrator.lockFile);
-const LOG_FILE  = path.resolve(__dirname, CFG.orchestrator.logFile);
-const SCRAPER   = path.resolve(__dirname, "scrape_jobs.js");
+const LOCK_FILE  = path.resolve(__dirname, CFG.orchestrator.lockFile);
+const LOG_FILE   = path.resolve(__dirname, CFG.orchestrator.logFile);
+const PH_SCRAPE  = path.resolve(__dirname, "phases/scrape.js");
+const PH_NORM    = path.resolve(__dirname, "phases/normalize.js");
+const PH_UPLOAD  = path.resolve(__dirname, "phases/upload.js");
 
 // ── Timing helpers ────────────────────────────────────────────────────────────
 const delay = (ms) => new Promise(r => setTimeout(r, ms));
@@ -110,45 +118,62 @@ function appendLog(entry) {
   fs.appendFileSync(LOG_FILE, line, "utf8");
 }
 
-// ── Run a single search profile as a child process ───────────────────────────
+// ── Run a single phase script as a child process ─────────────────────────────
+function runPhase(label, script, searchKey, extraArgs = []) {
+  const phaseArgs = [script, "--search", searchKey, ...extraArgs];
+  process.stdout.write(`   ▸  ${label} ... `);
+  const t = Date.now();
+  try {
+    execFileSync(process.execPath, phaseArgs, {
+      stdio: ["ignore", "pipe", "inherit"],   // capture stdout, forward stderr
+      env:   process.env,
+      cwd:   __dirname,
+    });
+    console.log(`done (${((Date.now() - t) / 1000).toFixed(1)}s)`);
+    return 0;
+  } catch (err) {
+    console.log(`FAILED (exit ${err.status ?? 1})`);
+    return err.status ?? 1;
+  }
+}
+
+// ── Run all phases for a single search profile ────────────────────────────────
 function scrapeSearch(search) {
-  const searchArgs = [
-    SCRAPER,
-    "--search", search.key,
-  ];
-
-  // Per-profile page override (from --pages CLI flag)
-  if (PAGE_OVERRIDE) searchArgs.push("--pages", String(search.pages));
-
-  // Pass through S3 config if set
-  if (process.env.S3_BUCKET) searchArgs.push("--s3-bucket", process.env.S3_BUCKET);
-  if (process.env.S3_PREFIX) searchArgs.push("--s3-prefix", process.env.S3_PREFIX);
-
   console.log(`\n${"─".repeat(60)}`);
   console.log(`🔑  [${search.key}] ${search.label || search.key}`);
   if (search.location) console.log(`   📍  location=${search.location}  radius=${search.radius ?? CFG.defaultRadius}km`);
   if (search.keyword)  console.log(`   🔤  keyword="${search.keyword}"`);
   if (search.workMode) console.log(`   💼  workMode=${search.workMode}`);
   console.log(`   📄  pages=${search.pages ?? CFG.defaultPages}  outputSlug=${search.outputSlug || "—"}`);
-  console.log(`${"─".repeat(60)}\n`);
+  console.log(`${"─".repeat(60)}`);
 
-  const start = Date.now();
-  let exitCode = 0;
+  const start     = Date.now();
+  let   exitCode  = 0;
 
-  try {
-    execFileSync(process.execPath, searchArgs, {
-      stdio: "inherit",
-      env:   process.env,
-      cwd:   __dirname,
-    });
-  } catch (err) {
-    exitCode = err.status ?? 1;
-    console.error(`\n❌  scrape_jobs.js exited with code ${exitCode}`);
+  // ── Phase 1: Scrape ──────────────────────────────────────────────────────
+  const extraScrapeArgs = PAGE_OVERRIDE ? ["--pages", String(search.pages)] : [];
+  const scrapeCode = runPhase("Phase 1 · scrape", PH_SCRAPE, search.key, extraScrapeArgs);
+  exitCode = exitCode || scrapeCode;
+
+  // ── Phase 2: Normalize (only if scrape succeeded) ────────────────────────
+  if (scrapeCode === 0) {
+    const normCode = runPhase("Phase 2 · normalize", PH_NORM, search.key);
+    exitCode = exitCode || normCode;
+
+    // ── Phase 3: Upload (only if normalize succeeded AND S3_BUCKET set) ────
+    if (normCode === 0 && process.env.S3_BUCKET) {
+      const uploadCode = runPhase("Phase 3 · upload", PH_UPLOAD, search.key);
+      exitCode = exitCode || uploadCode;
+    } else if (!process.env.S3_BUCKET) {
+      console.log(`   ⚠   Phase 3 skipped — S3_BUCKET not set`);
+    }
+  } else {
+    console.log(`   ⚠   Phase 2+3 skipped — scrape failed`);
   }
 
   const duration = ((Date.now() - start) / 1000).toFixed(1);
   appendLog({ key: search.key, label: search.label, exitCode, durationSec: parseFloat(duration) });
-  console.log(`\n⏱   [${search.key}] done in ${duration}s  (exit ${exitCode})`);
+  console.log(`\n⏱   [${search.key}] all phases done in ${duration}s  (exit ${exitCode})`);
   return exitCode;
 }
 
