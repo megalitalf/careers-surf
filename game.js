@@ -79,6 +79,11 @@ function update(dt) {
         }
     } else {
         if (followedSemi) {
+            // If we were following a semi and it's now gone from ahead, we overtook it
+            if (followedSemi.listing && followedSemi.listing.id &&
+                !seenListings.has(followedSemi.listing.id)) {
+                passedListings.add(followedSemi.listing.id);
+            }
             followedSemi  = null;
             followTimer   = 0;
             dismissedSemi = null;

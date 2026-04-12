@@ -120,6 +120,7 @@ function initMenu() {
                         currentLap      = 0;
                         lapJobOffset    = 0;
                         seenListings    = new Set();
+                        passedListings  = new Set();
                         clickedListings = new Set();
                         currentLapBatch = [];
                         resetCars();
@@ -334,6 +335,7 @@ function showResults() {
         var jobKey  = job && job.id;
         var clicked = jobKey && clickedListings.has(job.id);
         var seen    = jobKey && seenListings.has(job.id);
+        var passed  = jobKey && passedListings.has(job.id);
         var engaged = clicked || seen;
 
         var row = document.createElement('div');
@@ -341,7 +343,7 @@ function showResults() {
 
         if (!engaged) {
             // ── Compact row for unseen jobs — can spend 1 fuel to reveal ──
-            row.className = 'results-row results-row-unseen';
+            row.className = 'results-row results-row-unseen' + (passed ? ' results-row-passed' : '');
 
             var compactSalary = document.createElement('span');
             compactSalary.className = 'results-salary results-salary-unseen';

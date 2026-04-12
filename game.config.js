@@ -72,6 +72,7 @@ var currentLap      = 0;             // lap counter (0 = first lap)
 var currentMapIndex = 0;             // which MAP entry is active (0 = first map)
 var lapJobOffset    = 0;             // index into SEMI_LISTINGS for the current lap's batch
 var seenListings    = new Set();     // ids of listings whose popup was opened (for purple dot)
+var passedListings  = new Set();     // ids of listings whose truck was overtaken without opening
 var clickedListings = new Set();     // ids of listings whose Apply Now was clicked
 var currentLapBatch = [];            // the exact listing objects spawned in the current race
 var currentLapTime  = 0;             // current lap time

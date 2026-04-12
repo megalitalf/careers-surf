@@ -521,6 +521,11 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     align-items: center;
     cursor: default;
 }
+.results-row.results-row-unseen.results-row-passed {
+    opacity: 0.72;
+    border-color: rgba(255,255,255,0.18);
+    background: rgba(255,255,255,0.06);
+}
 .results-row.results-row-unseen:hover {
     background: rgba(255,255,255,0.04);
     border-color: rgba(255,255,255,0.08);
