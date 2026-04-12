@@ -36,41 +36,41 @@ module.exports = {
 
   // ── Search profiles ──────────────────────────────────────────────────────────
   searches: {
-    // "01": {
-    //   label:      "Warsaw – all",
-    //   location:   "Warsaw",
-    //   radius:     30,
-    //   pages:      1,
-    //   outputSlug: "warsaw",
-    // },
-    // "02": {
-    //   label:      "Kraków – all",
-    //   location:   "Krakow",
-    //   radius:     30,
-    //   pages:      1,
-    //   outputSlug: "krakow",
-    // },
-    // "03": {
-    //   label:      "Szczecin – all",
-    //   location:   "Szczecin",
-    //   radius:     30,
-    //   pages:      1,
-    //   outputSlug: "szczecin",
-    // },
-    // "04": {
-    //   label:      "Lodz – all",
-    //   location:   "Lodz",
-    //   radius:     30,
-    //   pages:      1,
-    //   outputSlug: "lodz",
-    // },
-    // "05": {
-    //   label:      "Katowice – all",
-    //   location:   "Katowice",
-    //   radius:     30,
-    //   pages:      1,
-    //   outputSlug: "katowice",
-    // },
+    "01": {
+      label:      "Warsaw – all",
+      location:   "Warsaw",
+      radius:     30,
+      pages:      1,
+      outputSlug: "warsaw",
+    },
+    "02": {
+      label:      "Kraków – all",
+      location:   "Krakow",
+      radius:     30,
+      pages:      1,
+      outputSlug: "krakow",
+    },
+    "03": {
+      label:      "Szczecin – all",
+      location:   "Szczecin",
+      radius:     30,
+      pages:      1,
+      outputSlug: "szczecin",
+    },
+    "04": {
+      label:      "Lodz – all",
+      location:   "Lodz",
+      radius:     30,
+      pages:      1,
+      outputSlug: "lodz",
+    },
+    "05": {
+      label:      "Katowice – all",
+      location:   "Katowice",
+      radius:     30,
+      pages:      1,
+      outputSlug: "katowice",
+    },
     "06": {
       label:      "Wroclaw – all",
       location:   "Wroclaw",

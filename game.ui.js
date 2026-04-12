@@ -11,28 +11,27 @@ function initMenu() {
     if (!menuEl.dataset.init) {
         menuEl.dataset.init = '1';
 
-        // ── City pill selector ─────────────────────────────────────────
-        var CITY_SLUGS = {
-            warsaw:   'Warsaw',
-            szczecin: 'Szczecin',
-            krakow:   'Kraków',
-        };
+        // ── City dropdown ──────────────────────────────────────────────
+        var cities = (window._CITIES && window._CITIES.length) ? window._CITIES : [];
         var selectedCity = null;
-        var pills = document.querySelectorAll('.city-pill');
+        var select = document.getElementById('menu-city-select');
 
-        pills.forEach(function(pill) {
-            pill.addEventListener('click', function() {
-                pills.forEach(function(p) { p.classList.remove('active'); });
-                pill.classList.add('active');
-                selectedCity = pill.dataset.city;
-            });
+        // Build <option> list from window._CITIES
+        cities.forEach(function(c) {
+            var opt = document.createElement('option');
+            opt.value       = c.slug;
+            opt.textContent = c.label;
+            select.appendChild(opt);
         });
 
-        // Default to first pill
-        if (pills.length) {
-            pills[0].classList.add('active');
-            selectedCity = pills[0].dataset.city;
+        // Default to first entry
+        if (cities.length) {
+            selectedCity = cities[0].slug;
         }
+
+        select.addEventListener('change', function() {
+            selectedCity = select.value;
+        });
         // ──────────────────────────────────────────────────────────────
 
         document.getElementById('menu-start').addEventListener('click', function () {
@@ -60,7 +59,7 @@ function initMenu() {
                         clickedListings = new Set();
                         currentLapBatch = [];
                         resetCars();
-                        console.log('Loaded ' + cityJobs.length + ' listings for ' + CITY_SLUGS[selectedCity] + ' (' + label + ')');
+                        console.log('Loaded ' + cityJobs.length + ' listings for ' + selectedCity + ' (' + label + ')');
                     } else {
                         console.warn('city jobs script loaded but cityJobs is empty (' + label + ')');
                     }

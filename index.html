@@ -38,12 +38,8 @@
       <div id="menu-tagline">Real jobs. Chase the trucks.</div>
 
       <div id="menu-city-wrap">
-        <label>City</label>
-        <div id="menu-city-pills">
-          <button class="city-pill" data-city="warsaw"  data-label="Warsaw">Warsaw</button>
-          <button class="city-pill" data-city="szczecin" data-label="Szczecin">Szczecin</button>
-          <button class="city-pill" data-city="krakow"  data-label="Kraków">Kraków</button>
-        </div>
+        <label for="menu-city-select">City</label>
+        <select id="menu-city-select"></select>
       </div>
 
       <button id="menu-start">🏁 Start</button>
@@ -178,6 +174,7 @@
     (function() {
       function loadGame() {
         var modules = [
+          'city-list.js',
           'game.config.js',
           'game.session.js',
           'game.road.js',

@@ -104,7 +104,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     margin-bottom: 32px;
 }
 
-/* City pill selector */
+/* City dropdown selector */
 #menu-city-wrap {
     width: 100%;
     margin-bottom: 28px;
@@ -118,14 +118,9 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     text-transform: uppercase;
     margin-bottom: 10px;
 }
-#menu-city-pills {
-    display: flex;
-    gap: 10px;
+#menu-city-select {
     width: 100%;
-}
-.city-pill {
-    flex: 1;
-    padding: 11px 8px;
+    padding: 11px 14px;
     font-size: 0.95em;
     font-family: Arial, sans-serif;
     font-weight: 700;
@@ -135,17 +130,22 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     border-radius: 8px;
     color: #ccc;
     cursor: pointer;
-    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23aaa' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+    transition: border-color 0.15s, color 0.15s;
 }
-.city-pill:hover {
-    background: rgba(114,215,238,0.12);
-    border-color: rgba(114,215,238,0.5);
+#menu-city-select:hover,
+#menu-city-select:focus {
+    outline: none;
+    border-color: #72D7EE;
     color: #fff;
 }
-.city-pill.active {
-    background: rgba(114,215,238,0.18);
-    border-color: #72D7EE;
-    color: #72D7EE;
+#menu-city-select option {
+    background: #1a1a2e;
+    color: #ccc;
 }
 
 /* Start button */
