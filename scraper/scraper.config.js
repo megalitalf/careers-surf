@@ -57,12 +57,19 @@ module.exports = {
     //   pages:      1,
     //   outputSlug: "szczecin",
     // },
-    "04": {
-      label:      "Lodz – all",
-      location:   "Lodz",
+    // "04": {
+    //   label:      "Lodz – all",
+    //   location:   "Lodz",
+    //   radius:     30,
+    //   pages:      1,
+    //   outputSlug: "lodz",
+    // },
+    "05": {
+      label:      "Katowice – all",
+      location:   "Katowice",
       radius:     30,
       pages:      1,
-      outputSlug: "lodz",
+      outputSlug: "katowice",
     },
     // ── Keyword / non-location examples (uncomment to activate) ──────────────
     // "04": {

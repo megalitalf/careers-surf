@@ -97,29 +97,23 @@ function extractListings() {
         if (!go?.length) continue;
         const results = [];
         go.forEach(g => {
-          (g.offers?.length ? g.offers : [{}]).forEach(o => {
+          const { offers, ...groupFields } = g;
+          (offers?.length ? offers : [{}]).forEach(o => {
             const rawUrl  = (o.offerAbsoluteUri || "").split("?")[0];
             const idMatch = rawUrl.match(/,oferta,(\d+)/);
+            // Spread ALL fields from group (g) and offer (o) — nothing dropped.
+            // Named keys on top normalise the most important ones to predictable names.
             results.push({
-              id:              idMatch ? idMatch[1] : String(o.partitionId || g.groupId),
-              title:           g.jobTitle           || null,
-              company:         g.companyName        || null,
-              companyId:       g.companyId          || null,
-              location:        o.displayWorkplace   || null,
-              isWholePoland:   o.isWholePoland       || false,
-              salary:          g.salaryDisplayText  || null,
-              workModes:       g.workModes          || [],
-              workSchedules:   g.workSchedules      || [],
-              typesOfContract: g.typesOfContract    || [],
-              positionLevels:  g.positionLevels     || [],
-              isRemote:        g.isRemoteWorkAllowed || false,
-              isSuperOffer:    g.isSuperOffer        || false,
-              isOptionalCv:    g.isOptionalCv        || false,
-              isOneClickApply: g.isOneClickApply     || false,
-              publishedAt:     g.lastPublicated      || null,
-              expiresAt:       g.expirationDate      || null,
-              description:     g.jobDescription      || null,
-              url:             rawUrl,
+              ...groupFields,
+              ...o,
+              // normalised / derived
+              id:          idMatch ? idMatch[1] : String(o.partitionId || g.groupId),
+              title:       g.jobTitle          || null,
+              company:     g.companyName       || null,
+              salary:      g.salaryDisplayText || null,
+              location:    o.displayWorkplace  || null,
+              description: g.jobDescription    || null,
+              url:         rawUrl,
             });
           });
         });

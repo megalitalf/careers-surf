@@ -40,16 +40,28 @@ function transform(rawListings) {
   return rawListings
     .filter(l => l.title && l.url)
     .map(l => ({
-      id:          l.id          || null,
-      title:       l.title,
-      salary:      l.salary      || null,
-      salaryAvg:   lib.parseSalary(l.salary),
-      company:     l.company     || null,
-      location:    l.location    || (l.isWholePoland ? "Cała Polska" : null),
-      description: l.description || null,
-      url:         l.url,
-      jobLevel:    lib.classifyPositionLevel(l.positionLevels),
-      categories:  l.categories  || undefined,
+      id:              l.id              || null,
+      title:           l.title,
+      salary:          l.salary          || null,
+      salaryAvg:       lib.parseSalary(l.salary),
+      company:         l.company         || null,
+      companyId:       l.companyId       || null,
+      location:        l.location        || (l.isWholePoland ? "Cała Polska" : null),
+      isWholePoland:   l.isWholePoland   ?? false,
+      workModes:       l.workModes       || [],
+      workSchedules:   l.workSchedules   || [],
+      typesOfContract: l.typesOfContract || [],
+      positionLevels:  l.positionLevels  || [],
+      isRemote:        l.isRemote        ?? false,
+      isSuperOffer:    l.isSuperOffer    ?? false,
+      isOptionalCv:    l.isOptionalCv    ?? false,
+      isOneClickApply: l.isOneClickApply ?? false,
+      publishedAt:     l.publishedAt     || null,
+      expiresAt:       l.expiresAt       || null,
+      description:     l.description     || null,
+      url:             l.url,
+      jobLevel:        lib.classifyPositionLevel(l.positionLevels),
+      categories:      l.categories      || undefined,
     }));
 }
 
