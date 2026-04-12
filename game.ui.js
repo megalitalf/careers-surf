@@ -375,7 +375,15 @@ function showResults() {
 
                         var t = document.createElement('div');
                         t.className = 'results-job-title';
-                        t.textContent = j.title || '—';
+                        var tTitle = document.createElement('span');
+                        tTitle.textContent = j.title || '—';
+                        t.appendChild(tTitle);
+                        if (j.lastPublicated) {
+                            var pa = document.createElement('span');
+                            pa.className = 'pub-ago pub-ago-row';
+                            pa.textContent = timeAgo(j.lastPublicated);
+                            t.appendChild(pa);
+                        }
 
                         var c = document.createElement('div');
                         c.className = 'results-job-co';
@@ -395,12 +403,6 @@ function showResults() {
                         bv.textContent = '👁 Seen';
                         bdg.appendChild(bv);
 
-                        if (j.lastPublicated) {
-                            var pa = document.createElement('span');
-                            pa.className = 'pub-ago';
-                            pa.textContent = timeAgo(j.lastPublicated);
-                            inf.appendChild(pa);
-                        }
                         inf.appendChild(sal);
                         inf.appendChild(bdg);
                         r.appendChild(t);
@@ -432,7 +434,15 @@ function showResults() {
 
             var title = document.createElement('div');
             title.className = 'results-job-title';
-            title.textContent = (job && job.title) ? job.title : '—';
+            var titleSpan = document.createElement('span');
+            titleSpan.textContent = (job && job.title) ? job.title : '—';
+            title.appendChild(titleSpan);
+            if (job && job.lastPublicated) {
+                var pubAgo = document.createElement('span');
+                pubAgo.className = 'pub-ago pub-ago-row';
+                pubAgo.textContent = timeAgo(job.lastPublicated);
+                title.appendChild(pubAgo);
+            }
 
             var co = document.createElement('div');
             co.className = 'results-job-co';
@@ -459,12 +469,6 @@ function showResults() {
                 badges.appendChild(b);
             }
 
-            if (job && job.lastPublicated) {
-                var pubAgo = document.createElement('span');
-                pubAgo.className = 'pub-ago';
-                pubAgo.textContent = timeAgo(job.lastPublicated);
-                info.appendChild(pubAgo);
-            }
             info.appendChild(salary);
             info.appendChild(badges);
             row.appendChild(title);
