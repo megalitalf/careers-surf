@@ -2,10 +2,9 @@
 /**
  * phases/upload.js  —  Phase 3: upload only
  * ──────────────────────────────────────────
- * Reads output/<slug>/latest.json + latest.js for each profile
- * and pushes them to S3 (plus timestamped copies under cities/<slug>/).
- *
- * Storage target is swappable — add a new target below the S3 block.
+ * For each profile uploads:
+ *   • cities/<slug>/raw/<timestamp>.json  — all raw files not yet on S3
+ *   • cities/<slug>/latest.js             — upserted every run
  *
  * Does NOT: scrape, normalize, launch a browser.
  *
@@ -61,14 +60,14 @@ async function s3Put(s3, key, body, contentType) {
 
 // ── Upload one profile ────────────────────────────────────────────────────────
 async function uploadProfile(s3, profile) {
-  const slug       = profile.outputSlug || lib.toSlug(profile.label || profile.key);
-  const outDirPath = lib.outputDir(CFG, profile);
+  const slug      = profile.outputSlug || lib.toSlug(profile.label || profile.key);
+  const citiesDir = path.resolve(path.join(__dirname, "../.."), CFG.citiesDir.replace("../", ""));
+  const cityDir   = path.join(citiesDir, slug);
+  const rawDir    = path.join(cityDir, "raw");
+  const latestJs  = path.join(cityDir, "latest.js");
 
-  const latestJson = path.join(outDirPath, "latest.json");
-  const latestJs   = path.join(outDirPath, "latest.js");
-
-  if (!fs.existsSync(latestJson) || !fs.existsSync(latestJs)) {
-    console.error(`❌  [${profile.key}] Normalized files not found in ${outDirPath}. Run phase 2 (normalize) first.`);
+  if (!fs.existsSync(latestJs)) {
+    console.error(`❌  [${profile.key}] Normalized files not found in ${cityDir}. Run phase 2 (normalize) first.`);
     return false;
   }
 
@@ -76,34 +75,26 @@ async function uploadProfile(s3, profile) {
   console.log(`🔑  [${profile.key}] ${profile.label}  —  uploading`);
   console.log(`${"─".repeat(60)}\n`);
 
-  const jsonBody = fs.readFileSync(latestJson, "utf8");
-  const jsBody   = fs.readFileSync(latestJs,   "utf8");
-
-  // Derive timestamp from meta.normalizedAt in the JSON
-  let timestamp = new Date().toISOString().replace(/[:.]/g, "-").replace("Z", "z");
-  try {
-    const meta = JSON.parse(jsonBody).meta;
-    if (meta?.normalizedAt) timestamp = meta.normalizedAt.replace(/[:.]/g, "-").replace("Z", "z");
-  } catch (_) {}
-
   const prefix = CFG.s3.citiesPrefix;
+  let ok = 0, total = 0;
 
-  // Upload latest + timestamped copies
-  const uploads = [
-    { key: `${prefix}/${slug}/latest.json`,         body: jsonBody, type: "application/json"       },
-    { key: `${prefix}/${slug}/latest.js`,           body: jsBody,   type: "application/javascript" },
-    { key: `${prefix}/${slug}/${timestamp}.json`,   body: jsonBody, type: "application/json"       },
-    { key: `${prefix}/${slug}/${timestamp}.js`,     body: jsBody,   type: "application/javascript" },
-  ];
-
-  let ok = 0;
-  for (const { key, body, type } of uploads) {
-    const success = await s3Put(s3, key, body, type);
-    if (success) ok++;
+  // ── Raw files ────────────────────────────────────────────────────────────
+  if (fs.existsSync(rawDir)) {
+    const rawFiles = fs.readdirSync(rawDir).filter(f => f.endsWith(".json")).sort();
+    for (const fname of rawFiles) {
+      const body = fs.readFileSync(path.join(rawDir, fname), "utf8");
+      total++;
+      if (await s3Put(s3, `${prefix}/${slug}/raw/${fname}`, body, "application/json")) ok++;
+    }
   }
 
-  console.log(`\n  ✔  ${ok}/${uploads.length} files uploaded for [${profile.key}] ${slug}`);
-  return ok === uploads.length;
+  // ── latest.js ────────────────────────────────────────────────────────────
+  const jsBody = fs.readFileSync(latestJs, "utf8");
+  total++;
+  if (await s3Put(s3, `${prefix}/${slug}/latest.js`, jsBody, "application/javascript")) ok++;
+
+  console.log(`\n  ✔  ${ok}/${total} files uploaded for [${profile.key}] ${slug}`);
+  return ok === total;
 }
 
 // ── Entry point ───────────────────────────────────────────────────────────────
