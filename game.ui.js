@@ -228,6 +228,16 @@ function updateFuelHud() {
     if (rel) rel.textContent = '⛽ ' + fuelDrops;
 }
 
+function timeAgo(isoString) {
+    if (!isoString) return '';
+    var diff = Math.floor((Date.now() - new Date(isoString).getTime()) / 1000);
+    if (diff < 0) diff = 0;
+    if (diff < 300)  return '<5 min ago';
+    if (diff < 3600) return Math.floor(diff / 60) + ' min ago';
+    if (diff < 86400) return Math.floor(diff / 3600) + ' h ago';
+    return Math.floor(diff / 86400) + ' d ago';
+}
+
 function showCarPopup(listing) {
     if (!listing) return;
     // Earn a fuel drop the first time this listing is seen
@@ -246,6 +256,8 @@ function showCarPopup(listing) {
     Dom.get('car_popup_salary').innerHTML  = (listing.salary  || 'Salary not disclosed') + (icons ? '<span class="salary-icons">' + icons + '</span>' : '');
     Dom.get('car_popup_company').innerHTML = listing.company || '';
     Dom.get('car_popup_loc').innerHTML     = listing.location || '';
+    var pubEl = Dom.get('car_popup_pub');
+    if (pubEl) pubEl.innerHTML = listing.lastPublicated ? '<span class="pub-ago">' + timeAgo(listing.lastPublicated) + '</span>' : '';
     // Dev info: id
     var idEl = Dom.get('car_popup_id');
     if (idEl) idEl.textContent = listing.id ? '#' + listing.id : '';
@@ -379,6 +391,12 @@ function showResults() {
                         bv.textContent = '👁 Seen';
                         bdg.appendChild(bv);
 
+                        if (j.lastPublicated) {
+                            var pa = document.createElement('span');
+                            pa.className = 'pub-ago';
+                            pa.textContent = timeAgo(j.lastPublicated);
+                            inf.appendChild(pa);
+                        }
                         inf.appendChild(sal);
                         inf.appendChild(bdg);
                         r.appendChild(t);
@@ -437,6 +455,12 @@ function showResults() {
                 badges.appendChild(b);
             }
 
+            if (job && job.lastPublicated) {
+                var pubAgo = document.createElement('span');
+                pubAgo.className = 'pub-ago';
+                pubAgo.textContent = timeAgo(job.lastPublicated);
+                info.appendChild(pubAgo);
+            }
             info.appendChild(salary);
             info.appendChild(badges);
             row.appendChild(title);

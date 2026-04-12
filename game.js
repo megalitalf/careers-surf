@@ -265,13 +265,25 @@ function render() {
                     ctx.fillStyle = '#ffe066';
                     ctx.fillText(salaryText, labelX, labelY);
 
+                    // Published-ago label (above salary, always visible)
+                    var agoText  = listing.lastPublicated ? timeAgo(listing.lastPublicated) : '';
+                    var agoSize  = Math.max(8, Math.round(priceSize * 0.65));
+                    if (agoText) {
+                        ctx.font      = 'bold ' + agoSize + 'px Arial';
+                        ctx.fillStyle = 'rgba(0,0,0,0.55)';
+                        ctx.fillText(agoText, labelX + 1, labelY - priceSize + 1);
+                        ctx.fillStyle = '#4ade80';
+                        ctx.fillText(agoText, labelX, labelY - priceSize);
+                    }
+
                     // Name label — only when truck is large enough (close)
                     if (sh > 28) {
+                        var nameOffsetY = labelY - priceSize - (agoText ? agoSize : 0);
                         ctx.font      = nameSize + 'px Arial';
                         ctx.fillStyle = 'rgba(0,0,0,0.55)';
-                        ctx.fillText(listing.title, labelX + 1, labelY - priceSize + 1);
+                        ctx.fillText(listing.title, labelX + 1, nameOffsetY + 1);
                         ctx.fillStyle = '#ffffff';
-                        ctx.fillText(listing.title, labelX, labelY - priceSize);
+                        ctx.fillText(listing.title, labelX, nameOffsetY);
                     }
 
                     // Arc loader — shown while follow timer is counting for this truck

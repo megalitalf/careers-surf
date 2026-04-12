@@ -405,6 +405,13 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     opacity: 0.35;
     cursor: not-allowed;
 }
+.pub-ago {
+    color: #4ade80;
+    font-size: 0.78em;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
 #car_popup_close {
     position: absolute;
     top: 10px; right: 14px;
