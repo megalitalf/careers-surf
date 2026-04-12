@@ -36,26 +36,33 @@ module.exports = {
 
   // ── Search profiles ──────────────────────────────────────────────────────────
   searches: {
-    "01": {
-      label:      "Warsaw – all",
-      location:   "Warsaw",
+    // "01": {
+    //   label:      "Warsaw – all",
+    //   location:   "Warsaw",
+    //   radius:     30,
+    //   pages:      1,
+    //   outputSlug: "warsaw",
+    // },
+    // "02": {
+    //   label:      "Kraków – all",
+    //   location:   "Krakow",
+    //   radius:     30,
+    //   pages:      1,
+    //   outputSlug: "krakow",
+    // },
+    // "03": {
+    //   label:      "Szczecin – all",
+    //   location:   "Szczecin",
+    //   radius:     30,
+    //   pages:      1,
+    //   outputSlug: "szczecin",
+    // },
+    "04": {
+      label:      "Lodz – all",
+      location:   "Lodz",
       radius:     30,
       pages:      1,
-      outputSlug: "warsaw",
-    },
-    "02": {
-      label:      "Kraków – all",
-      location:   "Krakow",
-      radius:     30,
-      pages:      1,
-      outputSlug: "krakow",
-    },
-    "03": {
-      label:      "Szczecin – all",
-      location:   "Szczecin",
-      radius:     30,
-      pages:      1,
-      outputSlug: "szczecin",
+      outputSlug: "lodz",
     },
     // ── Keyword / non-location examples (uncomment to activate) ──────────────
     // "04": {
@@ -153,11 +160,11 @@ module.exports = {
 
   // ── Output ───────────────────────────────────────────────────────────────────
   // Pipeline phases write here.  Structure per profile:
-  //   output/<slug>/raw/<timestamp>.json   ← phase 1 (scrape)
-  //   output/<slug>/latest.json            ← phase 2 (normalize)
-  //   output/<slug>/latest.js             ← phase 2 (normalize)
+  //   cities/<slug>/raw/<timestamp>.json   ← phase 1 (scrape)
+  //   cities/<slug>/latest.json            ← phase 2 (normalize)
+  //   cities/<slug>/latest.js             ← phase 2 (normalize)
   output: {
-    dir: "../output",         // relative to scraper/; created automatically
+    dir: "../cities",         // relative to scraper/; created automatically
   },
 
   // Legacy paths — kept for backward compat with old scripts and the UI

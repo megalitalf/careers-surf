@@ -139,7 +139,7 @@ function classifyPositionLevel(positionLevels) {
 // outputDir(CFG, profile) → absolute path to output/<slug>/
 function outputDir(CFG, profile) {
   const slug = profile.outputSlug || toSlug(profile.label || profile.key);
-  return path.resolve(path.join(__dirname, "../.."), CFG.output.dir, slug);
+  return path.resolve(path.join(__dirname, ".."), CFG.output.dir, slug);
 }
 
 // rawDir(CFG, profile) → output/<slug>/raw/
