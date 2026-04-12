@@ -330,6 +330,8 @@ function showResults() {
         }
     }
 
+    var finishLineInserted = false;
+
     for (var i = 0; i < batch.length; i++) {
         var job = batch[i];
         var jobKey  = job && job.id;
@@ -337,6 +339,16 @@ function showResults() {
         var seen    = jobKey && seenListings.has(job.id);
         var passed  = jobKey && passedListings.has(job.id);
         var engaged = clicked || seen;
+        var reached = engaged || passed;
+
+        // Insert finish line divider before the first truly-unreached truck
+        if (!reached && !finishLineInserted) {
+            finishLineInserted = true;
+            var divider = document.createElement('div');
+            divider.className = 'results-finish-line';
+            divider.innerHTML = '<span class="results-finish-flag">🏁</span><span class="results-finish-label">Finish line</span><span class="results-finish-flag">🏁</span>';
+            list.appendChild(divider);
+        }
 
         var row = document.createElement('div');
         var salaryIcons = (job && job.salaryAvg) ? salaryDollarIcons(job.salaryAvg, resultsMedian) : '';

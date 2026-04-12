@@ -610,6 +610,35 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     border: 1px solid rgba(46,204,113,0.45);
 }
 
+.results-finish-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 8px 0 4px;
+    color: rgba(255,255,255,0.35);
+    font-size: 0.7em;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+.results-finish-line::before,
+.results-finish-line::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: repeating-linear-gradient(
+        90deg,
+        rgba(255,255,255,0.3) 0px, rgba(255,255,255,0.3) 6px,
+        transparent 6px, transparent 12px
+    );
+}
+.results-finish-flag {
+    font-size: 1.1em;
+    line-height: 1;
+}
+.results-finish-label {
+    white-space: nowrap;
+}
+
 .results-next-btn {
     width: 100%;
     padding: 15px;
