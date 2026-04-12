@@ -14,9 +14,10 @@ function initMenu() {
         // ── City combobox ──────────────────────────────────────────────
         var cities = (window._CITIES && window._CITIES.length) ? window._CITIES : [];
         var selectedCity = cities.length ? cities[0].slug : null;
-        var input   = document.getElementById('menu-city-input');
-        var listEl  = document.getElementById('menu-city-list');
+        var input    = document.getElementById('menu-city-input');
+        var listEl   = document.getElementById('menu-city-list');
         var focusIdx = -1;
+        var prevCity = { slug: selectedCity, label: cities.length ? cities[0].label : '' };
 
         // Seed input with default
         if (cities.length) input.value = cities[0].label;
@@ -49,8 +50,16 @@ function initMenu() {
         }
 
         function selectCity(slug, label) {
-            selectedCity    = slug;
-            input.value     = label;
+            selectedCity = slug;
+            prevCity     = { slug: slug, label: label };
+            input.value  = label;
+            listEl.classList.remove('open');
+            input.blur();
+        }
+
+        function cancelSelect() {
+            selectedCity = prevCity.slug;
+            input.value  = prevCity.label;
             listEl.classList.remove('open');
         }
 
@@ -64,34 +73,28 @@ function initMenu() {
         }
 
         input.addEventListener('focus', function() {
-            renderList(input.value);
+            input.value = '';          // clear so user sees full list / can type freely
+            renderList('');
             listEl.classList.add('open');
         });
         input.addEventListener('input', function() {
-            selectedCity = null; // cleared until user picks
             renderList(input.value);
             listEl.classList.add('open');
         });
         input.addEventListener('keydown', function(e) {
-            if (e.key === 'ArrowDown')  { e.preventDefault(); moveFocus(+1); }
-            else if (e.key === 'ArrowUp')   { e.preventDefault(); moveFocus(-1); }
+            if (e.key === 'ArrowDown')       { e.preventDefault(); moveFocus(+1); }
+            else if (e.key === 'ArrowUp')    { e.preventDefault(); moveFocus(-1); }
             else if (e.key === 'Enter') {
                 var focused = listEl.querySelector('li.focused');
                 if (focused && focused.dataset.slug) selectCity(focused.dataset.slug, focused.dataset.label);
+                else cancelSelect();
                 listEl.classList.remove('open');
             }
-            else if (e.key === 'Escape') { listEl.classList.remove('open'); }
+            else if (e.key === 'Escape')     { cancelSelect(); }
         });
         input.addEventListener('blur', function() {
             // short delay so mousedown on list fires first
-            setTimeout(function() {
-                listEl.classList.remove('open');
-                // if nothing valid selected, revert to previous or first
-                if (!selectedCity && cities.length) {
-                    selectedCity = cities[0].slug;
-                    input.value  = cities[0].label;
-                }
-            }, 150);
+            setTimeout(function() { cancelSelect(); }, 150);
         });
         // ──────────────────────────────────────────────────────────────
 
