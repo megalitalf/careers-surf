@@ -1,0 +1,4 @@
+{"city":"Warsaw","pages":1,"exitCode":0,"durationSec":23,"ts":"2026-04-12T13:32:14.499Z"}
+{"city":"Krakow","pages":1,"exitCode":0,"durationSec":14.8,"ts":"2026-04-12T13:34:14.289Z"}
+{"city":"Szczecin","pages":1,"exitCode":0,"durationSec":17,"ts":"2026-04-12T13:36:09.121Z"}
+{"event":"run_complete","cities":["Warsaw","Krakow","Szczecin"],"totalErrors":0,"totalSec":257.7,"ts":"2026-04-12T13:36:09.122Z"}
