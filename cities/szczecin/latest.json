@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "https://www.pracuj.pl/praca?sal=1&wp=Szczecin&rd=30&latitude=53.4301818&longitude=14.5509623",
-    "scrapedAt": "2026-04-12T13:36:09.114Z",
+    "scrapedAt": "2026-04-12T14:34:46.428Z",
     "pages": 1,
     "total": 51,
     "errors": 0,
@@ -9,6 +9,17 @@
     "radius": 30
   },
   "listings": [
+    {
+      "id": "1004748234",
+      "title": "Przedstawiciel/ka handlowy/a OZE",
+      "salary": "10 000–20 000 zł netto (+ VAT) / mies.",
+      "salaryAvg": 15000,
+      "company": "Eco Run Spółka Akcyjna",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Sprzedaż rozwiązań energetycznych dla klientów indywidualnych (PV, magazyny energii, pompy ciepła, termomodernizacja)., Prowadzenie spotkań handlowych na gotowych leadach., Analiza potrzeb klienta i dobór optymalnych...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-ka-handlowy-a-oze-szczecin,oferta,1004748234",
+      "jobLevel": "specialist"
+    },
     {
       "id": "1004718149",
       "title": "Kierowca / Kierowczyni wózka widłowego",
@@ -558,17 +569,6 @@
       "description": "Twój zakres obowiązków, Tworzyć i rozwijać trwałe relacje z klientami biznesowymi., Aktywnie wyszukiwać nowe możliwości i prowadzić klientów przez cały proces zakupowy., Przygotowywać oferty, które naprawdę robią wrażenie i odpowiadają potrzebom...",
       "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-w-branzy-energetycznej-szczecin,oferta,1004712635",
       "jobLevel": "specialist"
-    },
-    {
-      "id": "1004739351",
-      "title": "Zastępca kierownika sklepu (m/k/x) ul. Szczecińska 5",
-      "salary": "6 850 zł brutto / mies.",
-      "salaryAvg": 6850,
-      "company": "ALDI Polska",
-      "location": "Dobra (pow. policki)",
-      "description": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
-      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-szczecinska-5-dobra-pow-policki-szczecinska-5b,oferta,1004739351",
-      "jobLevel": "manager"
     }
   ]
 }

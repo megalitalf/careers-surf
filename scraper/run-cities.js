@@ -3,22 +3,22 @@
 /**
  * scraper/run-cities.js
  * ─────────────────────
- * Iterates every city defined in scraper.config.js and runs scrape_jobs.js
- * for each one sequentially with a human-paced inter-city gap.
+ * Iterates every search profile defined in scraper.config.js and runs
+ * scrape_jobs.js for each one sequentially with a human-paced gap.
  *
  * Features:
  *   • Lock file  — prevents concurrent runs if cron fires while a run is live
  *   • Run log    — appends one JSON line per completed run to scraper.log
- *   • Per-city overrides — pages / radius set in config per city
+ *   • Per-profile overrides — all params set in config per search key
  *   • Graceful shutdown  — removes lock on SIGINT / SIGTERM
  *
  * Usage:
- *   node run-cities.js                     # scrape all cities in config
- *   node run-cities.js --cities Warsaw,Krakow   # override city list
- *   node run-cities.js --pages 2           # override pages for all cities
- *   node run-cities.js --dry-run           # print plan, don't scrape
+ *   node run-cities.js                        # run all enabled profiles
+ *   node run-cities.js --searches 01,03       # run specific profiles by key
+ *   node run-cities.js --pages 2              # override pages for all profiles
+ *   node run-cities.js --dry-run              # print plan, don't scrape
  *
- * Cron example (every 4 hours, log to file):
+ * Cron example (every 4 hours):
  *   0 *\/4 * * *  cd /path/to/careers-surf && bash scraper/scrape.sh >> scraper/cron.log 2>&1
  */
 
@@ -33,18 +33,23 @@ const args    = process.argv.slice(2);
 const getArg  = (flag, fallback) => { const i = args.indexOf(flag); return i !== -1 && args[i + 1] ? args[i + 1] : fallback; };
 const hasFlag = (flag) => args.includes(flag);
 
-const DRY_RUN       = hasFlag("--dry-run");
-const PAGE_OVERRIDE = getArg("--pages",    "");
-const CITY_OVERRIDE = getArg("--cities",   "");  // comma-separated
+const DRY_RUN        = hasFlag("--dry-run");
+const PAGE_OVERRIDE  = getArg("--pages",    "");
+const SEARCH_FILTER  = getArg("--searches", "");  // comma-separated keys, e.g. "01,03"
 
-// Build city list: CLI override > config
-let cities = CFG.cities;
-if (CITY_OVERRIDE) {
-  cities = CITY_OVERRIDE.split(",").map(c => ({ name: c.trim(), pages: CFG.defaultPages, radius: CFG.defaultRadius }));
+// Build the list of profiles to run: CLI filter > all enabled in config
+const allSearches = CFG.searches;
+let searchKeys = Object.keys(allSearches).filter(k => allSearches[k].enabled !== false);
+
+if (SEARCH_FILTER) {
+  searchKeys = SEARCH_FILTER.split(",").map(s => s.trim()).filter(k => {
+    if (!allSearches[k]) { console.warn(`⚠   Unknown search key "${k}" — skipping`); return false; }
+    return true;
+  });
 }
-if (PAGE_OVERRIDE) {
-  cities = cities.map(c => ({ ...c, pages: parseInt(PAGE_OVERRIDE, 10) }));
-}
+
+const searches = searchKeys.map(key => ({ key, ...allSearches[key] }));
+if (PAGE_OVERRIDE) searches.forEach(s => { s.pages = parseInt(PAGE_OVERRIDE, 10); });
 
 // ── Paths ─────────────────────────────────────────────────────────────────────
 const LOCK_FILE = path.resolve(__dirname, CFG.orchestrator.lockFile);
@@ -89,30 +94,35 @@ function appendLog(entry) {
   fs.appendFileSync(LOG_FILE, line, "utf8");
 }
 
-// ── Run a single city scrape as a child process ───────────────────────────────
-function scrapeCity(city) {
-  const cityArgs = [
+// ── Run a single search profile as a child process ───────────────────────────
+function scrapeSearch(search) {
+  const searchArgs = [
     SCRAPER,
-    "--city",  city.name,
-    "--pages", String(city.pages  ?? CFG.defaultPages),
-    "--radius", String(city.radius ?? CFG.defaultRadius),
+    "--search", search.key,
   ];
 
+  // Per-profile page override (from --pages CLI flag)
+  if (PAGE_OVERRIDE) searchArgs.push("--pages", String(search.pages));
+
   // Pass through S3 config if set
-  if (process.env.S3_BUCKET)  cityArgs.push("--s3-bucket", process.env.S3_BUCKET);
-  if (process.env.S3_PREFIX)  cityArgs.push("--s3-prefix", process.env.S3_PREFIX);
+  if (process.env.S3_BUCKET) searchArgs.push("--s3-bucket", process.env.S3_BUCKET);
+  if (process.env.S3_PREFIX) searchArgs.push("--s3-prefix", process.env.S3_PREFIX);
 
   console.log(`\n${"─".repeat(60)}`);
-  console.log(`🏙   City: ${city.name}  (pages=${city.pages}, radius=${city.radius}km)`);
+  console.log(`🔑  [${search.key}] ${search.label || search.key}`);
+  if (search.location) console.log(`   📍  location=${search.location}  radius=${search.radius ?? CFG.defaultRadius}km`);
+  if (search.keyword)  console.log(`   🔤  keyword="${search.keyword}"`);
+  if (search.workMode) console.log(`   💼  workMode=${search.workMode}`);
+  console.log(`   📄  pages=${search.pages ?? CFG.defaultPages}  outputSlug=${search.outputSlug || "—"}`);
   console.log(`${"─".repeat(60)}\n`);
 
   const start = Date.now();
   let exitCode = 0;
 
   try {
-    execFileSync(process.execPath, cityArgs, {
-      stdio: "inherit",       // stream output live to parent terminal
-      env:   process.env,     // pass all env vars (AWS creds, proxy, etc.)
+    execFileSync(process.execPath, searchArgs, {
+      stdio: "inherit",
+      env:   process.env,
       cwd:   __dirname,
     });
   } catch (err) {
@@ -121,47 +131,42 @@ function scrapeCity(city) {
   }
 
   const duration = ((Date.now() - start) / 1000).toFixed(1);
-  appendLog({ city: city.name, pages: city.pages, exitCode, durationSec: parseFloat(duration) });
-  console.log(`\n⏱   ${city.name} done in ${duration}s  (exit ${exitCode})`);
+  appendLog({ key: search.key, label: search.label, exitCode, durationSec: parseFloat(duration) });
+  console.log(`\n⏱   [${search.key}] done in ${duration}s  (exit ${exitCode})`);
   return exitCode;
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 async function main() {
-  console.log(`\n🚀  run-cities.js — ${cities.length} city/cities queued`);
-  console.log(`   Cities: ${cities.map(c => c.name).join(", ")}`);
+  console.log(`\n🚀  run-cities.js — ${searches.length} search profile(s) queued`);
+  searches.forEach(s => console.log(`   [${s.key}] ${s.label || s.key}`));
+
   if (DRY_RUN) {
     console.log("\n⚙   DRY RUN — no scraping will happen\n");
-    cities.forEach((c, i) => {
-      const gapMs = i < cities.length - 1
-        ? CFG.timing.interCityCenter
-        : 0;
-      console.log(`  [${i + 1}] ${c.name}  pages=${c.pages}  radius=${c.radius}km  gap_after≈${(gapMs/1000).toFixed(0)}s`);
+    searches.forEach((s, i) => {
+      const gapMs = i < searches.length - 1 ? CFG.timing.interCityCenter : 0;
+      const loc   = s.location ? `location=${s.location}` : s.keyword ? `keyword="${s.keyword}"` : "no filter";
+      console.log(`  [${s.key}] ${s.label || s.key}  —  ${loc}  pages=${s.pages ?? CFG.defaultPages}  gap_after≈${(gapMs/1000).toFixed(0)}s`);
     });
     return;
   }
 
   acquireLock();
-
-  // Remove lock on clean exit or signals
-  const cleanup = () => { releaseLock(); };
-  process.on("exit",    cleanup);
-  process.on("SIGINT",  () => { cleanup(); process.exit(130); });
-  process.on("SIGTERM", () => { cleanup(); process.exit(143); });
+  process.on("exit",    () => releaseLock());
+  process.on("SIGINT",  () => { releaseLock(); process.exit(130); });
+  process.on("SIGTERM", () => { releaseLock(); process.exit(143); });
 
   const runStart = Date.now();
-  let totalListings = 0;
-  let totalErrors   = 0;
+  let totalErrors = 0;
 
-  for (let i = 0; i < cities.length; i++) {
-    const city = cities[i];
-    const exitCode = scrapeCity(city);
+  for (let i = 0; i < searches.length; i++) {
+    const search = searches[i];
+    const exitCode = scrapeSearch(search);
     if (exitCode !== 0) totalErrors++;
 
-    // Inter-city human gap (skip after last city)
-    if (i < cities.length - 1) {
+    if (i < searches.length - 1) {
       const gapSec = (CFG.timing.interCityCenter / 1000).toFixed(0);
-      console.log(`\n😴  Waiting ~${gapSec}s before next city (human pace) ...`);
+      console.log(`\n😴  Waiting ~${gapSec}s before next search profile (human pace) ...`);
       await humanDelay({
         center: CFG.timing.interCityCenter,
         spread: CFG.timing.interCitySpread,
@@ -173,10 +178,10 @@ async function main() {
 
   const totalSec = ((Date.now() - runStart) / 1000).toFixed(1);
   console.log(`\n${"═".repeat(60)}`);
-  console.log(`✅  All cities done in ${totalSec}s — ${totalErrors} city run(s) with errors`);
+  console.log(`✅  All profiles done in ${totalSec}s — ${totalErrors} profile(s) with errors`);
   console.log(`${"═".repeat(60)}\n`);
 
-  appendLog({ event: "run_complete", cities: cities.map(c => c.name), totalErrors, totalSec: parseFloat(totalSec) });
+  appendLog({ event: "run_complete", keys: searches.map(s => s.key), totalErrors, totalSec: parseFloat(totalSec) });
   releaseLock();
 }
 

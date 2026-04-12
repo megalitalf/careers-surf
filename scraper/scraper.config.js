@@ -2,29 +2,91 @@
  * scraper.config.js
  * ─────────────────
  * Single source of truth for all scraper tunables.
- * CLI flags and env vars always take precedence over these defaults.
+ * CLI flags always take precedence over these defaults.
  *
  * Edit here — never hardcode values in scrape_jobs.js or run-cities.js.
+ *
+ * ── How search profiles work ─────────────────────────────────────────────────
+ * Each entry in `searches` is a named profile with a short string key.
+ * Run a single profile:   node scrape_jobs.js --search 01
+ * Run all profiles:       node run-cities.js           (loops every enabled one)
+ * Run a subset:           node run-cities.js --searches 01,03
+ * Dry-run:                node run-cities.js --dry-run
+ *
+ * Profile fields (all optional except `label`):
+ *   label        Human-readable name shown in logs
+ *   location     City name or postcode — geocoded via Nominatim
+ *   radius       Search radius in km (default: 30)
+ *   keyword      Free-text keyword added to the search URL (?q=...)
+ *   category     pracuj.pl category ID or slug (?cc=...)
+ *   contractType e.g. "permanent", "b2b" (?ct=...)
+ *   workMode     e.g. "remote", "hybrid" (?wm=...)
+ *   salaryOnly   true = add ?sal=1 (default: global salaryOnly below)
+ *   pages        How many listing pages to scrape (default: 1)
+ *   enrich       true = fetch each job detail page for categories
+ *   outputSlug   Folder name under cities/  (default: slugified label)
+ *   enabled      false = skip in full runs (default: true)
  */
 
 module.exports = {
 
   // ── Target ──────────────────────────────────────────────────────────────────
   baseUrl:    "https://www.pracuj.pl/praca",
-  salaryOnly: true,           // adds ?sal=1 — pass --no-salary to disable
+  salaryOnly: true,   // global default — overridable per-profile
 
-  // ── Cities to scrape in a full run (node run-cities.js) ────────────────────
-  // Each entry becomes --city <name>.  Per-city overrides are supported:
-  //   { name: "Szczecin", pages: 2, radius: 50 }
-  cities: [
-    { name: "Warsaw",   pages: 1, radius: 30 },
-    { name: "Krakow",   pages: 1, radius: 30 },
-    { name: "Szczecin", pages: 1, radius: 30 },
-  ],
+  // ── Search profiles ──────────────────────────────────────────────────────────
+  searches: {
+    "01": {
+      label:      "Warsaw – all",
+      location:   "Warsaw",
+      radius:     30,
+      pages:      1,
+      outputSlug: "warsaw",
+    },
+    "02": {
+      label:      "Kraków – all",
+      location:   "Krakow",
+      radius:     30,
+      pages:      1,
+      outputSlug: "krakow",
+    },
+    "03": {
+      label:      "Szczecin – all",
+      location:   "Szczecin",
+      radius:     30,
+      pages:      1,
+      outputSlug: "szczecin",
+    },
+    // ── Keyword / non-location examples (uncomment to activate) ──────────────
+    // "04": {
+    //   label:      "Remote – IT",
+    //   keyword:    "developer",
+    //   workMode:   "remote",
+    //   salaryOnly: true,
+    //   pages:      2,
+    //   outputSlug: "remote-it",
+    // },
+    // "05": {
+    //   label:      "Warsaw – Senior React",
+    //   location:   "Warsaw",
+    //   radius:     20,
+    //   keyword:    "react",
+    //   pages:      1,
+    //   outputSlug: "warsaw-react",
+    // },
+    // "06": {
+    //   label:      "Whole Poland – B2B DevOps",
+    //   keyword:    "devops",
+    //   contractType: "b2b",
+    //   salaryOnly: false,
+    //   pages:      3,
+    //   outputSlug: "pl-devops-b2b",
+    // },
+  },
 
-  // ── Paging ──────────────────────────────────────────────────────────────────
-  defaultPages:  1,           // --pages default
-  defaultRadius: 30,          // --radius default (km)
+  // ── Defaults (used when a profile doesn't specify the field) ────────────────
+  defaultPages:  1,
+  defaultRadius: 30,
 
   // ── Timing — all values in milliseconds ─────────────────────────────────────
   timing: {

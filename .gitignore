@@ -4,3 +4,15 @@ images/ref_images/
 config.json
 jobs.json
 jobs.js
+
+# ── Scraper — secrets & generated files ──────────────────────────────────────
+scraper/.env
+scraper/profile/
+scraper/scraper.lock
+scraper/scraper.log
+scraper/cron.log
+
+# ── AWS credential exports & key CSVs (never commit these) ───────────────────
+*.csv
+*_accessKeys*
+*_credentials*

@@ -35,29 +35,49 @@ const args    = process.argv.slice(2);
 const getArg  = (flag, fallback) => { const i = args.indexOf(flag); return i !== -1 && args[i + 1] ? args[i + 1] : fallback; };
 const hasFlag = (flag) => args.includes(flag);
 
-const TOTAL_PAGES  = parseInt(getArg("--pages",       String(CFG.defaultPages)),  10);
+// ── Resolve search profile ────────────────────────────────────────────────────
+// --search <key>  loads everything from config (location, keyword, pages, etc.)
+// Individual flags (--city, --location, --pages …) still work as before and
+// override whatever the profile sets, so backward compat is fully preserved.
+const SEARCH_KEY = getArg("--search", "");
+const _profile   = SEARCH_KEY ? (CFG.searches[SEARCH_KEY] || (() => {
+  console.error(`❌  Unknown search key "${SEARCH_KEY}". Available: ${Object.keys(CFG.searches).join(", ")}`);
+  process.exit(1);
+})()) : {};
+
+if (SEARCH_KEY) {
+  console.log(`\n🔑  Search profile [${SEARCH_KEY}]: ${_profile.label || SEARCH_KEY}`);
+}
+
+const TOTAL_PAGES  = parseInt(getArg("--pages",  String(_profile.pages   ?? CFG.defaultPages)),  10);
 const OUT_FILE     = getArg("--out", path.resolve(__dirname, CFG.flatOutFile));
 const HEADLESS     = !hasFlag("--visible");
-const ENRICH       = hasFlag("--enrich");
-const CITY         = getArg("--city", "");
+const ENRICH       = hasFlag("--enrich") || !!_profile.enrich;
+// --city still accepted for backward compat; --search outputSlug is preferred
+const CITY         = getArg("--city", _profile.outputSlug || "");
 const CITIES_DIR   = path.resolve(__dirname, getArg("--cities-dir", CFG.citiesDir));
 const S3_BUCKET    = getArg("--s3-bucket", CFG.s3.bucket);
 const S3_PREFIX    = getArg("--s3-prefix", CFG.s3.jobsPrefix);
 const S3_REGION    = CFG.s3.region;
-const SALARY_ONLY  = !hasFlag("--no-salary") && CFG.salaryOnly;
+const SALARY_ONLY  = !hasFlag("--no-salary") && (_profile.salaryOnly ?? CFG.salaryOnly);
 
+// Location: CLI flag > profile.location > profile.outputSlug > config.json fallback
 const _locArg      = getArg("--location", "");
 const _radiusArg   = getArg("--radius", "");
-
-// config.json fallback (same as original — backward compat)
 const _jsonConfig  = (() => {
   try { return JSON.parse(fs.readFileSync(path.join(__dirname, "..", "config.json"), "utf8")); }
   catch (_) { return {}; }
 })();
-const LOCATION     = _locArg || CITY || _jsonConfig.location?.query || "";
+const LOCATION     = _locArg || _profile.location || _jsonConfig.location?.query || "";
 const RADIUS       = _radiusArg
   ? parseInt(_radiusArg, 10)
-  : (_jsonConfig.location?.radius ?? CFG.defaultRadius);
+  : (_profile.radius ?? _jsonConfig.location?.radius ?? CFG.defaultRadius);
+
+// Extra URL params from profile
+const KEYWORD       = getArg("--keyword",      _profile.keyword      || "");
+const CATEGORY      = getArg("--category",     _profile.category     || "");
+const CONTRACT_TYPE = getArg("--contract",     _profile.contractType || "");
+const WORK_MODE     = getArg("--work-mode",    _profile.workMode     || "");
 
 // ── Timing helpers ────────────────────────────────────────────────────────────
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -99,7 +119,11 @@ function geocode(query) {
 // ── Build the base search URL ─────────────────────────────────────────────────
 async function buildBaseUrl() {
   const params = new URLSearchParams();
-  if (SALARY_ONLY) params.set("sal", "1");
+  if (SALARY_ONLY)    params.set("sal", "1");
+  if (KEYWORD)        params.set("q",   KEYWORD);
+  if (CATEGORY)       params.set("cc",  CATEGORY);
+  if (CONTRACT_TYPE)  params.set("ct",  CONTRACT_TYPE);
+  if (WORK_MODE)      params.set("wm",  WORK_MODE);
 
   if (LOCATION) {
     const cached = _jsonConfig.location?.query === LOCATION ? _jsonConfig.location : null;
@@ -302,10 +326,11 @@ function toSlug(name) {
 async function main() {
   const BASE_URL = await buildBaseUrl();
   const locationLabel = LOCATION ? `${LOCATION} ±${RADIUS}km` : "whole Poland";
+  const keywordLabel  = KEYWORD  ? `  keyword="${KEYWORD}"` : "";
   console.log(
     `\n🔍  Scraping pracuj.pl` +
-    `  pages=${TOTAL_PAGES}  headless=${HEADLESS}  salary=${SALARY_ONLY}` +
-    `  location=${locationLabel}  enrich=${ENRICH}\n`
+    `  profile=${SEARCH_KEY || "—"}  pages=${TOTAL_PAGES}  headless=${HEADLESS}` +
+    `  salary=${SALARY_ONLY}  location=${locationLabel}${keywordLabel}  enrich=${ENRICH}\n`
   );
 
   // ── Session profile dir — persists cookies/CF clearance across runs ─────────
