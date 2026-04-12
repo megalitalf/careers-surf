@@ -234,7 +234,11 @@ function timeAgo(isoString) {
     if (diff < 0) diff = 0;
     if (diff < 300)  return '<5 min ago';
     if (diff < 3600) return Math.floor(diff / 60) + ' min ago';
-    if (diff < 86400) return Math.floor(diff / 3600) + ' h ago';
+    if (diff < 7200) {
+        var m = Math.floor((diff % 3600) / 60);
+        return '1h ' + (m > 0 ? m + 'm ' : '') + 'ago';
+    }
+    if (diff < 86400) return Math.floor(diff / 3600) + 'h+ ago';
     return Math.floor(diff / 86400) + ' d ago';
 }
 
