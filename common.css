@@ -104,7 +104,7 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     margin-bottom: 32px;
 }
 
-/* City dropdown selector */
+/* City combobox */
 #menu-city-wrap {
     width: 100%;
     margin-bottom: 28px;
@@ -118,9 +118,14 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     text-transform: uppercase;
     margin-bottom: 10px;
 }
-#menu-city-select {
+#menu-city-combo {
+    position: relative;
     width: 100%;
-    padding: 11px 14px;
+}
+#menu-city-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 11px 38px 11px 14px;
     font-size: 0.95em;
     font-family: Arial, sans-serif;
     font-weight: 700;
@@ -129,23 +134,56 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     border: 1.5px solid rgba(255,255,255,0.18);
     border-radius: 8px;
     color: #ccc;
-    cursor: pointer;
-    appearance: none;
-    -webkit-appearance: none;
+    cursor: text;
+    outline: none;
+    transition: border-color 0.15s, color 0.15s;
+    /* chevron icon */
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23aaa' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 14px center;
-    transition: border-color 0.15s, color 0.15s;
 }
-#menu-city-select:hover,
-#menu-city-select:focus {
-    outline: none;
+#menu-city-input:hover,
+#menu-city-input:focus {
     border-color: #72D7EE;
     color: #fff;
 }
-#menu-city-select option {
+#menu-city-list {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    right: 0;
+    margin: 0;
+    padding: 6px 0;
+    list-style: none;
     background: #1a1a2e;
+    border: 1.5px solid rgba(114,215,238,0.35);
+    border-radius: 8px;
+    z-index: 999;
+    max-height: 220px;
+    overflow-y: auto;
+}
+#menu-city-list.open {
+    display: block;
+}
+#menu-city-list li {
+    padding: 10px 14px;
+    font-family: Arial, sans-serif;
+    font-size: 0.95em;
+    font-weight: 700;
     color: #ccc;
+    cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+}
+#menu-city-list li:hover,
+#menu-city-list li.focused {
+    background: rgba(114,215,238,0.14);
+    color: #72D7EE;
+}
+#menu-city-list li[data-empty] {
+    color: #666;
+    font-weight: 400;
+    cursor: default;
 }
 
 /* Start button */

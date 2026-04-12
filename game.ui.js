@@ -11,26 +11,87 @@ function initMenu() {
     if (!menuEl.dataset.init) {
         menuEl.dataset.init = '1';
 
-        // ── City dropdown ──────────────────────────────────────────────
+        // ── City combobox ──────────────────────────────────────────────
         var cities = (window._CITIES && window._CITIES.length) ? window._CITIES : [];
-        var selectedCity = null;
-        var select = document.getElementById('menu-city-select');
+        var selectedCity = cities.length ? cities[0].slug : null;
+        var input   = document.getElementById('menu-city-input');
+        var listEl  = document.getElementById('menu-city-list');
+        var focusIdx = -1;
 
-        // Build <option> list from window._CITIES
-        cities.forEach(function(c) {
-            var opt = document.createElement('option');
-            opt.value       = c.slug;
-            opt.textContent = c.label;
-            select.appendChild(opt);
-        });
+        // Seed input with default
+        if (cities.length) input.value = cities[0].label;
 
-        // Default to first entry
-        if (cities.length) {
-            selectedCity = cities[0].slug;
+        function renderList(filter) {
+            var q = (filter || '').toLowerCase().trim();
+            var matches = q
+                ? cities.filter(function(c) { return c.label.toLowerCase().indexOf(q) !== -1; })
+                : cities;
+            listEl.innerHTML = '';
+            focusIdx = -1;
+            if (!matches.length) {
+                var empty = document.createElement('li');
+                empty.textContent = 'No cities found';
+                empty.dataset.empty = '1';
+                listEl.appendChild(empty);
+                return;
+            }
+            matches.forEach(function(c) {
+                var li = document.createElement('li');
+                li.textContent    = c.label;
+                li.dataset.slug   = c.slug;
+                li.dataset.label  = c.label;
+                li.addEventListener('mousedown', function(e) {
+                    e.preventDefault(); // keep focus on input
+                    selectCity(c.slug, c.label);
+                });
+                listEl.appendChild(li);
+            });
         }
 
-        select.addEventListener('change', function() {
-            selectedCity = select.value;
+        function selectCity(slug, label) {
+            selectedCity    = slug;
+            input.value     = label;
+            listEl.classList.remove('open');
+        }
+
+        function moveFocus(dir) {
+            var items = listEl.querySelectorAll('li:not([data-empty])');
+            if (!items.length) return;
+            items[focusIdx] && items[focusIdx].classList.remove('focused');
+            focusIdx = Math.max(0, Math.min(items.length - 1, focusIdx + dir));
+            items[focusIdx].classList.add('focused');
+            items[focusIdx].scrollIntoView({ block: 'nearest' });
+        }
+
+        input.addEventListener('focus', function() {
+            renderList(input.value);
+            listEl.classList.add('open');
+        });
+        input.addEventListener('input', function() {
+            selectedCity = null; // cleared until user picks
+            renderList(input.value);
+            listEl.classList.add('open');
+        });
+        input.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowDown')  { e.preventDefault(); moveFocus(+1); }
+            else if (e.key === 'ArrowUp')   { e.preventDefault(); moveFocus(-1); }
+            else if (e.key === 'Enter') {
+                var focused = listEl.querySelector('li.focused');
+                if (focused && focused.dataset.slug) selectCity(focused.dataset.slug, focused.dataset.label);
+                listEl.classList.remove('open');
+            }
+            else if (e.key === 'Escape') { listEl.classList.remove('open'); }
+        });
+        input.addEventListener('blur', function() {
+            // short delay so mousedown on list fires first
+            setTimeout(function() {
+                listEl.classList.remove('open');
+                // if nothing valid selected, revert to previous or first
+                if (!selectedCity && cities.length) {
+                    selectedCity = cities[0].slug;
+                    input.value  = cities[0].label;
+                }
+            }, 150);
         });
         // ──────────────────────────────────────────────────────────────
 
