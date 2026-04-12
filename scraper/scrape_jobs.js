@@ -28,6 +28,24 @@ const path  = require("path");
 const https = require("https");
 const { S3Client, PutObjectCommand } = require("@aws-sdk/client-s3");
 
+// ── Load scraper/.env before anything reads process.env ──────────────────────
+// Works whether the script is called via npm, scrape.sh, or directly with node.
+// Values already set in the environment (e.g. from the shell) are NOT overridden.
+const _envFile = path.join(__dirname, ".env");
+if (fs.existsSync(_envFile)) {
+  fs.readFileSync(_envFile, "utf8")
+    .split("\n")
+    .forEach(line => {
+      const clean = line.trim();
+      if (!clean || clean.startsWith("#")) return;
+      const eq = clean.indexOf("=");
+      if (eq === -1) return;
+      const key = clean.slice(0, eq).trim();
+      const val = clean.slice(eq + 1).trim();
+      if (key && !(key in process.env)) process.env[key] = val;
+    });
+}
+
 const CFG = require("./scraper.config.js");
 
 // ── CLI args ──────────────────────────────────────────────────────────────────

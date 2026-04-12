@@ -26,6 +26,22 @@ const { execFileSync } = require("child_process");
 const fs   = require("fs");
 const path = require("path");
 
+// ── Load scraper/.env before anything reads process.env ──────────────────────
+const _envFile = path.join(__dirname, ".env");
+if (fs.existsSync(_envFile)) {
+  fs.readFileSync(_envFile, "utf8")
+    .split("\n")
+    .forEach(line => {
+      const clean = line.trim();
+      if (!clean || clean.startsWith("#")) return;
+      const eq = clean.indexOf("=");
+      if (eq === -1) return;
+      const key = clean.slice(0, eq).trim();
+      const val = clean.slice(eq + 1).trim();
+      if (key && !(key in process.env)) process.env[key] = val;
+    });
+}
+
 const CFG = require("./scraper.config.js");
 
 // ── CLI ───────────────────────────────────────────────────────────────────────
