@@ -400,7 +400,6 @@ function showResults() {
                         bdg.className = 'results-badges';
                         var bv = document.createElement('span');
                         bv.className = 'badge badge-opened';
-                        bv.textContent = '👁 Seen';
                         bdg.appendChild(bv);
 
                         inf.appendChild(sal);
@@ -465,7 +464,6 @@ function showResults() {
             } else {
                 var b = document.createElement('span');
                 b.className = 'badge badge-opened';
-                b.textContent = '👁 Seen';
                 badges.appendChild(b);
             }
 
