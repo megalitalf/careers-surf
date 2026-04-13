@@ -343,7 +343,6 @@ function showResults() {
             '<div class="wave-row wave-row-active">' +
                 '<span class="wave-prefix">Now:</span>' +
                 '<span class="wave-name">' + city + ' Market ' + fmtHour(currentWaveHour) + '</span>' +
-                '<span class="wave-badge wave-badge-active">Latest</span>' +
             '</div>';
     }
 

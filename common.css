@@ -501,24 +501,9 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     margin-top: 8px;
     color: #c0d8e8;
     font-size: 0.78em;
-    border-radius: 6px;
-    padding: 4px 8px 4px 6px;
-    background: repeating-linear-gradient(
-        110deg,
-        rgba(114,215,238,0.06) 0px,
-        rgba(114,215,238,0.06) 6px,
-        rgba(114,215,238,0.03) 6px,
-        rgba(114,215,238,0.03) 12px
-    );
-    background-size: 200% 100%;
-    animation: wave-forming 3s linear infinite;
 }
 .wave-row-next .wave-prefix {
     color: #72D7EE;
-}
-@keyframes wave-forming {
-    0%   { background-position: 200% 0; }
-    100% { background-position:   0% 0; }
 }
 .wave-name {
     flex: 1;
@@ -529,17 +514,26 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     letter-spacing: 0.08em;
     text-transform: uppercase;
     border-radius: 4px;
-    padding: 1px 6px;
-}
-.wave-badge-active {
-    background: rgba(74,222,128,0.18);
-    color: #4ade80;
-    border: 1px solid rgba(74,222,128,0.35);
+    padding: 2px 8px;
 }
 .wave-badge-next {
-    background: rgba(114,215,238,0.1);
-    color: #72D7EE;
-    border: 1px solid rgba(114,215,238,0.25);
+    background: linear-gradient(
+        90deg,
+        #1a3a4a 0%,
+        #1e5068 25%,
+        #2a7a9a 50%,
+        #1e5068 75%,
+        #1a3a4a 100%
+    );
+    background-size: 300% 100%;
+    color: #a8e6f5;
+    border: 1px solid rgba(114,215,238,0.3);
+    animation: forming-sweep 2.8s ease-in-out infinite;
+}
+@keyframes forming-sweep {
+    0%   { background-position: 100% 0; }
+    50%  { background-position:   0% 0; }
+    100% { background-position: 100% 0; }
 }
 #results-title {
     font-family: Arial Black, Arial, sans-serif;
