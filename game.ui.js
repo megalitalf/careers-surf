@@ -117,6 +117,7 @@ function initMenu() {
                 function applyCityJobs(label) {
                     if (typeof cityJobs !== 'undefined' && cityJobs.length) {
                         SEMI_LISTINGS = cityJobs;
+                        currentCityLabel = prevCity.label || selectedCity || '';
                         currentLap      = 0;
                         lapJobOffset    = 0;
                         seenListings    = new Set();
@@ -314,8 +315,27 @@ function showResults() {
     var totalBatches = Math.ceil((SEMI_LISTINGS.length || 1) / JOBS_PER_LAP);
     var isLast = (currentLap + 1) >= totalBatches;
 
+    // ── Wave header: "🌍 Łódź Market Wave" ───────────────────────────────────
+    var waveHeaderEl = Dom.get('results-wave-header');
+    if (waveHeaderEl) {
+        waveHeaderEl.textContent = '🌍 ' + (currentCityLabel || 'Market') + ' Market Wave';
+    }
+
+    // ── Convoy progress bar: truck emoji row + "N / total convoy complete" ───
+    var convoyBarEl = Dom.get('results-convoy-bar');
+    if (convoyBarEl) {
+        var trucksHTML = '';
+        for (var t = 0; t < totalBatches; t++) {
+            trucksHTML += t < (currentLap + 1) ? '🚛' : '⬜';
+        }
+        var convoyLabel = (currentLap + 1) + ' / ' + totalBatches + ' convoy complete';
+        convoyBarEl.innerHTML =
+            '<div class="convoy-bar-trucks">' + trucksHTML + '</div>' +
+            '<div class="convoy-bar-label">' + convoyLabel + '</div>';
+    }
+
     var mapName = (typeof MAPS !== 'undefined') ? MAPS[currentMapIndex % MAPS.length].name : '';
-    Dom.get('results-lap').textContent = 'Convoy ' + (currentLap + 1) + ' / ' + totalBatches + (mapName ? ' · ' + mapName : '');
+    Dom.get('results-lap').textContent = mapName ? mapName : '';
     updateFuelHud();
 
     var list = Dom.get('results-list');

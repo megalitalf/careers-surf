@@ -457,9 +457,27 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 
 #results-header {
     display: flex;
-    align-items: baseline;
+    flex-direction: row;
+    align-items: flex-start;
     justify-content: space-between;
+    gap: 8px;
     margin-bottom: 18px;
+}
+#results-header-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    flex: 1;
+    min-width: 0;
+}
+#results-wave-header {
+    font-family: Arial Black, Arial, sans-serif;
+    font-size: 0.75em;
+    font-weight: 900;
+    color: #72D7EE;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    opacity: 0.85;
 }
 #results-title {
     font-family: Arial Black, Arial, sans-serif;
@@ -467,6 +485,24 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     font-weight: 900;
     color: #fff;
     letter-spacing: 0.03em;
+}
+#results-convoy-bar {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-top: 2px;
+}
+.convoy-bar-trucks {
+    font-size: 1.1em;
+    letter-spacing: 0.05em;
+    line-height: 1;
+}
+.convoy-bar-label {
+    font-size: 0.72em;
+    color: #aaa;
+    font-weight: bold;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
 }
 #results-lap {
     font-size: 0.78em;
