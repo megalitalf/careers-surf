@@ -1,0 +1,3769 @@
+{
+  "meta": {
+    "profileKey": "02",
+    "profileLabel": "Kraków – all",
+    "slug": "krakow",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Krakow&rd=30&latitude=50.0469432&longitude=19.9971534",
+    "scrapedAt": "2026-04-13T07:18:14.402Z",
+    "pages": 1,
+    "total": 51,
+    "errors": 0,
+    "location": "Krakow",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "64320000-56be-0050-ee81-08de8f5efaab",
+      "jobTitle": "Sprzedawca - Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T07:14:00Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "2 750–4 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li><b>Masz nastawienie na kontakt z klientem</b> i pracę zespołową.</li><li><b>Jesteś gotowy na pracę fizyczną</b> w systemie trzyzmianowym, również w weekendy.</li><li><b>Chcesz wykonywać zadania związane z obsługą kasy, wykładaniem towaru</b> oraz dbaniem o porządek w sklepie.</li><li><b>Cenisz dodatkowe benefity finansowe i socjalne,</b> takie jak e-kody zakupowe i programy zdrowotne.</li><li><b>Poszukujesz przejrzystych zasad pracy i jasnego zakresu obowiązków.</b></li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004743046,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-wieliczka-reformacka-26,oferta,1004743046",
+      "displayWorkplace": "Wieliczka",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 49.99394607543945,
+        "longitude": 20.054962158203125
+      },
+      "distanceInKilometers": 7.2,
+      "id": "1004743046",
+      "title": "Sprzedawca - Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 750–4 500 zł brutto / mies.",
+      "location": "Wieliczka",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-wieliczka-reformacka-26,oferta,1004743046"
+    },
+    {
+      "groupId": "f0260000-56be-0050-562e-08de88c1d9dd",
+      "jobTitle": "Operator Koparki - Koparko - Ładowarki",
+      "companyName": "HYDROTERM GRZEGORZ JARMUŁA sp.k.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074233023",
+      "companyId": 1074233023,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T07:09:49.187Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 000–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, ·        Prace ziemne i budowlano- wod. - kan., ·        Nadzór nad stanem technicznym powierzonego sprzętu., ·        Przestrzeganie zasad BHP., ·        Wykonywanie wykopów oraz równanie terenu., ·        Montaż...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku operatora koparki lub koparko-ładowarki</b> oraz wymagane uprawnienia.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i gotowość do pracy w delegacji od poniedziałku do piątku.</li><li>Jesteś <b>sumienny, odpowiedzialny</b> oraz umiesz pracować w zespole.</li><li>Gotów jesteś wykonywać prace ziemne i instalacyjne zgodnie z zasadami BHP.</li><li>Cenisz <b>umowę o pracę, terminowe wynagrodzenie</b> oraz zapewnione warunki pracy podczas delegacji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725481,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-koparki-koparko-ladowarki-dobczyce,oferta,1004725481",
+      "displayWorkplace": "Dobczyce",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725481",
+      "title": "Operator Koparki - Koparko - Ładowarki",
+      "company": "HYDROTERM GRZEGORZ JARMUŁA sp.k.",
+      "salary": "5 000–7 000 zł brutto / mies.",
+      "location": "Dobczyce",
+      "description": "Twój zakres obowiązków, ·        Prace ziemne i budowlano- wod. - kan., ·        Nadzór nad stanem technicznym powierzonego sprzętu., ·        Przestrzeganie zasad BHP., ·        Wykonywanie wykopów oraz równanie terenu., ·        Montaż...",
+      "url": "https://www.pracuj.pl/praca/operator-koparki-koparko-ladowarki-dobczyce,oferta,1004725481"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-db5d-08de96f34536",
+      "jobTitle": "Business Development Manager",
+      "companyName": "HireWise Szymon Negacz sp.k.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074085269",
+      "companyId": 1074085269,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074085269/03000000-bb2f-3863-f526-08d9ea1d0f15_280x280.png",
+      "lastPublicated": "2026-04-13T07:09:14.06Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 000–12 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów B2B (outbound: cold calling, mailing, LinkedIn), Budowanie i rozwijanie portfela klientów oraz długofalowych relacji biznesowych, Analiza potrzeb klientów i przygotowywanie dopasowanych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>sprzedaży usług B2B</b> i umiejętność samodzielnego pozyskiwania klientów.</li><li>Potrafisz <b>prowadzić negocjacje</b> oraz współpracować z wieloma decydentami w procesie sprzedażowym.</li><li>Charakteryzuje Cię <b>systematyczność i orientacja na realizację celów</b> oraz dobra organizacja pracy.</li><li>Znajomość języka angielskiego na poziomie co najmniej <b>B1+</b> oraz umiejętność analizy potrzeb klienta.</li><li>Chcesz pracować w modelu <b>mobilnym z dostępem do narzędzi prywatnych</b> (samochód, telefon, komputer) i korzystać z benefitów takich jak opieka medyczna i ubezpieczenie.</li><li>Interesuje Cię zatrudnienie na <b>umowę B2B lub o pracę</b> z wynagrodzeniem podstawowym i systemem premiowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765282,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/business-development-manager-krakow,oferta,1004765282",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765282",
+      "title": "Business Development Manager",
+      "company": "HireWise Szymon Negacz sp.k.",
+      "salary": "10 000–12 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów B2B (outbound: cold calling, mailing, LinkedIn), Budowanie i rozwijanie portfela klientów oraz długofalowych relacji biznesowych, Analiza potrzeb klientów i przygotowywanie dopasowanych...",
+      "url": "https://www.pracuj.pl/praca/business-development-manager-krakow,oferta,1004765282"
+    },
+    {
+      "groupId": "441b0000-56be-0050-431f-08de94ab0168",
+      "jobTitle": "Doradca / Doradczyni ds. Nieruchomości",
+      "companyName": "HOME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074043913",
+      "companyId": 1074043913,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074043913/9b030000-5dac-0015-01d8-08dbaf774f93_280x280.png",
+      "lastPublicated": "2026-04-13T07:07:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "5 000–25 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Twoją misją będzie profesjonalne doradztwo w zakresie sprzedaży i zakupu nieruchomości — z naciskiem na relacje, zaufanie i realną wartość dla Klienta. Nie będziesz tylko pośrednikiem – staniesz się prawdziwym partnerem w...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 1 rok doświadczenia w pośrednictwie nieruchomości i sprawnie nawiązujesz kontakt z Klientami.</li><li>Cenisz <b>samodzielność</b> i potrafisz efektywnie zarządzać własnym czasem oraz pracą.</li><li>Chcesz świadczyć <b>profesjonalne doradztwo</b> oparte na relacjach i zaufaniu, a nie presji sprzedażowej.</li><li>Poszukujesz <b>elastycznego czasu pracy</b> i konkurencyjnego, prowizyjnego systemu wynagrodzenia.</li><li>Zależy Ci na <b>wsparciu marketingowym</b> i nowoczesnych narzędziach sprzedażowych.</li><li>Wolisz pracę w zespole specjalistów z dostępem do bazy Klientów i zasobów prawnych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755345,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-nieruchomosci-krakow,oferta,1004755345",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004755345",
+      "title": "Doradca / Doradczyni ds. Nieruchomości",
+      "company": "HOME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "5 000–25 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Twoją misją będzie profesjonalne doradztwo w zakresie sprzedaży i zakupu nieruchomości — z naciskiem na relacje, zaufanie i realną wartość dla Klienta. Nie będziesz tylko pośrednikiem – staniesz się prawdziwym partnerem w...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-nieruchomosci-krakow,oferta,1004755345"
+    },
+    {
+      "groupId": "9c440000-56be-0050-a38c-08de907ab5ed",
+      "jobTitle": "Senior Java Developer",
+      "companyName": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074164809",
+      "companyId": 1074164809,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074164809/f15b0000-56be-0050-4cf6-08dc65e9d3bf_280x280.png",
+      "lastPublicated": "2026-04-13T07:04:00Z",
+      "expirationDate": "2026-05-02T21:59:59Z",
+      "salaryDisplayText": "17 000–29 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Design, develop, and maintain backend services built with Java, Spring, Spring Boot, and AWS., Contribute to architectural decisions and system-level discussions., Ensure stability, scalability, and performance of...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 5–7 lat doświadczenia w backendzie z <b>Java, Spring i Spring Boot</b>.</li><li>Znasz dobrze <b>architekturę mikroserwisów</b> oraz masz praktykę z <b>AWS</b> w środowiskach produkcyjnych.</li><li>Pracujesz z <b>bazami relacyjnymi SQL</b> i potrafisz zarządzać stabilnością oraz wydajnością rozproszonych usług.</li><li>Zależy Ci na <b>udziale w projektowaniu systemów</b> i podejmowaniu decyzji technicznych.</li><li>Ważne są dla Ciebie <b>elastyczne warunki pracy</b> i benefity związane ze zdrowiem oraz sportem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004745705,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-java-developer-krakow,oferta,1004745705",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004745705",
+      "title": "Senior Java Developer",
+      "company": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "17 000–29 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, Design, develop, and maintain backend services built with Java, Spring, Spring Boot, and AWS., Contribute to architectural decisions and system-level discussions., Ensure stability, scalability, and performance of...",
+      "url": "https://www.pracuj.pl/praca/senior-java-developer-krakow,oferta,1004745705"
+    },
+    {
+      "groupId": "3c300000-56be-0050-d1cb-08de97945eca",
+      "jobTitle": "Fryzjerka / Kolorystka",
+      "companyName": "PŁATEK STUDIO Wojciech Płatek",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074158718",
+      "companyId": 1074158718,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T07:02:28.17Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "40–200 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Koloryzacja włosów, głównie blond (rozjaśnianie, tonowanie), Dobór odpowiedniej techniki (balayage, pasemka, airtouch itp.), Ocena stanu włosów i dobór bezpiecznej koloryzacji, Poprawki koloru i naprawa nieudanych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia w <b>koloryzacji, zwłaszcza blond</b> i umiejętność dobierania technik takich jak balayage czy pasemka.</li><li>Potrafisz samodzielnie ocenić stan włosów i wykonywać <b>poprawki koloru oraz zabiegi pielęgnacyjne</b>.</li><li>Posiadasz <b>umiejętność doradztwa klientom</b> w zakresie koloryzacji i pielęgnacji.</li><li>Cenisz działanie na <b>profesjonalnym sprzęcie i kosmetykach</b> w dobrze wyposażonym salonie.</li><li>Wolisz <b>elastyczny grafik i różne formy współpracy</b> dopasowane do potrzeb.</li><li>Dbasz o <b>estetykę pracy i wysoką kulturę osobistą</b> w kontakcie z klientami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765245,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/fryzjerka-kolorystka-myslenice,oferta,1004765245",
+      "displayWorkplace": "Myślenice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765245",
+      "title": "Fryzjerka / Kolorystka",
+      "company": "PŁATEK STUDIO Wojciech Płatek",
+      "salary": "40–200 zł / godz. (zal. od umowy)",
+      "location": "Myślenice",
+      "description": "Twój zakres obowiązków, Koloryzacja włosów, głównie blond (rozjaśnianie, tonowanie), Dobór odpowiedniej techniki (balayage, pasemka, airtouch itp.), Ocena stanu włosów i dobór bezpiecznej koloryzacji, Poprawki koloru i naprawa nieudanych...",
+      "url": "https://www.pracuj.pl/praca/fryzjerka-kolorystka-myslenice,oferta,1004765245"
+    },
+    {
+      "groupId": "8c280000-56be-0050-55c5-08de9929754d",
+      "jobTitle": "Elektryk - Monter instalacji elektrycznej",
+      "companyName": "Zbigniew Chrzan Przedsiębiorstwo Usługowe \"ZBYSZEK\"",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074231541",
+      "companyId": 1074231541,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T07:01:03.653Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "3 000–12 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wymiana liczników energii elektrycznej na terenie: Kraków, Skała, Jerzmanowice, Zielonki....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa o dzieło",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie uzależnione od ilości prawidłowo przeprowadzonych wymian liczników energii elektrycznej."
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>wymianie liczników energii elektrycznej</b> na wskazanym terenie.</li><li>Posiadasz <b>uprawnienia SEP do 1 kV</b> w wymaganym zakresie.</li><li>Posiadasz <b>własny samochód i prawo jazdy kat. B</b>.</li><li>Posiadasz <b>własne narzędzia</b> i cechuje Cię <b>uczciwość oraz pracowitość</b>.</li><li>Cenisz <b>elastyczne godziny pracy</b> i <b>samodzielność</b> po przeszkoleniu.</li><li>Oczekujesz <b>wynagrodzenia zależnego od efektów</b> oraz wsparcia technicznego i szkoleń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765241,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/elektryk-monter-instalacji-elektrycznej-krakow,oferta,1004765241",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765241",
+      "title": "Elektryk - Monter instalacji elektrycznej",
+      "company": "Zbigniew Chrzan Przedsiębiorstwo Usługowe \"ZBYSZEK\"",
+      "salary": "3 000–12 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Wymiana liczników energii elektrycznej na terenie: Kraków, Skała, Jerzmanowice, Zielonki....",
+      "url": "https://www.pracuj.pl/praca/elektryk-monter-instalacji-elektrycznej-krakow,oferta,1004765241"
+    },
+    {
+      "groupId": "9c440000-56be-0050-dee8-08de90796382",
+      "jobTitle": "Golang Architect",
+      "companyName": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074164809",
+      "companyId": 1074164809,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074164809/f15b0000-56be-0050-4cf6-08dc65e9d3bf_280x280.png",
+      "lastPublicated": "2026-04-13T07:01:00Z",
+      "expirationDate": "2026-05-02T21:59:59Z",
+      "salaryDisplayText": "26 000–36 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Lead backend development for a new aviation platform, with Go as the core language., Design and implement clean, scalable microservices in Golang., Shape system architecture and key infrastructure components — no legacy,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "More than one vacancy",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 5 lat doświadczenia w backendzie, w tym 3+ lat z <b>Golang</b>.</li><li>Chcesz prowadzić rozwój backendu i kształtować <b>architekturę systemu od podstaw</b> w projekcie greenfield.</li><li>Posiadasz praktykę z <b>mikroserwisami</b>, bazami danych SQL i optymalizacją zapytań.</li><li>Cenisz <b>pracę zdalną</b> w modelu B2B oraz elastyczne godziny pracy.</li><li>Interesuje Cię współpraca w <b>nowoczesnym, produktowym środowisku Agile</b> z naciskiem na jakość i wydajność.</li><li>Masz doświadczenie w budowie systemów o wysokiej dostępności i dbałości o <b>wydajność i niezawodność</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004745691,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/golang-architect-krakow,oferta,1004745691",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004745691",
+      "title": "Golang Architect",
+      "company": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "26 000–36 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, Lead backend development for a new aviation platform, with Go as the core language., Design and implement clean, scalable microservices in Golang., Shape system architecture and key infrastructure components — no legacy,...",
+      "url": "https://www.pracuj.pl/praca/golang-architect-krakow,oferta,1004745691"
+    },
+    {
+      "groupId": "a4240000-56be-0050-77c2-08de90794074",
+      "jobTitle": "Senior Golang Developer",
+      "companyName": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074164809",
+      "companyId": 1074164809,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074164809/f15b0000-56be-0050-4cf6-08dc65e9d3bf_280x280.png",
+      "lastPublicated": "2026-04-13T07:00:00Z",
+      "expirationDate": "2026-05-02T21:59:59Z",
+      "salaryDisplayText": "23 000–34 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Build and maintain Order Management System features with Golang and Postgres., Optimize database structures and queries for performance and reliability., Monitor system health and service metrics., Collaborate with teams to...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej <b>5 lat doświadczenia w backendzie</b>, w tym <b>3 lata z Golang</b>.</li><li>Pracujesz z <b>SQL, Dockerem, Kubernetesem</b> oraz <b>mikroserwisami</b> i interesuje Cię ich optymalizacja.</li><li>Chcesz uczestniczyć w <b>projektowaniu i rozwijaniu systemu zarządzania zamówieniami</b> oraz utrzymaniu wysokiej wydajności.</li><li>Cenisz <b>pracę zdalną, pakiet benefitów medycznych i ubezpieczenia na życie</b>.</li><li>Posiadasz umiejętności współpracy w <b>zespole scrumowym oraz znajomość Agile, CI/CD</b>.</li><li>Masz doświadczenie lub chcesz rozwijać kompetencje w obszarze <b>chmury, DevOps i infrastruktury jako kodu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004745689,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-golang-developer-krakow,oferta,1004745689",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004745689",
+      "title": "Senior Golang Developer",
+      "company": "ITEAMLY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "23 000–34 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, Build and maintain Order Management System features with Golang and Postgres., Optimize database structures and queries for performance and reliability., Monitor system health and service metrics., Collaborate with teams to...",
+      "url": "https://www.pracuj.pl/praca/senior-golang-developer-krakow,oferta,1004745689"
+    },
+    {
+      "groupId": "ec400000-56be-0050-e567-08de970f021f",
+      "jobTitle": "Specjalista / Specjalistka ds. Marketingu i E-commerce",
+      "companyName": "AMS MEBLE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074233968",
+      "companyId": 1074233968,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:59:31.52Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 800–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Tworzenie, rozwój oraz bieżąca aktualizacja ofert produktowych w sklepach internetowych oraz na platformach marketplace zgodnie z obowiązującymi wytycznymi., Przygotowywanie i aktualizacja treści marketingowych:, wizualnych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie lub zainteresowanie <b>marketingiem internetowym i e-commerce</b>.</li><li>Potrafisz samodzielnie organizować pracę i realizować zadania zgodnie z harmonogramem.</li><li>Posiadasz umiejętności w zakresie <b>tworzenia i aktualizacji treści produktowych</b> oraz podstaw SEO.</li><li>Znajomość narzędzi graficznych, takich jak <b>Adobe Photoshop i Canva</b>, będzie atutem.</li><li>Cenisz benefity takie jak <b>prywatna opieka medyczna, ubezpieczenie na życie i zniżki na produkty firmowe</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765237,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-marketingu-i-e-commerce-wielkie-drogi-pow-krakowski,oferta,1004765237",
+      "displayWorkplace": "Wielkie Drogi (pow. krakowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765237",
+      "title": "Specjalista / Specjalistka ds. Marketingu i E-commerce",
+      "company": "AMS MEBLE sp. z o.o.",
+      "salary": "6 800–8 000 zł brutto / mies.",
+      "location": "Wielkie Drogi (pow. krakowski)",
+      "description": "Twój zakres obowiązków, Tworzenie, rozwój oraz bieżąca aktualizacja ofert produktowych w sklepach internetowych oraz na platformach marketplace zgodnie z obowiązującymi wytycznymi., Przygotowywanie i aktualizacja treści marketingowych:, wizualnych...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-marketingu-i-e-commerce-wielkie-drogi-pow-krakowski,oferta,1004765237"
+    },
+    {
+      "groupId": "b82b0000-56be-0050-004e-08de88c435d3",
+      "jobTitle": "Monter instalacji wodno-kanalizacyjnych",
+      "companyName": "HYDROTERM GRZEGORZ JARMUŁA sp.k.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074233023",
+      "companyId": 1074233023,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:58:16.013Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 000–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, ·        Prace ziemne i budowlano- wod. - kan., ·        Nadzór nad stanem technicznym powierzonego sprzętu., ·        Przestrzeganie zasad BHP., ·        Wykonywanie wykopów oraz równanie terenu., ·        Montaż...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w montażu instalacji wodno-kanalizacyjnych</b> oraz pracach ziemnych.</li><li>Posiadasz <b>prawo jazdy kat. B</b> oraz jesteś gotów do pracy w delegacji od poniedziałku do piątku.</li><li>Pracujesz <b>samodzielnie i w zespole</b>, dbając o powierzone wyposażenie i przestrzegając zasad BHP.</li><li>Cenisz <b>umowę o pracę</b>, stabilne wynagrodzenie oraz zapewniony nocleg podczas delegacji.</li><li>Jesteś <b>dyspozycyjny</b> i gotowy do pracy w różnych warunkach oraz godzinach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725374,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/monter-instalacji-wodno-kanalizacyjnych-dobczyce,oferta,1004725374",
+      "displayWorkplace": "Dobczyce",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725374",
+      "title": "Monter instalacji wodno-kanalizacyjnych",
+      "company": "HYDROTERM GRZEGORZ JARMUŁA sp.k.",
+      "salary": "5 000–7 000 zł brutto / mies.",
+      "location": "Dobczyce",
+      "description": "Twój zakres obowiązków, ·        Prace ziemne i budowlano- wod. - kan., ·        Nadzór nad stanem technicznym powierzonego sprzętu., ·        Przestrzeganie zasad BHP., ·        Wykonywanie wykopów oraz równanie terenu., ·        Montaż...",
+      "url": "https://www.pracuj.pl/praca/monter-instalacji-wodno-kanalizacyjnych-dobczyce,oferta,1004725374"
+    },
+    {
+      "groupId": "042e0000-56be-0050-f521-08de99286460",
+      "jobTitle": "Procurement Operations Analyst (SAP / RtP / S2P)",
+      "companyName": "Adecco Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/14234837",
+      "companyId": 14234837,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/14234837/9b030000-5dac-0015-703c-08da84882ec2_280x280.png",
+      "lastPublicated": "2026-04-13T06:47:08.43Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 40 zł brutto / godz.",
+      "jobDescription": "Your responsibilities, Produce SAP Purchase Orders from SAP Requisitions, maintain Purchase Orders and resolve any associated queries on a timely basis. This involves close liaison with the designated invoice query focal point., Provide commercial...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w obszarze <b>RtP i SAP</b> oraz znasz funkcjonalność systemów ERP.</li><li>Potrafisz <b>efektywnie komunikować</b> zasady i procedury Requisition-to-Pay oraz doradzać w zakresie procesów zakupowych.</li><li>Znasz kluczowe <b>interfejsy między działami</b> w organizacji oraz kwestie związane z kontrolą i autoryzacjami wydatków.</li><li>Jesteś <b>samodzielny, zorientowany na ciągłe usprawnienia</b> oraz potrafisz podejmować decyzje przy niepełnych danych.</li><li>Posiadasz <b>dobre umiejętności komunikacyjne i biznesową orientację</b>, umiesz współpracować na różnych szczeblach organizacji.</li><li>Wymagana jest <b>biegła znajomość języka angielskiego</b> w mowie i piśmie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765172,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/procurement-operations-analyst-sap-rtp-s2p-krakow,oferta,1004765172",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765172",
+      "title": "Procurement Operations Analyst (SAP / RtP / S2P)",
+      "company": "Adecco Poland Sp. z o.o.",
+      "salary": "od 40 zł brutto / godz.",
+      "location": "Kraków",
+      "description": "Your responsibilities, Produce SAP Purchase Orders from SAP Requisitions, maintain Purchase Orders and resolve any associated queries on a timely basis. This involves close liaison with the designated invoice query focal point., Provide commercial...",
+      "url": "https://www.pracuj.pl/praca/procurement-operations-analyst-sap-rtp-s2p-krakow,oferta,1004765172"
+    },
+    {
+      "groupId": "f0380000-56be-0050-d1d4-08de83380d11",
+      "jobTitle": "AI Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:47:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w programowaniu w <b>Pythonie</b> i znajomość <b>backendowych frameworków</b>, np. FastAPI.</li><li>Posiadasz praktyczne umiejętności w pracy z <b>LLM i Generative AI</b> oraz znajomość zasad inżynierii oprogramowania.</li><li>Pracujesz z technologiami <b>chmurowymi (AWS, GCP, Azure)</b>, Dockerem oraz CI/CD.</li><li>Interesujesz się <b>przetwarzaniem dokumentów i analizą danych</b> w kontekście AI lub rozwojem systemów wspierających inżynierię oprogramowania.</li><li>Cenisz możliwość wyboru formy współpracy oraz elastyczny <b>tryb pracy zdalnej lub hybrydowej</b>.</li><li>Oczekujesz wsparcia w podnoszeniu kwalifikacji poprzez szkolenia i certyfikacje, np. z zakresu <b>Databricks</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710491,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ai-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710491",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710491",
+      "title": "AI Engineer",
+      "company": "Addepto",
+      "salary": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "url": "https://www.pracuj.pl/praca/ai-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710491"
+    },
+    {
+      "groupId": "6c1d0000-56be-0050-3eef-08de8a7e2967",
+      "jobTitle": "Technik Serwisant",
+      "companyName": "Novoferm Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20065871",
+      "companyId": 20065871,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20065871/2c580000-43a8-f403-e727-08d8dd62054b_280x280.png",
+      "lastPublicated": "2026-04-13T06:41:55.053Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "6 500–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, naprawa i konserwacja bram przemysłowych oraz ramp przeładunkowych, diagnozowanie i rozwiązywanie usterek, wsparcie techniczne użytkowników końcowych, współpraca ze służbami utrzymania ruchu...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20065871/mobile-banners/2c410000-56be-0050-8db0-08de8b0b2341.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> i umiejętności techniczne do naprawy oraz konserwacji urządzeń.</li><li>Interesujesz się diagnozowaniem usterek oraz wsparciem technicznym użytkowników.</li><li>Potrafisz działać <b>samodzielnie</b> i współpracować z zespołem utrzymania ruchu.</li><li>Posiadasz lub chcesz zdobyć uprawnienia SEP, spawalnicze lub wykształcenie elektryczne/elektroniczne.</li><li>Cenisz <b>umowę o pracę na pełen etat</b> oraz możliwość profesjonalnego wdrożenia technicznego i produktowego.</li><li>Doceniasz benefity takie jak <b>prywatna opieka medyczna, dofinansowanie sportu i nauki języków</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004731208,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/technik-serwisant-krakow,oferta,1004731208",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004731208",
+      "title": "Technik Serwisant",
+      "company": "Novoferm Polska Sp. z o.o.",
+      "salary": "6 500–9 000 zł brutto / mies.",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, naprawa i konserwacja bram przemysłowych oraz ramp przeładunkowych, diagnozowanie i rozwiązywanie usterek, wsparcie techniczne użytkowników końcowych, współpraca ze służbami utrzymania ruchu...",
+      "url": "https://www.pracuj.pl/praca/technik-serwisant-krakow,oferta,1004731208"
+    },
+    {
+      "groupId": "60280000-56be-0050-bd54-08de832ef4c5",
+      "jobTitle": "Praca na produkcji (k/m)",
+      "companyName": "VESUVIUS POLAND SP. Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801405",
+      "companyId": 18801405,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801405/2c580000-43a8-f403-ffa5-08d903d10188_280x280.png",
+      "lastPublicated": "2026-04-13T06:40:00Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "5 200 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, przygotowywanie i naważanie surowca do produkcji, obsługa maszyn i urządzeń produkcyjnych (np. prasy, tokarki, mieszalniki), montaż, demontaż i czyszczenie form, dbanie o porządek na swoim stanowisku pracy, w tym o należyty...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18801405/mobile-banners/f15b0000-56be-0050-cd7c-08dc8166d053.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do pracy w systemie <b>3-zmianowym lub 4-brygadowym</b>.</li><li>Posiadasz umiejętność obsługi <b>narzędzi pomiarowych, elektronarzędzi oraz odczytywania rysunku technicznego</b>.</li><li>Chcesz wykonywać zadania związane z <b>obsługą maszyn produkcyjnych, montażem i pakowaniem produktów</b>.</li><li>Cenisz <b>umowę o pracę</b> oraz pakiet świadczeń, w tym dodatki za nadgodziny i pracę nocną.</li><li>Zależy Ci na <b>dofinansowaniu szkoleń, kursów oraz uprawnieniach</b> do obsługi sprzętu (np. UDT, SEP).</li><li>Doceniasz <b>pakiet benefitów takich jak prywatna opieka medyczna, dofinansowanie sportu i wypoczynku</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004707089,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/praca-na-produkcji-k-m-skawina-tyniecka-12,oferta,1004707089",
+      "displayWorkplace": "Skawina",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 49.981658935546875,
+        "longitude": 19.818763732910156
+      },
+      "distanceInKilometers": 14.7,
+      "id": "1004707089",
+      "title": "Praca na produkcji (k/m)",
+      "company": "VESUVIUS POLAND SP. Z O.O.",
+      "salary": "5 200 zł brutto / mies.",
+      "location": "Skawina",
+      "description": "Twój zakres obowiązków, przygotowywanie i naważanie surowca do produkcji, obsługa maszyn i urządzeń produkcyjnych (np. prasy, tokarki, mieszalniki), montaż, demontaż i czyszczenie form, dbanie o porządek na swoim stanowisku pracy, w tym o należyty...",
+      "url": "https://www.pracuj.pl/praca/praca-na-produkcji-k-m-skawina-tyniecka-12,oferta,1004707089"
+    },
+    {
+      "groupId": "8c280000-56be-0050-5e57-08de9926fd67",
+      "jobTitle": "Monter - Spawacz światłowodów",
+      "companyName": "GREKOM sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20188166",
+      "companyId": 20188166,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:38:57.293Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 400–7 200 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Instalacja sieci światłowodowych, Spawanie światłowodów, Konserwacja sieci światłowodowych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum roczne doświadczenie w spawaniu światłowodów</b> i umiejętność obsługi odpowiedniego sprzętu.</li><li>Posiadasz wiedzę z zakresu <b>instalacji i konserwacji sieci światłowodowych</b> oraz potrafisz czytać dokumentację techniczną.</li><li>Jesteś gotowy na pracę w terenie oraz <b>podróże służbowe</b>.</li><li>Posiadasz <b>prawo jazdy kategorii B</b>.</li><li>Cenisz <b>dofinansowanie zajęć sportowych, prywatną opiekę medyczną i ubezpieczenie na życie</b>.</li><li>Chcesz pracować w firmie oferującej <b>atrakcyjne wynagrodzenie i służbowy telefon z możliwością użytku prywatnego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765144,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/monter-spawacz-swiatlowodow-krakow-fatimska-41a,oferta,1004765144",
+      "displayWorkplace": "Kraków, Bieńczyce",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.089664459228516,
+        "longitude": 20.02761459350586
+      },
+      "distanceInKilometers": 5.3,
+      "id": "1004765144",
+      "title": "Monter - Spawacz światłowodów",
+      "company": "GREKOM sp. z o.o.",
+      "salary": "6 400–7 200 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Bieńczyce",
+      "description": "Twój zakres obowiązków, Instalacja sieci światłowodowych, Spawanie światłowodów, Konserwacja sieci światłowodowych...",
+      "url": "https://www.pracuj.pl/praca/monter-spawacz-swiatlowodow-krakow-fatimska-41a,oferta,1004765144"
+    },
+    {
+      "groupId": "ec400000-56be-0050-109b-08de97077e9a",
+      "jobTitle": "Product Owner (k/m)",
+      "companyName": "AutoID Polska S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20006374",
+      "companyId": 20006374,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20006374/9b030000-5dac-0015-b1df-08da8cb7c4b5_280x280.png",
+      "lastPublicated": "2026-04-13T06:37:33.977Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "14 000–18 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wizja i Strategia: Tworzenie i egzekucja roadmapy produktu, która odpowiada na realne potrzeby rynku B2B., Partnerstwo z IT: Ścisła współpraca z kierownikiem projektu oraz deweloperami - od planowania sprintów, przez...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia jako <b>Product Owner</b> z sukcesami we wdrażaniu produktów na rynek.</li><li>Potrafisz <b>priorytetyzować zadania</b> i współpracować z zespołem IT na każdym etapie rozwoju produktu.</li><li>Interesuje Cię <b>tworzenie strategii i roadmapy</b> odpowiadającej na potrzeby rynku B2B.</li><li>Cenisz <b>prace w modelu hybrydowym</b> łączącą zdalne zadania z obecnością w biurze.</li><li>Chcesz korzystać z <b>benefitów takich jak prywatna opieka medyczna, dofinansowanie sportu i języków</b>.</li><li>Jesteś samodzielny/a i potrafisz <b>przekładać biznes na technologię</b> realizując wartościowe przyrosty produktu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765134,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/product-owner-k-m-krakow-wladyslawa-zelenskiego-103,oferta,1004765134",
+      "displayWorkplace": "Kraków, Bronowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.09321212768555,
+        "longitude": 19.875844955444336
+      },
+      "distanceInKilometers": 10.1,
+      "id": "1004765134",
+      "title": "Product Owner (k/m)",
+      "company": "AutoID Polska S.A.",
+      "salary": "14 000–18 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków, Bronowice",
+      "description": "Twój zakres obowiązków, Wizja i Strategia: Tworzenie i egzekucja roadmapy produktu, która odpowiada na realne potrzeby rynku B2B., Partnerstwo z IT: Ścisła współpraca z kierownikiem projektu oraz deweloperami - od planowania sprintów, przez...",
+      "url": "https://www.pracuj.pl/praca/product-owner-k-m-krakow-wladyslawa-zelenskiego-103,oferta,1004765134"
+    },
+    {
+      "groupId": "f0380000-56be-0050-073e-08de83388c3a",
+      "jobTitle": "Data Engineer (Spark)",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "15 120–21 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w pracy z <b>Big Data</b> i technologiami takimi jak <b>Spark, Cloudera, Airflow, Iceberg</b>.</li><li>Posiadasz umiejętności programowania w <b>Pythonie (lub Java/Scala)</b> oraz doświadczenie w projektowaniu i utrzymaniu przetwarzania danych w trybie <b>streaming i batch</b>.</li><li>Pracowałeś z rozwiązaniami chmurowymi, zwłaszcza <b>AWS</b>, i znasz zasady zarządzania danymi oraz modelowanie <b>dimensional data</b>.</li><li>Posiadasz doświadczenie konsultingowe i potrafisz efektywnie współpracować z klientami przy realizacji projektów.</li><li>Cenisz elastyczne formy zatrudnienia, dostęp do <b>szkoleń i certyfikacji Databricks</b> oraz wsparcie w rozwoju zawodowym.</li><li>Preferujesz pracę w trybie <b>remote lub hybrydowym</b> z dostępem do nowoczesnego sprzętu i benefitów medycznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710429,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/data-engineer-spark-krakow-aleksandra-lubomirskiego-20,oferta,1004710429",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710429",
+      "title": "Data Engineer (Spark)",
+      "company": "Addepto",
+      "salary": "15 120–21 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "url": "https://www.pracuj.pl/praca/data-engineer-spark-krakow-aleksandra-lubomirskiego-20,oferta,1004710429"
+    },
+    {
+      "groupId": "f0380000-56be-0050-f8ba-08de83389c64",
+      "jobTitle": "Senior Data Engineer (Spark)",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "21 000–28 560 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 5 lat doświadczenia w pracy z <b>Big Data</b> oraz znajomość technologii takich jak <b>Spark, Cloudera, Airflow, Iceberg, Python i AWS</b>.</li><li>Pracujesz efektywnie z danymi w trybach <b>streaming i batch</b> oraz umiesz projektować i optymalizować złożone pipeline’y.</li><li>Posiadasz praktykę w implementacji rozwiązań w <b>chmurze</b> oraz doświadczenie w samodzielnym prowadzeniu projektów i kontaktach z klientami.</li><li>Stawiasz na rozwój poprzez dostęp do <b>szkoleń, certyfikacji Databricks</b> oraz elastyczne formy zatrudnienia i możliwość pracy zdalnej.</li><li>Ceniasz wsparcie w postaci <b>pakietów medycznych, sportowych i coachingowych</b> oraz finansowanie kursów językowych i zawodowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710443,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-data-engineer-spark-krakow-aleksandra-lubomirskiego-20,oferta,1004710443",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710443",
+      "title": "Senior Data Engineer (Spark)",
+      "company": "Addepto",
+      "salary": "21 000–28 560 zł netto (+ VAT) / mies.",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "url": "https://www.pracuj.pl/praca/senior-data-engineer-spark-krakow-aleksandra-lubomirskiego-20,oferta,1004710443"
+    },
+    {
+      "groupId": "84450000-56be-0050-222b-08de8974ae28",
+      "jobTitle": "Doradca / Doradczyni - Opiekun / Opiekunka Klienta w Biurze Sprzedaży",
+      "companyName": "Przedsiębiorstwo Handlowo Usługowe",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074088780",
+      "companyId": 1074088780,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074088780/ee4d0000-5df0-0015-932f-08dbd5e84a1a_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "2 000–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Sprzedaż produktów finansowo-ubezpieczeniowych w tym np. kredytów, ubezpieczeń, inwestycji i produktów finansowych, Analiza finansów osobistych, jak i firmowych celem budowania planów finansowych dla Klientów, Budowanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Pas startowy"
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętności interpersonalne</b> i potrafisz aktywnie budować relacje z klientami.</li><li>Interesujesz się <b>branżą finansową</b> i chcesz doradzać w zakresie produktów finansowo-ubezpieczeniowych.</li><li>Cenisz <b>elastyczność pracy</b> i możliwość wykonywania obowiązków z dowolnego miejsca.</li><li>Chcesz pracować z <b>klientami indywidualnymi i biznesowymi</b>, budując plan finansowy.</li><li>Poszukujesz <b>wynagrodzenia uzależnionego od efektów</b> oraz atrakcyjnych nagród za wyniki.</li><li>Zależy Ci na <b>dostępie do szkoleń</b> oraz wsparciu branżowych specjalistów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725300,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-opiekun-opiekunka-klienta-w-biurze-sprzedazy-krakow,oferta,1004725300",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725300",
+      "title": "Doradca / Doradczyni - Opiekun / Opiekunka Klienta w Biurze Sprzedaży",
+      "company": "Przedsiębiorstwo Handlowo Usługowe",
+      "salary": "2 000–10 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Sprzedaż produktów finansowo-ubezpieczeniowych w tym np. kredytów, ubezpieczeń, inwestycji i produktów finansowych, Analiza finansów osobistych, jak i firmowych celem budowania planów finansowych dla Klientów, Budowanie...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-opiekun-opiekunka-klienta-w-biurze-sprzedazy-krakow,oferta,1004725300"
+    },
+    {
+      "groupId": "f0380000-56be-0050-ac5f-08de833864b7",
+      "jobTitle": "Lead Data Scientist / ML Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:31:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad <b>5 lat doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI</b> (ML, LLM, NLP, Computer Vision, GenAI).</li><li>Posiadasz <b>zaawansowane umiejętności programowania w Pythonie</b> oraz znajomość narzędzi ML i chmur (AWS lub Azure).</li><li>Interesuje Cię <b>praca przy projektach wykorzystujących LLM i AI optymalizujące operacje</b> w sektorze lotniskowym lub innowacyjnym.</li><li>Cenisz <b>elastyczne formy współpracy, zdalne lub biurowe środowisko</b> oraz wsparcie w podnoszeniu kwalifikacji.</li><li>Masz doświadczenie w <b>koordynacji zespołów i wdrażaniu rozwiązań MLOps</b>, Docker, Kubernetes.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710415,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lead-data-scientist-ml-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710415",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710415",
+      "title": "Lead Data Scientist / ML Engineer",
+      "company": "Addepto",
+      "salary": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/lead-data-scientist-ml-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710415"
+    },
+    {
+      "groupId": "f0380000-56be-0050-fa87-08de833877b8",
+      "jobTitle": "AI Engineer (Python, LLMs)",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:31:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w <b>programowaniu w Pythonie</b> i znajomość <b>LLM oraz Generative AI</b>.</li><li>Posiadasz umiejętności w <b>tworzeniu backendu</b> z użyciem frameworków jak <b>FastAPI</b> oraz doświadczenie z <b>bazami danych</b>.</li><li>Posiadasz praktykę w pracy z <b>chmurą (AWS, GCP, Azure)</b>, Dockerem i podstawami CI/CD.</li><li>Interesujesz się <b>zaawansowanymi AI i przetwarzaniem dokumentów</b>, w tym zastosowaniami w inżynierii i analizie kodu.</li><li>Cenisz możliwość <b>wyboru formy współpracy i elastycznego czasu pracy</b>.</li><li>Chcesz korzystać z <b>szkoleń, konferencji i wsparcia w rozwoju zawodowym</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710422,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ai-engineer-python-llms-krakow-aleksandra-lubomirskiego-20,oferta,1004710422",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710422",
+      "title": "AI Engineer (Python, LLMs)",
+      "company": "Addepto",
+      "salary": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "url": "https://www.pracuj.pl/praca/ai-engineer-python-llms-krakow-aleksandra-lubomirskiego-20,oferta,1004710422"
+    },
+    {
+      "groupId": "f0380000-56be-0050-a2e5-08de83384eb5",
+      "jobTitle": "Data Scientist / ML Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:30:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad 3 lata doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI, w tym ML, LLM i optymalizacji.</li><li>Posiadasz biegłość w Pythonie, znasz biblioteki ML (Scikit-Learn, PyTorch, TensorFlow) oraz masz doświadczenie z chmurą AWS lub Azure.</li><li>Potrafisz kierować projektami AI, tworzyć architektury rozwiązań oraz współpracować z zespołami inżynierów i klientami.</li><li>Interesuje Cię praca z nowoczesnymi technologiami jak Kubernetes, Docker, CI/CD i MLOps.</li><li>Ceniasz elastyczne warunki pracy, możliwość pracy zdalnej oraz wsparcie w rozwoju zawodowym i szkoleniach.</li><li>Chcesz korzystać z pakietów medycznych, sportowych oraz dodatkowych świadczeń, takich jak pomoc psychologiczna i wsparcie w dbaniu o wzrok.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710404,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/data-scientist-ml-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710404",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710404",
+      "title": "Data Scientist / ML Engineer",
+      "company": "Addepto",
+      "salary": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/data-scientist-ml-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710404"
+    },
+    {
+      "groupId": "f0380000-56be-0050-f9ab-08de83383b69",
+      "jobTitle": "Senior Data Scientist / Tech Lead",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:29:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad 6 lat doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI, w tym LLM i uczenie maszynowe.</li><li>Pełnisz rolę lidera projektów ML i zarządzasz zespołami interdyscyplinarnymi.</li><li>Posiadasz zaawansowaną znajomość Pythona, bibliotek ML oraz wdrażania rozwiązań w chmurze (AWS/Azure).</li><li>Znajomość SQL, NoSQL, CI/CD, MLOps, Kubernetes i Docker jest dla Ciebie naturalna.</li><li>Cenisz elastyczne formy współpracy i możliwość pracy zdalnej lub w biurze.</li><li>Chcesz korzystać z pakietów medycznych, sportowych i wsparcia rozwoju zawodowego, w tym szkoleń i konferencji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710394,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-data-scientist-tech-lead-krakow-aleksandra-lubomirskiego-20,oferta,1004710394",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710394",
+      "title": "Senior Data Scientist / Tech Lead",
+      "company": "Addepto",
+      "salary": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/senior-data-scientist-tech-lead-krakow-aleksandra-lubomirskiego-20,oferta,1004710394"
+    },
+    {
+      "groupId": "f0380000-56be-0050-f48d-08de8338271e",
+      "jobTitle": "Senior Data Scientist / ML Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:28:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "19 320–25 200 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad 5 lat doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI, w tym ML, LLM i GenAI.</li><li>Posiadasz biegłość w programowaniu w <b>Pythonie</b> i doświadczenie z narzędziami ML oraz wdrożeniami w chmurze <b>AWS lub Azure</b>.</li><li>Interesujesz się <b>projektowaniem architektur AI</b> oraz zarządzaniem projektami w metodyce Agile/Scrum.</li><li>Cenisz możliwość pracy zdalnej lub w biurze oraz elastyczny czas pracy.</li><li>Chcesz korzystać z programów rozwojowych, szkoleń, oraz wsparcia w budowaniu marki osobistej.</li><li>Posiadasz umiejętności w zakresie <b>MLOps, Kubernetes i Docker</b>, a także chęć współpracy z zespołem ekspertów przy zaawansowanych projektach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710381,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-data-scientist-ml-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710381",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 50.06793212890625,
+        "longitude": 19.957979202270508
+      },
+      "distanceInKilometers": 3.7,
+      "id": "1004710381",
+      "title": "Senior Data Scientist / ML Engineer",
+      "company": "Addepto",
+      "salary": "19 320–25 200 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/senior-data-scientist-ml-engineer-krakow-aleksandra-lubomirskiego-20,oferta,1004710381"
+    },
+    {
+      "groupId": "882b0000-56be-0050-9736-08de9149d55e",
+      "jobTitle": "RPA Developer",
+      "companyName": "Meritoros SA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20070455",
+      "companyId": 20070455,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20070455/9b030000-5dac-0015-8fba-08db15ab9ac0_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:28:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "10 000–13 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, analizujesz procesy biznesowe i identyfikujesz obszary do automatyzacji,, rekomendujesz rozwiązania wspierające automatyzację procesu,, modyfikujesz istniejące rozwiązania na bazie wymagań stawianych przez użytkowników,,,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2–3 lata doświadczenia w projektach z <b>RPA</b> i znasz <b>UiPath</b> na poziomie średniozaawansowanym.</li><li>Posiadasz umiejętności programowania w <b>Python</b> oraz biegłą znajomość <b>SQL</b> do tworzenia i optymalizacji zapytań.</li><li>Potrafisz analizować procesy biznesowe i wdrażać rozwiązania automatyzujące wspierające pracę zespołu.</li><li>Cenisz <b>elastyczny czas pracy</b> i zadaniowy model realizacji obowiązków.</li><li>Zależy Ci na <b>dodatkowych benefitach</b>, takich jak prywatna opieka medyczna, karta Multisport, oraz dodatkowy płatny urlop po okresie próbnym.</li><li>Komunikujesz się w języku angielskim na poziomie pozwalającym na pracę z dokumentacją techniczną.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748900,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/rpa-developer-krakow,oferta,1004748900",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004748900",
+      "title": "RPA Developer",
+      "company": "Meritoros SA",
+      "salary": "10 000–13 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, analizujesz procesy biznesowe i identyfikujesz obszary do automatyzacji,, rekomendujesz rozwiązania wspierające automatyzację procesu,, modyfikujesz istniejące rozwiązania na bazie wymagań stawianych przez użytkowników,,,...",
+      "url": "https://www.pracuj.pl/praca/rpa-developer-krakow,oferta,1004748900"
+    },
+    {
+      "groupId": "54440000-56be-0050-4955-08de960000ba",
+      "jobTitle": "Pracownik Sklepu (M/K) Kraków ul. Czerwone Maki, 0,75 etatu",
+      "companyName": "TEDi Sieć Handlowa Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20297387",
+      "companyId": 20297387,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20297387/03000000-bb2f-3863-f1f8-08d8c9e07c4a_280x280.png",
+      "lastPublicated": "2026-04-13T06:26:00Z",
+      "expirationDate": "2026-05-09T21:59:59Z",
+      "salaryDisplayText": "od 3 638 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosować się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20297387/mobile-banners/342a0000-56be-0050-10b2-08dc3ea01943.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dyspozycyjność do pracy zmianowej i w weekendy</b>.</li><li>Potrafisz obsługiwać <b>kasę fiskalną i realizować zadania sprzedażowe</b>.</li><li>Jesteś <b>komunikatywny i nastawiony na pracę zespołową</b>.</li><li>Masz <b>doświadczenie w sieci handlowej</b> – będzie to dodatkowym atutem.</li><li>Cenisz <b>elastyczny czas pracy oraz benefity takie jak ubezpieczenie i zniżki</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004758154,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-krakow-ul-czerwone-maki-0-75-etatu-krakow,oferta,1004758154",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004758154",
+      "title": "Pracownik Sklepu (M/K) Kraków ul. Czerwone Maki, 0,75 etatu",
+      "company": "TEDi Sieć Handlowa Sp. z o.o.",
+      "salary": "od 3 638 zł brutto / mies.",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosować się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-krakow-ul-czerwone-maki-0-75-etatu-krakow,oferta,1004758154"
+    },
+    {
+      "groupId": "a4240000-56be-0050-5a0f-08de90a98741",
+      "jobTitle": "Psycholog - Psychoterapeuta",
+      "companyName": "Centrum Odnowy Psychicznej MACIEJ OSTACHOWSKI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074233886",
+      "companyId": 1074233886,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:19:55.067Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "100–120 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, prowadzenie konsultacji psychologicznych,, prowadzenie psychoterapii indywidualnej osób dorosłych,, prowadzenie psychoterapii par (dotyczy tylko psychoterapeutów par),, prowadzenie dokumentacji zgodnie z obowiązującymi...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ukończone studia magisterskie z psychologii oraz minimum II rok certyfikowanego szkolenia psychoterapeutycznego.</li><li>Posiadasz co najmniej 2 lata doświadczenia zawodowego w pracy psychologa lub psychoterapeuty.</li><li>Jesteś gotów do pracy zespołowej i pod stałą superwizją, przestrzegając zasad etyki zawodowej.</li><li>Chcesz prowadzić konsultacje i psychoterapię indywidualną osób dorosłych oraz par (jeśli specjalizujesz się w terapii par).</li><li>Cenisz <b>elastyczne godziny pracy</b> oraz komfortowe warunki w dobrze wyposażonych gabinetach.</li><li>Preferujesz współpracę na umowę B2B lub zlecenie z wynagrodzeniem zależnym od poziomu wykształcenia psychoterapeutycznego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748873,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/psycholog-psychoterapeuta-wieliczka-plac-kosciuszki-2,oferta,1004748873",
+      "displayWorkplace": "Wieliczka",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 49.98393630981445,
+        "longitude": 20.06216049194336
+      },
+      "distanceInKilometers": 8.5,
+      "id": "1004748873",
+      "title": "Psycholog - Psychoterapeuta",
+      "company": "Centrum Odnowy Psychicznej MACIEJ OSTACHOWSKI",
+      "salary": "100–120 zł / godz. (zal. od umowy)",
+      "location": "Wieliczka",
+      "description": "Twój zakres obowiązków, prowadzenie konsultacji psychologicznych,, prowadzenie psychoterapii indywidualnej osób dorosłych,, prowadzenie psychoterapii par (dotyczy tylko psychoterapeutów par),, prowadzenie dokumentacji zgodnie z obowiązującymi...",
+      "url": "https://www.pracuj.pl/praca/psycholog-psychoterapeuta-wieliczka-plac-kosciuszki-2,oferta,1004748873"
+    },
+    {
+      "groupId": "f0380000-56be-0050-5f69-08de839544f0",
+      "jobTitle": "IT Analyst/Data Analyst",
+      "companyName": "B2B.NET S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20424689",
+      "companyId": 20424689,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20424689/03000000-bb2f-3863-a2ad-08d9952c4759_280x280.png",
+      "lastPublicated": "2026-04-13T06:19:01.59Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "18 000–19 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Analiza i rekonsyliacja danych finansowych pomiędzy systemami., Identyfikowanie przyczyn różnic w danych (np. wyceny, kursy walut, daty, rounding)., Analiza przepływu danych pomiędzy systemami transakcyjnymi i księgowymi.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20424689/mobile-banners/181b0000-56be-0050-c717-08de58e8c9f7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>bardzo dobrą znajomość SQL</b> i doświadczenie w pracy z danymi finansowymi lub księgowymi.</li><li>Pracujesz nad <b>analizą i rekonsyliacją danych</b> między systemami finansowo-księgowymi.</li><li>Potrafisz <b>identyfikować przyczyny rozbieżności</b> w danych finansowych i operacyjnych.</li><li>Masz doświadczenie we współpracy z zespołami IT dotyczącą <b>architektury i integracji systemów</b>.</li><li>Cenisz <b>prywatną opiekę medyczną i dofinansowanie zajęć sportowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710332,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/it-analyst-data-analyst-krakow,oferta,1004710332",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710332",
+      "title": "IT Analyst/Data Analyst",
+      "company": "B2B.NET S.A.",
+      "salary": "18 000–19 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Analiza i rekonsyliacja danych finansowych pomiędzy systemami., Identyfikowanie przyczyn różnic w danych (np. wyceny, kursy walut, daty, rounding)., Analiza przepływu danych pomiędzy systemami transakcyjnymi i księgowymi.,...",
+      "url": "https://www.pracuj.pl/praca/it-analyst-data-analyst-krakow,oferta,1004710332"
+    },
+    {
+      "groupId": "500d0000-56be-0050-00bb-08de83870af3",
+      "jobTitle": "Senior Software Developer",
+      "companyName": "B2B.NET S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20424689",
+      "companyId": 20424689,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20424689/03000000-bb2f-3863-a2ad-08d9952c4759_280x280.png",
+      "lastPublicated": "2026-04-13T06:18:29.8Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "20 000–22 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Rozwój i utrzymanie systemów działających na produkcji., Obsługa incydentów i analiza awarii technologicznych., Monitoring techniczny i biznesowy systemów oraz analiza KPI., Dbanie o jakość kodu i dokumentacji technicznej.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20424689/mobile-banners/181b0000-56be-0050-c717-08de58e8c9f7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 7 lat doświadczenia w backendowym developmentcie, ze znajomością <b>Java</b> i technologii takich jak <b>Spring Boot</b>, <b>Kafka</b>, <b>Hibernate</b>, <b>SQL</b>.</li><li>Pracujesz w zespole odpowiedzialnym za <b>utrzymanie i rozwój systemów produkcyjnych</b> w architekturze mikroserwisowej.</li><li>Masz doświadczenie w <b>obsłudze incydentów</b>, monitoringu aplikacji oraz analizie KPI systemów.</li><li>Znasz narzędzia wspierające rozwój i jakość kodu, m.in. <b>Liquibase</b>, <b>JUnit</b>, <b>OpenAPI</b>, <b>Git</b>, <b>Docker</b>.</li><li>Cenisz benefity w postaci <b>dofinansowania zajęć sportowych</b> oraz <b>prywatnej opieki medycznej</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710328,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-software-developer-krakow,oferta,1004710328",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710328",
+      "title": "Senior Software Developer",
+      "company": "B2B.NET S.A.",
+      "salary": "20 000–22 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Rozwój i utrzymanie systemów działających na produkcji., Obsługa incydentów i analiza awarii technologicznych., Monitoring techniczny i biznesowy systemów oraz analiza KPI., Dbanie o jakość kodu i dokumentacji technicznej.,...",
+      "url": "https://www.pracuj.pl/praca/senior-software-developer-krakow,oferta,1004710328"
+    },
+    {
+      "groupId": "54400000-56be-0050-1a70-08de9646eba4",
+      "jobTitle": "Kierowca",
+      "companyName": "Firma Handlowa Ampol A.K.S.A. Ślusarczyk Spółka Jawna",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20191553",
+      "companyId": 20191553,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20191553/9b030000-5dac-0015-85ba-08dabb271d60_280x280.png",
+      "lastPublicated": "2026-04-13T06:18:16.327Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "7 000–8 500 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Dostarczania towarów na terenie małopolski z magazynu w Krakowie ul. Płk. Dąbka 8b....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 4
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20191553/mobile-banners/9b030000-5dac-0015-0dbc-08dbe68c829e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>czynne prawo jazdy kat. B</b>.</li><li>Jesteś gotów do pracy <b>od 4 rano</b>, od poniedziałku do soboty.</li><li>Chcesz wykonywać <b>dostawy towarów na terenie Małopolski</b> z magazynu w Krakowie.</li><li>Interesuje Cię współpraca na <b>umowę B2B z możliwością wsparcia przy rejestracji działalności</b> lub umowę zlecenie na 2 dni w tygodniu.</li><li>Cenisz <b>dofinansowanie szkoleń oraz posiłek regeneracyjny</b> jako element zatrudnienia.</li><li>Szukasz możliwości <b>dodatkowych zleceń za dodatkowym wynagrodzeniem</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765076,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-krakow-plk-stanislawa-dabka-8b,oferta,1004765076",
+      "displayWorkplace": "Kraków, Podgórze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.03373718261719,
+        "longitude": 20.013032913208008
+      },
+      "distanceInKilometers": 1.9,
+      "id": "1004765076",
+      "title": "Kierowca",
+      "company": "Firma Handlowa Ampol A.K.S.A. Ślusarczyk Spółka Jawna",
+      "salary": "7 000–8 500 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Podgórze",
+      "description": "Twój zakres obowiązków, Dostarczania towarów na terenie małopolski z magazynu w Krakowie ul. Płk. Dąbka 8b....",
+      "url": "https://www.pracuj.pl/praca/kierowca-krakow-plk-stanislawa-dabka-8b,oferta,1004765076"
+    },
+    {
+      "groupId": "84450000-56be-0050-44ad-08de89b5b6db",
+      "jobTitle": "Kierownik ds. Handlowych",
+      "companyName": "ALKAM SECURITY SP. Z O.O. - SP.K.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20006290",
+      "companyId": 20006290,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20006290/2c580000-43a8-f403-175a-08d8ef813ec7_280x280.png",
+      "lastPublicated": "2026-04-13T06:14:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "8 000–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Nawiązywanie i utrzymywanie relacji z klientami oraz partnerami biznesowymi., Realizacja planów sprzedażowych oraz celów handlowych., Przygotowywanie ofert handlowych i prezentacji dla klientów., Analiza rynku i monitoring...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2-3 lata doświadczenia w sprzedaży B2B lub B2C</b> i znasz techniki sprzedażowe oraz negocjacyjne.</li><li>Potrafisz <b>analizować rynek i identyfikować potrzeby klientów</b>, a także zarządzać dokumentacją sprzedażową.</li><li>Posiadasz <b>znajomość języka angielskiego</b> na poziomie umożliwiającym swobodną komunikację oraz prawo jazdy kat. B.</li><li>Chcesz pracować z <b>nowoczesnymi systemami zabezpieczeń</b> i korzystać z narzędzi CRM oraz MS Office.</li><li>Cenisz <b>umowę o pracę lub B2B</b> z systemem premiowym, szkolenia oraz pakiet medyczny.</li><li>Interesuje Cię <b>udział w negocjacjach, targach i budowanie długotrwałych relacji</b> z klientami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728191,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-ds-handlowych-krakow-kocmyrzowska-7b,oferta,1004728191",
+      "displayWorkplace": "Kraków, Bieńczyce",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.08617401123047,
+        "longitude": 20.03975486755371
+      },
+      "distanceInKilometers": 5.4,
+      "id": "1004728191",
+      "title": "Kierownik ds. Handlowych",
+      "company": "ALKAM SECURITY SP. Z O.O. - SP.K.",
+      "salary": "8 000–20 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Bieńczyce",
+      "description": "Twój zakres obowiązków, Nawiązywanie i utrzymywanie relacji z klientami oraz partnerami biznesowymi., Realizacja planów sprzedażowych oraz celów handlowych., Przygotowywanie ofert handlowych i prezentacji dla klientów., Analiza rynku i monitoring...",
+      "url": "https://www.pracuj.pl/praca/kierownik-ds-handlowych-krakow-kocmyrzowska-7b,oferta,1004728191"
+    },
+    {
+      "groupId": "18460000-56be-0050-1e7d-08de9635d15a",
+      "jobTitle": "Operations Engineer (Linux)",
+      "companyName": "KEEPIT POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074096712",
+      "companyId": 1074096712,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074096712/b8440000-56be-0050-2e02-08dd77531684_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:04:48.52Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "12 000–19 000 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, Monitor the health and performance of the systems, Work with the extension and development of automation tooling, Support hardware and software, Maintaining documentation for daily operations, Deploying and operating Linux...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "More than one vacancy",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074096712/mobile-banners/14490000-56be-0050-383d-08de694616ea.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dobrą znajomość Linuxa</b>, zwłaszcza Debian/Ubuntu, oraz umiejętności sieciowe (firewall, NAT, VLAN, TCP/IP).</li><li>Doświadczenie w <b>monitorowaniu i utrzymaniu systemów</b> w środowisku 24/7 oraz operowaniu w data center.</li><li>Potrafisz korzystać z <b>narzędzi automatyzujących</b> i masz <b>dobre zdolności rozwiązywania problemów</b>.</li><li>Cenisz <b>stały grafik pracy w systemie zmianowym</b> z możliwością zamiany dyżurów.</li><li>Posiadasz <b>znajomość języka angielskiego</b> na poziomie umożliwiającym komunikację.</li><li>Chcesz pracować na podstawie <b>umowy o pracę</b> z pakietem dodatkowych świadczeń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004761195,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operations-engineer-linux-krakow-dluga-72,oferta,1004761195",
+      "displayWorkplace": "Kraków, Stare Miasto",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.071983337402344,
+        "longitude": 19.93553352355957
+      },
+      "distanceInKilometers": 5.3,
+      "id": "1004761195",
+      "title": "Operations Engineer (Linux)",
+      "company": "KEEPIT POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "12 000–19 000 zł brutto / mies.",
+      "location": "Kraków, Stare Miasto",
+      "description": "Your responsibilities, Monitor the health and performance of the systems, Work with the extension and development of automation tooling, Support hardware and software, Maintaining documentation for daily operations, Deploying and operating Linux...",
+      "url": "https://www.pracuj.pl/praca/operations-engineer-linux-krakow-dluga-72,oferta,1004761195"
+    },
+    {
+      "groupId": "f0470000-56be-0050-99a6-08de6945e181",
+      "jobTitle": "Agent / Agentka Nieruchomości",
+      "companyName": "Freedom Franchise Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20086261",
+      "companyId": 20086261,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20086261/2da80000-56be-0050-f8e3-08dc2e24e692_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "7 000–30 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Systematyczne pozyskiwanie mieszkań na sprzedaż w oparciu o umowy na wyłączność, Budowanie bazy klientów poszukujących zainteresowanych nieruchomościami, Organizacja cyklu sprzedaży i marketingu własnej bazy ofert...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętność systematycznego pozyskiwania nieruchomości</b> i prowadzenia sprzedaży.</li><li>Wyróżnia Cię <b>dobra organizacja pracy i determinacja</b> w realizacji celów.</li><li>Potrafisz <b>utrzymywać profesjonalne relacje z klientami</b> i pracować zespołowo.</li><li>Chcesz korzystać z <b>nowoczesnych narzędzi sprzedażowych i marketingowych</b>.</li><li>Ceniasz <b>elastyczność czasu pracy i możliwość pracy zdalnej</b>.</li><li>Masz <b>gotowość do nauki i rozwoju</b> w obszarze nieruchomości.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764792,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-krakow-wielicka-28,oferta,1004764792",
+      "displayWorkplace": "Kraków, Podgórze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.04007339477539,
+        "longitude": 19.966169357299805
+      },
+      "distanceInKilometers": 2.4,
+      "id": "1004764792",
+      "title": "Agent / Agentka Nieruchomości",
+      "company": "Freedom Franchise Sp. z o.o.",
+      "salary": "7 000–30 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków, Podgórze",
+      "description": "Twój zakres obowiązków, Systematyczne pozyskiwanie mieszkań na sprzedaż w oparciu o umowy na wyłączność, Budowanie bazy klientów poszukujących zainteresowanych nieruchomościami, Organizacja cyklu sprzedaży i marketingu własnej bazy ofert...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-krakow-wielicka-28,oferta,1004764792"
+    },
+    {
+      "groupId": "ec400000-56be-0050-5e1b-08de96d4a02b",
+      "jobTitle": "Python and AWS Engineer",
+      "companyName": "Mindbox Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074221283",
+      "companyId": 1074221283,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074221283/9c270000-56be-0050-f82d-08de36440fff_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, As a Python and AWS Engineer, you will leverage your expertise in Python and AWS to design, develop, and maintain scalable applications. You’ll ensure robust integration with AWS services, write clean and efficient code, and...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074221283/mobile-banners/ac480000-56be-0050-f8d7-08de4f579913.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>Pythonem i AWS</b> oraz umiejętność projektowania skalowalnych aplikacji.</li><li>Pracujesz w środowisku, gdzie ważna jest <b>integracja usług AWS</b> oraz pisanie czystego kodu.</li><li>Interesujesz się <b>CI/CD i konteneryzacją</b> jako elementami procesu wytwarzania oprogramowania.</li><li>Cenisz <b>elastyczny model współpracy</b> i możliwość pracy hybrydowej.</li><li>Zależy Ci na dostępie do <b>szkoleń oraz świadczeń medycznych i ubezpieczeniowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764859,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/python-and-aws-engineer-krakow,oferta,1004764859",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764859",
+      "title": "Python and AWS Engineer",
+      "company": "Mindbox Sp. z o.o.",
+      "salary": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, As a Python and AWS Engineer, you will leverage your expertise in Python and AWS to design, develop, and maintain scalable applications. You’ll ensure robust integration with AWS services, write clean and efficient code, and...",
+      "url": "https://www.pracuj.pl/praca/python-and-aws-engineer-krakow,oferta,1004764859"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-549b-08de96d4accf",
+      "jobTitle": "Test Automation Engineer",
+      "companyName": "Mindbox Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074221283",
+      "companyId": 1074221283,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074221283/9c270000-56be-0050-f82d-08de36440fff_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, As a Test Automation Engineer, you will play a key role in developing, implementing, and maintaining automated testing solutions to guarantee the quality and performance of our software products. You’ll collaborate closely...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074221283/mobile-banners/ac480000-56be-0050-f8d7-08de4f579913.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>Java, JavaScript lub Python</b> oraz narzędziami automatyzacji testów, takimi jak Selenium.</li><li>Chcesz pracować przy <b>projektowaniu i utrzymaniu skryptów automatycznych</b> oraz analizie wyników testów.</li><li>Znasz procesy <b>CI/CD, Jenkins i Git</b> oraz potrafisz integrować testy w pipeline'y.</li><li>Cenisz <b>elastyczny model współpracy</b> i możliwość pracy w trybie hybrydowym.</li><li>Poszukujesz <b>benefitów zdrowotnych i ubezpieczeniowych</b> oraz wsparcia w rozwoju i sprzętu pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764856,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/test-automation-engineer-krakow,oferta,1004764856",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764856",
+      "title": "Test Automation Engineer",
+      "company": "Mindbox Sp. z o.o.",
+      "salary": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, As a Test Automation Engineer, you will play a key role in developing, implementing, and maintaining automated testing solutions to guarantee the quality and performance of our software products. You’ll collaborate closely...",
+      "url": "https://www.pracuj.pl/praca/test-automation-engineer-krakow,oferta,1004764856"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-7d49-08de96d4c556",
+      "jobTitle": "AI/ML Engineer",
+      "companyName": "Mindbox Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074221283",
+      "companyId": 1074221283,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074221283/9c270000-56be-0050-f82d-08de36440fff_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "24 000–28 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, As a AI/Machine Learning Engineer, you will design and develop predictive and recommendation models, experiment with state-of-the-art ML/AI techniques (including deep learning), and evaluate their impact on business KPIs....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074221283/mobile-banners/ac480000-56be-0050-f8d7-08de4f579913.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w <b>Data Science lub Machine Learning</b> i pracowałeś/aś z modelami predykcyjnymi oraz klasyfikacyjnymi.</li><li>Posiadasz zaawansowaną znajomość <b>Python oraz bibliotek ML</b> i umiesz optymalizować modele w środowiskach Big Data.</li><li>Interesuje Cię praca z <b>dużymi zbiorami danych</b> oraz ocenianie wpływu modeli na kluczowe wskaźniki biznesowe.</li><li>Cenisz elastyczne formy zatrudnienia oraz <b>hybrydowy model pracy</b> z możliwością pracy zdalnej.</li><li>Chcesz korzystać z <b>wsparcia szkoleniowego</b>, wysokiej jakości sprzętu i kompleksowych benefitów zdrowotnych i sportowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764864,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ai-ml-engineer-krakow,oferta,1004764864",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764864",
+      "title": "AI/ML Engineer",
+      "company": "Mindbox Sp. z o.o.",
+      "salary": "24 000–28 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, As a AI/Machine Learning Engineer, you will design and develop predictive and recommendation models, experiment with state-of-the-art ML/AI techniques (including deep learning), and evaluate their impact on business KPIs....",
+      "url": "https://www.pracuj.pl/praca/ai-ml-engineer-krakow,oferta,1004764864"
+    },
+    {
+      "groupId": "ec400000-56be-0050-7930-08de96d4d33b",
+      "jobTitle": "Frontend Developer",
+      "companyName": "Mindbox Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074221283",
+      "companyId": 1074221283,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074221283/9c270000-56be-0050-f82d-08de36440fff_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, As a Frontend Developer, you will be responsible for designing, developing, and implementing user-friendly interfaces while ensuring seamless integration with back-end services. You’ll work closely with cross-functional...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074221283/mobile-banners/ac480000-56be-0050-f8d7-08de4f579913.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>HTML, CSS, JavaScript oraz nowoczesnymi frameworkami</b> jak React, Angular lub Vue.js.</li><li>Pracujesz w zespole, gdzie <b>projektujesz i wdrażasz interfejsy użytkownika</b> oraz dbasz o integrację z backendem.</li><li>Interesuje Cię <b>optymalizacja wydajności i responsywność aplikacji webowych</b>.</li><li>Cenisz <b>elastyczny model współpracy i hybrydowy tryb pracy</b> z możliwością pracy zdalnej.</li><li>Doceniasz <b>dostęp do szkoleń oraz wsparcie benefitów zdrowotnych i sportowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764858,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/frontend-developer-krakow,oferta,1004764858",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764858",
+      "title": "Frontend Developer",
+      "company": "Mindbox Sp. z o.o.",
+      "salary": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, As a Frontend Developer, you will be responsible for designing, developing, and implementing user-friendly interfaces while ensuring seamless integration with back-end services. You’ll work closely with cross-functional...",
+      "url": "https://www.pracuj.pl/praca/frontend-developer-krakow,oferta,1004764858"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-da6e-08de96d565be",
+      "jobTitle": "Senior Java Developer (GCP/AWS/Azure)",
+      "companyName": "J-LABS sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20075940",
+      "companyId": 20075940,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20075940/03000000-bb2f-3863-3d66-08d91aa88249_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "160–190 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie, rozwój oraz utrzymanie usług działających w architekturze mikroserwisowej., Tworzenie, implementacja i optymalizacja wydajnych rozwiązań backendowych w Javie., Udział w pełnym cyklu życia oprogramowania – od...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20075940/mobile-banners/7c0f0000-56be-0050-cf1c-08ddb888b0b8.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 5 lat doświadczenia w <b>Java 17+</b>, <b>Spring Boot</b> i tworzeniu <b>mikroserwisów</b>.</li><li>Pracujesz zgodnie z podejściem <b>TDD</b> i zwracasz uwagę na wysoką jakość kodu.</li><li>Posiadasz doświadczenie z technologiami chmurowymi, zwłaszcza <b>GCP</b>, i znajomość <b>DevOps</b> (CI/CD, Terraform).</li><li>Chcesz współpracować z zespołem inżynierów w Polsce oraz międzynarodowymi zespołami.</li><li>Cenisz udział w tworzeniu i utrzymaniu rozwiązań backendowych w architekturze <b>mikroserwisowej</b> dla branży finansowej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764883,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-java-developer-gcp-aws-azure-krakow-zablocie-43b,oferta,1004764883",
+      "displayWorkplace": "Kraków, Podgórze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.04875564575195,
+        "longitude": 19.96559715270996
+      },
+      "distanceInKilometers": 2.3,
+      "id": "1004764883",
+      "title": "Senior Java Developer (GCP/AWS/Azure)",
+      "company": "J-LABS sp. z o.o.",
+      "salary": "160–190 zł netto (+ VAT) / godz.",
+      "location": "Kraków, Podgórze",
+      "description": "Twój zakres obowiązków, Projektowanie, rozwój oraz utrzymanie usług działających w architekturze mikroserwisowej., Tworzenie, implementacja i optymalizacja wydajnych rozwiązań backendowych w Javie., Udział w pełnym cyklu życia oprogramowania – od...",
+      "url": "https://www.pracuj.pl/praca/senior-java-developer-gcp-aws-azure-krakow-zablocie-43b,oferta,1004764883"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-42c2-08de96d58880",
+      "jobTitle": "Mid Java Developer ( projekt AI/ML)",
+      "companyName": "J-LABS sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20075940",
+      "companyId": 20075940,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20075940/03000000-bb2f-3863-3d66-08d91aa88249_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "125–145 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Tworzenie i rozwój backendu w Java + Spring Boot w architekturze mikroserwisowej, Tworzenie i integracja REST API dla platformy i aplikacji klienckich, Integracja i wdrożenie modeli ML w środowisku produkcyjnym, Praca z...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20075940/mobile-banners/7c0f0000-56be-0050-cf1c-08ddb888b0b8.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 4 lata doświadczenia w <b>Java, Spring Boot</b> i tworzeniu <b>REST API</b>.</li><li>Pracujesz z <b>mikroserwisową architekturą</b> i znasz <b>Docker, Kubernetes, OpenShift</b>.</li><li>Chcesz współpracować z zespołem koncentrującym się na <b>AI/ML oraz automatyzacji</b>.</li><li>Ceniasz wysokie standardy jakości kodu i udział w <b>Agile/Scrum</b>.</li><li>Posługujesz się językiem angielskim i polskim na poziomie co najmniej <b>B2</b>.</li><li>Masz doświadczenie z <b>CI/CD</b> i projektami z obszaru bankowości będzie dodatkowym atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764881,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mid-java-developer-projekt-ai-ml-krakow-zablocie-43b,oferta,1004764881",
+      "displayWorkplace": "Kraków, Podgórze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.04875564575195,
+        "longitude": 19.96559715270996
+      },
+      "distanceInKilometers": 2.3,
+      "id": "1004764881",
+      "title": "Mid Java Developer ( projekt AI/ML)",
+      "company": "J-LABS sp. z o.o.",
+      "salary": "125–145 zł netto (+ VAT) / godz.",
+      "location": "Kraków, Podgórze",
+      "description": "Twój zakres obowiązków, Tworzenie i rozwój backendu w Java + Spring Boot w architekturze mikroserwisowej, Tworzenie i integracja REST API dla platformy i aplikacji klienckich, Integracja i wdrożenie modeli ML w środowisku produkcyjnym, Praca z...",
+      "url": "https://www.pracuj.pl/praca/mid-java-developer-projekt-ai-ml-krakow-zablocie-43b,oferta,1004764881"
+    },
+    {
+      "groupId": "ec400000-56be-0050-b8e1-08de96d59c77",
+      "jobTitle": "Python Backend Engineer",
+      "companyName": "J-LABS sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20075940",
+      "companyId": 20075940,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20075940/03000000-bb2f-3863-3d66-08d91aa88249_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "140–180 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie i rozwój backendu platformy integracyjnej, Tworzenie i rozwijanie API (REST / GraphQL) udostępniających funkcjonalności systemu, Projektowanie modeli danych oraz schematów w PostgreSQL, Implementacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20075940/mobile-banners/7c0f0000-56be-0050-cf1c-08ddb888b0b8.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 4 lata doświadczenia w backendzie oraz biegłość w <b>Pythonie</b> i <b>projektowaniu API (REST/GraphQL)</b>.</li><li>Posiadasz praktyczną wiedzę z <b>PostgreSQL</b>, konteneryzacji (<b>Docker</b>) i podstaw <b>Kubernetes</b>.</li><li>Interesujesz się systemami do przetwarzania danych o wysokiej niezawodności i skalowalności oraz orkiestracją procesów backendowych.</li><li>Cenisz pracę z platformami chmurowymi (<b>AWS</b> lub <b>Azure</b>) oraz integrację AI z backendem.</li><li>Chcesz działać w organizacji oferującej <b>zaawansowane narzędzia</b> i <b>społeczności technologiczne</b>.</li><li>Doceniasz możliwość pracy nad systemami o wysokich wymaganiach dotyczących <b>bezpieczeństwa, audytowalności i śledzenia historii danych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764885,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/python-backend-engineer-krakow-zablocie-43b,oferta,1004764885",
+      "displayWorkplace": "Kraków, Podgórze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.04875564575195,
+        "longitude": 19.96559715270996
+      },
+      "distanceInKilometers": 2.3,
+      "id": "1004764885",
+      "title": "Python Backend Engineer",
+      "company": "J-LABS sp. z o.o.",
+      "salary": "140–180 zł netto (+ VAT) / godz.",
+      "location": "Kraków, Podgórze",
+      "description": "Twój zakres obowiązków, Projektowanie i rozwój backendu platformy integracyjnej, Tworzenie i rozwijanie API (REST / GraphQL) udostępniających funkcjonalności systemu, Projektowanie modeli danych oraz schematów w PostgreSQL, Implementacja...",
+      "url": "https://www.pracuj.pl/praca/python-backend-engineer-krakow-zablocie-43b,oferta,1004764885"
+    },
+    {
+      "groupId": "ec400000-56be-0050-889f-08de96dea11e",
+      "jobTitle": "Java Developer",
+      "companyName": "Mindbox Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074221283",
+      "companyId": 1074221283,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074221283/9c270000-56be-0050-f82d-08de36440fff_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Design, develop, and maintain Java-based applications, Collaborate with cross-functional teams to define, design, and ship new features, Ensure the best possible performance, quality, and responsiveness of applications,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074221283/mobile-banners/ac480000-56be-0050-f8d7-08de4f579913.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie jako <b>Java Developer</b> oraz znajomość Spring Framework, Hibernate, Microservices i Kafka.</li><li>Pracujesz z technologiami chmurowymi takimi jak <b>AWS, GCP lub Azure</b>.</li><li>Chcesz realizować zadania związane z projektowaniem, rozwijaniem i utrzymaniem aplikacji Java.</li><li>Cenisz <b>elastyczny model współpracy</b> i możliwość pracy hybrydowej.</li><li>Zależy Ci na dostępie do <b>szkoleń i benefitów</b> takich jak opieka medyczna, karta Multisport i ubezpieczenie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764882,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/java-developer-krakow,oferta,1004764882",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764882",
+      "title": "Java Developer",
+      "company": "Mindbox Sp. z o.o.",
+      "salary": "22 000–26 000 zł netto (+ VAT) / mies.",
+      "location": "Kraków",
+      "description": "Your responsibilities, Design, develop, and maintain Java-based applications, Collaborate with cross-functional teams to define, design, and ship new features, Ensure the best possible performance, quality, and responsiveness of applications,...",
+      "url": "https://www.pracuj.pl/praca/java-developer-krakow,oferta,1004764882"
+    },
+    {
+      "groupId": "e8180000-56be-0050-255f-08de98da0229",
+      "jobTitle": "Agent nieruchomości / Real Estate Agent (M/K)",
+      "companyName": "homfi",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20218101",
+      "companyId": 20218101,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20218101/ee4d0000-5df0-0015-904a-08da87662858_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 400–100 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, ✨ Twoje zadania:, , • Prowadzenie transakcji sprzedaży i wynajmu nieruchomości, • Proponowanie usług dodatkowych (np. projektowanie wnętrz, zarządzanie najmem), • Współpraca z klientami i partnerami (architekci,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w sprzedaży lub obsłudze klienta oraz <b>komunikujesz się po angielsku</b> na poziomie komunikatywnym.</li><li>Potrafisz <b>pracować zespołowo</b>, jesteś <b>zorganizowany/a i samodzielny/a</b>.</li><li>Chcesz prowadzić <b>transakcje sprzedaży i wynajmu nieruchomości</b> oraz negocjować z klientami.</li><li>Cenisz <b>najwyższe stawki prowizyjne</b> oraz <b>elastyczne formy zatrudnienia</b>.</li><li>Zależy Ci na wsparciu dużego <b>Back Office</b> i nowoczesnych narzędzi pracy.</li><li>Chcesz korzystać z <b>prywatnej opieki medycznej, dofinansowania języków i szkoleń</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764970,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-nieruchomosci-real-estate-agent-m-k-krakow-stanislawa-zolkiewskiego-17a,oferta,1004764970",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.05922317504883,
+        "longitude": 19.95866584777832
+      },
+      "distanceInKilometers": 3.1,
+      "id": "1004764970",
+      "title": "Agent nieruchomości / Real Estate Agent (M/K)",
+      "company": "homfi",
+      "salary": "5 400–100 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Twój zakres obowiązków, ✨ Twoje zadania:, , • Prowadzenie transakcji sprzedaży i wynajmu nieruchomości, • Proponowanie usług dodatkowych (np. projektowanie wnętrz, zarządzanie najmem), • Współpraca z klientami i partnerami (architekci,...",
+      "url": "https://www.pracuj.pl/praca/agent-nieruchomosci-real-estate-agent-m-k-krakow-stanislawa-zolkiewskiego-17a,oferta,1004764970"
+    },
+    {
+      "groupId": "0c4b0000-56be-0050-430e-08de98db1bae",
+      "jobTitle": "Asystent Oddziału / Real Estate Office Assistant (M/K)",
+      "companyName": "homfi",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20218101",
+      "companyId": 20218101,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20218101/ee4d0000-5df0-0015-904a-08da87662858_280x280.png",
+      "lastPublicated": "2026-04-12T21:38:46.483Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "5 170–6 780 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Bieżące wsparcie działalności oddziału firmy, Wsparcie Działu Zarządzania Najmem w administracyjnej obsłudze nieruchomości oraz bieżących Zadaniach związanych z zarządzaniem najmem, Przygotowywanie, organizacja obiegu i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy administracyjnej i obsłudze dokumentacji</b>.</li><li>Potrafisz <b>organizować pracę biura i zarządzać obiegiem dokumentów</b>.</li><li>Posiadasz <b>komunikatywną znajomość języka angielskiego</b> oraz umiejętność obsługi MS Office lub Google.</li><li>Jesteś <b>skomunikatywny i potrafisz budować relacje</b> z klientami i współpracownikami.</li><li>Zależy Ci na <b>pracy obejmującej wsparcie administracyjne w zarządzaniu najmem nieruchomości</b>.</li><li>Ceniasz <b>benefity takie jak prywatna opieka medyczna, karta MultiSport oraz dofinansowania szkoleń</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764784,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-oddzialu-real-estate-office-assistant-m-k-krakow-stanislawa-zolkiewskiego-17a,oferta,1004764784",
+      "displayWorkplace": "Kraków, Grzegórzki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.05927658081055,
+        "longitude": 19.95810317993164
+      },
+      "distanceInKilometers": 3.2,
+      "id": "1004764784",
+      "title": "Asystent Oddziału / Real Estate Office Assistant (M/K)",
+      "company": "homfi",
+      "salary": "5 170–6 780 zł / mies. (zal. od umowy)",
+      "location": "Kraków, Grzegórzki",
+      "description": "Twój zakres obowiązków, Bieżące wsparcie działalności oddziału firmy, Wsparcie Działu Zarządzania Najmem w administracyjnej obsłudze nieruchomości oraz bieżących Zadaniach związanych z zarządzaniem najmem, Przygotowywanie, organizacja obiegu i...",
+      "url": "https://www.pracuj.pl/praca/asystent-oddzialu-real-estate-office-assistant-m-k-krakow-stanislawa-zolkiewskiego-17a,oferta,1004764784"
+    },
+    {
+      "groupId": "9c2d0000-56be-0050-807b-08de8bf74404",
+      "jobTitle": "Sprzedawca - Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-12T19:19:00Z",
+      "expirationDate": "2026-04-30T21:59:59Z",
+      "salaryDisplayText": "4 125–4 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>nastawienie na kontakt z klientem</b> i potrafisz pracować w zespole.</li><li>Jesteś gotowy(a) do <b>pracy fizycznej na 3 zmiany</b>, także w weekendy.</li><li>Zależy Ci na jasnym zakresie obowiązków, takich jak <b>obsługa kasy, wykładanie towaru i dbanie o porządek</b>.</li><li>Cenisz <b>dodatkowe wsparcie finansowe</b> i benefity, w tym e-kody, zniżki oraz prywatną opiekę medyczną.</li><li>Potrafisz zaangażować się i współpracować w środowisku pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004742483,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-niepolomice-plaszowska-2,oferta,1004742483",
+      "displayWorkplace": "Niepołomice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.02914047241211,
+        "longitude": 20.2042179107666
+      },
+      "distanceInKilometers": 15,
+      "id": "1004742483",
+      "title": "Sprzedawca - Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "4 125–4 500 zł brutto / mies.",
+      "location": "Niepołomice",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-niepolomice-plaszowska-2,oferta,1004742483"
+    },
+    {
+      "groupId": "00050000-56be-0050-2aef-08de959bfd09",
+      "jobTitle": "Serwisant / Serwisantka",
+      "companyName": "Bartosz Maj",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20402485",
+      "companyId": 20402485,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20402485/b03f0000-56be-0050-aff8-08de959fced2_280x280.jpg",
+      "lastPublicated": "2026-04-12T18:58:36.057Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "8 300–13 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie serwisów i przeglądów owijarek do palet, Uruchomienia maszyn, Kontakt z klientem, Obsługa bieżących zgłoszeń serwisowych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz wiedzę z zakresu <b>elektryki i mechaniki</b> oraz umiejętność czytania dokumentacji technicznej.</li><li>Posiadasz <b>uprawnienia SEP</b> do eksploatacji, pomiarów i ewentualnie dozoru.</li><li>Jesteś <b>dyspozycyjny</b> i potrafisz obsługiwać zgłoszenia serwisowe oraz kontaktować się z klientem.</li><li>Ceniasz <b>pracę w zespole</b> i wykazujesz zaangażowanie oraz obowiązkowość.</li><li>Masz prawo jazdy kategorii <b>B</b> oraz chęć nauki i dbałość o powierzone mienie.</li><li>Znasz maszyny <b>europejskich producentów</b> (np. Noxon, Robopac) – to dodatkowy atut.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004757897,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/serwisant-serwisantka-krakow-kosiarzy-2,oferta,1004757897",
+      "displayWorkplace": "Kraków, Podgórze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.033199310302734,
+        "longitude": 20.01426124572754
+      },
+      "distanceInKilometers": 2,
+      "id": "1004757897",
+      "title": "Serwisant / Serwisantka",
+      "company": "Bartosz Maj",
+      "salary": "8 300–13 000 zł brutto / mies.",
+      "location": "Kraków, Podgórze",
+      "description": "Twój zakres obowiązków, Wykonywanie serwisów i przeglądów owijarek do palet, Uruchomienia maszyn, Kontakt z klientem, Obsługa bieżących zgłoszeń serwisowych...",
+      "url": "https://www.pracuj.pl/praca/serwisant-serwisantka-krakow-kosiarzy-2,oferta,1004757897"
+    },
+    {
+      "groupId": "f0260000-56be-0050-01b3-08de890a4e3c",
+      "jobTitle": "Samodzielna Księgowa / Samodzielny Księgowy co lubi RYMOWAĆ :)",
+      "companyName": "SYNTEGIA HR Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20400155",
+      "companyId": 20400155,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20400155/ee4d0000-5df0-0015-b136-08da4dffe93b_280x280.png",
+      "lastPublicated": "2026-04-12T17:48:10.437Z",
+      "expirationDate": "2026-04-22T21:59:59Z",
+      "salaryDisplayText": "8 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Są takie firmy w Krakowie, które zatrudniają nie tylko Księgowe. Parytety wyrównują: Panów i Panie w dalszym ciągu poszukują. Mają struktury ponad 60 osobowe: dział kadr, księgowości oraz Główne Księgowe., Nauka i rozwój to...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie lub chęć nauki pełnej księgowości</b> i znajomość Ustawy o Rachunkowości.</li><li>Pracujesz dobrze w <b>zespołach 2-osobowych</b> zapewniających zastępowalność i wsparcie.</li><li>Chcesz korzystać z <b>comiesięcznych szkoleń i dofinansowania edukacji</b>.</li><li>Cenisz <b>elastyczne godziny pracy i stabilne zatrudnienie</b> na umowę o pracę bez okresu próbnego.</li><li>Masz umiejętność <b>zarządzania wieloma projektami jednocześnie i dobrą organizację pracy</b>.</li><li>Znajomość <b>języka angielskiego</b> i programów księgowych (np. Comarch Optima) będzie dodatkowym atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725056,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/samodzielna-ksiegowa-samodzielny-ksiegowy-co-lubi-rymowac-krakow,oferta,1004725056",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725056",
+      "title": "Samodzielna Księgowa / Samodzielny Księgowy co lubi RYMOWAĆ :)",
+      "company": "SYNTEGIA HR Sp. z o.o.",
+      "salary": "8 000–12 000 zł brutto / mies.",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Są takie firmy w Krakowie, które zatrudniają nie tylko Księgowe. Parytety wyrównują: Panów i Panie w dalszym ciągu poszukują. Mają struktury ponad 60 osobowe: dział kadr, księgowości oraz Główne Księgowe., Nauka i rozwój to...",
+      "url": "https://www.pracuj.pl/praca/samodzielna-ksiegowa-samodzielny-ksiegowy-co-lubi-rymowac-krakow,oferta,1004725056"
+    },
+    {
+      "groupId": "f0260000-56be-0050-01b3-08de890a4e3c",
+      "jobTitle": "Samodzielna Księgowa / Samodzielny Księgowy co lubi RYMOWAĆ :)",
+      "companyName": "SYNTEGIA HR Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20400155",
+      "companyId": 20400155,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20400155/ee4d0000-5df0-0015-b136-08da4dffe93b_280x280.png",
+      "lastPublicated": "2026-04-12T17:48:10.437Z",
+      "expirationDate": "2026-04-22T21:59:59Z",
+      "salaryDisplayText": "8 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Są takie firmy w Krakowie, które zatrudniają nie tylko Księgowe. Parytety wyrównują: Panów i Panie w dalszym ciągu poszukują. Mają struktury ponad 60 osobowe: dział kadr, księgowości oraz Główne Księgowe., Nauka i rozwój to...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie lub chęć nauki pełnej księgowości</b> i znajomość Ustawy o Rachunkowości.</li><li>Pracujesz dobrze w <b>zespołach 2-osobowych</b> zapewniających zastępowalność i wsparcie.</li><li>Chcesz korzystać z <b>comiesięcznych szkoleń i dofinansowania edukacji</b>.</li><li>Cenisz <b>elastyczne godziny pracy i stabilne zatrudnienie</b> na umowę o pracę bez okresu próbnego.</li><li>Masz umiejętność <b>zarządzania wieloma projektami jednocześnie i dobrą organizację pracy</b>.</li><li>Znajomość <b>języka angielskiego</b> i programów księgowych (np. Comarch Optima) będzie dodatkowym atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725057,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/samodzielna-ksiegowa-samodzielny-ksiegowy-co-lubi-rymowac-wieliczka,oferta,1004725057",
+      "displayWorkplace": "Wieliczka",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725057",
+      "title": "Samodzielna Księgowa / Samodzielny Księgowy co lubi RYMOWAĆ :)",
+      "company": "SYNTEGIA HR Sp. z o.o.",
+      "salary": "8 000–12 000 zł brutto / mies.",
+      "location": "Wieliczka",
+      "description": "Twój zakres obowiązków, Są takie firmy w Krakowie, które zatrudniają nie tylko Księgowe. Parytety wyrównują: Panów i Panie w dalszym ciągu poszukują. Mają struktury ponad 60 osobowe: dział kadr, księgowości oraz Główne Księgowe., Nauka i rozwój to...",
+      "url": "https://www.pracuj.pl/praca/samodzielna-ksiegowa-samodzielny-ksiegowy-co-lubi-rymowac-wieliczka,oferta,1004725057"
+    },
+    {
+      "groupId": "0c4b0000-56be-0050-6a0e-08de98b557da",
+      "jobTitle": "Przedstawiciel handlowy / Przedstawicielka handlowa",
+      "companyName": "AKADEMIA ROZWOJU I SUKCESU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20438597",
+      "companyId": 20438597,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20438597/a0460000-56be-0050-771e-08de0a729a21_280x280.png",
+      "lastPublicated": "2026-04-12T17:22:51.667Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "10 000–25 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Pozyskiwanie i obsługa klientów:, Aktywne pozyskiwanie klientów w jednostkach samorządu terytorialnego (urzędy gmin, powiaty, miasta, OSiR, OPS, PCPR, biblioteki, domy kultury, szkoły, GOPS, urzędy pracy) oraz w sektorze...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 5
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> i gotowość do mobilnej pracy w terenie na obszarze do 250 km.</li><li>Posiadasz <b>doświadczenie w kontaktach B2B lub z jednostkami samorządowymi</b> oraz umiejętność prowadzenia rozmów handlowych.</li><li>Interesujesz się <b>tematyką AI, dobrostanu psychicznego oraz rozwojem kompetencji</b> i potrafisz dostosować ofertę do potrzeb klienta.</li><li>Cenisz <b>samodzielność, organizację pracy</b> oraz umiejętność negocjacji i finalizacji umów.</li><li>Chcesz pracować przy <b>pozyskiwaniu i obsłudze klientów w sektorze publicznym i prywatnym</b> oraz uczestniczyć w przetargach i wydarzeniach branżowych.</li><li>Zależy Ci na <b>szkoleniach ze sprzedaży i technologii AI</b> oraz elastycznym czasie pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764756,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-krakow,oferta,1004764756",
+      "displayWorkplace": "Kraków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764756",
+      "title": "Przedstawiciel handlowy / Przedstawicielka handlowa",
+      "company": "AKADEMIA ROZWOJU I SUKCESU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "10 000–25 000 zł / mies. (zal. od umowy)",
+      "location": "Kraków",
+      "description": "Twój zakres obowiązków, Pozyskiwanie i obsługa klientów:, Aktywne pozyskiwanie klientów w jednostkach samorządu terytorialnego (urzędy gmin, powiaty, miasta, OSiR, OPS, PCPR, biblioteki, domy kultury, szkoły, GOPS, urzędy pracy) oraz w sektorze...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-krakow,oferta,1004764756"
+    },
+    {
+      "groupId": "18460000-56be-0050-75f8-08de965c7a96",
+      "jobTitle": "Elektromonter do Zespołu Kontroli Jakości",
+      "companyName": "Elsta sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20000961",
+      "companyId": 20000961,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20000961/03000000-bb2f-3863-db4c-08d965fcee6d_280x280.jpg",
+      "lastPublicated": "2026-04-12T17:22:38.36Z",
+      "expirationDate": "2026-05-09T21:59:59Z",
+      "salaryDisplayText": "5 000–6 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, sprawdzanie poprawności montażu urządzeń oraz połączeń elektrycznych w oparciu o dokumentację techniczną oraz wewnętrzne procedury, kontrola połączeń skręcanych szyn głównych produkowanych rozdzielnic elektrycznych,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20000961/mobile-banners/94140000-56be-0050-dfb8-08de72d23206.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie elektryczne lub doświadczenie</b> w montażu urządzeń elektrycznych.</li><li>Potrafisz <b>dokładnie kontrolować połączenia i montaż</b> według dokumentacji technicznej.</li><li>Cenisz <b>pracę jednozmianową</b> z możliwością nadgodzin w zgodzie z prawem.</li><li>Szukasz <b>umowy o pracę</b> z atrakcyjnym systemem premiowym i pakietem medycznym.</li><li>Chcesz korzystać z <b>dofinansowania szkoleń, nauki języków i aktywności fizycznej</b>.</li><li>Zależy Ci na <b>wsparciu rodzinnym</b> i programie poleceń pracowniczych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004760924,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/elektromonter-do-zespolu-kontroli-jakosci-wieliczka-janinska-32,oferta,1004760924",
+      "displayWorkplace": "Wieliczka",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 49.9813232421875,
+        "longitude": 20.04676628112793
+      },
+      "distanceInKilometers": 8.2,
+      "id": "1004760924",
+      "title": "Elektromonter do Zespołu Kontroli Jakości",
+      "company": "Elsta sp. z o.o.",
+      "salary": "5 000–6 500 zł brutto / mies.",
+      "location": "Wieliczka",
+      "description": "Twój zakres obowiązków, sprawdzanie poprawności montażu urządzeń oraz połączeń elektrycznych w oparciu o dokumentację techniczną oraz wewnętrzne procedury, kontrola połączeń skręcanych szyn głównych produkowanych rozdzielnic elektrycznych,...",
+      "url": "https://www.pracuj.pl/praca/elektromonter-do-zespolu-kontroli-jakosci-wieliczka-janinska-32,oferta,1004760924"
+    },
+    {
+      "groupId": "9c450000-56be-0050-a3c3-08de81c4b304",
+      "jobTitle": "Mechanik samochodowy",
+      "companyName": "G-PERFORMANCE GRZEGORZ GROJEC",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074193514",
+      "companyId": 1074193514,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-12T16:58:05.363Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "5 000–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Diagnozowanie usterek mechanicznych i elektronicznych w pojazdach  , Wykonywanie napraw i konserwacji samochodów osobowych oraz dostawczych  , Montaż i wymiana części oraz podzespołów samochodowych  , Przeprowadzanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w mechanice samochodowej</b> i umiejętność diagnozowania usterek.</li><li>Posiadasz <b>wykształcenie zawodowe lub techniczne o profilu mechanicznym</b>.</li><li>Posługujesz się <b>narzędziami i urządzeniami warsztatowymi</b>.</li><li>Posiadasz <b>prawo jazdy kat. B</b>.</li><li>Chcesz wykonywać <b>naprawy i konserwację pojazdów osobowych oraz dostawczych</b>.</li><li>Zależy Ci na <b>umowie o pracę i wynagrodzeniu z premiami</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004707551,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mechanik-samochodowy-prusy-pow-krakowski-zachodnia-34,oferta,1004707551",
+      "displayWorkplace": "Prusy (pow. krakowski), Nowa Huta",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.11316680908203,
+        "longitude": 20.076709747314453
+      },
+      "distanceInKilometers": 9.3,
+      "id": "1004707551",
+      "title": "Mechanik samochodowy",
+      "company": "G-PERFORMANCE GRZEGORZ GROJEC",
+      "salary": "5 000–8 000 zł brutto / mies.",
+      "location": "Prusy (pow. krakowski), Nowa Huta",
+      "description": "Twój zakres obowiązków, Diagnozowanie usterek mechanicznych i elektronicznych w pojazdach  , Wykonywanie napraw i konserwacji samochodów osobowych oraz dostawczych  , Montaż i wymiana części oraz podzespołów samochodowych  , Przeprowadzanie...",
+      "url": "https://www.pracuj.pl/praca/mechanik-samochodowy-prusy-pow-krakowski-zachodnia-34,oferta,1004707551"
+    }
+  ]
+}

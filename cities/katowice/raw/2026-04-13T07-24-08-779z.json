@@ -1,0 +1,3662 @@
+{
+  "meta": {
+    "profileKey": "05",
+    "profileLabel": "Katowice – all",
+    "slug": "katowice",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Katowice&rd=30&latitude=50.2598987&longitude=19.0215852",
+    "scrapedAt": "2026-04-13T07:24:08.779Z",
+    "pages": 1,
+    "total": 51,
+    "errors": 0,
+    "location": "Katowice",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "042e0000-56be-0050-645e-08de992aadbb",
+      "jobTitle": "Serwisant - Specjalista ds. serwisu instalacji HVAC (m/k)",
+      "companyName": "TKS Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20220592",
+      "companyId": 20220592,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20220592/2c580000-43a8-f403-6923-08d8ccebc211_280x280.png",
+      "lastPublicated": "2026-04-13T07:23:14.65Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 500–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, wykonywanie prac serwisowych instalacji HVAC,, nadzór nad bieżącą eksploatacją tych urządzeń – usuwanie awarii,, montaż nowych urządzeń klimatyzacyjnych i wentylacyjnych,, wykonywanie prac w ramach utrzymania ruchu na...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w serwisowaniu instalacji HVAC</b> oraz montażu urządzeń klimatyzacyjnych i wentylacyjnych.</li><li>Posiadasz <b>wykształcenie zawodowe</b> i znajomość instalacji wentylacji, klimatyzacji oraz grzewczych.</li><li>Potrafisz samodzielnie prowadzić <b>prace serwisowe, rozruchowe i pomiarowe</b> na instalacjach HVAC.</li><li>Cenisz zatrudnienie z <b>dofinansowaniem szkoleń i ubezpieczeniem na życie</b>.</li><li>Jesteś gotowy/gotowa na <b>sporadyczne delegacje</b> oraz wykonywanie prac w zakresie utrzymania ruchu innych instalacji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765369,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/serwisant-specjalista-ds-serwisu-instalacji-hvac-m-k-katowice,oferta,1004765369",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765369",
+      "title": "Serwisant - Specjalista ds. serwisu instalacji HVAC (m/k)",
+      "company": "TKS Sp. z o.o.",
+      "salary": "5 500–8 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, wykonywanie prac serwisowych instalacji HVAC,, nadzór nad bieżącą eksploatacją tych urządzeń – usuwanie awarii,, montaż nowych urządzeń klimatyzacyjnych i wentylacyjnych,, wykonywanie prac w ramach utrzymania ruchu na...",
+      "url": "https://www.pracuj.pl/praca/serwisant-specjalista-ds-serwisu-instalacji-hvac-m-k-katowice,oferta,1004765369"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-26be-08de8e230c3a",
+      "jobTitle": "Inżynier robót elektrycznych (K/M)",
+      "companyName": "\"ELEKTRO-BUD\" sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20067898",
+      "companyId": 20067898,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20067898/2c580000-43a8-f403-7b70-08d9ad941ebd_280x280.png",
+      "lastPublicated": "2026-04-13T07:17:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "7 000–11 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, bieżąca kontrola postępu realizacji budowy pod względem zgodności z dokumentacją techniczną,, zarządzanie materiałami i zamówieniami na budowie,, współpraca z przedstawicielami klienta na budowie, podwykonawcami i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne elektryczne lub pokrewne</b>, w tym jesteś studentem ostatniego roku.</li><li>Posiadasz <b>praktyczną znajomość prawa budowlanego</b> oraz umiejętność pracy z AutoCAD i MS Office.</li><li>Jesteś <b>dyspozycyjny, odpowiedzialny i potrafisz pracować samodzielnie oraz w zespole</b>.</li><li>Posiadasz <b>prawo jazdy kat. B</b> oraz gotowość do współpracy na budowie z różnymi podmiotami.</li><li>Zależy Ci na zatrudnieniu na <b>umowę o pracę z atrakcyjnym systemem wynagrodzeń i wsparciem przy formalnościach</b>.</li><li>Ceniasz <b>dofinansowanie nauki języków i szkoleń, ubezpieczenie na życie oraz program rekomendacji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737401,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-robot-elektrycznych-k-m-katowice,oferta,1004737401",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004737401",
+      "title": "Inżynier robót elektrycznych (K/M)",
+      "company": "\"ELEKTRO-BUD\" sp. z o.o.",
+      "salary": "7 000–11 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, bieżąca kontrola postępu realizacji budowy pod względem zgodności z dokumentacją techniczną,, zarządzanie materiałami i zamówieniami na budowie,, współpraca z przedstawicielami klienta na budowie, podwykonawcami i...",
+      "url": "https://www.pracuj.pl/praca/inzynier-robot-elektrycznych-k-m-katowice,oferta,1004737401"
+    },
+    {
+      "groupId": "042e0000-56be-0050-f7d5-08de992bef50",
+      "jobTitle": "Pracownik Sklepu (M/K)",
+      "companyName": "TEDi Sieć Handlowa Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20297387",
+      "companyId": 20297387,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20297387/03000000-bb2f-3863-f1f8-08d8c9e07c4a_280x280.png",
+      "lastPublicated": "2026-04-13T07:16:13.94Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 4 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosować się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20297387/mobile-banners/342a0000-56be-0050-10b2-08dc3ea01943.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dyspozycyjność do pracy w systemie zmianowym i w weekendy</b>.</li><li>Chcesz wykonywać <b>obsługę kasy fiskalnej i eksponowanie towaru</b> zgodnie z procedurami.</li><li>Stawiasz na <b>przestrzeganie procedur wewnętrznych i dbałość o porządek</b> w miejscu pracy.</li><li>Doceniasz <b>elastyczność planowania czasu pracy oraz pewność terminowego wynagrodzenia</b>.</li><li>Zależy Ci na <b>dostępie do dodatkowego ubezpieczenia na życie i zniżkach na produkty</b>.</li><li>Jesteś zainteresowany/a <b>pracą w międzynarodowej firmie z pełnym wsparciem wdrożeniowym</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765314,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-czeladz-grodziecka-2a,oferta,1004765314",
+      "displayWorkplace": "Czeladź",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.320152282714844,
+        "longitude": 19.07802963256836
+      },
+      "distanceInKilometers": 7.9,
+      "id": "1004765314",
+      "title": "Pracownik Sklepu (M/K)",
+      "company": "TEDi Sieć Handlowa Sp. z o.o.",
+      "salary": "od 4 850 zł brutto / mies.",
+      "location": "Czeladź",
+      "description": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosować się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-czeladz-grodziecka-2a,oferta,1004765314"
+    },
+    {
+      "groupId": "f4350000-56be-0050-23cf-08de8e236f38",
+      "jobTitle": "Kierownik Robót Elektrycznych (K/M)",
+      "companyName": "\"ELEKTRO-BUD\" sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20067898",
+      "companyId": 20067898,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20067898/2c580000-43a8-f403-7b70-08d9ad941ebd_280x280.png",
+      "lastPublicated": "2026-04-13T07:16:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "12 000–16 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, bieżąca kontrola postępu realizacji budowy pod względem zgodności z dokumentacją techniczną, współpraca z przedstawicielami klienta na budowie, podwykonawcami i dostawcami, współpraca z innymi kierownikami robót,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne elektryczne</b> oraz uprawnienia E i D do 1 kV i budowlane.</li><li>Posiadasz umiejętność <b>koordynacji robót elektrycznych</b> oraz współpracy z klientem, podwykonawcami i zespołem.</li><li>Znasz <b>prawo budowlane</b>, MS Office oraz AutoCAD.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i cechuje Cię samodzielność oraz odpowiedzialność.</li><li>Cenisz <b>umowę o pracę</b>, atrakcyjny system wynagrodzeń oraz wysokiej jakości narzędzia pracy.</li><li>Chcesz korzystać z <b>dofinansowania szkoleń</b> i innych form wsparcia rozwoju zawodowego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737395,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-robot-elektrycznych-k-m-katowice,oferta,1004737395",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004737395",
+      "title": "Kierownik Robót Elektrycznych (K/M)",
+      "company": "\"ELEKTRO-BUD\" sp. z o.o.",
+      "salary": "12 000–16 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, bieżąca kontrola postępu realizacji budowy pod względem zgodności z dokumentacją techniczną, współpraca z przedstawicielami klienta na budowie, podwykonawcami i dostawcami, współpraca z innymi kierownikami robót,...",
+      "url": "https://www.pracuj.pl/praca/kierownik-robot-elektrycznych-k-m-katowice,oferta,1004737395"
+    },
+    {
+      "groupId": "94470000-56be-0050-7bad-08de8b0fac35",
+      "jobTitle": "Kontroler Jakości (K/M)",
+      "companyName": "OK JOB sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074153357",
+      "companyId": 1074153357,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T07:15:40.653Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "5 430 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Oznaczanie, pomiar oraz wycinanie spoin, Przygotowanie spoin do analizy makrograficznej (poprzez manualną destrukcję detalu), Raportowanie złomu (IMS), Współpraca z działem produkcji oraz działami wspierającymi...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 6
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dokładność</b> i <b>rzetelność</b> w realizacji obowiązków związanych z kontrolą jakości.</li><li>Potrafisz pracować <b>w zespole</b> i współpracować z działem produkcji oraz wsparcia.</li><li>Posiadasz lub chcesz rozwijać umiejętności obsługi <b>podstawowych narzędzi pomiarowych</b>, takich jak suwmiarka.</li><li>Jesteś gotowy/gotowa do pracy w systemie <b>3-zmianowym</b> (6-14, 14-22, 22-6).</li><li>Cenisz <b>umowę o pracę</b> tymczasową z dodatkami i premiami, w tym za pracę nocną i absencję.</li><li>Zależy Ci na wsparciu koordynatora oraz dodatkowych benefitach, jak dofinansowanie posiłków i odzież robocza.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004731329,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kontroler-jakosci-k-m-tychy,oferta,1004731329",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004731329",
+      "title": "Kontroler Jakości (K/M)",
+      "company": "OK JOB sp. z o.o.",
+      "salary": "5 430 zł brutto / mies.",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, Oznaczanie, pomiar oraz wycinanie spoin, Przygotowanie spoin do analizy makrograficznej (poprzez manualną destrukcję detalu), Raportowanie złomu (IMS), Współpraca z działem produkcji oraz działami wspierającymi...",
+      "url": "https://www.pracuj.pl/praca/kontroler-jakosci-k-m-tychy,oferta,1004731329"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-8724-08de897c24a1",
+      "jobTitle": "Kontroler jakości NDT",
+      "companyName": "HammerJobs Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20307416",
+      "companyId": 20307416,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20307416/e42f0000-56be-0050-7c26-08ddfb45185f_280x280.png",
+      "lastPublicated": "2026-04-13T07:15:21.24Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "11 000–14 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie inspekcji i zapewnienie zgodności wyrobu., Zapis wyników inspekcji z wykorzystaniem cyfrowych industrialnych narzędzi według wymagań organizacji....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> oraz doświadczenie w dziale jakości.</li><li>Znasz <b>rysunek techniczny</b> i potrafisz pracować z dokumentacją techniczną.</li><li>Posiadasz <b>certyfikaty RT, MT, VT (poziom 2/3)</b> oraz prawo jazdy kat. B.</li><li>Potrafisz obsługiwać komputer i pakiet Office (Word, Excel).</li><li>Chcesz wykonywać <b>inspekcje NDT</b> i zapewniać zgodność wyrobów z wymaganiami.</li><li>Oczekujesz <b>wynagrodzenia 11000-14000 zł brutto</b> oraz szkoleń wprowadzających.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725504,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kontroler-jakosci-ndt-chorzow,oferta,1004725504",
+      "displayWorkplace": "Chorzów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725504",
+      "title": "Kontroler jakości NDT",
+      "company": "HammerJobs Sp. z o.o.",
+      "salary": "11 000–14 000 zł brutto / mies.",
+      "location": "Chorzów",
+      "description": "Twój zakres obowiązków, Wykonywanie inspekcji i zapewnienie zgodności wyrobu., Zapis wyników inspekcji z wykorzystaniem cyfrowych industrialnych narzędzi według wymagań organizacji....",
+      "url": "https://www.pracuj.pl/praca/kontroler-jakosci-ndt-chorzow,oferta,1004725504"
+    },
+    {
+      "groupId": "fc230000-56be-0050-bec8-08de8b0f749b",
+      "jobTitle": "Operator Wózka Widłowego / Magazynier",
+      "companyName": "OK JOB sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074153357",
+      "companyId": 1074153357,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T07:12:57.363Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "5 400–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Twój zakres obowiązków, Obsługa wózka widłowego, Zabezpieczanie produkcji w potrzebne komponenty, Rozładunki, załadunki, Ścisła współpraca z działami odpowiedzialnymi za dostawy / wysyłki, Dbałość o porządek i czystość w...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>uprawnienia UDT</b> do obsługi wózka widłowego.</li><li>Jesteś gotowy do pracy w <b>systemie 3-zmianowym</b>.</li><li>Masz doświadczenie w <b>obsłudze magazynu</b, w tym załadunkach i rozładunkach.</li><li>Cenisz <b>wynagrodzenie wraz z premią i dodatkami</b> za pracę nocną.</li><li>Chcesz pracować z zapewnioną <b>odzieżą i obuwiem roboczym</b>.</li><li>Zależy Ci na <b>dofinansowaniu zajęć sportowych</b> oraz wsparciu koordynatora.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004731318,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-wozka-widlowego-magazynier-tychy,oferta,1004731318",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004731318",
+      "title": "Operator Wózka Widłowego / Magazynier",
+      "company": "OK JOB sp. z o.o.",
+      "salary": "5 400–6 000 zł brutto / mies.",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, Twój zakres obowiązków, Obsługa wózka widłowego, Zabezpieczanie produkcji w potrzebne komponenty, Rozładunki, załadunki, Ścisła współpraca z działami odpowiedzialnymi za dostawy / wysyłki, Dbałość o porządek i czystość w...",
+      "url": "https://www.pracuj.pl/praca/operator-wozka-widlowego-magazynier-tychy,oferta,1004731318"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-db5d-08de96f34536",
+      "jobTitle": "Business Development Manager",
+      "companyName": "HireWise Szymon Negacz sp.k.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074085269",
+      "companyId": 1074085269,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074085269/03000000-bb2f-3863-f526-08d9ea1d0f15_280x280.png",
+      "lastPublicated": "2026-04-13T07:09:14.06Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 000–12 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów B2B (outbound: cold calling, mailing, LinkedIn), Budowanie i rozwijanie portfela klientów oraz długofalowych relacji biznesowych, Analiza potrzeb klientów i przygotowywanie dopasowanych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>sprzedaży usług B2B</b> i umiejętność samodzielnego pozyskiwania klientów.</li><li>Potrafisz <b>prowadzić negocjacje</b> oraz współpracować z wieloma decydentami w procesie sprzedażowym.</li><li>Charakteryzuje Cię <b>systematyczność i orientacja na realizację celów</b> oraz dobra organizacja pracy.</li><li>Znajomość języka angielskiego na poziomie co najmniej <b>B1+</b> oraz umiejętność analizy potrzeb klienta.</li><li>Chcesz pracować w modelu <b>mobilnym z dostępem do narzędzi prywatnych</b> (samochód, telefon, komputer) i korzystać z benefitów takich jak opieka medyczna i ubezpieczenie.</li><li>Interesuje Cię zatrudnienie na <b>umowę B2B lub o pracę</b> z wynagrodzeniem podstawowym i systemem premiowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765281,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/business-development-manager-chorzow,oferta,1004765281",
+      "displayWorkplace": "Chorzów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765281",
+      "title": "Business Development Manager",
+      "company": "HireWise Szymon Negacz sp.k.",
+      "salary": "10 000–12 000 zł netto (+ VAT) / mies.",
+      "location": "Chorzów",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów B2B (outbound: cold calling, mailing, LinkedIn), Budowanie i rozwijanie portfela klientów oraz długofalowych relacji biznesowych, Analiza potrzeb klientów i przygotowywanie dopasowanych...",
+      "url": "https://www.pracuj.pl/praca/business-development-manager-chorzow,oferta,1004765281"
+    },
+    {
+      "groupId": "94470000-56be-0050-904d-08de8b0e8c33",
+      "jobTitle": "Operator i ustawiacz pras krawędziowych CNC (K/M/X)",
+      "companyName": "OK JOB sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074153357",
+      "companyId": 1074153357,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T07:07:16.673Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "5 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Cięcie i formowanie blach na prasach krawędziowych CNC, Ustawianie i programowanie pras krawędziowych CNC, Produkcja elementów zgodnie z dokumentacją techniczną, Kontrola jakości detali(pomiary, sprawdzanie wymiarów),...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>gięciem i programowaniem pras krawędziowych CNC</b>.</li><li>Posiadasz <b>znajomość obróbki metalu i blach</b> oraz umiejętność samodzielnej organizacji pracy.</li><li>Oczekujesz zatrudnienia na podstawie <b>umowy o pracę tymczasową</b> z opłacanymi składkami i płatnym urlopem.</li><li>Cenisz <b>wynagrodzenie godzinowe 16,68 €</b> i dodatkowe diety oraz dopłaty za nadgodziny.</li><li>Możesz pracować w <b>systemie dwuzmianowym</b> oraz interesuje Cię wsparcie koordynatora podczas zatrudnienia.</li><li>Jesteś zainteresowany <b>zakwaterowaniem organizowanym przez pracodawcę</b> w przystępnej cenie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004731298,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-i-ustawiacz-pras-krawedziowych-cnc-k-m-x-katowice,oferta,1004731298",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004731298",
+      "title": "Operator i ustawiacz pras krawędziowych CNC (K/M/X)",
+      "company": "OK JOB sp. z o.o.",
+      "salary": "5 000–10 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Cięcie i formowanie blach na prasach krawędziowych CNC, Ustawianie i programowanie pras krawędziowych CNC, Produkcja elementów zgodnie z dokumentacją techniczną, Kontrola jakości detali(pomiary, sprawdzanie wymiarów),...",
+      "url": "https://www.pracuj.pl/praca/operator-i-ustawiacz-pras-krawedziowych-cnc-k-m-x-katowice,oferta,1004731298"
+    },
+    {
+      "groupId": "441b0000-56be-0050-431f-08de94ab0168",
+      "jobTitle": "Doradca / Doradczyni ds. Nieruchomości",
+      "companyName": "HOME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074043913",
+      "companyId": 1074043913,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074043913/9b030000-5dac-0015-01d8-08dbaf774f93_280x280.png",
+      "lastPublicated": "2026-04-13T07:07:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "5 000–25 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Twoją misją będzie profesjonalne doradztwo w zakresie sprzedaży i zakupu nieruchomości — z naciskiem na relacje, zaufanie i realną wartość dla Klienta. Nie będziesz tylko pośrednikiem – staniesz się prawdziwym partnerem w...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 1 rok doświadczenia w pośrednictwie nieruchomości i sprawnie nawiązujesz kontakt z Klientami.</li><li>Cenisz <b>samodzielność</b> i potrafisz efektywnie zarządzać własnym czasem oraz pracą.</li><li>Chcesz świadczyć <b>profesjonalne doradztwo</b> oparte na relacjach i zaufaniu, a nie presji sprzedażowej.</li><li>Poszukujesz <b>elastycznego czasu pracy</b> i konkurencyjnego, prowizyjnego systemu wynagrodzenia.</li><li>Zależy Ci na <b>wsparciu marketingowym</b> i nowoczesnych narzędziach sprzedażowych.</li><li>Wolisz pracę w zespole specjalistów z dostępem do bazy Klientów i zasobów prawnych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755342,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-nieruchomosci-katowice,oferta,1004755342",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004755342",
+      "title": "Doradca / Doradczyni ds. Nieruchomości",
+      "company": "HOME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "5 000–25 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Twoją misją będzie profesjonalne doradztwo w zakresie sprzedaży i zakupu nieruchomości — z naciskiem na relacje, zaufanie i realną wartość dla Klienta. Nie będziesz tylko pośrednikiem – staniesz się prawdziwym partnerem w...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-nieruchomosci-katowice,oferta,1004755342"
+    },
+    {
+      "groupId": "84450000-56be-0050-d6c9-08de89b73842",
+      "jobTitle": "Lider / Liderka zespołu Project Managerów",
+      "companyName": "HireWise Szymon Negacz sp.k.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074085269",
+      "companyId": 1074085269,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074085269/03000000-bb2f-3863-f526-08d9ea1d0f15_280x280.png",
+      "lastPublicated": "2026-04-13T07:04:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "15 000–16 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Na co dzień będziesz:, zarządzać zespołem 6 Project Managerów (organizacja pracy, priorytety, wsparcie), pracować z PM-ami 1:1 (feedback, rozwój, pomoc w rozwiązaniu bieżących problemów), dbać o jakość prowadzenia projektów...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074085269/mobile-banners/d44e0000-56be-0050-9001-08dd137a1592.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem marketingowym</b> i umiejętność organizacji pracy.</li><li>Pracowałeś/aś przy <b>projektach marketingowych B2B</b> i rozumiesz ich specyfikę.</li><li>Potrafisz <b>egzekwować ustalenia i dawać konstruktywny feedback</b>.</li><li>Lubisz pracować <b>blisko operacji</b> oraz wspierać zespół na co dzień.</li><li>Preferujesz środowisko, w którym <b>zarządzanie zespołem i realizacja projektów</b> są kluczowe.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728353,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lider-liderka-zespolu-project-managerow-gliwice,oferta,1004728353",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004728353",
+      "title": "Lider / Liderka zespołu Project Managerów",
+      "company": "HireWise Szymon Negacz sp.k.",
+      "salary": "15 000–16 000 zł netto (+ VAT) / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, Na co dzień będziesz:, zarządzać zespołem 6 Project Managerów (organizacja pracy, priorytety, wsparcie), pracować z PM-ami 1:1 (feedback, rozwój, pomoc w rozwiązaniu bieżących problemów), dbać o jakość prowadzenia projektów...",
+      "url": "https://www.pracuj.pl/praca/lider-liderka-zespolu-project-managerow-gliwice,oferta,1004728353"
+    },
+    {
+      "groupId": "9c2d0000-56be-0050-a342-08de8be7b700",
+      "jobTitle": "Asystent(ka) Projektanta branży elektroenergetycznej",
+      "companyName": "Antea Polska S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18797982",
+      "companyId": 18797982,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18797982/2c580000-43a8-f403-6f59-08d8b7b57f9c_280x280.png",
+      "lastPublicated": "2026-04-13T07:01:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 500–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Osoba zatrudniona na tym stanowisku odpowiedzialna będzie za wsparcie Kierownika Projektu/Projektanta,  w realizowanych przez firmę przedsięwzięciach branży elektroenergetycznej (Inżynier Kontraktu, studia wykonalności,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz wykształcenie lub studiujesz kierunek <b>elektryczny</b> (elektrotechnika, elektroenergetyka) i znasz <b>rysunek techniczny</b>.</li><li>Posiadasz umiejętności obsługi <b>pakietu Office i Autocad</b> oraz potrafisz samodzielnie rozwiązywać problemy techniczne.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i chcesz zdobyć doświadczenie w branży elektroenergetycznej.</li><li>Cenisz zatrudnienie na <b>umowę o pracę</b> z elastycznym czasem i możliwością pracy <b>hybrydowej</b>.</li><li>Zależy Ci na bogatym pakiecie świadczeń, w tym <b>opieka medyczna</b> i dofinansowanie szkoleń oraz nauki języków.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737343,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-ka-projektanta-branzy-elektroenergetycznej-katowice,oferta,1004737343",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004737343",
+      "title": "Asystent(ka) Projektanta branży elektroenergetycznej",
+      "company": "Antea Polska S.A.",
+      "salary": "5 500–8 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Osoba zatrudniona na tym stanowisku odpowiedzialna będzie za wsparcie Kierownika Projektu/Projektanta,  w realizowanych przez firmę przedsięwzięciach branży elektroenergetycznej (Inżynier Kontraktu, studia wykonalności,...",
+      "url": "https://www.pracuj.pl/praca/asystent-ka-projektanta-branzy-elektroenergetycznej-katowice,oferta,1004737343"
+    },
+    {
+      "groupId": "7c310000-56be-0050-4390-08de8be7551e",
+      "jobTitle": "Projektant(ka) Elektryk",
+      "companyName": "Antea Polska S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18797982",
+      "companyId": 18797982,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18797982/2c580000-43a8-f403-6f59-08d8b7b57f9c_280x280.png",
+      "lastPublicated": "2026-04-13T06:57:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "10 000–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Osoba zatrudniona na tym stanowisku będzie odpowiedzialna za realizację projektów związanych z branżą elektryczną, w tym projekty dot. transformacji energetycznej, OZE, środowiska, przemysłu i inne. Jest to szansa dla...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>wykształcenie techniczne</b> i <b>uprawnienia budowlane do projektowania bez ograniczeń</b> w zakresie sieci i urządzeń elektrycznych.</li><li>Masz <b>doświadczenie w projektowaniu i nadzorowaniu</b> robót związanych z obiektami energetycznymi lub transformacją energetyczną.</li><li>Znajomość <b>oprogramowania AutoCad</b>, MS Office oraz <b>komunikatywna znajomość języka angielskiego</b> to Twoje atuty.</li><li>Cenisz <b>elastyczny czas pracy</b> i możliwość <b>pracy hybrydowej</b>, a także benefity takie jak prywatna opieka medyczna i dofinansowania.</li><li>Jesteś gotowy(a) prowadzić <b>uzgodnienia z klientami i nadzór</b> zgodnie z prawem budowlanym, jeśli posiadasz odpowiednie uprawnienia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737326,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/projektant-ka-elektryk-katowice,oferta,1004737326",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004737326",
+      "title": "Projektant(ka) Elektryk",
+      "company": "Antea Polska S.A.",
+      "salary": "10 000–15 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Osoba zatrudniona na tym stanowisku będzie odpowiedzialna za realizację projektów związanych z branżą elektryczną, w tym projekty dot. transformacji energetycznej, OZE, środowiska, przemysłu i inne. Jest to szansa dla...",
+      "url": "https://www.pracuj.pl/praca/projektant-ka-elektryk-katowice,oferta,1004737326"
+    },
+    {
+      "groupId": "2c2d0000-56be-0050-3bfc-08de8a4319b7",
+      "jobTitle": "Kasjer / Kasjerka",
+      "companyName": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074144897",
+      "companyId": 1074144897,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074144897/ee4d0000-5df0-0015-f51f-08dbce265e2e_280x280.png",
+      "lastPublicated": "2026-04-13T06:51:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "31,50 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, obsługa klienta, obsługa kasy fiskalnej i terminala, kontrola terminów produktów spożywczych, wykładanie towaru - doraźnie, zapewnienie porządku na stanowisku pracy, zapewnienie odpowiedniej ekspozycji towaru...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku kasjera</b> i obsługujesz kasę fiskalną oraz terminal.</li><li>Posiadasz <b>orzeczenie lekarskie do celów sanitarno-epidemiologicznych</b> oraz jesteś pełnoletni.</li><li>Potrafisz <b>pracować w zespole</b> i dobrze organizujesz swój czas pracy.</li><li>Jesteś gotowy/a do <b>kontroli terminów i wykładania towaru</b> oraz dbania o porządek na stanowisku.</li><li>Cenisz <b>wynagrodzenie w wysokości 31,50 zł brutto za godzinę</b> oraz umowę zlecenie z miesięczną wypłatą.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728312,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kasjer-kasjerka-gliwice,oferta,1004728312",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004728312",
+      "title": "Kasjer / Kasjerka",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "31,50 zł brutto / godz.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, obsługa klienta, obsługa kasy fiskalnej i terminala, kontrola terminów produktów spożywczych, wykładanie towaru - doraźnie, zapewnienie porządku na stanowisku pracy, zapewnienie odpowiedniej ekspozycji towaru...",
+      "url": "https://www.pracuj.pl/praca/kasjer-kasjerka-gliwice,oferta,1004728312"
+    },
+    {
+      "groupId": "10440000-56be-0050-49c3-08de83eaea12",
+      "jobTitle": "System - Business Analyst",
+      "companyName": "Scalo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20048614",
+      "companyId": 20048614,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20048614/03000000-bb2f-3863-d424-08d930062d01_280x280.png",
+      "lastPublicated": "2026-04-13T06:49:38.173Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "145 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, uczestnictwo w projekcie dot. branży bankowej. Wykorzystywany stos technologiczny: Enterprise Architect, UML/BPMN, SQL, Rest API, Kafka,, przygotowanie analizy systemowej aplikacji bankowych,, współpraca z jednostkami...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20048614/mobile-banners/04070000-56be-0050-2566-08de6f9a9631.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 4 lata doświadczenia w <b>analizie biznesowej i systemowej</b> oraz rozwijaniu systemów IT.</li><li>Posiadasz praktyczne umiejętności w <b>modelowaniu UML/BPMN</b> i pracy z Enterprise Architect.</li><li>Potrafisz efektywnie współpracować z interesariuszami, programistami i testerami oraz zbierać i opisywać <b>wymagania biznesowe</b>.</li><li>Masz doświadczenie w <b>integracji systemów</b> z użyciem REST API i Kafka oraz w pracy z narzędziami SQL.</li><li>Cenisz <b>różnorodne projekty i możliwość pracy w obszarach Software, Embedded, Data i Cloud Services</b>.</li><li>Oczekujesz <b>pakietu benefitów</b> obejmującego opiekę medyczną, ubezpieczenie, kartę Multisport i program rekomendacji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710506,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/system-business-analyst-katowice,oferta,1004710506",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710506",
+      "title": "System - Business Analyst",
+      "company": "Scalo Sp. z o.o.",
+      "salary": "145 zł netto (+ VAT) / godz.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, uczestnictwo w projekcie dot. branży bankowej. Wykorzystywany stos technologiczny: Enterprise Architect, UML/BPMN, SQL, Rest API, Kafka,, przygotowanie analizy systemowej aplikacji bankowych,, współpraca z jednostkami...",
+      "url": "https://www.pracuj.pl/praca/system-business-analyst-katowice,oferta,1004710506"
+    },
+    {
+      "groupId": "84450000-56be-0050-3265-08de89783168",
+      "jobTitle": "Technik serwisu sprzętu AGD",
+      "companyName": "AUTORYZOWANY SERWIS AGD",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074102327",
+      "companyId": 1074102327,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:47:14.333Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "6 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Diagnoza i naprawa sprzętów AGD u klienta w domu (szczególnie chłodnictwo, zmywarki), Wsparcie techniczne klienta w zakresie działania i obsługi sprzętów AGD, Wykonywanie napraw gwarancyjnych i pogwarancyjnych urządzeń AGD,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> i chęć dojazdu do klientów.</li><li>Posiadasz <b>wykształcenie techniczne</b> lub chcesz zdobyć kwalifikacje w serwisie AGD.</li><li>Zależny Ci na <b>samodzielnej diagnostyce i naprawie sprzętów AGD</b>, zwłaszcza chłodnictwa i zmywarek.</li><li>Oczekujesz <b>umowy o pracę</b>, elastycznych godzin pracy i pracy w systemie jednozmianowym.</li><li>Cenisz <b>benefity</b> takie jak prywatna opieka medyczna, służbowy samochód i szkolenia.</li><li>Jesteś gotów do <b>ciągłego podnoszenia kwalifikacji</b> i pracy na miejscu u klienta.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725345,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/technik-serwisu-sprzetu-agd-bytom,oferta,1004725345",
+      "displayWorkplace": "Bytom",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725345",
+      "title": "Technik serwisu sprzętu AGD",
+      "company": "AUTORYZOWANY SERWIS AGD",
+      "salary": "6 000–10 000 zł brutto / mies.",
+      "location": "Bytom",
+      "description": "Twój zakres obowiązków, Diagnoza i naprawa sprzętów AGD u klienta w domu (szczególnie chłodnictwo, zmywarki), Wsparcie techniczne klienta w zakresie działania i obsługi sprzętów AGD, Wykonywanie napraw gwarancyjnych i pogwarancyjnych urządzeń AGD,...",
+      "url": "https://www.pracuj.pl/praca/technik-serwisu-sprzetu-agd-bytom,oferta,1004725345"
+    },
+    {
+      "groupId": "f0380000-56be-0050-d1d4-08de83380d11",
+      "jobTitle": "AI Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:47:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w programowaniu w <b>Pythonie</b> i znajomość <b>backendowych frameworków</b>, np. FastAPI.</li><li>Posiadasz praktyczne umiejętności w pracy z <b>LLM i Generative AI</b> oraz znajomość zasad inżynierii oprogramowania.</li><li>Pracujesz z technologiami <b>chmurowymi (AWS, GCP, Azure)</b>, Dockerem oraz CI/CD.</li><li>Interesujesz się <b>przetwarzaniem dokumentów i analizą danych</b> w kontekście AI lub rozwojem systemów wspierających inżynierię oprogramowania.</li><li>Cenisz możliwość wyboru formy współpracy oraz elastyczny <b>tryb pracy zdalnej lub hybrydowej</b>.</li><li>Oczekujesz wsparcia w podnoszeniu kwalifikacji poprzez szkolenia i certyfikacje, np. z zakresu <b>Databricks</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710494,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ai-engineer-katowice,oferta,1004710494",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710494",
+      "title": "AI Engineer",
+      "company": "Addepto",
+      "salary": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "url": "https://www.pracuj.pl/praca/ai-engineer-katowice,oferta,1004710494"
+    },
+    {
+      "groupId": "6c1d0000-56be-0050-d0eb-08de8a7ddfc0",
+      "jobTitle": "Technik Serwisant",
+      "companyName": "Novoferm Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20065871",
+      "companyId": 20065871,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20065871/2c580000-43a8-f403-e727-08d8dd62054b_280x280.png",
+      "lastPublicated": "2026-04-13T06:42:09.013Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "6 500–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, naprawa i konserwacja bram przemysłowych oraz ramp przeładunkowych, diagnozowanie i rozwiązywanie usterek, wsparcie techniczne użytkowników końcowych, współpraca ze służbami utrzymania ruchu...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20065871/mobile-banners/2c410000-56be-0050-8db0-08de8b0b2341.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> i zmysł techniczny.</li><li>Pracujesz samodzielnie przy <b>naprawie i konserwacji bram</b> oraz ramp przeładunkowych.</li><li>Posiadasz lub chcesz zdobyć <b>uprawnienia SEP lub spawalnicze</b>.</li><li>Cenisz <b>umowę o pracę na pełen etat</b> oraz <b>stabilne zatrudnienie</b>.</li><li>Zależy Ci na <b>wsparciu technicznym i szkoleniach</b> produktowych.</li><li>Doceniasz <b>dofinansowanie zajęć sportowych, medyczną opiekę</b> i elastyczny czas pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004731209,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/technik-serwisant-katowice,oferta,1004731209",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004731209",
+      "title": "Technik Serwisant",
+      "company": "Novoferm Polska Sp. z o.o.",
+      "salary": "6 500–9 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, naprawa i konserwacja bram przemysłowych oraz ramp przeładunkowych, diagnozowanie i rozwiązywanie usterek, wsparcie techniczne użytkowników końcowych, współpraca ze służbami utrzymania ruchu...",
+      "url": "https://www.pracuj.pl/praca/technik-serwisant-katowice,oferta,1004731209"
+    },
+    {
+      "groupId": "8c280000-56be-0050-06a7-08de99268063",
+      "jobTitle": "Spedytor międzynarodowy",
+      "companyName": "TRANS - TRUCK - SERWIS",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20135999",
+      "companyId": 20135999,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:33:19.497Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 806–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, organizacja i koordynacja transportów krajowych i/lub międzynarodowych, , obsługa oraz rozwój portfela klientów, , pozyskiwanie nowych klientów i budowanie długofalowych relacji, , przygotowywanie ofert i negocjowanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w spedycji lub sprzedaży usług transportowych</b> i znasz rynek TSL.</li><li>Potrafisz <b>organizować i koordynować transporty krajowe lub międzynarodowe</b>.</li><li>Jesteś <b>samodzielny, z dobrą organizacją pracy i odpowiedzialnym podejściem</b>.</li><li>Posiadasz <b>umiejętność pracy z klientem i nastawienie na wynik</b>.</li><li>Znasz <b>język angielski i/lub włoski</b>.</li><li>Cenisz <b>stabilne zatrudnienie, jasne zasady współpracy oraz wynagrodzenie zależne od wyników</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765124,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/spedytor-miedzynarodowy-tychy-myslowicka-1,oferta,1004765124",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.11212158203125,
+        "longitude": 19.04925537109375
+      },
+      "distanceInKilometers": 16.6,
+      "id": "1004765124",
+      "title": "Spedytor międzynarodowy",
+      "company": "TRANS - TRUCK - SERWIS",
+      "salary": "4 806–7 000 zł brutto / mies.",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, organizacja i koordynacja transportów krajowych i/lub międzynarodowych, , obsługa oraz rozwój portfela klientów, , pozyskiwanie nowych klientów i budowanie długofalowych relacji, , przygotowywanie ofert i negocjowanie...",
+      "url": "https://www.pracuj.pl/praca/spedytor-miedzynarodowy-tychy-myslowicka-1,oferta,1004765124"
+    },
+    {
+      "groupId": "f0380000-56be-0050-073e-08de83388c3a",
+      "jobTitle": "Data Engineer (Spark)",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "15 120–21 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w pracy z <b>Big Data</b> i technologiami takimi jak <b>Spark, Cloudera, Airflow, Iceberg</b>.</li><li>Posiadasz umiejętności programowania w <b>Pythonie (lub Java/Scala)</b> oraz doświadczenie w projektowaniu i utrzymaniu przetwarzania danych w trybie <b>streaming i batch</b>.</li><li>Pracowałeś z rozwiązaniami chmurowymi, zwłaszcza <b>AWS</b>, i znasz zasady zarządzania danymi oraz modelowanie <b>dimensional data</b>.</li><li>Posiadasz doświadczenie konsultingowe i potrafisz efektywnie współpracować z klientami przy realizacji projektów.</li><li>Cenisz elastyczne formy zatrudnienia, dostęp do <b>szkoleń i certyfikacji Databricks</b> oraz wsparcie w rozwoju zawodowym.</li><li>Preferujesz pracę w trybie <b>remote lub hybrydowym</b> z dostępem do nowoczesnego sprzętu i benefitów medycznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710433,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/data-engineer-spark-katowice,oferta,1004710433",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710433",
+      "title": "Data Engineer (Spark)",
+      "company": "Addepto",
+      "salary": "15 120–21 000 zł netto (+ VAT) / mies.",
+      "location": "Katowice",
+      "description": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "url": "https://www.pracuj.pl/praca/data-engineer-spark-katowice,oferta,1004710433"
+    },
+    {
+      "groupId": "f0380000-56be-0050-f8ba-08de83389c64",
+      "jobTitle": "Senior Data Engineer (Spark)",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "21 000–28 560 zł netto (+ VAT) / mies.",
+      "jobDescription": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 5 lat doświadczenia w pracy z <b>Big Data</b> oraz znajomość technologii takich jak <b>Spark, Cloudera, Airflow, Iceberg, Python i AWS</b>.</li><li>Pracujesz efektywnie z danymi w trybach <b>streaming i batch</b> oraz umiesz projektować i optymalizować złożone pipeline’y.</li><li>Posiadasz praktykę w implementacji rozwiązań w <b>chmurze</b> oraz doświadczenie w samodzielnym prowadzeniu projektów i kontaktach z klientami.</li><li>Stawiasz na rozwój poprzez dostęp do <b>szkoleń, certyfikacji Databricks</b> oraz elastyczne formy zatrudnienia i możliwość pracy zdalnej.</li><li>Ceniasz wsparcie w postaci <b>pakietów medycznych, sportowych i coachingowych</b> oraz finansowanie kursów językowych i zawodowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710439,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-data-engineer-spark-katowice,oferta,1004710439",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710439",
+      "title": "Senior Data Engineer (Spark)",
+      "company": "Addepto",
+      "salary": "21 000–28 560 zł netto (+ VAT) / mies.",
+      "location": "Katowice",
+      "description": "Your responsibilities, Develop and maintain a high-performance data processing platform for automotive data, ensuring scalability and reliability., Design and implement data pipelines that process large volumes of data in both streaming and batch...",
+      "url": "https://www.pracuj.pl/praca/senior-data-engineer-spark-katowice,oferta,1004710439"
+    },
+    {
+      "groupId": "84450000-56be-0050-222b-08de8974ae28",
+      "jobTitle": "Doradca / Doradczyni - Opiekun / Opiekunka Klienta w Biurze Sprzedaży",
+      "companyName": "Przedsiębiorstwo Handlowo Usługowe",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074088780",
+      "companyId": 1074088780,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074088780/ee4d0000-5df0-0015-932f-08dbd5e84a1a_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "2 000–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Sprzedaż produktów finansowo-ubezpieczeniowych w tym np. kredytów, ubezpieczeń, inwestycji i produktów finansowych, Analiza finansów osobistych, jak i firmowych celem budowania planów finansowych dla Klientów, Budowanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Pas startowy"
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętności interpersonalne</b> i potrafisz aktywnie budować relacje z klientami.</li><li>Interesujesz się <b>branżą finansową</b> i chcesz doradzać w zakresie produktów finansowo-ubezpieczeniowych.</li><li>Cenisz <b>elastyczność pracy</b> i możliwość wykonywania obowiązków z dowolnego miejsca.</li><li>Chcesz pracować z <b>klientami indywidualnymi i biznesowymi</b>, budując plan finansowy.</li><li>Poszukujesz <b>wynagrodzenia uzależnionego od efektów</b> oraz atrakcyjnych nagród za wyniki.</li><li>Zależy Ci na <b>dostępie do szkoleń</b> oraz wsparciu branżowych specjalistów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725295,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-opiekun-opiekunka-klienta-w-biurze-sprzedazy-gliwice,oferta,1004725295",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725295",
+      "title": "Doradca / Doradczyni - Opiekun / Opiekunka Klienta w Biurze Sprzedaży",
+      "company": "Przedsiębiorstwo Handlowo Usługowe",
+      "salary": "2 000–10 000 zł / mies. (zal. od umowy)",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, Sprzedaż produktów finansowo-ubezpieczeniowych w tym np. kredytów, ubezpieczeń, inwestycji i produktów finansowych, Analiza finansów osobistych, jak i firmowych celem budowania planów finansowych dla Klientów, Budowanie...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-opiekun-opiekunka-klienta-w-biurze-sprzedazy-gliwice,oferta,1004725295"
+    },
+    {
+      "groupId": "84450000-56be-0050-222b-08de8974ae28",
+      "jobTitle": "Doradca / Doradczyni - Opiekun / Opiekunka Klienta w Biurze Sprzedaży",
+      "companyName": "Przedsiębiorstwo Handlowo Usługowe",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074088780",
+      "companyId": 1074088780,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074088780/ee4d0000-5df0-0015-932f-08dbd5e84a1a_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:32:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "2 000–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Sprzedaż produktów finansowo-ubezpieczeniowych w tym np. kredytów, ubezpieczeń, inwestycji i produktów finansowych, Analiza finansów osobistych, jak i firmowych celem budowania planów finansowych dla Klientów, Budowanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Pas startowy"
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętności interpersonalne</b> i potrafisz aktywnie budować relacje z klientami.</li><li>Interesujesz się <b>branżą finansową</b> i chcesz doradzać w zakresie produktów finansowo-ubezpieczeniowych.</li><li>Cenisz <b>elastyczność pracy</b> i możliwość wykonywania obowiązków z dowolnego miejsca.</li><li>Chcesz pracować z <b>klientami indywidualnymi i biznesowymi</b>, budując plan finansowy.</li><li>Poszukujesz <b>wynagrodzenia uzależnionego od efektów</b> oraz atrakcyjnych nagród za wyniki.</li><li>Zależy Ci na <b>dostępie do szkoleń</b> oraz wsparciu branżowych specjalistów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725297,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-opiekun-opiekunka-klienta-w-biurze-sprzedazy-katowice,oferta,1004725297",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725297",
+      "title": "Doradca / Doradczyni - Opiekun / Opiekunka Klienta w Biurze Sprzedaży",
+      "company": "Przedsiębiorstwo Handlowo Usługowe",
+      "salary": "2 000–10 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Sprzedaż produktów finansowo-ubezpieczeniowych w tym np. kredytów, ubezpieczeń, inwestycji i produktów finansowych, Analiza finansów osobistych, jak i firmowych celem budowania planów finansowych dla Klientów, Budowanie...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-opiekun-opiekunka-klienta-w-biurze-sprzedazy-katowice,oferta,1004725297"
+    },
+    {
+      "groupId": "f0380000-56be-0050-ac5f-08de833864b7",
+      "jobTitle": "Lead Data Scientist / ML Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:31:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad <b>5 lat doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI</b> (ML, LLM, NLP, Computer Vision, GenAI).</li><li>Posiadasz <b>zaawansowane umiejętności programowania w Pythonie</b> oraz znajomość narzędzi ML i chmur (AWS lub Azure).</li><li>Interesuje Cię <b>praca przy projektach wykorzystujących LLM i AI optymalizujące operacje</b> w sektorze lotniskowym lub innowacyjnym.</li><li>Cenisz <b>elastyczne formy współpracy, zdalne lub biurowe środowisko</b> oraz wsparcie w podnoszeniu kwalifikacji.</li><li>Masz doświadczenie w <b>koordynacji zespołów i wdrażaniu rozwiązań MLOps</b>, Docker, Kubernetes.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710412,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lead-data-scientist-ml-engineer-katowice,oferta,1004710412",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710412",
+      "title": "Lead Data Scientist / ML Engineer",
+      "company": "Addepto",
+      "salary": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/lead-data-scientist-ml-engineer-katowice,oferta,1004710412"
+    },
+    {
+      "groupId": "f0380000-56be-0050-fa87-08de833877b8",
+      "jobTitle": "AI Engineer (Python, LLMs)",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:31:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w <b>programowaniu w Pythonie</b> i znajomość <b>LLM oraz Generative AI</b>.</li><li>Posiadasz umiejętności w <b>tworzeniu backendu</b> z użyciem frameworków jak <b>FastAPI</b> oraz doświadczenie z <b>bazami danych</b>.</li><li>Posiadasz praktykę w pracy z <b>chmurą (AWS, GCP, Azure)</b>, Dockerem i podstawami CI/CD.</li><li>Interesujesz się <b>zaawansowanymi AI i przetwarzaniem dokumentów</b>, w tym zastosowaniami w inżynierii i analizie kodu.</li><li>Cenisz możliwość <b>wyboru formy współpracy i elastycznego czasu pracy</b>.</li><li>Chcesz korzystać z <b>szkoleń, konferencji i wsparcia w rozwoju zawodowym</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710425,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ai-engineer-python-llms-katowice,oferta,1004710425",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710425",
+      "title": "AI Engineer (Python, LLMs)",
+      "company": "Addepto",
+      "salary": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Your responsibilities, Support the development of scalable AI systems, including LLMs and GenAI, under the guidance of senior engineers., Assist in transforming Data Science prototypes into production-ready solutions., Build and enhance backend...",
+      "url": "https://www.pracuj.pl/praca/ai-engineer-python-llms-katowice,oferta,1004710425"
+    },
+    {
+      "groupId": "f0380000-56be-0050-a2e5-08de83384eb5",
+      "jobTitle": "Data Scientist / ML Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:30:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad 3 lata doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI, w tym ML, LLM i optymalizacji.</li><li>Posiadasz biegłość w Pythonie, znasz biblioteki ML (Scikit-Learn, PyTorch, TensorFlow) oraz masz doświadczenie z chmurą AWS lub Azure.</li><li>Potrafisz kierować projektami AI, tworzyć architektury rozwiązań oraz współpracować z zespołami inżynierów i klientami.</li><li>Interesuje Cię praca z nowoczesnymi technologiami jak Kubernetes, Docker, CI/CD i MLOps.</li><li>Ceniasz elastyczne warunki pracy, możliwość pracy zdalnej oraz wsparcie w rozwoju zawodowym i szkoleniach.</li><li>Chcesz korzystać z pakietów medycznych, sportowych oraz dodatkowych świadczeń, takich jak pomoc psychologiczna i wsparcie w dbaniu o wzrok.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710406,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/data-scientist-ml-engineer-katowice,oferta,1004710406",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710406",
+      "title": "Data Scientist / ML Engineer",
+      "company": "Addepto",
+      "salary": "12 600–19 320 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/data-scientist-ml-engineer-katowice,oferta,1004710406"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-531c-08de8585eb42",
+      "jobTitle": "Osoba do sprzątania klatek i terenów zewnętrznych, Wspólnota Mieszkaniowa",
+      "companyName": "Zakłady Usługowe EZT S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/15436588",
+      "companyId": 15436588,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/15436588/24160000-56be-0050-cfff-08de6ecb4259_280x280.png",
+      "lastPublicated": "2026-04-13T06:30:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "31 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, utrzymanie czystości klatek schodowych,, utrzymanie czystości terenów zewnętrznych: mycie, koszenie, grabienie liści, odśnieżanie....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/15436588/mobile-banners/9b030000-5dac-0015-0a19-08db7c5f0f9d.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do pracy w <b>niepełnym wymiarze godzin</b>.</li><li>Jesteś zainteresowany/a <b>utrzymaniem czystości klatek schodowych i terenów zewnętrznych</b>.</li><li>Posiadasz <b>doświadczenie na podobnym stanowisku</b> będzie dodatkowym atutem.</li><li>Chcesz pracować <b>od poniedziałku do piątku w godzinach porannych</b>.</li><li>Ceniasz <b>umowę zlecenie oraz wynagrodzenie 31,40 zł za godzinę</b>.</li><li>Oczekujesz <b>szkolenia, narzędzi pracy i wsparcia kadry</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004716157,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/osoba-do-sprzatania-klatek-i-terenow-zewnetrznych-wspolnota-mieszkaniowa-tychy,oferta,1004716157",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004716157",
+      "title": "Osoba do sprzątania klatek i terenów zewnętrznych, Wspólnota Mieszkaniowa",
+      "company": "Zakłady Usługowe EZT S.A.",
+      "salary": "31 zł brutto / mies.",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, utrzymanie czystości klatek schodowych,, utrzymanie czystości terenów zewnętrznych: mycie, koszenie, grabienie liści, odśnieżanie....",
+      "url": "https://www.pracuj.pl/praca/osoba-do-sprzatania-klatek-i-terenow-zewnetrznych-wspolnota-mieszkaniowa-tychy,oferta,1004716157"
+    },
+    {
+      "groupId": "441b0000-56be-0050-2266-08de949cec89",
+      "jobTitle": "Kierowca Taxi",
+      "companyName": "INCURRO sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074179817",
+      "companyId": 1074179817,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074179817/342a0000-56be-0050-e3ce-08dcc27d489e_280x280.png",
+      "lastPublicated": "2026-04-13T06:29:32.833Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "3 000–16 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kierowanie pojazdem i przewożenie pasażerów na aplikacjach Uber/ Bolt/ Freenow samochodem osobowym (prywatnym lub flotowym), Dbanie o dobry wizerunek firmy i udzielanie pomocy klientom wsiadającym i wysiadającym z pojazdu...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 100
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>prawo jazdy kat. B</b> oraz wymagane badania lekarskie i psychologiczne.</li><li>Chcesz pracować <b>elastycznie</b> na własnych zasadach z aplikacjami Uber, Bolt lub FreeNow.</li><li>Masz do dyspozycji <b>samochód osobowy spełniający wymagania</b> lub planujesz go wynająć.</li><li>Oczekujesz <b>wsparcia w formalnościach i rozliczeniach</b> bez konieczności posiadania działalności gospodarczej.</li><li>Zależy Ci na <b>legalnym zatrudnieniu</b> na umowę zlecenie lub B2B z dostępem do licencji taksówkarskich.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755211,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-taxi-dabrowa-gornicza-krolowej-jadwigi-23,oferta,1004755211",
+      "displayWorkplace": "Dąbrowa Górnicza",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.32403564453125,
+        "longitude": 19.19976806640625
+      },
+      "distanceInKilometers": 14.6,
+      "id": "1004755211",
+      "title": "Kierowca Taxi",
+      "company": "INCURRO sp. z o.o.",
+      "salary": "3 000–16 000 zł brutto / mies.",
+      "location": "Dąbrowa Górnicza",
+      "description": "Twój zakres obowiązków, Kierowanie pojazdem i przewożenie pasażerów na aplikacjach Uber/ Bolt/ Freenow samochodem osobowym (prywatnym lub flotowym), Dbanie o dobry wizerunek firmy i udzielanie pomocy klientom wsiadającym i wysiadającym z pojazdu...",
+      "url": "https://www.pracuj.pl/praca/kierowca-taxi-dabrowa-gornicza-krolowej-jadwigi-23,oferta,1004755211"
+    },
+    {
+      "groupId": "f0380000-56be-0050-f9ab-08de83383b69",
+      "jobTitle": "Senior Data Scientist / Tech Lead",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:29:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad 6 lat doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI, w tym LLM i uczenie maszynowe.</li><li>Pełnisz rolę lidera projektów ML i zarządzasz zespołami interdyscyplinarnymi.</li><li>Posiadasz zaawansowaną znajomość Pythona, bibliotek ML oraz wdrażania rozwiązań w chmurze (AWS/Azure).</li><li>Znajomość SQL, NoSQL, CI/CD, MLOps, Kubernetes i Docker jest dla Ciebie naturalna.</li><li>Cenisz elastyczne formy współpracy i możliwość pracy zdalnej lub w biurze.</li><li>Chcesz korzystać z pakietów medycznych, sportowych i wsparcia rozwoju zawodowego, w tym szkoleń i konferencji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710397,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-data-scientist-tech-lead-katowice,oferta,1004710397",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710397",
+      "title": "Senior Data Scientist / Tech Lead",
+      "company": "Addepto",
+      "salary": "19 320–28 560 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/senior-data-scientist-tech-lead-katowice,oferta,1004710397"
+    },
+    {
+      "groupId": "f0380000-56be-0050-f48d-08de8338271e",
+      "jobTitle": "Senior Data Scientist / ML Engineer",
+      "companyName": "Addepto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20377151",
+      "companyId": 20377151,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20377151/b4170000-56be-0050-126c-08de3e1b838f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:28:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "19 320–25 200 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ponad 5 lat doświadczenia w projektowaniu i wdrażaniu skalowalnych rozwiązań AI, w tym ML, LLM i GenAI.</li><li>Posiadasz biegłość w programowaniu w <b>Pythonie</b> i doświadczenie z narzędziami ML oraz wdrożeniami w chmurze <b>AWS lub Azure</b>.</li><li>Interesujesz się <b>projektowaniem architektur AI</b> oraz zarządzaniem projektami w metodyce Agile/Scrum.</li><li>Cenisz możliwość pracy zdalnej lub w biurze oraz elastyczny czas pracy.</li><li>Chcesz korzystać z programów rozwojowych, szkoleń, oraz wsparcia w budowaniu marki osobistej.</li><li>Posiadasz umiejętności w zakresie <b>MLOps, Kubernetes i Docker</b>, a także chęć współpracy z zespołem ekspertów przy zaawansowanych projektach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710384,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-data-scientist-ml-engineer-katowice,oferta,1004710384",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710384",
+      "title": "Senior Data Scientist / ML Engineer",
+      "company": "Addepto",
+      "salary": "19 320–25 200 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Your responsibilities, Lead the development, implementation, and validation of Machine Learning solutions, ensuring alignment with project objectives., Lead the design of AI solution architectures that meet complex business goals and drive...",
+      "url": "https://www.pracuj.pl/praca/senior-data-scientist-ml-engineer-katowice,oferta,1004710384"
+    },
+    {
+      "groupId": "882b0000-56be-0050-9736-08de9149d55e",
+      "jobTitle": "RPA Developer",
+      "companyName": "Meritoros SA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20070455",
+      "companyId": 20070455,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20070455/9b030000-5dac-0015-8fba-08db15ab9ac0_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:28:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "10 000–13 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, analizujesz procesy biznesowe i identyfikujesz obszary do automatyzacji,, rekomendujesz rozwiązania wspierające automatyzację procesu,, modyfikujesz istniejące rozwiązania na bazie wymagań stawianych przez użytkowników,,,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2–3 lata doświadczenia w projektach z <b>RPA</b> i znasz <b>UiPath</b> na poziomie średniozaawansowanym.</li><li>Posiadasz umiejętności programowania w <b>Python</b> oraz biegłą znajomość <b>SQL</b> do tworzenia i optymalizacji zapytań.</li><li>Potrafisz analizować procesy biznesowe i wdrażać rozwiązania automatyzujące wspierające pracę zespołu.</li><li>Cenisz <b>elastyczny czas pracy</b> i zadaniowy model realizacji obowiązków.</li><li>Zależy Ci na <b>dodatkowych benefitach</b>, takich jak prywatna opieka medyczna, karta Multisport, oraz dodatkowy płatny urlop po okresie próbnym.</li><li>Komunikujesz się w języku angielskim na poziomie pozwalającym na pracę z dokumentacją techniczną.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748902,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/rpa-developer-katowice,oferta,1004748902",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004748902",
+      "title": "RPA Developer",
+      "company": "Meritoros SA",
+      "salary": "10 000–13 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, analizujesz procesy biznesowe i identyfikujesz obszary do automatyzacji,, rekomendujesz rozwiązania wspierające automatyzację procesu,, modyfikujesz istniejące rozwiązania na bazie wymagań stawianych przez użytkowników,,,...",
+      "url": "https://www.pracuj.pl/praca/rpa-developer-katowice,oferta,1004748902"
+    },
+    {
+      "groupId": "e8180000-56be-0050-dd50-08de98d1c91c",
+      "jobTitle": "Elektromechanik - Monter maszyn i urządzeń",
+      "companyName": "REINE ELEKTRONIK sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074133917",
+      "companyId": 1074133917,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T06:26:14.173Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 900–5 800 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prefabrykacja szaf wg. dokumentacji e-plan, , Umiejętność instalacji, obsługi i konserwacji sprzętu elektrycznego,, Manualny montaż mechaniczny i elektryczny podzespołów maszyn, , Uruchomienie maszyn u klienta wyposażonych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>montażu i uruchomieniu maszyn elektromechanicznych</b> oraz obsłudze urządzeń elektrycznych.</li><li>Posiadasz umiejętność czytania <b>dokumentacji technicznej e-plan i mechanicznej</b>.</li><li>Jesteś dyspozycyjny do pracy <b>w delegacjach u klientów</b> oraz posiadasz czynne prawo jazdy kat. B.</li><li>Posługujesz się <b>językiem angielskim na poziomie komunikatywnym</b> lub masz uprawnienia SEP 1kV (mile widziane).</li><li>Cenisz <b>umowę o pracę lub B2B</b> z atrakcyjnym wynagrodzeniem oraz możliwość podnoszenia kwalifikacji.</li><li>Znasz obsługę suwnicy z poziomu „0” lub posiadasz zdolności analityczne i manualne do diagnozowania usterek.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765107,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/elektromechanik-monter-maszyn-i-urzadzen-tarnowskie-gory-h-sienkiewicza-48,oferta,1004765107",
+      "displayWorkplace": "Tarnowskie Góry",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.45344543457031,
+        "longitude": 18.862918853759766
+      },
+      "distanceInKilometers": 24.3,
+      "id": "1004765107",
+      "title": "Elektromechanik - Monter maszyn i urządzeń",
+      "company": "REINE ELEKTRONIK sp. z o.o.",
+      "salary": "4 900–5 800 zł brutto / mies.",
+      "location": "Tarnowskie Góry",
+      "description": "Twój zakres obowiązków, Prefabrykacja szaf wg. dokumentacji e-plan, , Umiejętność instalacji, obsługi i konserwacji sprzętu elektrycznego,, Manualny montaż mechaniczny i elektryczny podzespołów maszyn, , Uruchomienie maszyn u klienta wyposażonych...",
+      "url": "https://www.pracuj.pl/praca/elektromechanik-monter-maszyn-i-urzadzen-tarnowskie-gory-h-sienkiewicza-48,oferta,1004765107"
+    },
+    {
+      "groupId": "74320000-56be-0050-760f-08de93a3d2cd",
+      "jobTitle": "Specjalista / Specjalistka ds. bezpieczeństwa informacji i RODO",
+      "companyName": "PRZEDSIĘBIORSTWO KONSULTINGOWE AGM sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074102132",
+      "companyId": 1074102132,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074102132/ee4d0000-5df0-0015-b46a-08da5f15f9b6_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:25:33.653Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "6 000–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, realizacja wdrożeń RODO oraz systemów bezpieczeństwa informacji u klientów,, przygotowywanie i opiniowanie dokumentacji (klauzule informacyjne, umowy, polityki, procedury),, przeprowadzanie audytów zgodności oraz analiz...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w obszarze RODO i bezpieczeństwa informacji</b> oraz praktyczną znajomość przepisów o ochronie danych osobowych.</li><li>Potrafisz <b>przygotowywać i opiniować dokumentację RODO</b> oraz przeprowadzać audyty i analizy ryzyka.</li><li>Jesteś gotowy do <b>wsparcia funkcji Inspektora Ochrony Danych</b> i obsługi incydentów naruszeń danych.</li><li>Posiadasz <b>wykształcenie wyższe</b> i <b>umiejętność pracy z klientem</b>, a także prawo jazdy kat. B.</li><li>Doceniasz <b>umowę o pracę i szkolenia podnoszące kwalifikacje</b> oraz dostęp do niezbędnych narzędzi pracy.</li><li>Mile widziana jest znajomość <b>normy ISO 27001 oraz doświadczenie w audytach lub wdrożeniach systemów zarządzania</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751676,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-bezpieczenstwa-informacji-i-rodo-zabrze-handlowa-2,oferta,1004751676",
+      "displayWorkplace": "Zabrze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.3543701171875,
+        "longitude": 18.766923904418945
+      },
+      "distanceInKilometers": 21,
+      "id": "1004751676",
+      "title": "Specjalista / Specjalistka ds. bezpieczeństwa informacji i RODO",
+      "company": "PRZEDSIĘBIORSTWO KONSULTINGOWE AGM sp. z o.o.",
+      "salary": "6 000–8 000 zł brutto / mies.",
+      "location": "Zabrze",
+      "description": "Twój zakres obowiązków, realizacja wdrożeń RODO oraz systemów bezpieczeństwa informacji u klientów,, przygotowywanie i opiniowanie dokumentacji (klauzule informacyjne, umowy, polityki, procedury),, przeprowadzanie audytów zgodności oraz analiz...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-bezpieczenstwa-informacji-i-rodo-zabrze-handlowa-2,oferta,1004751676"
+    },
+    {
+      "groupId": "f0380000-56be-0050-5f69-08de839544f0",
+      "jobTitle": "IT Analyst/Data Analyst",
+      "companyName": "B2B.NET S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20424689",
+      "companyId": 20424689,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20424689/03000000-bb2f-3863-a2ad-08d9952c4759_280x280.png",
+      "lastPublicated": "2026-04-13T06:19:01.59Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "18 000–19 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Analiza i rekonsyliacja danych finansowych pomiędzy systemami., Identyfikowanie przyczyn różnic w danych (np. wyceny, kursy walut, daty, rounding)., Analiza przepływu danych pomiędzy systemami transakcyjnymi i księgowymi.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20424689/mobile-banners/181b0000-56be-0050-c717-08de58e8c9f7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>bardzo dobrą znajomość SQL</b> i doświadczenie w pracy z danymi finansowymi lub księgowymi.</li><li>Pracujesz nad <b>analizą i rekonsyliacją danych</b> między systemami finansowo-księgowymi.</li><li>Potrafisz <b>identyfikować przyczyny rozbieżności</b> w danych finansowych i operacyjnych.</li><li>Masz doświadczenie we współpracy z zespołami IT dotyczącą <b>architektury i integracji systemów</b>.</li><li>Cenisz <b>prywatną opiekę medyczną i dofinansowanie zajęć sportowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710331,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/it-analyst-data-analyst-katowice,oferta,1004710331",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710331",
+      "title": "IT Analyst/Data Analyst",
+      "company": "B2B.NET S.A.",
+      "salary": "18 000–19 000 zł netto (+ VAT) / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Analiza i rekonsyliacja danych finansowych pomiędzy systemami., Identyfikowanie przyczyn różnic w danych (np. wyceny, kursy walut, daty, rounding)., Analiza przepływu danych pomiędzy systemami transakcyjnymi i księgowymi.,...",
+      "url": "https://www.pracuj.pl/praca/it-analyst-data-analyst-katowice,oferta,1004710331"
+    },
+    {
+      "groupId": "8c280000-56be-0050-df45-08de9922eabe",
+      "jobTitle": "Inżynier Elektryk – projektant / projektantka branży elektrycznej - specjalista / specjalistka ds. pomiarów i EAZ",
+      "companyName": "Biproen SP. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20124401",
+      "companyId": 20124401,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20124401/ee4d0000-5df0-0015-402a-08da3e43bdd0_280x280.png",
+      "lastPublicated": "2026-04-13T06:18:33.587Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–22 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, DLA OSÓB WYKONUJĄCYCH PRACE POMIAROWE W SIEDZIBIE FIRMY I NA OBIEKTACH ELEKTROENERGETYCZNYCH:, sprawdzenia zabezpieczeń elektroenergetycznych, udział w pracach rozruchowych, udział w tworzeniu dokumentacji, DLA OSÓB...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>wykształcenie techniczne</b> i doświadczenie w zakresie <b>stacji SN i WN lub elektrowni</b>.</li><li>Umiesz <b>czytać schematy elektryczne</b> i samodzielnie realizować prace pomiarowe oraz projektowe.</li><li>Masz <b>prawo jazdy kat. B</b> oraz odpowiedzialne podejście do obowiązków.</li><li>Zainteresowany/-a łączeniem <b>pracy projektowej z pomiarową</b> oraz udziałem w rozruchach i dokumentacji technicznej.</li><li>Cenisz <b>benefity</b> takie jak ubezpieczenie medyczne, karta Multisport, elastyczny czas pracy i samochód służbowy.</li><li>Posiadasz lub chcesz zdobyć <b>uprawnienia SEP</b> oraz znasz lub chcesz pracować z oprogramowaniem typu Eplan, AutoCad czy SEE Electrical.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765078,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-elektryk-projektant-projektantka-branzy-elektrycznej-specjalista-specja-siemianowice-slaskie-konopnickiej-13,oferta,1004765078",
+      "displayWorkplace": "Siemianowice Śląskie",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.2910041809082,
+        "longitude": 19.035173416137695
+      },
+      "distanceInKilometers": 3.6,
+      "id": "1004765078",
+      "title": "Inżynier Elektryk – projektant / projektantka branży elektrycznej - specjalista / specjalistka ds. pomiarów i EAZ",
+      "company": "Biproen SP. z o.o.",
+      "salary": "8 000–22 000 zł brutto / mies.",
+      "location": "Siemianowice Śląskie",
+      "description": "Twój zakres obowiązków, DLA OSÓB WYKONUJĄCYCH PRACE POMIAROWE W SIEDZIBIE FIRMY I NA OBIEKTACH ELEKTROENERGETYCZNYCH:, sprawdzenia zabezpieczeń elektroenergetycznych, udział w pracach rozruchowych, udział w tworzeniu dokumentacji, DLA OSÓB...",
+      "url": "https://www.pracuj.pl/praca/inzynier-elektryk-projektant-projektantka-branzy-elektrycznej-specjalista-specja-siemianowice-slaskie-konopnickiej-13,oferta,1004765078"
+    },
+    {
+      "groupId": "500d0000-56be-0050-00bb-08de83870af3",
+      "jobTitle": "Senior Software Developer",
+      "companyName": "B2B.NET S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20424689",
+      "companyId": 20424689,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20424689/03000000-bb2f-3863-a2ad-08d9952c4759_280x280.png",
+      "lastPublicated": "2026-04-13T06:18:29.8Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "20 000–22 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Rozwój i utrzymanie systemów działających na produkcji., Obsługa incydentów i analiza awarii technologicznych., Monitoring techniczny i biznesowy systemów oraz analiza KPI., Dbanie o jakość kodu i dokumentacji technicznej.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20424689/mobile-banners/181b0000-56be-0050-c717-08de58e8c9f7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 7 lat doświadczenia w backendowym developmentcie, ze znajomością <b>Java</b> i technologii takich jak <b>Spring Boot</b>, <b>Kafka</b>, <b>Hibernate</b>, <b>SQL</b>.</li><li>Pracujesz w zespole odpowiedzialnym za <b>utrzymanie i rozwój systemów produkcyjnych</b> w architekturze mikroserwisowej.</li><li>Masz doświadczenie w <b>obsłudze incydentów</b>, monitoringu aplikacji oraz analizie KPI systemów.</li><li>Znasz narzędzia wspierające rozwój i jakość kodu, m.in. <b>Liquibase</b>, <b>JUnit</b>, <b>OpenAPI</b>, <b>Git</b>, <b>Docker</b>.</li><li>Cenisz benefity w postaci <b>dofinansowania zajęć sportowych</b> oraz <b>prywatnej opieki medycznej</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710327,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-software-developer-katowice,oferta,1004710327",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710327",
+      "title": "Senior Software Developer",
+      "company": "B2B.NET S.A.",
+      "salary": "20 000–22 000 zł netto (+ VAT) / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Rozwój i utrzymanie systemów działających na produkcji., Obsługa incydentów i analiza awarii technologicznych., Monitoring techniczny i biznesowy systemów oraz analiza KPI., Dbanie o jakość kodu i dokumentacji technicznej.,...",
+      "url": "https://www.pracuj.pl/praca/senior-software-developer-katowice,oferta,1004710327"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-2bfd-08de970702e9",
+      "jobTitle": "Specjalista ds. e-commerce / sprzedaży internetowej",
+      "companyName": "Coopra Int sp.z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20384219",
+      "companyId": 20384219,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20384219/a8200000-56be-0050-70de-08de760265bc_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:17:50.573Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 000–9 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, bieżąca obsługa sprzedaży internetowej opierająca się na platformie Base oraz systemie Wapro-MAG, wystawianie, edycja i optymalizacja ofert sprzedażowych, tworzenie i aktualizacja opisów produktowych, analiza konkurencji na...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa o staż / praktyki"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz<b> doświadczenie lub wiedzę z zakresu e-commerce</b> i obsługi platform sprzedażowych.</li><li>Potrafisz samodzielnie organizować pracę i posługujesz się komputerem na bardzo dobrym poziomie.</li><li>Interesujesz się <b>analizą konkurencji oraz optymalizacją ofert sprzedażowych</b>.</li><li>Chcesz pracować <b>przy sprzedaży internetowej opartej na systemach Base i Wapro-MAG</b>.</li><li>Cenisz <b>pracę stacjonarną w systemie zmianowym</b> oraz stabilne warunki zatrudnienia.</li><li>Liczą się dla Ciebie <b>benefity sportowe i zniżki na produkty firmowe</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765074,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-ds-e-commerce-sprzedazy-internetowej-sosnowiec-chemiczna-12,oferta,1004765074",
+      "displayWorkplace": "Sosnowiec",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.2979621887207,
+        "longitude": 19.139236450195312
+      },
+      "distanceInKilometers": 9.4,
+      "id": "1004765074",
+      "title": "Specjalista ds. e-commerce / sprzedaży internetowej",
+      "company": "Coopra Int sp.z o.o.",
+      "salary": "5 000–9 000 zł / mies. (zal. od umowy)",
+      "location": "Sosnowiec",
+      "description": "Twój zakres obowiązków, bieżąca obsługa sprzedaży internetowej opierająca się na platformie Base oraz systemie Wapro-MAG, wystawianie, edycja i optymalizacja ofert sprzedażowych, tworzenie i aktualizacja opisów produktowych, analiza konkurencji na...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-e-commerce-sprzedazy-internetowej-sosnowiec-chemiczna-12,oferta,1004765074"
+    },
+    {
+      "groupId": "ec400000-56be-0050-53e5-08de97016f3c",
+      "jobTitle": "Magazynier (k/m)",
+      "companyName": "RAFS Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20074755",
+      "companyId": 20074755,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20074755/24080000-56be-0050-b3b1-08de7ab6d92f_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:17:19.773Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 000–7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Przyjmowanie dostaw, rozładunek samochodów i wysyłka wyrobów gotowych, Wystawianie dokumentów magazynowych  w systemie komputerowym, Wsparcie działań optymalizacyjnych w magazynie – szukamy pomysłów na szybsze i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. 1 rok doświadczenia</b> w pracy na magazynie.</li><li>Posiadasz <b>uprawnienia na wózki widłowe</b> i umiesz obsługiwać dokumentację magazynową.</li><li>Jesteś gotowy na <b>pracę zmianową</b> i potrafisz działać pod presją czasu.</li><li>Zależy Ci na <b>wsparciu wdrożeniowym</b> i możliwości uczestniczenia w optymalizacji procesów magazynowych.</li><li>Ceniasz <b>ubezpieczenie na życie</b> w ramach zatrudnienia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765072,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/magazynier-k-m-bytom,oferta,1004765072",
+      "displayWorkplace": "Bytom",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004765072",
+      "title": "Magazynier (k/m)",
+      "company": "RAFS Sp. z o.o.",
+      "salary": "5 000–7 000 zł / mies. (zal. od umowy)",
+      "location": "Bytom",
+      "description": "Twój zakres obowiązków, Przyjmowanie dostaw, rozładunek samochodów i wysyłka wyrobów gotowych, Wystawianie dokumentów magazynowych  w systemie komputerowym, Wsparcie działań optymalizacyjnych w magazynie – szukamy pomysłów na szybsze i...",
+      "url": "https://www.pracuj.pl/praca/magazynier-k-m-bytom,oferta,1004765072"
+    },
+    {
+      "groupId": "a4240000-56be-0050-95d6-08de909ece9d",
+      "jobTitle": "Kierownik magazynu",
+      "companyName": "Medicom Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20253371",
+      "companyId": 20253371,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20253371/03000000-bb2f-3863-4abc-08d96098af71_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:14:26.293Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "6 000–7 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Organizacja pracy magazynu:, - Bieżąca analiza przestrzeni i przepływu towarów,, - Planowanie, dostosowanie i organizacja przestrzeni magazynowej,, - Optymalne rozmieszczenie i oznakowanie towarów,, - Optymalizacja procesów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy magazynowej</b> i znasz procesy logistyczne.</li><li>Posiadasz <b>prawo jazdy kat. B i uprawnienia UDT</b> do obsługi wózka widłowego.</li><li>Potrafisz <b>zarządzać przestrzenią i procesami magazynowymi</b> oraz obsługiwać systemy informatyczne magazynu.</li><li>Pracujesz sprawnie z zespołem oraz potrafisz <b>koordynować przepływ towarów</b>.</li><li>Dbasz o <b>bezpieczeństwo pracy i porządek</b> w magazynie.</li><li>Cenisz możliwość <b>dofinansowania prywatnej opieki medycznej i pakietu sportowego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748857,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-magazynu-zabrze-marii-sklodowskiej-curie-34,oferta,1004748857",
+      "displayWorkplace": "Zabrze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.31467056274414,
+        "longitude": 18.77201271057129
+      },
+      "distanceInKilometers": 18.8,
+      "id": "1004748857",
+      "title": "Kierownik magazynu",
+      "company": "Medicom Sp. z o.o.",
+      "salary": "6 000–7 500 zł brutto / mies.",
+      "location": "Zabrze",
+      "description": "Twój zakres obowiązków, Organizacja pracy magazynu:, - Bieżąca analiza przestrzeni i przepływu towarów,, - Planowanie, dostosowanie i organizacja przestrzeni magazynowej,, - Optymalne rozmieszczenie i oznakowanie towarów,, - Optymalizacja procesów...",
+      "url": "https://www.pracuj.pl/praca/kierownik-magazynu-zabrze-marii-sklodowskiej-curie-34,oferta,1004748857"
+    },
+    {
+      "groupId": "84450000-56be-0050-44ad-08de89b5b6db",
+      "jobTitle": "Kierownik ds. Handlowych",
+      "companyName": "ALKAM SECURITY SP. Z O.O. - SP.K.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20006290",
+      "companyId": 20006290,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20006290/2c580000-43a8-f403-175a-08d8ef813ec7_280x280.png",
+      "lastPublicated": "2026-04-13T06:14:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "8 000–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Nawiązywanie i utrzymywanie relacji z klientami oraz partnerami biznesowymi., Realizacja planów sprzedażowych oraz celów handlowych., Przygotowywanie ofert handlowych i prezentacji dla klientów., Analiza rynku i monitoring...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2-3 lata doświadczenia w sprzedaży B2B lub B2C</b> i znasz techniki sprzedażowe oraz negocjacyjne.</li><li>Potrafisz <b>analizować rynek i identyfikować potrzeby klientów</b>, a także zarządzać dokumentacją sprzedażową.</li><li>Posiadasz <b>znajomość języka angielskiego</b> na poziomie umożliwiającym swobodną komunikację oraz prawo jazdy kat. B.</li><li>Chcesz pracować z <b>nowoczesnymi systemami zabezpieczeń</b> i korzystać z narzędzi CRM oraz MS Office.</li><li>Cenisz <b>umowę o pracę lub B2B</b> z systemem premiowym, szkolenia oraz pakiet medyczny.</li><li>Interesuje Cię <b>udział w negocjacjach, targach i budowanie długotrwałych relacji</b> z klientami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728192,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-ds-handlowych-katowice-mrozna-43,oferta,1004728192",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.27544021606445,
+        "longitude": 19.08176040649414
+      },
+      "distanceInKilometers": 4.7,
+      "id": "1004728192",
+      "title": "Kierownik ds. Handlowych",
+      "company": "ALKAM SECURITY SP. Z O.O. - SP.K.",
+      "salary": "8 000–20 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Nawiązywanie i utrzymywanie relacji z klientami oraz partnerami biznesowymi., Realizacja planów sprzedażowych oraz celów handlowych., Przygotowywanie ofert handlowych i prezentacji dla klientów., Analiza rynku i monitoring...",
+      "url": "https://www.pracuj.pl/praca/kierownik-ds-handlowych-katowice-mrozna-43,oferta,1004728192"
+    },
+    {
+      "groupId": "74320000-56be-0050-2690-08de93a0a8a1",
+      "jobTitle": "Specjalista / Specjalistka ds. funduszy unijnych",
+      "companyName": "PRZEDSIĘBIORSTWO KONSULTINGOWE AGM sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074102132",
+      "companyId": 1074102132,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074102132/ee4d0000-5df0-0015-b46a-08da5f15f9b6_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:11:05.473Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "5 500–6 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, analiza możliwości pozyskania środków na projekty z różnych źródeł finansowania (UE i krajowych),, doradztwo dla klientów w zakresie wyboru odpowiednich programów,, opracowywanie dokumentacji aplikacyjnej,, realizacja...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>wykształcenie wyższe</b> i minimum rok doświadczenia w pozyskiwaniu oraz rozliczaniu funduszy unijnych.</li><li>Potrafisz samodzielnie analizować możliwości dofinansowania i przygotowywać dokumentację aplikacyjną.</li><li>Masz dobra znajomość programów <b>WORD i EXCEL</b> oraz umiejętność organizacji pracy własnej.</li><li>Interesuje Cię <b>kompleksowe prowadzenie projektów</b> współfinansowanych ze środków UE, w tym ich realizacja i rozliczanie.</li><li>Cenisz zatrudnienie na <b>umowę o pracę</b> z atrakcyjnym wynagrodzeniem i szkoleniami podnoszącymi kwalifikacje.</li><li>Zwracasz uwagę na benefity takie jak <b>dofinansowanie szkoleń, prywatna opieka medyczna i dofinansowanie zajęć sportowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751675,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-funduszy-unijnych-zabrze-handlowa-2,oferta,1004751675",
+      "displayWorkplace": "Zabrze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.3543701171875,
+        "longitude": 18.766923904418945
+      },
+      "distanceInKilometers": 21,
+      "id": "1004751675",
+      "title": "Specjalista / Specjalistka ds. funduszy unijnych",
+      "company": "PRZEDSIĘBIORSTWO KONSULTINGOWE AGM sp. z o.o.",
+      "salary": "5 500–6 500 zł brutto / mies.",
+      "location": "Zabrze",
+      "description": "Twój zakres obowiązków, analiza możliwości pozyskania środków na projekty z różnych źródeł finansowania (UE i krajowych),, doradztwo dla klientów w zakresie wyboru odpowiednich programów,, opracowywanie dokumentacji aplikacyjnej,, realizacja...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-funduszy-unijnych-zabrze-handlowa-2,oferta,1004751675"
+    },
+    {
+      "groupId": "9c440000-56be-0050-8e2d-08de90a837ef",
+      "jobTitle": "Specjalistka/ Specjalista ds. księgowości oraz kadr i płac",
+      "companyName": "Kancelaria Usług Finansowo-Księgowych KUFIKS Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20171960",
+      "companyId": 20171960,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20171960/8c1f0000-56be-0050-ec66-08de90acb13b_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:08:13.653Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "6 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, prowadzenie pełnej księgowości (księgi handlowe), rozliczanie VAT, CIT, JPK, prowadzenie kadr i płac (listy płac, ZUS, PPK), bieżąca obsługa swoich klientów, kontakt z urzędami (US, ZUS)...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w księgowości</b>, w tym prowadzeniu pełnej księgowości i rozliczeniach VAT, CIT, JPK.</li><li>Posiadasz <b>znajomość przepisów podatkowych</b> oraz praktykę w kadrach i płacach.</li><li>Potrafisz samodzielnie prowadzić <b>kadrę i płace</b> oraz kontaktować się z urzędami (US, ZUS).</li><li>Znajomość <b>systemu Comarch Optima</b> będzie dodatkowym atutem.</li><li>Cenisz <b>jasny zakres obowiązków</b> oraz uporządkowane procesy pracy.</li><li>Zależy Ci na pracy z <b>wsparciem i szkoleniami</b> z zakresu podatków i kadr.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748841,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-ksiegowosci-oraz-kadr-i-plac-czerwionka-leszczyny-3-maja-64,oferta,1004748841",
+      "displayWorkplace": "Czerwionka-Leszczyny",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.162479400634766,
+        "longitude": 18.66398811340332
+      },
+      "distanceInKilometers": 27.7,
+      "id": "1004748841",
+      "title": "Specjalistka/ Specjalista ds. księgowości oraz kadr i płac",
+      "company": "Kancelaria Usług Finansowo-Księgowych KUFIKS Sp. z o.o.",
+      "salary": "6 000–9 000 zł brutto / mies.",
+      "location": "Czerwionka-Leszczyny",
+      "description": "Twój zakres obowiązków, prowadzenie pełnej księgowości (księgi handlowe), rozliczanie VAT, CIT, JPK, prowadzenie kadr i płac (listy płac, ZUS, PPK), bieżąca obsługa swoich klientów, kontakt z urzędami (US, ZUS)...",
+      "url": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-ksiegowosci-oraz-kadr-i-plac-czerwionka-leszczyny-3-maja-64,oferta,1004748841"
+    },
+    {
+      "groupId": "84450000-56be-0050-a7f2-08de896ce81c",
+      "jobTitle": "Specjalista / Specjalistka ds. Sprzedaży Systemów IT",
+      "companyName": "PMS Labs Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/229",
+      "companyId": 229,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/229/eafd0000-56be-0050-df1e-08dc3638d416_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:07:12.297Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "7 000–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Pozyskiwanie nowych klientów, Budowanie przyjaznych relacji z nimi, Kierowanie procesem sprzedaży od pierwszego kontaktu do finalizacji, Przygotowywanie i prezentowanie ofert handlowych, Negocjacje handlowe, Monitorowanie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2 lata doświadczenia w sprzedaży systemów IT</b> i potrafisz prowadzić rozmowy z decydentami.</li><li>Potrafisz <b>samodzielnie zarządzać procesem sprzedaży</b> od pierwszego kontaktu do finalizacji.</li><li>Posiadasz umiejętność <b>budowania relacji i negocjacji handlowych</b>.</li><li>Cenisz <b>wsparcie techniczne i szkoleniowe</b> oraz transparentny model wynagrodzenia.</li><li>Jesteś gotowy na <b>spotkania z klientami w ich siedzibach</b> i aktywne pozyskiwanie nowych partnerów.</li><li>Zainteresowany jesteś <b>pracą w firmie z własnym działem R&D</b> i możliwością rozwoju w konsultingu lub product management.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725216,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-systemow-it-katowice-chorzowska-109a,oferta,1004725216",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.26909255981445,
+        "longitude": 19.005128860473633
+      },
+      "distanceInKilometers": 1.6,
+      "id": "1004725216",
+      "title": "Specjalista / Specjalistka ds. Sprzedaży Systemów IT",
+      "company": "PMS Labs Sp. z o.o.",
+      "salary": "7 000–20 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Pozyskiwanie nowych klientów, Budowanie przyjaznych relacji z nimi, Kierowanie procesem sprzedaży od pierwszego kontaktu do finalizacji, Przygotowywanie i prezentowanie ofert handlowych, Negocjacje handlowe, Monitorowanie...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-systemow-it-katowice-chorzowska-109a,oferta,1004725216"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-0d5e-08de96fb5291",
+      "jobTitle": "Doradca / Doradczyni ds. Nieruchomości - Agent / Agentka nieruchomości",
+      "companyName": "UNI ESTATES sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074064404",
+      "companyId": 1074064404,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074064404/88360000-56be-0050-1e98-08ddf1380909_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:06:02.95Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "20 000–24 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Pozyskiwanie do swojej oferty nieruchomości pod wynajem oraz sprzedaż, Poszukiwanie nieruchomości dla klientów chcących kupić lub nająć nieruchomość, Przygotowanie dokumentów związanych z transakcją nieruchomości,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe</b> oraz chęć rozwijania wiedzy z zakresu nieruchomości.</li><li>Posiadasz <b>umiejętności sprzedażowe</b> i zdolności interpersonalne.</li><li>Potrafisz samodzielnie pozyskiwać i negocjować oferty nieruchomości.</li><li>Ceniasz <b>elastyczny czas pracy</b> oraz możliwość pracy zdalnej.</li><li>Jesteś zainteresowany/a <b>preferencyjnym systemem prowizyjnym</b> i wysokim wynagrodzeniem bez sufitu finansowego.</li><li>Chcesz korzystać ze wsparcia ekspertów i profesjonalnych szkoleń branżowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765030,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-nieruchomosci-agent-agentka-nieruchomosci-katowice-grabowa-2,oferta,1004765030",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.27470397949219,
+        "longitude": 19.027271270751953
+      },
+      "distanceInKilometers": 1.7,
+      "id": "1004765030",
+      "title": "Doradca / Doradczyni ds. Nieruchomości - Agent / Agentka nieruchomości",
+      "company": "UNI ESTATES sp. z o.o.",
+      "salary": "20 000–24 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Pozyskiwanie do swojej oferty nieruchomości pod wynajem oraz sprzedaż, Poszukiwanie nieruchomości dla klientów chcących kupić lub nająć nieruchomość, Przygotowanie dokumentów związanych z transakcją nieruchomości,...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-ds-nieruchomosci-agent-agentka-nieruchomosci-katowice-grabowa-2,oferta,1004765030"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-b67c-08de89732066",
+      "jobTitle": "Optometrysta - Optyk - Doradca / Doradczyni klienta",
+      "companyName": "Galeria Optyki RoyalEyes",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074044037",
+      "companyId": 1074044037,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074044037/2c580000-43a8-f403-6bce-08d89a915519_280x280.jpg",
+      "lastPublicated": "2026-04-13T06:03:32.937Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 000–6 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, 💠 profesjonalna obsługa klientów oraz doradztwo w zakresie doboru okularów i soczewek,, 💠 przeprowadzanie badań wzroku (dla optometrystów),, 💠 wykonywanie i montaż okularów oraz naprawy serwisowe (dla optyków),, 💠...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie jako <b>optometrysta, optyk lub doradca klienta</b> i potrafisz profesjonalnie doradzać i obsługiwać klientów.</li><li>Posiadasz umiejętności w zakresie <b>badania wzroku, montażu okularów lub wykonywania napraw serwisowych</b>.</li><li>Zależy Ci na pracy w <b>nowoczesnym salonie optycznym</b> z wysokimi standardami obsługi.</li><li>Chcesz pracować z <b>renomowanymi markami okularowymi</b> i mieć udział w tworzeniu nowej lokalizacji.</li><li>Oczekujesz <b>jasnych warunków współpracy i przejrzystego systemu wynagrodzeń</b>.</li><li>Ceniasz komfortowe środowisko pracy w <b>nowo otwartej galerii optycznej</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725207,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/optometrysta-optyk-doradca-doradczyni-klienta-tarnowskie-gory-zagorska-220,oferta,1004725207",
+      "displayWorkplace": "Tarnowskie Góry",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.454978942871094,
+        "longitude": 18.832416534423828
+      },
+      "distanceInKilometers": 25.6,
+      "id": "1004725207",
+      "title": "Optometrysta - Optyk - Doradca / Doradczyni klienta",
+      "company": "Galeria Optyki RoyalEyes",
+      "salary": "5 000–6 900 zł brutto / mies.",
+      "location": "Tarnowskie Góry",
+      "description": "Twój zakres obowiązków, 💠 profesjonalna obsługa klientów oraz doradztwo w zakresie doboru okularów i soczewek,, 💠 przeprowadzanie badań wzroku (dla optometrystów),, 💠 wykonywanie i montaż okularów oraz naprawy serwisowe (dla optyków),, 💠...",
+      "url": "https://www.pracuj.pl/praca/optometrysta-optyk-doradca-doradczyni-klienta-tarnowskie-gory-zagorska-220,oferta,1004725207"
+    },
+    {
+      "groupId": "54440000-56be-0050-fe86-08de95f58f7a",
+      "jobTitle": "Pracownik grupy mobilnej w branży utrzymania czystości",
+      "companyName": "EZT EXPERT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074184567",
+      "companyId": 1074184567,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074184567/342a0000-56be-0050-057b-08dce20da31c_280x280.png",
+      "lastPublicated": "2026-04-13T05:11:00Z",
+      "expirationDate": "2026-05-09T21:59:59Z",
+      "salaryDisplayText": "35 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Maszynowe doczyszczanie podłóg wraz z konserwacją, Maszynowe pranie wykładzin, Mycie okien, Mycie okien na wysokości, Koszenie kosą spalinową lub kosiarką, Inne prace porządkowe na obiektach...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 4
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>czynne prawo jazdy kat. B</b> i gotowość do wyjazdów na terenie województw śląskiego i małopolskiego.</li><li>Jesteś gotowy do pracy <b>w nadgodzinach</b> oraz na wysokościach.</li><li>Masz doświadczenie lub chęć pracy przy <b>maszynowym doczyszczaniu podłóg i praniu wykładzin</b>.</li><li>Cenisz <b>świadczenia takie jak prywatna opieka medyczna, ubezpieczenie na życie i elastyczny czas pracy</b>.</li><li>Poszukujesz zatrudnienia z możliwością <b>przejścia z umowy zlecenia na umowę o pracę</b>.</li><li>Jesteś dyspozycyjny do pracy mobilnej i wykonujesz <b>różnorodne prace porządkowe na obiektach</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004758052,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-grupy-mobilnej-w-branzy-utrzymania-czystosci-sosnowiec-modrzewiowa-7,oferta,1004758052",
+      "displayWorkplace": "Sosnowiec",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.31184005737305,
+        "longitude": 19.196352005004883
+      },
+      "distanceInKilometers": 13.7,
+      "id": "1004758052",
+      "title": "Pracownik grupy mobilnej w branży utrzymania czystości",
+      "company": "EZT EXPERT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "35 zł brutto / godz.",
+      "location": "Sosnowiec",
+      "description": "Twój zakres obowiązków, Maszynowe doczyszczanie podłóg wraz z konserwacją, Maszynowe pranie wykładzin, Mycie okien, Mycie okien na wysokości, Koszenie kosą spalinową lub kosiarką, Inne prace porządkowe na obiektach...",
+      "url": "https://www.pracuj.pl/praca/pracownik-grupy-mobilnej-w-branzy-utrzymania-czystosci-sosnowiec-modrzewiowa-7,oferta,1004758052"
+    },
+    {
+      "groupId": "84450000-56be-0050-0e4f-08de89646227",
+      "jobTitle": "Pracownik / Pracowniczka magazynu - kompletacja zamówień",
+      "companyName": "ZAKŁADY PRODUKCJI SPOŻYWCZEJ AMBI M KARKUT I WSPÓLNICY SPÓŁKA JAWNA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20155343",
+      "companyId": 20155343,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20155343/ee4d0000-5df0-0015-f7f7-08daf7cbe93e_280x280.png",
+      "lastPublicated": "2026-04-13T04:16:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 400–6 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, kompletacja zamówień według listy zleceń, odpowiednie zabezpieczenie skompletowanego towaru, obsługa wózka widłowego, utrzymanie porządku w magazynie, przestrzeganie zasad bezpieczeństwa, higieny pracy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na podobnym stanowisku</b> i umiejętność pracy zespołowej.</li><li>Posiadasz <b>uprawnienia na wózki widłowe (UDT)</b> i potrafisz je obsługiwać.</li><li>Zwracasz uwagę na <b>dbałość o towar i bezpieczeństwo pracy</b>.</li><li>Cenisz <b>umowę o pracę na pełen etat</b> oraz stabilne zatrudnienie.</li><li>Oczekujesz <b>atrakcyjnych zarobków z premiami jakościowymi</b>.</li><li>Zależy Ci na <b>dofinansowaniu zajęć sportowych i ubezpieczeniu na życie</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004725181,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-magazynu-kompletacja-zamowien-bytom,oferta,1004725181",
+      "displayWorkplace": "Bytom",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004725181",
+      "title": "Pracownik / Pracowniczka magazynu - kompletacja zamówień",
+      "company": "ZAKŁADY PRODUKCJI SPOŻYWCZEJ AMBI M KARKUT I WSPÓLNICY SPÓŁKA JAWNA",
+      "salary": "5 400–6 900 zł brutto / mies.",
+      "location": "Bytom",
+      "description": "Twój zakres obowiązków, kompletacja zamówień według listy zleceń, odpowiednie zabezpieczenie skompletowanego towaru, obsługa wózka widłowego, utrzymanie porządku w magazynie, przestrzeganie zasad bezpieczeństwa, higieny pracy...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-magazynu-kompletacja-zamowien-bytom,oferta,1004725181"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-3777-08de8fd344c1",
+      "jobTitle": "Operator/Operatorka lasera do blach i wykrawarki CNC",
+      "companyName": "LASER SPEC SP. Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074127318",
+      "companyId": 1074127318,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-12T22:55:35.993Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "6 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa wykrawarki z laserem Trumpf,, odpowiedni dobór narzędzi skrawających oraz oprzyrządowania,, rzetelna obsługa systemu produkcyjnego,, dbanie o poprawne funkcjonowanie maszyny,, dobra organizacja miejsca pracy....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w obsłudze wykrawarek CNC</b> i znasz rysunek techniczny.</li><li>Jesteś gotów do pracy w <b>systemie zmianowym 3-zmianowym</b>.</li><li>Zależy Ci na <b>zatrudnieniu na umowę o pracę</b> oraz terminowym wynagrodzeniu.</li><li>Cenisz <b>przewidywalny grafik</b> i profesjonalne wdrożenie do pracy.</li><li>Szanujesz <b>dobrą organizację miejsca pracy</b> i dbasz o prawidłowe funkcjonowanie maszyn.</li><li>Chcesz korzystać z <b>pakietu medycznego</b> oraz dostępu do parkingu dla pracowników.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748816,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-operatorka-lasera-do-blach-i-wykrawarki-cnc-ledziny-gwarkow-53,oferta,1004748816",
+      "displayWorkplace": "Lędziny",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.1501579284668,
+        "longitude": 19.147192001342773
+      },
+      "distanceInKilometers": 15.2,
+      "id": "1004748816",
+      "title": "Operator/Operatorka lasera do blach i wykrawarki CNC",
+      "company": "LASER SPEC SP. Z O.O.",
+      "salary": "6 000–9 000 zł brutto / mies.",
+      "location": "Lędziny",
+      "description": "Twój zakres obowiązków, obsługa wykrawarki z laserem Trumpf,, odpowiedni dobór narzędzi skrawających oraz oprzyrządowania,, rzetelna obsługa systemu produkcyjnego,, dbanie o poprawne funkcjonowanie maszyny,, dobra organizacja miejsca pracy....",
+      "url": "https://www.pracuj.pl/praca/operator-operatorka-lasera-do-blach-i-wykrawarki-cnc-ledziny-gwarkow-53,oferta,1004748816"
+    },
+    {
+      "groupId": "f0470000-56be-0050-6b51-08de693ac128",
+      "jobTitle": "Agent / Agentka Nieruchomości",
+      "companyName": "Freedom Franchise Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20086261",
+      "companyId": 20086261,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20086261/2da80000-56be-0050-f8e3-08dc2e24e692_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "8 000–18 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Systematyczne pozyskiwanie mieszkań na sprzedaż w oparciu o umowy na wyłączność, Budowanie bazy klientów poszukujących zainteresowanych nieruchomościami, Organizacja cyklu sprzedaży i marketingu własnej bazy ofert...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>gotowość do systematycznej pracy</b> i <b>chęć rozwoju</b> w branży nieruchomości.</li><li>Posiadasz <b>dobre umiejętności organizacyjne</b> i <b>samodzielność w podejmowaniu decyzji</b>.</li><li>Potrafisz <b>budować i utrzymywać profesjonalne relacje</b> z klientami.</li><li>Chcesz korzystać z <b>oprogramowania CRM</b>, skutecznego marketingu i narzędzi wspierających sprzedaż.</li><li>Zależy Ci na <b>wynagrodzeniu oparte na wysokich prowizjach</b> i dostępie do bazy klientów.</li><li>Doceniasz <b>elastyczny czas pracy</b> i możliwość pracy zdalnej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764797,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-katowice-szewczenki-8,oferta,1004764797",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.26689147949219,
+        "longitude": 18.996877670288086
+      },
+      "distanceInKilometers": 2,
+      "id": "1004764797",
+      "title": "Agent / Agentka Nieruchomości",
+      "company": "Freedom Franchise Sp. z o.o.",
+      "salary": "8 000–18 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Systematyczne pozyskiwanie mieszkań na sprzedaż w oparciu o umowy na wyłączność, Budowanie bazy klientów poszukujących zainteresowanych nieruchomościami, Organizacja cyklu sprzedaży i marketingu własnej bazy ofert...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-katowice-szewczenki-8,oferta,1004764797"
+    },
+    {
+      "groupId": "e8180000-56be-0050-255f-08de98da0229",
+      "jobTitle": "Agent nieruchomości / Real Estate Agent (M/K)",
+      "companyName": "homfi",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20218101",
+      "companyId": 20218101,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20218101/ee4d0000-5df0-0015-904a-08da87662858_280x280.png",
+      "lastPublicated": "2026-04-12T22:00:00Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 400–100 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, ✨ Twoje zadania:, , • Prowadzenie transakcji sprzedaży i wynajmu nieruchomości, • Proponowanie usług dodatkowych (np. projektowanie wnętrz, zarządzanie najmem), • Współpraca z klientami i partnerami (architekci,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w sprzedaży lub obsłudze klienta oraz <b>komunikujesz się po angielsku</b> na poziomie komunikatywnym.</li><li>Potrafisz <b>pracować zespołowo</b>, jesteś <b>zorganizowany/a i samodzielny/a</b>.</li><li>Chcesz prowadzić <b>transakcje sprzedaży i wynajmu nieruchomości</b> oraz negocjować z klientami.</li><li>Cenisz <b>najwyższe stawki prowizyjne</b> oraz <b>elastyczne formy zatrudnienia</b>.</li><li>Zależy Ci na wsparciu dużego <b>Back Office</b> i nowoczesnych narzędzi pracy.</li><li>Chcesz korzystać z <b>prywatnej opieki medycznej, dofinansowania języków i szkoleń</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764972,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-nieruchomosci-real-estate-agent-m-k-katowice-opolska-10,oferta,1004764972",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.261287689208984,
+        "longitude": 19.013595581054688
+      },
+      "distanceInKilometers": 0.6,
+      "id": "1004764972",
+      "title": "Agent nieruchomości / Real Estate Agent (M/K)",
+      "company": "homfi",
+      "salary": "5 400–100 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, ✨ Twoje zadania:, , • Prowadzenie transakcji sprzedaży i wynajmu nieruchomości, • Proponowanie usług dodatkowych (np. projektowanie wnętrz, zarządzanie najmem), • Współpraca z klientami i partnerami (architekci,...",
+      "url": "https://www.pracuj.pl/praca/agent-nieruchomosci-real-estate-agent-m-k-katowice-opolska-10,oferta,1004764972"
+    },
+    {
+      "groupId": "0c4b0000-56be-0050-430e-08de98db1bae",
+      "jobTitle": "Asystent Oddziału / Real Estate Office Assistant (M/K)",
+      "companyName": "homfi",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20218101",
+      "companyId": 20218101,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20218101/ee4d0000-5df0-0015-904a-08da87662858_280x280.png",
+      "lastPublicated": "2026-04-12T21:38:46.483Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "5 170–6 780 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Bieżące wsparcie działalności oddziału firmy, Wsparcie Działu Zarządzania Najmem w administracyjnej obsłudze nieruchomości oraz bieżących Zadaniach związanych z zarządzaniem najmem, Przygotowywanie, organizacja obiegu i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy administracyjnej i obsłudze dokumentacji</b>.</li><li>Potrafisz <b>organizować pracę biura i zarządzać obiegiem dokumentów</b>.</li><li>Posiadasz <b>komunikatywną znajomość języka angielskiego</b> oraz umiejętność obsługi MS Office lub Google.</li><li>Jesteś <b>skomunikatywny i potrafisz budować relacje</b> z klientami i współpracownikami.</li><li>Zależy Ci na <b>pracy obejmującej wsparcie administracyjne w zarządzaniu najmem nieruchomości</b>.</li><li>Ceniasz <b>benefity takie jak prywatna opieka medyczna, karta MultiSport oraz dofinansowania szkoleń</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764786,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-oddzialu-real-estate-office-assistant-m-k-katowice-opolska-10,oferta,1004764786",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.26107406616211,
+        "longitude": 19.013877868652344
+      },
+      "distanceInKilometers": 0.6,
+      "id": "1004764786",
+      "title": "Asystent Oddziału / Real Estate Office Assistant (M/K)",
+      "company": "homfi",
+      "salary": "5 170–6 780 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Bieżące wsparcie działalności oddziału firmy, Wsparcie Działu Zarządzania Najmem w administracyjnej obsłudze nieruchomości oraz bieżących Zadaniach związanych z zarządzaniem najmem, Przygotowywanie, organizacja obiegu i...",
+      "url": "https://www.pracuj.pl/praca/asystent-oddzialu-real-estate-office-assistant-m-k-katowice-opolska-10,oferta,1004764786"
+    }
+  ]
+}
