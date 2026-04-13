@@ -2,6 +2,100 @@
 // UI — menu, HUD, popups, results screen, tweak panel
 // =========================================================================
 
+// ── Localisation ─────────────────────────────────────────────────────────────
+var I18N = (function () {
+    var pl = {
+        tagline:           'Prawdziwe oferty. Prawdziwa zabawa.',
+        menuTagline:       'Prawdziwe oferty. Gonisz ciężarówki.',
+        cityLabel:         'Miasto',
+        cityPlaceholder:   'Szukaj miasta\u2026',
+        startBtn:          '\uD83C\uDFC1 Start',
+        salaryUndisclosed: 'Wynagrodzenie nieujawnione',
+        finishLine:        'Linia mety',
+        convoyComplete:    'konwój ukończony',
+        nowPrefix:         'Teraz:',
+        nextPrefix:        'Następny:',
+        formingBadge:      'W trakcie',
+        revealBtn:         '\u26FD 1\u2002 Odkryj',
+        appliedBadge:      '\u2713 Aplikowano',
+        nextConvoyBtn:     '\uD83D\uDE9B Następny konwój',
+        finishBtn:         '\uD83C\uDFC6 Zakończ',
+        seenLabel:         '\u25cf Widziano',
+        companyLabel:      'Firma',
+        locationLabel:     'Lokalizacja',
+        publishedLabel:    'Opublikowano',
+        applyBtn:          'Aplikuj teraz \u00a0\u00b7\u00a0 +\u26fd 1',
+        convoyCompleteTitle: '\uD83C\uDFC1 Konwój ukończony',
+        timeAgoFn: function (diff) {
+            if (diff < 300)  return '<5 min temu';
+            if (diff < 3600) return Math.floor(diff / 60) + ' min temu';
+            if (diff < 7200) {
+                var m = Math.floor((diff % 3600) / 60);
+                return '1h ' + (m > 0 ? m + 'm ' : '') + 'temu';
+            }
+            if (diff < 86400) return Math.floor(diff / 3600) + 'h+ temu';
+            return Math.floor(diff / 86400) + ' dni temu';
+        }
+    };
+    var en = {
+        tagline:           'Real jobs. Real fun.',
+        menuTagline:       'Real jobs. Chase the trucks.',
+        cityLabel:         'City',
+        cityPlaceholder:   'Search city\u2026',
+        startBtn:          '\uD83C\uDFC1 Start',
+        salaryUndisclosed: 'Salary not disclosed',
+        finishLine:        'Finish line',
+        convoyComplete:    'convoy complete',
+        nowPrefix:         'Now:',
+        nextPrefix:        'Next:',
+        formingBadge:      'Forming',
+        revealBtn:         '\u26FD 1\u2002 Reveal',
+        appliedBadge:      '\u2713 Applied',
+        nextConvoyBtn:     '\uD83D\uDE9B Next Job Convoy',
+        finishBtn:         '\uD83C\uDFC6 Finish',
+        seenLabel:         '\u25cf Seen',
+        companyLabel:      'Company',
+        locationLabel:     'Location',
+        publishedLabel:    'Published',
+        applyBtn:          'Apply Now \u00a0\u00b7\u00a0 +\u26fd 1',
+        convoyCompleteTitle: '\uD83C\uDFC1 Convoy Complete',
+        timeAgoFn: function (diff) {
+            if (diff < 300)  return '<5 min ago';
+            if (diff < 3600) return Math.floor(diff / 60) + ' min ago';
+            if (diff < 7200) {
+                var m = Math.floor((diff % 3600) / 60);
+                return '1h ' + (m > 0 ? m + 'm ' : '') + 'ago';
+            }
+            if (diff < 86400) return Math.floor(diff / 3600) + 'h+ ago';
+            return Math.floor(diff / 86400) + ' d ago';
+        }
+    };
+    return (window._LOCALE === 'pl') ? pl : en;
+})();
+
+// ── Apply locale to static DOM elements ──────────────────────────────────────
+function applyLocaleToDOM() {
+    // Loading screen tagline
+    var taglineEl = document.getElementById('loading-tagline');
+    if (taglineEl) taglineEl.textContent = I18N.tagline;
+
+    // Car popup table headers & seen badge
+    var seenEl = document.getElementById('car_popup_seen');
+    if (seenEl) seenEl.innerHTML = I18N.seenLabel;
+    var buyEl = document.getElementById('car_popup_buy');
+    if (buyEl) buyEl.innerHTML = I18N.applyBtn;
+    var ths = document.querySelectorAll('#car_popup_specs th');
+    if (ths[0]) ths[0].textContent = I18N.companyLabel;
+    if (ths[1]) ths[1].textContent = I18N.locationLabel;
+    if (ths[2]) ths[2].textContent = I18N.publishedLabel;
+
+    // Results: convoy complete title + next button initial label
+    var titleEl = document.getElementById('results-title');
+    if (titleEl) titleEl.textContent = I18N.convoyCompleteTitle;
+    var nextBtn = document.getElementById('results-next-btn');
+    if (nextBtn) nextBtn.textContent = I18N.nextConvoyBtn;
+}
+
 // ── Menu ──────────────────────────────────────────────────────────────────────
 
 function initMenu() {
@@ -18,6 +112,15 @@ function initMenu() {
         var listEl   = document.getElementById('menu-city-list');
         var focusIdx = -1;
         var prevCity = { slug: selectedCity, label: cities.length ? cities[0].label : '' };
+
+        // Apply locale strings to menu elements
+        var cityLabelEl = document.querySelector('label[for="menu-city-input"]');
+        if (cityLabelEl) cityLabelEl.textContent = I18N.cityLabel;
+        if (input) input.placeholder = I18N.cityPlaceholder;
+        var menuTaglineEl = document.getElementById('menu-tagline');
+        if (menuTaglineEl) menuTaglineEl.textContent = I18N.menuTagline;
+        var startBtnEl = document.getElementById('menu-start');
+        if (startBtnEl) startBtnEl.textContent = I18N.startBtn;
 
         // Seed input with default
         if (cities.length) input.value = cities[0].label;
@@ -187,6 +290,7 @@ function initMenu() {
             });
         }
     }
+    applyLocaleToDOM();
     // Show
     menuEl.classList.remove('hide');
     menuEl.style.display = 'flex';
@@ -250,14 +354,7 @@ function timeAgo(isoString) {
     if (!isoString) return '';
     var diff = Math.floor((Date.now() - new Date(isoString).getTime()) / 1000);
     if (diff < 0) diff = 0;
-    if (diff < 300)  return '<5 min ago';
-    if (diff < 3600) return Math.floor(diff / 60) + ' min ago';
-    if (diff < 7200) {
-        var m = Math.floor((diff % 3600) / 60);
-        return '1h ' + (m > 0 ? m + 'm ' : '') + 'ago';
-    }
-    if (diff < 86400) return Math.floor(diff / 3600) + 'h+ ago';
-    return Math.floor(diff / 86400) + ' d ago';
+    return I18N.timeAgoFn(diff);
 }
 
 function showCarPopup(listing) {
@@ -275,7 +372,7 @@ function showCarPopup(listing) {
     Dom.get('car_popup_title').innerHTML   = listing.title   || '';
     var median = calcMedianSalary(SEMI_LISTINGS);
     var icons  = listing.salaryAvg ? salaryDollarIcons(listing.salaryAvg, median) : '';
-    Dom.get('car_popup_salary').innerHTML  = (listing.salary  || 'Salary not disclosed') + (icons ? '<span class="salary-icons">' + icons + '</span>' : '');
+    Dom.get('car_popup_salary').innerHTML  = (listing.salary  || I18N.salaryUndisclosed) + (icons ? '<span class="salary-icons">' + icons + '</span>' : '');
     Dom.get('car_popup_company').innerHTML = listing.company || '';
     Dom.get('car_popup_loc').innerHTML     = listing.location || '';
     var pubEl = Dom.get('car_popup_pub');
@@ -341,7 +438,7 @@ function showResults() {
     if (waveHeaderEl) {
         waveHeaderEl.innerHTML =
             '<div class="wave-row wave-row-active">' +
-                '<span class="wave-prefix">Now:</span>' +
+                '<span class="wave-prefix">' + I18N.nowPrefix + '</span>' +
                 '<span class="wave-name">' + city + ' Market ' + fmtHour(currentWaveHour) + '</span>' +
             '</div>';
     }
@@ -353,7 +450,7 @@ function showResults() {
         for (var t = 0; t < totalBatches; t++) {
             trucksHTML += t < (currentLap + 1) ? '🚛' : '⬜';
         }
-        var convoyLabel = (currentLap + 1) + ' / ' + totalBatches + ' convoy complete';
+        var convoyLabel = (currentLap + 1) + ' / ' + totalBatches + ' ' + I18N.convoyComplete;
         convoyBarEl.innerHTML =
             '<div class="convoy-bar-trucks">' + trucksHTML + '</div>' +
             '<div class="convoy-bar-label">' + convoyLabel + '</div>';
@@ -364,9 +461,9 @@ function showResults() {
     if (nextWaveEl) {
         nextWaveEl.innerHTML =
             '<div class="wave-row wave-row-next">' +
-                '<span class="wave-prefix">Next:</span>' +
+                '<span class="wave-prefix">' + I18N.nextPrefix + '</span>' +
                 '<span class="wave-name">' + city + ' Market ' + fmtHour(currentNextWaveHour) + '</span>' +
-                '<span class="wave-badge wave-badge-next">Forming</span>' +
+                '<span class="wave-badge wave-badge-next">' + I18N.formingBadge + '</span>' +
             '</div>';
             '</div>';
     }
@@ -403,7 +500,7 @@ function showResults() {
             finishLineInserted = true;
             var divider = document.createElement('div');
             divider.className = 'results-finish-line';
-            divider.innerHTML = '<span class="results-finish-flag">🏁</span><span class="results-finish-label">Finish line</span><span class="results-finish-flag">🏁</span>';
+            divider.innerHTML = '<span class="results-finish-flag">🏁</span><span class="results-finish-label">' + I18N.finishLine + '</span><span class="results-finish-flag">🏁</span>';
             list.appendChild(divider);
         }
 
@@ -422,7 +519,7 @@ function showResults() {
 
             var revealBtn = document.createElement('button');
             revealBtn.className = 'results-reveal-btn';
-            revealBtn.textContent = '⛽ 1  Reveal';
+            revealBtn.textContent = I18N.revealBtn;
             revealBtn.disabled = fuelDrops < 1;
             allRevealBtns.push(revealBtn);
 
@@ -490,10 +587,10 @@ function showResults() {
                             r.classList.remove('results-opened');
                             r.classList.add('results-clicked');
                             bdg.innerHTML = '';
-                            var b2 = document.createElement('span');
-                            b2.className = 'badge badge-clicked';
-                            b2.textContent = '✓ Applied';
-                            bdg.appendChild(b2);
+                        var b2 = document.createElement('span');
+                        b2.className = 'badge badge-clicked';
+                        b2.textContent = I18N.appliedBadge;
+                        bdg.appendChild(b2);
                         });
                     });
                 })(job, row, revealBtn, salaryIcons);
@@ -530,7 +627,7 @@ function showResults() {
             if (clicked) {
                 var b = document.createElement('span');
                 b.className = 'badge badge-clicked';
-                b.textContent = '✓ Applied';
+                b.textContent = I18N.appliedBadge;
                 badges.appendChild(b);
             } else {
                 var b = document.createElement('span');
@@ -571,10 +668,10 @@ function showResults() {
 
     var btn = Dom.get('results-next-btn');
     if (isLast) {
-        btn.textContent = '🏆 Finish';
+        btn.textContent = I18N.finishBtn;
         btn.className   = 'results-next-btn results-finish-btn';
     } else {
-        btn.textContent = '🚛 Next Job Convoy';
+        btn.textContent = I18N.nextConvoyBtn;
         btn.className   = 'results-next-btn';
     }
 

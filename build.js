@@ -84,4 +84,35 @@ for (const dir of IMAGE_DIRS) {
   copyDir(path.join(__dirname, dir), path.join(DIST, dir));
 }
 
+// 5. Build dist/pl/ — full copy of dist/ with a patched index.html
+const PL_DIST = path.join(DIST, 'pl');
+ensureDir(PL_DIST);
+
+// 5a. Copy every file from dist/ into dist/pl/ (except the pl/ subdir itself)
+function mirrorDist(srcDir, destDir) {
+  for (const entry of fs.readdirSync(srcDir, { withFileTypes: true })) {
+    if (entry.name === 'pl') continue; // don't recurse into the dir we're building
+    const src  = path.join(srcDir, entry.name);
+    const dest = path.join(destDir, entry.name);
+    if (entry.isDirectory()) {
+      ensureDir(dest);
+      mirrorDist(src, dest);
+    } else {
+      fs.copyFileSync(src, dest);
+    }
+  }
+}
+mirrorDist(DIST, PL_DIST);
+console.log('  mirrored dist/ → dist/pl/');
+
+// 5b. Overwrite dist/pl/index.html with the Polish version from pl/index.html
+const PL_SRC = path.join(__dirname, 'pl', 'index.html');
+if (fs.existsSync(PL_SRC)) {
+  // The pl/index.html uses ../ prefixes — strip them since assets now sit alongside it
+  let plHtml = fs.readFileSync(PL_SRC, 'utf8');
+  plHtml = plHtml.replace(/(["'])\.\.\//g, '$1');
+  fs.writeFileSync(path.join(PL_DIST, 'index.html'), plHtml);
+  console.log('  wrote: dist/pl/index.html (Polish, paths fixed)');
+}
+
 console.log('\nBuild complete → dist/');

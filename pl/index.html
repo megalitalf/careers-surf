@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html lang="pl">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Careers Surf – Przeglądaj oferty pracy IT w grze wyścigowej</title>
+  <meta name="description" content="Careers Surf to giełda pracy w stylu arcade – jedź przez prawdziwe oferty pracy w branży tech. Znajdź swoją następną rolę podczas wyścigu."/>
+  <meta name="keywords" content="oferty pracy IT, giełda pracy, praca programista, developer jobs, kariera, szukam pracy, gra wyścigowa"/>
+  <meta name="author" content="megalitalf"/>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Careers Surf – Przeglądaj oferty pracy IT w grze wyścigowej"/>
+  <meta property="og:description" content="Giełda pracy w stylu arcade – ścigaj się przez prawdziwe oferty pracy w branży tech. Znajdź swoją następną rolę i baw się świetnie."/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="https://careers.surf/pl/"/>
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Careers Surf – Przeglądaj oferty pracy IT w grze wyścigowej"/>
+  <meta name="twitter:description" content="Giełda pracy w stylu arcade – ścigaj się przez prawdziwe oferty pracy w branży tech."/>
+
+  <link href="../common.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+  <div id="loading">
+    <div id="loading-road"></div>
+    <div id="loading-label">Careers Surf</div>
+    <div id="loading-tagline">Prawdziwe oferty. Prawdziwa zabawa.</div>
+  </div>
+
+  <!-- Main menu — shown after splash, dismissed on Start -->
+  <div id="menu" style="display:none">
+    <div id="menu-card">
+      <div id="menu-title">CAREERS <span>SURF</span></div>
+      <div id="menu-tagline">Prawdziwe oferty. Gonisz ciężarówki.</div>
+
+      <div id="menu-city-wrap">
+        <label for="menu-city-input">Miasto</label>
+        <div id="menu-city-combo">
+          <input id="menu-city-input" type="text" autocomplete="off" spellcheck="false" placeholder="Szukaj miasta…"/>
+          <ul id="menu-city-list"></ul>
+        </div>
+      </div>
+
+      <button id="menu-start">🏁 Start</button>
+    </div>
+  </div>
+
+  <table id="controls" style="display: none;">
+    <tr>
+      <td colspan="2">
+        <a href='v1.straight.html'>straight</a> |
+        <a href='v2.curves.html'>curves</a>     |
+        <a href='v3.hills.html'>hills</a>       |
+        <a href='v4.final.html'>final</a>
+      </td>
+    </tr>
+    <tr><td id="fps" colspan="2" align="right"></td></tr>
+    <tr>
+      <th><label for="resolution">Resolution :</label></th>
+      <td>
+        <select id="resolution" style="width:100%">
+          <option value='fine'>Fine (1280x960)</option>
+          <option selected value='high'>High (1024x768)</option>
+          <option value='medium'>Medium (640x480)</option>
+          <option value='low'>Low (480x360)</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <th><label for="lanes">Lanes :</label></th>
+      <td>
+        <select id="lanes">
+          <option>1</option>
+          <option>2</option>
+          <option selected>3</option>
+          <option>4</option>
+        </select>
+      </td>
+    </tr>
+    <tr>
+      <th><label for="roadWidth">Road Width (<span id="currentRoadWidth"></span>) :</label></th>
+      <td><input id="roadWidth" type='range' min='500' max='3000' title="integer (500-3000)"></td>
+    </tr>
+    <tr>
+      <th><label for="cameraHeight">CameraHeight (<span id="currentCameraHeight"></span>) :</label></th>
+      <td><input id="cameraHeight" type='range' min='500' max='5000' title="integer (500-5000)"></td>
+    </tr>
+    <tr>
+      <th><label for="drawDistance">Draw Distance (<span id="currentDrawDistance"></span>) :</label></th>
+      <td><input id="drawDistance" type='range' min='100' max='500' title="integer (100-500)"></td>
+    </tr>
+    <tr>
+      <th><label for="fieldOfView">Field of View (<span id="currentFieldOfView"></span>) :</label></th>
+      <td><input id="fieldOfView" type='range' min='80' max='140' title="integer (80-140)"></td>
+    </tr>
+    <tr>
+      <th><label for="fogDensity">Fog Density (<span id="currentFogDensity"></span>) :</label></th>
+      <td><input id="fogDensity" type='range' min='0' max='50' title="integer (0-50)"></td>
+    </tr>
+  </table>
+
+  <div id="racer">
+    <div id="hud">
+      <button id="hud-menu-btn" title="Menu">☰</button>
+      <span id="player_uuid"       class="hud">ID: <span id="player_uuid_value" class="value">…</span></span>
+      <span id="speed"            class="hud"><span id="speed_value" class="value">0</span> km/h</span>
+      <span id="acc_indicator"    class="hud">ACC <span id="acc_status">&#9679;</span></span>
+      <span id="lka_indicator"    class="hud">LKA <span id="lka_status">&#9679;</span></span>
+      <span id="fuel_drops" class="hud">⛽ <span id="fuel_drops_value" class="value">0</span></span>
+      <span id="current_lap_time" class="hud">Time: <span id="current_lap_time_value" class="value">0.0</span></span>
+      <span id="last_lap_time"    class="hud">Last Lap: <span id="last_lap_time_value" class="value">0.0</span></span>
+      <span id="fast_lap_time"    class="hud">Fastest Lap: <span id="fast_lap_time_value" class="value">0.0</span></span>
+    </div>
+    <canvas id="canvas">
+      Przepraszamy, ta strona wymaga obsługi elementu &lt;canvas&gt; w przeglądarce.
+    </canvas>
+    Ładowanie…
+
+    <!-- Job listing popup -->
+    <div id="car_popup">
+      <div id="car_popup_inner">
+        <button id="car_popup_close" onclick="closeCarPopup()">&times;</button>
+        <div id="car_popup_meta">
+          <span id="car_popup_id"></span>
+          <span id="car_popup_batch"></span>
+          <span id="car_popup_seen">&#9679; Widziano</span>
+        </div>
+        <h2 id="car_popup_title"></h2>
+        <div id="car_popup_salary"></div>
+        <table id="car_popup_specs">
+          <tr><th>Firma</th><td id="car_popup_company"></td></tr>
+          <tr><th>Lokalizacja</th><td id="car_popup_loc"></td></tr>
+          <tr><th>Opublikowano</th><td id="car_popup_pub"></td></tr>
+        </table>
+        <div id="car_popup_desc"></div>
+        <button id="car_popup_buy">Aplikuj teraz &nbsp;·&nbsp; +⛽ 1</button>
+      </div>
+    </div>
+
+    <!-- Mini-map widget -->
+    <canvas id="minimap"></canvas>
+
+    <!-- Post-race results screen -->
+    <div id="results">
+      <div id="results-card">
+        <div id="results-header">
+          <div id="results-header-left">
+            <div id="results-wave-header"></div>
+            <div id="results-title">🏁 Konwój ukończony</div>
+            <div id="results-convoy-bar"></div>
+            <div id="results-lap"></div>
+            <div id="results-next-wave"></div>
+          </div>
+          <div id="results-fuel" class="results-fuel"></div>
+        </div>
+        <div id="results-list"></div>
+        <button id="results-next-btn" class="results-next-btn" onclick="nextConvoy()">🚛 Następny konwój</button>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    window._loadStart = Date.now();
+    // Locale flag — picked up by game.ui.js I18N block
+    window._LOCALE = 'pl';
+    // S3 base URLs — used by game.js for city job files
+    window._S3_BASE    = "https://careers-surf-data.s3.eu-north-1.amazonaws.com";
+    window._S3_CITIES  = window._S3_BASE + "/cities";
+    // Fix for mobile browsers where 100vh includes hidden nav bar area (old Android, etc.)
+    function setVh() {
+      document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');
+    }
+    setVh();
+    window.addEventListener('resize', setVh);
+  </script>
+
+  <script src="../stats.js"></script>
+  <script src="../common.js"></script>
+  <script>
+    // Load jobs.js from S3, fall back to local, then load game modules once ready.
+    (function() {
+      var BASE = '../';
+      function loadGame() {
+        var modules = [
+          BASE + 'city-list.js',
+          BASE + 'game.config.js',
+          BASE + 'game.session.js',
+          BASE + 'game.road.js',
+          BASE + 'game.cars.js',
+          BASE + 'game.ui.js',
+          BASE + 'game.input.js',
+          BASE + 'game.js'
+        ];
+        (function loadNext(i) {
+          if (i >= modules.length) return;
+          var s = document.createElement('script');
+          s.src = modules[i];
+          s.onload = function() { loadNext(i + 1); };
+          document.head.appendChild(s);
+        })(0);
+      }
+      function loadLocal() {
+        console.warn("S3 jobs.js unavailable, falling back to local jobs.js");
+        var fallback = document.createElement("script");
+        fallback.src = BASE + "jobs.js";
+        fallback.onload  = loadGame;
+        fallback.onerror = loadGame; // start game even without listings
+        document.head.appendChild(fallback);
+      }
+      var S3_URL = "https://careers-surf-data.s3.eu-north-1.amazonaws.com/jobs/jobs.js";
+      var s = document.createElement("script");
+      s.src     = S3_URL;
+      s.onload  = loadGame;
+      s.onerror = loadLocal;
+      document.head.appendChild(s);
+    })();
+  </script>
+
+</body>
+</html>
