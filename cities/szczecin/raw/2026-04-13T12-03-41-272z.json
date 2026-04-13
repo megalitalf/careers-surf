@@ -1,0 +1,3516 @@
+{
+  "meta": {
+    "profileKey": "03",
+    "profileLabel": "Szczecin – all",
+    "slug": "szczecin",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Szczecin&rd=30&latitude=53.4301818&longitude=14.5509623",
+    "scrapedAt": "2026-04-13T12:03:41.272Z",
+    "pages": 1,
+    "total": 50,
+    "errors": 0,
+    "location": "Szczecin",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "ec400000-56be-0050-4efa-08de9704869a",
+      "jobTitle": "Przedstawiciel Handlowy/Przedstawicielka Handlowa ds. współpracy z Rolnikami/ Agronom",
+      "companyName": "WOKAS SPÓŁKA AKCYJNA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20057994",
+      "companyId": 20057994,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20057994/402c0000-56be-0050-3a90-08de99220c9b_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:01:17.71Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 000–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Budowanie i utrzymywanie długofalowych relacji z rolnikami, gospodarstwami rolnymi i dystrybutorami, Doradztwo w zakresie doboru produktów rolniczych (podłoża, nawozy, środki poprawiające jakość gleby, itp.), Prezentacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe rolnicze</b> i doświadczenie w kontakcie z rolnikami lub sprzedaży produktów rolniczych.</li><li>Pracujesz nad <b>budowaniem relacji z gospodarstwami i doradztwem</b> w zakresie technologii upraw i ochrony roślin.</li><li>Potrafisz <b>prezentować ofertę oraz prowadzić szkolenia</b> i działania techniczne dla klientów.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i umiejętność pracy samodzielnej oraz zespołowej.</li><li>Cenisz <b>system wynagrodzenia łączący podstawę i prowizję</b>, a także wsparcie techniczne i narzędzia pracy (samochód, laptop, telefon).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767128,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-ds-wspolpracy-z-rolnikami-agro-szczecin,oferta,1004767128",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767128",
+      "title": "Przedstawiciel Handlowy/Przedstawicielka Handlowa ds. współpracy z Rolnikami/ Agronom",
+      "company": "WOKAS SPÓŁKA AKCYJNA",
+      "salary": "10 000–15 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Budowanie i utrzymywanie długofalowych relacji z rolnikami, gospodarstwami rolnymi i dystrybutorami, Doradztwo w zakresie doboru produktów rolniczych (podłoża, nawozy, środki poprawiające jakość gleby, itp.), Prezentacja...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-ds-wspolpracy-z-rolnikami-agro-szczecin,oferta,1004767128"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-6dd2-08de8e507448",
+      "jobTitle": "Brygadzista Budowlany / Brygadzistka Budowlana",
+      "companyName": "Maison Sp. z o. o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20374074",
+      "companyId": 20374074,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20374074/03000000-bb2f-3863-40c3-08d8c1d73699_280x280.png",
+      "lastPublicated": "2026-04-13T11:58:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "od 35 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Nadzorowanie i koordynowanie pracy zespołu pracowników budowlanych., Zapewnienie zgodności z harmonogramem prac oraz standardami jakości., Dbanie o przestrzeganie przepisów BHP na placu budowy., Przydzielanie zadań oraz...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "wynagrodzenie zależne od doświadczenia oraz zakresu obowiązków"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i koordynowaniu prac budowlanych.</li><li>Posiadasz <b>znajomość zasad BHP</b> oraz umiejętność czytania dokumentacji technicznej.</li><li>Jesteś gotów do <b>pracy w terenie</b> i elastyczny pod kątem czasu pracy.</li><li>Cenisz <b>pracę przy nowoczesnych inwestycjach</b> oraz stabilne warunki zatrudnienia.</li><li>Chcesz korzystać z <b>narzędzi pracy</b> zapewnionych przez pracodawcę oraz wsparcia technicznego.</li><li>Masz bądź jesteś otwarty na <b>podnoszenie kwalifikacji zawodowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004738920,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/brygadzista-budowlany-brygadzistka-budowlana-szczecin,oferta,1004738920",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004738920",
+      "title": "Brygadzista Budowlany / Brygadzistka Budowlana",
+      "company": "Maison Sp. z o. o.",
+      "salary": "od 35 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Nadzorowanie i koordynowanie pracy zespołu pracowników budowlanych., Zapewnienie zgodności z harmonogramem prac oraz standardami jakości., Dbanie o przestrzeganie przepisów BHP na placu budowy., Przydzielanie zadań oraz...",
+      "url": "https://www.pracuj.pl/praca/brygadzista-budowlany-brygadzistka-budowlana-szczecin,oferta,1004738920"
+    },
+    {
+      "groupId": "90270000-56be-0050-ef11-08de8fe281e8",
+      "jobTitle": "Praca na produkcji (k/ m/ n)",
+      "companyName": "Adecco Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/14234837",
+      "companyId": 14234837,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:49:00Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "29–29,50 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Praca indywidualna i grupowa zgodnie z BHP i wymaganiami stanowiskowymi, Obowiązki produkcyjne (cięcie, szycie, łączenie, pakowanie itp.) z wykorzystaniem różnych materiałów, w tym włókna szklanego...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 15
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>gotowość do pracy w systemie trzyzmianowym</b>.</li><li>Jesteś <b>sprawny fizycznie</b> i zmotywowany do pracy indywidualnej i zespołowej.</li><li>Posiadasz <b>znajomość języka polskiego</b w mowie i piśmie do czytania instrukcji.</li><li>Chcesz wykonywać <b>obowiązki produkcyjne</b, takie jak cięcie, szycie, łączenie, pakowanie z różnymi materiałami, w tym włóknem szklanym.</li><li>Doceniasz <b>benefity takie jak dofinansowanie zajęć sportowych, prywatna opieka medyczna, ubezpieczenie na życie i transport pracowniczy</b>.</li><li>Masz chęć <b>uczyć się i rozwijać umiejętności</b w trakcie pracy na produkcji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744324,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/praca-na-produkcji-k-m-n-szczecin,oferta,1004744324",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744324",
+      "title": "Praca na produkcji (k/ m/ n)",
+      "company": "Adecco Poland Sp. z o.o.",
+      "salary": "29–29,50 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Praca indywidualna i grupowa zgodnie z BHP i wymaganiami stanowiskowymi, Obowiązki produkcyjne (cięcie, szycie, łączenie, pakowanie itp.) z wykorzystaniem różnych materiałów, w tym włókna szklanego...",
+      "url": "https://www.pracuj.pl/praca/praca-na-produkcji-k-m-n-szczecin,oferta,1004744324"
+    },
+    {
+      "groupId": "e8180000-56be-0050-52e6-08de98cf9952",
+      "jobTitle": "Cukiernik / Cukierniczka - Dekorator / Dekoratorka",
+      "companyName": "Krystyna Łopatto",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074234609",
+      "companyId": 1074234609,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:45:40.24Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Wypiekanie biszkoptów, Przekładanie ciast i tortów, Przygotowanie i dekoracja monoporcji (prostych - eklery, donuty itp. ), Dekoracja ciast i tortów, Utrzymanie porządku w miejscu pracy, Stosowanie zasad fifo, monitorowanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Premie możliwe w okresie nadzwyczajnego zapotrzebowania na pracę, tj. Wzmożona ilosc zamowien. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie lub pasję w <b>wypiekaniu i dekorowaniu ciast oraz tortów</b>.</li><li>Potrafisz <b>planować pracę</b> i czytać instrukcje ze zrozumieniem.</li><li>Jesteś <b>punktualny i dyspozycyjny w weekendy</b>.</li><li>Dbasz o <b>jakość produktów oraz porządek w miejscu pracy</b>.</li><li>Posiadasz <b>aktualną książeczkę zdrowia</b> niezbędną do pracy z żywnością.</li><li>Wykazujesz <b>zrozumienie procesu produkcyjnego i komunikację z działem sprzedaży</b> w celu realizacji zamówień.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767062,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/cukiernik-cukierniczka-dekorator-dekoratorka-szczecin,oferta,1004767062",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767062",
+      "title": "Cukiernik / Cukierniczka - Dekorator / Dekoratorka",
+      "company": "Krystyna Łopatto",
+      "salary": "31,40 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Wypiekanie biszkoptów, Przekładanie ciast i tortów, Przygotowanie i dekoracja monoporcji (prostych - eklery, donuty itp. ), Dekoracja ciast i tortów, Utrzymanie porządku w miejscu pracy, Stosowanie zasad fifo, monitorowanie...",
+      "url": "https://www.pracuj.pl/praca/cukiernik-cukierniczka-dekorator-dekoratorka-szczecin,oferta,1004767062"
+    },
+    {
+      "groupId": "f0260000-56be-0050-ebd8-08de88d697ce",
+      "jobTitle": "Monter/ka Konstrukcji Stalowych",
+      "companyName": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074041053",
+      "companyId": 1074041053,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:36:37.34Z",
+      "expirationDate": "2026-04-22T21:59:59Z",
+      "salaryDisplayText": "5 300–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, uruchamianie i nadzorowanie pracy maszyn,, odczytywanie rysunków technicznych i instrukcji obsługi,, kontrola jakości za pomocą narzędzi pomiarowych....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie jako <b>operator maszyn</b> i potrafisz czytać rysunki techniczne.</li><li>Jesteś gotów do <b>nadzorowania pracy maszyn</b> i kontroli jakości.</li><li>Chcesz pracować na podstawie <b>umowy o pracę</b> z wynagrodzeniem od 31 zł brutto/h.</li><li>Cenisz sobie <b>system 2 lub 3-zmianowy</b> oraz dojazd komunikacją miejską.</li><li>Poszukujesz dodatkowych <b>benefitów</b>, takich jak brak dress code’u, kawa, parking dla pracowników.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004723892,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/monter-ka-konstrukcji-stalowych-szczecin,oferta,1004723892",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004723892",
+      "title": "Monter/ka Konstrukcji Stalowych",
+      "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
+      "salary": "5 300–6 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, uruchamianie i nadzorowanie pracy maszyn,, odczytywanie rysunków technicznych i instrukcji obsługi,, kontrola jakości za pomocą narzędzi pomiarowych....",
+      "url": "https://www.pracuj.pl/praca/monter-ka-konstrukcji-stalowych-szczecin,oferta,1004723892"
+    },
+    {
+      "groupId": "a80d0000-56be-0050-4aff-08de84106e24",
+      "jobTitle": "Electronic Hardware Design Engineer (Embedded)",
+      "companyName": "GRYFTEC EMBEDDED SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074004583",
+      "companyId": 1074004583,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074004583/c8470000-56be-0050-fa8c-08dd413707c0_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:34:16.573Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "10 000–13 000 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, Hardware architecture design, Electronic circuit design, including calculation, simulation and drawing schematics, Multi-layer printed circuit board layout, Testing and bug-fixing hardware prototypes, Preparation of...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074004583/mobile-banners/6c200000-56be-0050-58c4-08de84217d5b.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>projektowaniu analogowych i cyfrowych obwodów elektronicznych</b> oraz korzystaniu z oprogramowania EDA.</li><li>Posiadasz umiejętności pracy z <b>sprzętem laboratoryjnym</b> i wprowadzaniem prototypów do produkcji.</li><li>Znasz zagadnienia związane z <b>kompatybilnością elektromagnetyczną (EMC)</b>.</li><li>Potrafisz projektować <b>architekturę sprzętu</b> oraz wielowarstwowe płytki PCB.</li><li>Cenisz <b>elastyczne godziny pracy</b> oraz model hybrydowy z możliwością pracy zdalnej.</li><li>Zależy Ci na <b>pakiecie medycznym i dodatkowych benefitach</b> takich jak karnet sportowy i wsparcie szkoleń specjalistycznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712037,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/electronic-hardware-design-engineer-embedded-szczecin-1-maja-38,oferta,1004712037",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.44304656982422,
+        "longitude": 14.571805953979492
+      },
+      "distanceInKilometers": 2,
+      "id": "1004712037",
+      "title": "Electronic Hardware Design Engineer (Embedded)",
+      "company": "GRYFTEC EMBEDDED SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "10 000–13 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Your responsibilities, Hardware architecture design, Electronic circuit design, including calculation, simulation and drawing schematics, Multi-layer printed circuit board layout, Testing and bug-fixing hardware prototypes, Preparation of...",
+      "url": "https://www.pracuj.pl/praca/electronic-hardware-design-engineer-embedded-szczecin-1-maja-38,oferta,1004712037"
+    },
+    {
+      "groupId": "84450000-56be-0050-1d9d-08de899a280b",
+      "jobTitle": "Kierowca międzynarodowy kat. C+E (k/m)",
+      "companyName": "Beliani",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074066026",
+      "companyId": 1074066026,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074066026/ee4d0000-5df0-0015-9b3c-08db1580af3b_280x280.png",
+      "lastPublicated": "2026-04-13T11:29:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "14 000–22 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Odbiór kontenerów z portu w Hamburgu, Realizacja zleceń transportowych na stałych trasach międzynarodowych: Rajkowo – Niemcy; Niemcy – Francja – Szwajcaria; Niemcy – Holandia....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>prawo jazdy kat. C+E i kartę kierowcy</b> oraz wymagane uprawnienia do przewozu rzeczy.</li><li>Masz minimum roczne doświadczenie w przewozach <b>międzynarodowych</b> na trasach między Niemcami, Francją, Szwajcarią i Holandią.</li><li>Cenisz <b>umowę o pracę</b> oraz wynagrodzenie zgodne z pakietem mobilności, około 12 000 PLN netto.</li><li>Oczekujesz <b>przypisanej ciężarówki i wsparcia logistycznego</b> w postaci załadunku/rozładunku oraz zarezerwowanego miejsca postojowego.</li><li>Ważna jest dla Ciebie <b>prywatna opieka medyczna, pakiet sportowy i służbowy telefon</b> z internetem.</li><li>Preferujesz <b>elastyczne systemy pracy</b> 3 tygodnie pracy/1 tydzień wolnego lub 2 miesiące pracy/1 miesiąc wolnego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004726908,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-miedzynarodowy-kat-c%2be-k-m-szczecin,oferta,1004726908",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004726908",
+      "title": "Kierowca międzynarodowy kat. C+E (k/m)",
+      "company": "Beliani",
+      "salary": "14 000–22 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Odbiór kontenerów z portu w Hamburgu, Realizacja zleceń transportowych na stałych trasach międzynarodowych: Rajkowo – Niemcy; Niemcy – Francja – Szwajcaria; Niemcy – Holandia....",
+      "url": "https://www.pracuj.pl/praca/kierowca-miedzynarodowy-kat-c%2be-k-m-szczecin,oferta,1004726908"
+    },
+    {
+      "groupId": "5c420000-56be-0050-4c88-08de994c5091",
+      "jobTitle": "Sprzedawca / Sprzedawczyni w piekarnio-kawiarni",
+      "companyName": "EMIDE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074086634",
+      "companyId": 1074086634,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:24:24.39Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 200–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa klienta, udział w inwentaryzacji oraz dbanie o czystość w miejscu pracy  , wydawanie produktów klientom  , przygotowywanie produktów do sprzedaży, ekspozycja asortymentu, obsługa baru oraz sali, obsługa kasy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 10
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w obsłudze klienta lub sprzedaży oraz umiesz pracować w zespole.</li><li>Jesteś dyspozycyjny do pracy w systemie zmianowym, również w weekendy.</li><li>Potrafisz dbać o <b>czystość stanowiska pracy</b> i przestrzegasz <b>higieny osobistej</b>.</li><li>Posiadasz <b>aktualną książeczkę zdrowia</b> i umiesz obsługiwać kasę fiskalną.</li><li>Chcesz pracować przy <b>obsłudze baru, sali</b> oraz dbaniu o ekspozycję produktów.</li><li>Zależy Ci na <b>wynagrodzeniu godzinowym z premią</b> oraz możliwości awansu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766952,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-w-piekarnio-kawiarni-szczecin,oferta,1004766952",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766952",
+      "title": "Sprzedawca / Sprzedawczyni w piekarnio-kawiarni",
+      "company": "EMIDE sp. z o.o.",
+      "salary": "6 200–8 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, obsługa klienta, udział w inwentaryzacji oraz dbanie o czystość w miejscu pracy  , wydawanie produktów klientom  , przygotowywanie produktów do sprzedaży, ekspozycja asortymentu, obsługa baru oraz sali, obsługa kasy...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-w-piekarnio-kawiarni-szczecin,oferta,1004766952"
+    },
+    {
+      "groupId": "b4030000-56be-0050-49a4-08de7dcf3715",
+      "jobTitle": "Kierowca kat. C+E transport międzynarodowy",
+      "companyName": "Jost Group",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20104549",
+      "companyId": 20104549,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20104549/2c580000-43a8-f403-81d4-08d90fb61f54_280x280.png",
+      "lastPublicated": "2026-04-13T11:21:45.35Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "15 500–15 990 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20104549/mobile-banners/9b030000-5dac-0015-f172-08da6e252018.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/20104549/desktop-banners/c42f0000-56be-0050-c554-08de537a399c.jpg",
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. C+E</b> oraz doświadczenie w <b>transporcie międzynarodowym po UE</b>.</li><li>Posiadasz <b>świadectwo kwalifikacji i cyfrową kartę kierowcy</b>.</li><li>Jesteś gotów do pracy w systemie <b>2/1, 3/1, 4/1, 4/2, 6/2 lub 8/2</b>, ze <b>sprawdzonym zakresem tras</b>.</li><li>Cenisz <b>wynagrodzenie netto ok. 3100 euro</b> oraz zatrudnienie na <b>umowę o pracę</b>.</li><li>Zależy Ci na <b>pracy z nowoczesnym taborem IVECO LNG</b> i <b>dostępie do opieki medycznej w UE</b>.</li><li>Mieszkasz w województwie zachodniopomorskim i chcesz pracować na trasie <b>Szczecin-Belgia-Szczecin</b> z <b>weekendami w domu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004693775,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-szczecin,oferta,1004693775",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004693775",
+      "title": "Kierowca kat. C+E transport międzynarodowy",
+      "company": "Jost Group",
+      "salary": "15 500–15 990 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-szczecin,oferta,1004693775"
+    },
+    {
+      "groupId": "5c420000-56be-0050-bf12-08de993ff114",
+      "jobTitle": "Pracownik magazynowy (m/k)",
+      "companyName": "Novoterm Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20086510",
+      "companyId": 20086510,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20086510/2c580000-43a8-f403-43d6-08d8c20e675c_280x280.png",
+      "lastPublicated": "2026-04-13T11:07:08.053Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, rozładunek i załadunek towarów,, kompletowanie i przygotowywanie towarów do wysyłki,, przygotowywanie zamówień oraz praca ze skanerem,, utrzymanie porządku na magazynie....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20086510/mobile-banners/d8250000-56be-0050-4547-08dd66f52c3f.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>magazynowaniu</b> i pracy przy rozładunku i załadunku towarów.</li><li>Charakteryzuje Cię <b>dobra organizacja pracy</b> oraz <b>sumienność</b> w realizacji zadań.</li><li>Znasz się na <b>kompletowaniu zamówień</b> i obsłudze skanera magazynowego.</li><li>Chcesz pracować na <b>umowę zlecenie</b> w systemie jednozmianowym od poniedziałku do piątku.</li><li>Zależy Ci na <b>dofinansowaniu do prywatnej opieki medycznej</b> i <b>parkingu dla pracowników</b>.</li><li>Mile widziane są <b>uprawnienia UDT</b>, które możesz wykorzystać w pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766826,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-magazynowy-m-k-ustowo-pow-policki-limonkowa-1,oferta,1004766826",
+      "displayWorkplace": "Ustowo (pow. policki)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.49256896972656,
+        "longitude": 14.392582893371582
+      },
+      "distanceInKilometers": 12.6,
+      "id": "1004766826",
+      "title": "Pracownik magazynowy (m/k)",
+      "company": "Novoterm Sp. z o.o.",
+      "salary": "6 000–7 000 zł brutto / mies.",
+      "location": "Ustowo (pow. policki)",
+      "description": "Twój zakres obowiązków, rozładunek i załadunek towarów,, kompletowanie i przygotowywanie towarów do wysyłki,, przygotowywanie zamówień oraz praca ze skanerem,, utrzymanie porządku na magazynie....",
+      "url": "https://www.pracuj.pl/praca/pracownik-magazynowy-m-k-ustowo-pow-policki-limonkowa-1,oferta,1004766826"
+    },
+    {
+      "groupId": "5c420000-56be-0050-58f9-08de994b868c",
+      "jobTitle": "Operator / Operatorka wózka widłowego z uprawnieniami UDT",
+      "companyName": "Instore Solution Services Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/14185467",
+      "companyId": 14185467,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/14185467/f15b0000-56be-0050-bded-08dc42827cdd_280x280.png",
+      "lastPublicated": "2026-04-13T10:59:13.37Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "38 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, przyjmowanie dostaw,, wydawanie towaru,, właściwe rozmieszczenie i kompletowanie zamówień,, obsługa sprzętu magazynowego,, dbałość o porządek w magazynie....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "stabilne zatrudnienie na podstawie umowy zlecenia,",
+              "stawka 38,00 zł brutto za godzinę, ",
+              "system dwuzmianowy od poniedziałku do piątku 6-14, 14-22."
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/14185467/mobile-banners/342a0000-56be-0050-d4ac-08dca17c0fef.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>uprawnienia UDT</b> i doświadczenie w obsłudze wózka widłowego.</li><li>Jesteś dyspozycyjny do pracy <b>w systemie dwuzmianowym</b> od poniedziałku do piątku.</li><li>Potrafisz samodzielnie przyjmować dostawy, wydawać towar oraz kompletować zamówienia.</li><li>Zależy Ci na zatrudnieniu na <b>umowę zlecenie</b> ze stawką godzinową 38 zł brutto.</li><li>Posiadasz aktualną <b>książeczkę zdrowia</b> oraz cechujesz się sumiennością i zaangażowaniem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766790,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-operatorka-wozka-widlowego-z-uprawnieniami-udt-lozienica-pow-goleniowski,oferta,1004766790",
+      "displayWorkplace": "Łozienica (pow. goleniowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766790",
+      "title": "Operator / Operatorka wózka widłowego z uprawnieniami UDT",
+      "company": "Instore Solution Services Polska Sp. z o.o.",
+      "salary": "38 zł brutto / mies.",
+      "location": "Łozienica (pow. goleniowski)",
+      "description": "Twój zakres obowiązków, przyjmowanie dostaw,, wydawanie towaru,, właściwe rozmieszczenie i kompletowanie zamówień,, obsługa sprzętu magazynowego,, dbałość o porządek w magazynie....",
+      "url": "https://www.pracuj.pl/praca/operator-operatorka-wozka-widlowego-z-uprawnieniami-udt-lozienica-pow-goleniowski,oferta,1004766790"
+    },
+    {
+      "groupId": "d4280000-56be-0050-806d-08de916990a4",
+      "jobTitle": "Konsultant / Konsultantka w salonie sprzedaży PLAY",
+      "companyName": "VIAMIND Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20016823",
+      "companyId": 20016823,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20016823/2c580000-43a8-f403-e933-08d8ff4f9ce2_280x280.png",
+      "lastPublicated": "2026-04-13T10:57:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "4 806–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta zgodnie z obowiązującym standardem, Aktywna sprzedaż i realizacja planów sprzedażowych, która przekłada się na wysokość Twojej premii, Telefoniczna sprzedaż usług telekomunikacyjnych - gotowa baza,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w obsłudze klienta</b> i łatwo nawiązujesz kontakt.</li><li>Potrafisz <b>realizować cele sprzedażowe</b> i pracować z klientami aktywnie.</li><li>Jesteś <b>zorganizowaną osobą</b> z umiejętnościami handlowymi.</li><li>Chcesz pracować w obszarze <b>telefonicznej sprzedaży usług telekomunikacyjnych</b>.</li><li>Cenisz <b>umowę o pracę, szkolenia oraz system premiowy</b> wpływający na zarobki.</li><li>Zależy Ci na <b>benefitach</b> takich jak opieka medyczna, ubezpieczenie i dofinansowanie sportu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750336,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/konsultant-konsultantka-w-salonie-sprzedazy-play-szczecin-andrzeja-struga-36,oferta,1004750336",
+      "displayWorkplace": "Szczecin, Prawobrzeże",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.38190460205078,
+        "longitude": 14.668596267700195
+      },
+      "distanceInKilometers": 9.5,
+      "id": "1004750336",
+      "title": "Konsultant / Konsultantka w salonie sprzedaży PLAY",
+      "company": "VIAMIND Sp. z o.o.",
+      "salary": "4 806–7 000 zł brutto / mies.",
+      "location": "Szczecin, Prawobrzeże",
+      "description": "Twój zakres obowiązków, Obsługa klienta zgodnie z obowiązującym standardem, Aktywna sprzedaż i realizacja planów sprzedażowych, która przekłada się na wysokość Twojej premii, Telefoniczna sprzedaż usług telekomunikacyjnych - gotowa baza,...",
+      "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-w-salonie-sprzedazy-play-szczecin-andrzeja-struga-36,oferta,1004750336"
+    },
+    {
+      "groupId": "882b0000-56be-0050-8522-08de916ddd59",
+      "jobTitle": "Administrator Aplikacji Bankowych (He/She)",
+      "companyName": "ASTEK Polska",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20006857",
+      "companyId": 20006857,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T10:55:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "10 000–19 824 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Utrzymanie aplikacji wspierających sprzedaż i obsługę produktów bankowych, w tym prace operacyjne i administracyjne, Obsługa zgłoszeń, analiza problemów i wdrażanie zmian, Administracja środowiskami aplikacji, middleware i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie:",
+              "Umowa o pracę: do 13 000 brutto/miesiąc, w zależności od posiadanego doświadczenia i kompetencji.",
+              "Umowa B2B: do 950 pln netto na FV + VAT/ dzień, w zależności od posiadanego doświadczenia i kompetencji.",
+              "Poszukujemy osób dostępnych od zaraz lub z max. 1- miesięcznym okresem wypowiedzenia"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w utrzymaniu <b>aplikacji wielowarstwowych</b> oraz administrowaniu <b>bazami danych i serwerami aplikacyjnymi</b>.</li><li>Potrafisz pracować z <b>Unix (AIX, Redhat)</b>, znasz <b>SQL</b> i podstawy <b>Java, WebServices, SOAP, REST, XML</b>.</li><li>Masz doświadczenie w <b>monitorowaniu, optymalizacji i migracji</b> systemów oraz wsparciu użytkowników.</li><li>Cenisz sobie <b>elastyczność pracy</b> – praca w modelu zdalnym lub hybrydowym (Warszawa, Lublin, Łódź, Szczecin).</li><li>Posiadasz umiejętności współpracy z zespołami technicznymi i biznesowymi oraz doświadczenie w przygotowaniu <b>środowisk testowych i wdrożeniach</b>.</li><li>Znajomość języka angielskiego na poziomie <b>minimum B2</b> jest dla Ciebie naturalna.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750324,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/administrator-aplikacji-bankowych-he-she-szczecin,oferta,1004750324",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750324",
+      "title": "Administrator Aplikacji Bankowych (He/She)",
+      "company": "ASTEK Polska",
+      "salary": "10 000–19 824 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Utrzymanie aplikacji wspierających sprzedaż i obsługę produktów bankowych, w tym prace operacyjne i administracyjne, Obsługa zgłoszeń, analiza problemów i wdrażanie zmian, Administracja środowiskami aplikacji, middleware i...",
+      "url": "https://www.pracuj.pl/praca/administrator-aplikacji-bankowych-he-she-szczecin,oferta,1004750324"
+    },
+    {
+      "groupId": "bc1b0000-56be-0050-cbc3-08de7a1bff41",
+      "jobTitle": "Inżynier budowy (k/m)",
+      "companyName": "MANILO sp. z o.o. SPÓŁKA KOMANDYTOWA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074126483",
+      "companyId": 1074126483,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074126483/342a0000-56be-0050-e747-08dc99dc94c7_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:52:01.283Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 300–8 300 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Nadzór nad realizacją prac budowlanych zgodnie z projektem i harmonogramem , Koordynacja działań podwykonawców oraz dostawców materiałów, Prowadzenie dokumentacji budowlanej i technicznej, Zapewnienie zgodności prac z...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> w budownictwie lub pokrewnym i doświadczenie lub chęć nauki w branży.</li><li>Jesteś gotowy do pracy w lokalizacjach <b>Szczecin oraz pas nadmorski</b> (Ustronie Morskie).</li><li>Posiadasz <b>umiejętność koordynacji i nadzoru prac budowlanych</b> zgodnie z projektem i przepisami.</li><li>Potrafisz <b>zarządzać dokumentacją i zespołem</b> oraz kontrolować jakość i terminy realizacji.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna, ubezpieczenie na życie i dofinansowanie szkoleń</b>.</li><li>Chcesz korzystać ze <b>służbowego telefonu do użytku prywatnego</b> oraz premii uznaniowej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004726700,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-budowy-k-m-szczecin-poludniowa-5,oferta,1004726700",
+      "displayWorkplace": "Szczecin, Gumieńce",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.403968811035156,
+        "longitude": 14.504196166992188
+      },
+      "distanceInKilometers": 4.3,
+      "id": "1004726700",
+      "title": "Inżynier budowy (k/m)",
+      "company": "MANILO sp. z o.o. SPÓŁKA KOMANDYTOWA",
+      "salary": "5 300–8 300 zł / mies. (zal. od umowy)",
+      "location": "Szczecin, Gumieńce",
+      "description": "Twój zakres obowiązków, Nadzór nad realizacją prac budowlanych zgodnie z projektem i harmonogramem , Koordynacja działań podwykonawców oraz dostawców materiałów, Prowadzenie dokumentacji budowlanej i technicznej, Zapewnienie zgodności prac z...",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-k-m-szczecin-poludniowa-5,oferta,1004726700"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-8dd0-08de99441d9b",
+      "jobTitle": "Pracownik call center w salonie samochodowym k/m",
+      "companyName": "POLMOTOR Sp. z o. o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20077680",
+      "companyId": 20077680,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20077680/74450000-56be-0050-55d0-08de67e12ff9_280x280.png",
+      "lastPublicated": "2026-04-13T10:42:51.053Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 000–5 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, 📞 Bieżąca telefoniczna obsługa Klienta (w ruchu przychodzącym i wychodzącym – połączenia wychodzące nie polegają na pozyskiwaniu nowych klientów),, 📊 Monitorowanie jakości istniejącej już bazy danych,, ⭐ Dbanie o...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>obsłudze klienta telefonicznej</b> i potrafisz łatwo nawiązywać kontakty.</li><li>Posiadasz <b>umiejętności interpersonalne i komunikacyjne</b> na wysokim poziomie.</li><li>Znajomość obsługi komputera, zwłaszcza <b>MS Word i Excel</b>, jest dla Ciebie naturalna.</li><li>Zależy Ci na <b>pracy w zespole</b> oraz dbaniu o jakość obsługi klienta.</li><li>Chcesz otrzymać <b>umowę o pracę</b> z atrakcyjnym wynagrodzeniem (podstawa + premie).</li><li>Interesujesz się <b>motoryzacją i techniką</b> lub posiadasz dodatkowe atuty, takie jak znajomość języka angielskiego czy prawo jazdy kat. B.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766662,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-call-center-w-salonie-samochodowym-k-m-szczecin-szymborskiej-8,oferta,1004766662",
+      "displayWorkplace": "Szczecin, Prawobrzeże",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.3796272277832,
+        "longitude": 14.678488731384277
+      },
+      "distanceInKilometers": 10.2,
+      "id": "1004766662",
+      "title": "Pracownik call center w salonie samochodowym k/m",
+      "company": "POLMOTOR Sp. z o. o.",
+      "salary": "5 000–5 500 zł brutto / mies.",
+      "location": "Szczecin, Prawobrzeże",
+      "description": "Twój zakres obowiązków, 📞 Bieżąca telefoniczna obsługa Klienta (w ruchu przychodzącym i wychodzącym – połączenia wychodzące nie polegają na pozyskiwaniu nowych klientów),, 📊 Monitorowanie jakości istniejącej już bazy danych,, ⭐ Dbanie o...",
+      "url": "https://www.pracuj.pl/praca/pracownik-call-center-w-salonie-samochodowym-k-m-szczecin-szymborskiej-8,oferta,1004766662"
+    },
+    {
+      "groupId": "5c420000-56be-0050-3ca1-08de9948555f",
+      "jobTitle": "Pracownik magazynu / Pracownica magazynu",
+      "companyName": "Randstad Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/13645018",
+      "companyId": 13645018,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/13645018/03000000-bb2f-3863-c6bb-08d919468b63_280x280.png",
+      "lastPublicated": "2026-04-13T10:42:21.55Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "31,50–36,22 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, rozkładanie towarów na półki magazynu, załadunek i rozładunek przesyłek, kompletowanie, pakowanie i przygotowywanie towaru do wysyłki, obsługa skanera ręcznego...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/13645018/mobile-banners/342a0000-56be-0050-ae03-08dc5a343f35.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do <b>pracy zmianowej</b> w systemie dziennym i nocnym.</li><li>Możesz pracować <b>na stojąco i chodzić przez 10 godzin</b>.</li><li>Potrafisz wykonywać zadania związane z <b>załadunkiem, rozładunkiem i kompletowaniem towaru</b>.</li><li>Cenisz <b>umowę o pracę tymczasową z pełnymi świadczeniami</b> i składką ZUS.</li><li>Zależy Ci na <b>atrybutach dodatkowych</b>, takich jak premie frekwencyjne, dodatek nocny i dojazd pracowniczy.</li><li>Chcesz pracować <b>4 dni w tygodniu</b> z pakietem medycznym i sportowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766654,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-magazynu-pracownica-magazynu-szczecin,oferta,1004766654",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766654",
+      "title": "Pracownik magazynu / Pracownica magazynu",
+      "company": "Randstad Polska Sp. z o.o.",
+      "salary": "31,50–36,22 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, rozkładanie towarów na półki magazynu, załadunek i rozładunek przesyłek, kompletowanie, pakowanie i przygotowywanie towaru do wysyłki, obsługa skanera ręcznego...",
+      "url": "https://www.pracuj.pl/praca/pracownik-magazynu-pracownica-magazynu-szczecin,oferta,1004766654"
+    },
+    {
+      "groupId": "5c420000-56be-0050-9f30-08de9945e91c",
+      "jobTitle": "Kosiarz - prcownik gospodarczy",
+      "companyName": "Wir-Mar",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20148538",
+      "companyId": 20148538,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T10:38:28.863Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 900–5 100 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, utrzymanie czystości, koszenie terenów zielonych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie z kosiarką lub kosą spalinową</b> i potrafisz pielęgnować tereny zielone.</li><li>Jesteś <b>dyspozycyjny</b> i możesz dostosować się do wymagań pracy.</li><li>Posiadasz <b>sprawność fizyczną</b> niezbędną do wykonywania obowiązków.</li><li>Dbasz o <b>utrzymanie czystości</b> i porządek w miejscu pracy.</li><li>Jesteś <b>sumienny</b> i dokładny w realizacji powierzonych zadań.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766626,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kosiarz-prcownik-gospodarczy-szczecin-debogorska-34,oferta,1004766626",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.459171295166016,
+        "longitude": 14.587139129638672
+      },
+      "distanceInKilometers": 4.1,
+      "id": "1004766626",
+      "title": "Kosiarz - prcownik gospodarczy",
+      "company": "Wir-Mar",
+      "salary": "4 900–5 100 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, utrzymanie czystości, koszenie terenów zielonych...",
+      "url": "https://www.pracuj.pl/praca/kosiarz-prcownik-gospodarczy-szczecin-debogorska-34,oferta,1004766626"
+    },
+    {
+      "groupId": "5c420000-56be-0050-cffa-08de99471198",
+      "jobTitle": "Pracownik produkcji (k/m)",
+      "companyName": "JETJOB sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074199870",
+      "companyId": 1074199870,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074199870/7c0f0000-56be-0050-790e-08ddb88709f6_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:33:34.283Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "32–33 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, przygotowanie i gruntowanie powierzchni prefabrykatów, Udział w pracach związanych z montażem zbrojenia zgodnie z dokumentacją, Wykonywanie podstawowych prac betoniarskich (wylewanie, zagęszczanie, pielęgnacja betonu),...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w przygotowaniu i gruntowaniu prefabrykatów oraz pracach betoniarskich.</li><li>Posiadasz umiejętność obsługi narzędzi i urządzeń produkcyjnych.</li><li>Potrafisz współpracować z zespołem i przestrzegać zasad bezpieczeństwa.</li><li>Posługujesz się <b>komunikatywnie językiem polskim</b> w mowie i piśmie.</li><li>Oczekujesz <b>darmowego transportu z Szczecina i Stargardu</b>.</li><li>Zależy Ci na <b>stabilnym zatrudnieniu i terminowym wynagrodzeniu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766599,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-produkcji-k-m-szczecin,oferta,1004766599",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766599",
+      "title": "Pracownik produkcji (k/m)",
+      "company": "JETJOB sp. z o.o.",
+      "salary": "32–33 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, przygotowanie i gruntowanie powierzchni prefabrykatów, Udział w pracach związanych z montażem zbrojenia zgodnie z dokumentacją, Wykonywanie podstawowych prac betoniarskich (wylewanie, zagęszczanie, pielęgnacja betonu),...",
+      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-k-m-szczecin,oferta,1004766599"
+    },
+    {
+      "groupId": "d4280000-56be-0050-fc6d-08de916ba4ad",
+      "jobTitle": "Sprzedawca (k/m/x)",
+      "companyName": "Netto Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002146",
+      "companyId": 20002146,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002146/2c580000-43a8-f403-2e3c-08d87741d6d8_280x280.png",
+      "lastPublicated": "2026-04-13T10:29:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "4 990 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz lub jesteś gotowy do wyrobienia <b>orzeczenia sanitarno-epidemiologicznego</b>.</li><li>Potrafisz pracować w <b>systemie zmianowym</b>.</li><li>Posiadasz <b>umiejętność obsługi klienta i współpracy w zespole</b>.</li><li>Zależy Ci na <b>obsłudze klientów przy kasie i na sali sprzedaży</b> oraz realizacji zadań związanych z ekspozycją i jakością towarów.</li><li>Cenisz <b>umowę o pracę, atrakcyjne wynagrodzenie i premii miesięcznej</b>.</li><li>Oczekujesz <b>pakietu benefitów zdrowotnych, sportowych oraz wsparcia socjalnego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750185,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-zielonogorska-30,oferta,1004750185",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.42782211303711,
+        "longitude": 14.509535789489746
+      },
+      "distanceInKilometers": 2.8,
+      "id": "1004750185",
+      "title": "Sprzedawca (k/m/x)",
+      "company": "Netto Sp. z o.o.",
+      "salary": "4 990 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-zielonogorska-30,oferta,1004750185"
+    },
+    {
+      "groupId": "882b0000-56be-0050-f37e-08de91626b85",
+      "jobTitle": "Kierownik / Kierowniczka Zespołu w Biurze Sprzedaży",
+      "companyName": "BARI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20178080",
+      "companyId": 20178080,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20178080/9b030000-5dac-0015-d783-08da6fd41c8c_280x280.png",
+      "lastPublicated": "2026-04-13T10:25:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Budowanie własnego zespołu sprzedażowego poprzez działania rekrutacyjne i wdrożeniowe (przy wsparciu osoby z HR oraz doświadczonego Menedżera), Zarządzanie procesem pozyskiwania Klientów Indywidualnych i Biznesowych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży</b> i chcesz rozwijać zespół od podstaw.</li><li>Stawiasz na <b>osiąganie celów</b> i efektywne zarządzanie czasem pracy.</li><li>Posiadasz <b>predyspozycje menedżerskie</b> i umiejętności negocjacyjne.</li><li>Jesteś dyspozycyjny do pracy w regionie oraz zdalnie.</li><li>Cenisz <b>profesjonalne szkolenia</b> i jasną ścieżkę awansu.</li><li>Doceniasz <b>dodatkowe benefity</b> takie jak opieka medyczna, dofinansowanie szkoleń i elastyczny czas pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750144,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-kierowniczka-zespolu-w-biurze-sprzedazy-szczecin,oferta,1004750144",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750144",
+      "title": "Kierownik / Kierowniczka Zespołu w Biurze Sprzedaży",
+      "company": "BARI",
+      "salary": "7 000 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Budowanie własnego zespołu sprzedażowego poprzez działania rekrutacyjne i wdrożeniowe (przy wsparciu osoby z HR oraz doświadczonego Menedżera), Zarządzanie procesem pozyskiwania Klientów Indywidualnych i Biznesowych...",
+      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-zespolu-w-biurze-sprzedazy-szczecin,oferta,1004750144"
+    },
+    {
+      "groupId": "00050000-56be-0050-9938-08de95547b2b",
+      "jobTitle": "Doradca Handlowy / Doradczyni Handlowa - Dział Sprzedaży Samochodów",
+      "companyName": "Grupa Bemo",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801471",
+      "companyId": 18801471,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801471/b03f0000-56be-0050-81f9-08de9556e5da_280x280.png",
+      "lastPublicated": "2026-04-13T10:10:53.273Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "5 000–15 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, sprzedaż samochodów marki Changan ​, aktywne pozyskiwanie klientów oraz ich bieżąca obsługa, budowanie długoterminowych relacji z klientami, realizacja założonych celów sprzedażowych, dbałość o realizację standardów jakości...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży samochodów</b> i znasz techniki negocjacji.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i umiejętność obsługi klienta.</li><li>Chcesz realizować <b>cele sprzedażowe</b> w branży motoryzacyjnej.</li><li>Ceniasz <b>dofinansowanie zajęć sportowych i prywatną opiekę medyczną</b>.</li><li>Interesuje Cię praca bez <b>dress code’u z dostępem do parkingu dla pracowników</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004756282,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-handlowy-doradczyni-handlowa-dzial-sprzedazy-samochodow-szczecin,oferta,1004756282",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004756282",
+      "title": "Doradca Handlowy / Doradczyni Handlowa - Dział Sprzedaży Samochodów",
+      "company": "Grupa Bemo",
+      "salary": "5 000–15 000 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, sprzedaż samochodów marki Changan ​, aktywne pozyskiwanie klientów oraz ich bieżąca obsługa, budowanie długoterminowych relacji z klientami, realizacja założonych celów sprzedażowych, dbałość o realizację standardów jakości...",
+      "url": "https://www.pracuj.pl/praca/doradca-handlowy-doradczyni-handlowa-dzial-sprzedazy-samochodow-szczecin,oferta,1004756282"
+    },
+    {
+      "groupId": "d4280000-56be-0050-df24-08de9168513e",
+      "jobTitle": "Zastępca kierownika sklepu (m/k/x) ul. Bronisława Sobola 1",
+      "companyName": "ALDI Polska",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20000992",
+      "companyId": 20000992,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20000992/2c580000-43a8-f403-8109-08d880bab6e3_280x280.png",
+      "lastPublicated": "2026-04-13T10:08:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "6 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20000992/mobile-banners/ee4d0000-5df0-0015-89f5-08dbb2cbf01f.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i organizacji pracy.</li><li>Pełnisz <b>obowiązki kierownika sklepu</b> podczas jego nieobecności.</li><li>Posiadasz <b>minimum średnie wykształcenie</b> i doświadczenie w handlu.</li><li>Jesteś gotów <b>pracować na dwie zmiany i w weekendy</b>.</li><li>Cenisz <b>umowę o pracę od pierwszego dnia</b> oraz gwarantowane podwyżki stażowe.</li><li>Zależy Ci na <b>korzyściach takich jak prywatna opieka medyczna i bonusy finansowe</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750009,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-bronislawa-sobola-1-szczecin-bronislawa-sobola-1,oferta,1004750009",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.49122619628906,
+        "longitude": 14.58584213256836
+      },
+      "distanceInKilometers": 7.2,
+      "id": "1004750009",
+      "title": "Zastępca kierownika sklepu (m/k/x) ul. Bronisława Sobola 1",
+      "company": "ALDI Polska",
+      "salary": "6 850 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
+      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-bronislawa-sobola-1-szczecin-bronislawa-sobola-1,oferta,1004750009"
+    },
+    {
+      "groupId": "882b0000-56be-0050-5038-08de9167bf96",
+      "jobTitle": "Kierownik / Kierowniczka działu transportu i bazy sprzętu",
+      "companyName": "PRZEDSIĘBIORSTWO BUDOWNICTWA HYDROTECHNICZNEGO \"ODRA 3\" sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074071166",
+      "companyId": 1074071166,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074071166/ee4d0000-5df0-0015-64de-08db3b587bd7_280x280.png",
+      "lastPublicated": "2026-04-13T10:02:50.003Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "5 000–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie zużyciem, konserwacją i naprawą sprzętu oraz pojazdów., Opracowywanie i wdrażanie procedur dotyczących obiegu sprzętu., Prowadzenie dokumentacji sprzętu., Kierowanie pracą zespołu pracowników bazy sprzętowej.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe techniczne</b> i praktyczne doświadczenie w zarządzaniu sprzętem oraz flotą pojazdów.</li><li>Potrafisz <b>organizować i nadzorować prace zespołu</b> oraz prowadzić dokumentację sprzętu i paliwową.</li><li>Posiadasz <b>umiejętność planowania przeglądów, remontów i budżetowania</b> w obszarze sprzętu i floty transportowej.</li><li>Znajomość języka angielskiego i <b>prawo jazdy kat. B</b> są dodatkowym atutem.</li><li>Cenisz <b>dofinansowanie do urlopu, zajęć sportowych oraz wysoki standard narzędzi pracy</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004749985,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-kierowniczka-dzialu-transportu-i-bazy-sprzetu-szczecin,oferta,1004749985",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004749985",
+      "title": "Kierownik / Kierowniczka działu transportu i bazy sprzętu",
+      "company": "PRZEDSIĘBIORSTWO BUDOWNICTWA HYDROTECHNICZNEGO \"ODRA 3\" sp. z o.o.",
+      "salary": "5 000–8 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Zarządzanie zużyciem, konserwacją i naprawą sprzętu oraz pojazdów., Opracowywanie i wdrażanie procedur dotyczących obiegu sprzętu., Prowadzenie dokumentacji sprzętu., Kierowanie pracą zespołu pracowników bazy sprzętowej.,...",
+      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-dzialu-transportu-i-bazy-sprzetu-szczecin,oferta,1004749985"
+    },
+    {
+      "groupId": "7c310000-56be-0050-0801-08de8beed6fa",
+      "jobTitle": "Agent / Agentka ds. nieruchomości",
+      "companyName": "TUR NIERUCHOMOŚCI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074045398",
+      "companyId": 1074045398,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074045398/2c580000-43a8-f403-4f1b-08d95d7a1587_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:02:00Z",
+      "expirationDate": "2026-05-11T21:59:59Z",
+      "salaryDisplayText": "6 000–30 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Działać lokalnie, budując swoją rozpoznawalność jako ekspert w nieruchomościach., Pozyskiwać oferty i klientów – nie tylko przez telefon, ale przede wszystkim dzięki naszej strategii widoczności i poleceń., Spotykać się z...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074045398/mobile-banners/03000000-bb2f-3863-595a-08d9bbb57203.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>otwartość na ludzi</b> i gotowość do działania bez wymaganego doświadczenia w nieruchomościach.</li><li>Preferujesz <b>samodzielną pracę</b> z dobrą organizacją czasu oraz gotowość do pracy w terenie i biurze.</li><li>Chcesz korzystać z <b>wsparcia mentora i systemu szkoleń</b> od podstaw po zaawansowane etapy kariery.</li><li>Zależy Ci na pracy z <b>gotowymi narzędziami marketingowymi, CRM i systemami pracy</b>.</li><li>Interesujesz się udziałem w <b>programie poleceń i jasnej ścieżce kariery</b> w branży nieruchomości.</li><li>Doceniasz <b>elastyczne godziny pracy</b> oraz możliwość częściowej pracy zdalnej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004734784,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-ds-nieruchomosci-szczecin,oferta,1004734784",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004734784",
+      "title": "Agent / Agentka ds. nieruchomości",
+      "company": "TUR NIERUCHOMOŚCI",
+      "salary": "6 000–30 000 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Działać lokalnie, budując swoją rozpoznawalność jako ekspert w nieruchomościach., Pozyskiwać oferty i klientów – nie tylko przez telefon, ale przede wszystkim dzięki naszej strategii widoczności i poleceń., Spotykać się z...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-ds-nieruchomosci-szczecin,oferta,1004734784"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-ee8c-08de993f44c0",
+      "jobTitle": "Franczyzobiorca w branży e-commerce i logistyki",
+      "companyName": "Mail Boxes Etc.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20187801",
+      "companyId": 20187801,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20187801/03000000-bb2f-3863-75dd-08d89b86c644_280x280.jpg",
+      "lastPublicated": "2026-04-13T09:46:22.907Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "20 000–35 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie Centrum MBE w swojej lokalizacji, z uwzględnieniem codziennej działalności operacyjnej i jakości obsługi klienta;, Pozyskiwanie oraz kompleksowa obsługa klientów indywidualnych i biznesowych w zakresie logistyki...",
+      "isSuperOffer": false,
+      "isFranchise": true,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie lub chęć prowadzenia własnego biznesu</b> w branży e-commerce i logistyki.</li><li>Jesteś gotów na <b>samodzielne zarządzanie placówką, budżetem oraz polityką cenową</b>.</li><li>Posiadasz <b>umiejętności interpersonalne i orientację na klienta</b> niezbędne do obsługi klientów indywidualnych i biznesowych.</li><li>Chcesz korzystać z <b>wsparcia szkoleniowego i operacyjnego</b> oraz sprawdzonych modeli biznesowych sieci MBE.</li><li>Jesteś otwarty na <b>współpracę z firmami kurierskimi</b> oraz adaptację lokalu zgodnie z wymogami.</li><li>Zależy Ci na <b>dostępie do globalnych kontraktów i kampanii marketingowych</b> wspierających lokalną sprzedaż.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766323,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/franczyzobiorca-w-branzy-e-commerce-i-logistyki-szczecin,oferta,1004766323",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766323",
+      "title": "Franczyzobiorca w branży e-commerce i logistyki",
+      "company": "Mail Boxes Etc.",
+      "salary": "20 000–35 000 zł netto (+ VAT) / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Zarządzanie Centrum MBE w swojej lokalizacji, z uwzględnieniem codziennej działalności operacyjnej i jakości obsługi klienta;, Pozyskiwanie oraz kompleksowa obsługa klientów indywidualnych i biznesowych w zakresie logistyki...",
+      "url": "https://www.pracuj.pl/praca/franczyzobiorca-w-branzy-e-commerce-i-logistyki-szczecin,oferta,1004766323"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-f3f8-08de85a2ae63",
+      "jobTitle": "Zastępca kierownika sklepu (m/k/x) ul. Przyjaciół Żołnierza 128",
+      "companyName": "ALDI Polska",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20000992",
+      "companyId": 20000992,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20000992/2c580000-43a8-f403-8109-08d880bab6e3_280x280.png",
+      "lastPublicated": "2026-04-13T09:46:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "6 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20000992/mobile-banners/ee4d0000-5df0-0015-89f5-08dbb2cbf01f.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i efektywnie organizujesz pracę.</li><li>Posiadasz <b>wykształcenie minimum średnie</b> oraz doświadczenie w handlu.</li><li>Potrafisz <b>zarządzać towarem i obsługiwać klientów</b> na sali sprzedaży oraz przy kasie.</li><li>Jesteś gotów do pracy na <b>dwóch zmianach i w weekendy</b>.</li><li>Cenisz <b>umowę o pracę od pierwszego dnia oraz gwarantowane podwyżki stażowe</b>.</li><li>Zależy Ci na <b>benefitach, takich jak prywatna opieka medyczna i karta przedpłacona</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717086,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-przyjaciol-zolnierza-128-szczecin-przyjaciol-zolnierza-128,oferta,1004717086",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.45524215698242,
+        "longitude": 14.551334381103516
+      },
+      "distanceInKilometers": 2.8,
+      "id": "1004717086",
+      "title": "Zastępca kierownika sklepu (m/k/x) ul. Przyjaciół Żołnierza 128",
+      "company": "ALDI Polska",
+      "salary": "6 850 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, pełnisz obowiązki kierownika sklepu w trakcie jego nieobecności w sklepie,, monitorujesz realizację wskaźników biznesowych,, organizujesz pracę zespołu,, zarządzasz towarem w sklepie,, odpowiadasz za obsługę klientów,...",
+      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-x-ul-przyjaciol-zolnierza-128-szczecin-przyjaciol-zolnierza-128,oferta,1004717086"
+    },
+    {
+      "groupId": "c01b0000-56be-0050-e218-08de97ba46c6",
+      "jobTitle": "Instruktor zajęć dodatkowych dla dzieci",
+      "companyName": "4mind SABRIN KINERT",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074034125",
+      "companyId": 1074034125,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T09:42:49.497Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "31,40–35 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Lubisz pracę z DZIEĆMI, jesteś zainteresowany światem ROBOTYKI lub znasz podstawowe prawa CHEMII, FIZYKI i chcesz je przetestować? Ta praca jest dla CIEBIE!, , DOŁĄCZ DO EKIPY MAŁEGO INŻYNIERA!, , Poszukujemy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>zainteresowanie robotyką, chemią lub fizyką</b> i chcesz prowadzić zajęcia edukacyjne dla dzieci.</li><li>Posiadasz <b>umiejętność pracy z dziećmi w wieku 4–12 lat</b> oraz odpowiedzialne i komunikatywne podejście.</li><li>Jesteś <b>studentem kierunków technicznych lub pedagogicznych</b> lub chcesz rozwijać się w pracy z dziećmi.</li><li>Posiadasz <b>prawo jazdy kategorii B</b> i punktualność oraz energię do pracy w tygodniu i weekendy.</li><li>Chcesz prowadzić <b>programowanie, robotykę, eksperymenty i animacje urodzinowe</b>.</li><li>Akceptujesz <b>umowę zlecenie</b> i możliwość pracy w okresach półkolonii letnich oraz ewentualne dofinansowanie kursu wychowawcy wypoczynku.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766291,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/instruktor-zajec-dodatkowych-dla-dzieci-szczecin-jana-karola-chodkiewicza-7,oferta,1004766291",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.42918395996094,
+        "longitude": 14.535571098327637
+      },
+      "distanceInKilometers": 1.1,
+      "id": "1004766291",
+      "title": "Instruktor zajęć dodatkowych dla dzieci",
+      "company": "4mind SABRIN KINERT",
+      "salary": "31,40–35 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Lubisz pracę z DZIEĆMI, jesteś zainteresowany światem ROBOTYKI lub znasz podstawowe prawa CHEMII, FIZYKI i chcesz je przetestować? Ta praca jest dla CIEBIE!, , DOŁĄCZ DO EKIPY MAŁEGO INŻYNIERA!, , Poszukujemy...",
+      "url": "https://www.pracuj.pl/praca/instruktor-zajec-dodatkowych-dla-dzieci-szczecin-jana-karola-chodkiewicza-7,oferta,1004766291"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-6006-08de8982b39c",
+      "jobTitle": "IT Specialist with JavaScript & HTML",
+      "companyName": "Smarketer Group Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074081119",
+      "companyId": 1074081119,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074081119/03000000-bb2f-3863-e1bd-08d9d50476ea_280x280.png",
+      "lastPublicated": "2026-04-13T09:39:28.017Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "8 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Analizujesz i wdrażasz najnowsze technologie trackingu, dbając o ich integrację i wysoką jakość, Współpracujesz z różnymi działami, integrując technologie trackingu oraz monitorując zgodność i standardy, Przeprowadzasz...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz min. 3 lata doświadczenia w IT oraz znaš <b>JavaScript i HTML</b> na poziomie umożliwiającym pracę z technologiami trackingu.</li><li>Pracujesz z technologiami takimi jak <b>Google Analytics 4, Consent Mode i social media tracking</b>.</li><li>Posługujesz się językiem angielskim na poziomie min. <b>B2</b> oraz masz rozwinięte umiejętności komunikacyjne.</li><li>Cenisz <b>umowę o pracę, elastyczne godziny pracy i hybrydowy model pracy</b>.</li><li>Doceniasz dostęp do <b>dofinansowania szkoleń, opieki medycznej Premium oraz świadczeń dodatkowych</b>.</li><li>Zależy Ci na pracy, która wymaga <b>analitycznego podejścia i rozwiązywania problemów</b> w obszarze trackingu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004726321,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/it-specialist-with-javascript-html-szczecin-jerzego-janosika-17,oferta,1004726321",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.4411506652832,
+        "longitude": 14.546318054199219
+      },
+      "distanceInKilometers": 1.3,
+      "id": "1004726321",
+      "title": "IT Specialist with JavaScript & HTML",
+      "company": "Smarketer Group Sp. z o.o.",
+      "salary": "8 000–9 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Analizujesz i wdrażasz najnowsze technologie trackingu, dbając o ich integrację i wysoką jakość, Współpracujesz z różnymi działami, integrując technologie trackingu oraz monitorując zgodność i standardy, Przeprowadzasz...",
+      "url": "https://www.pracuj.pl/praca/it-specialist-with-javascript-html-szczecin-jerzego-janosika-17,oferta,1004726321"
+    },
+    {
+      "groupId": "5c420000-56be-0050-f377-08de993d4f9d",
+      "jobTitle": "Kierownik / Kierowniczka cukierni",
+      "companyName": "PIEKARNIA-CUKIERNIA S.C. \"STAROMIEJSKA\" ANITA JAROSZ & MARIUSZ BRZOZOWSKI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20308217",
+      "companyId": 20308217,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T09:22:59.773Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie zespołem pracowników cukierni  , Nadzorowanie produkcji wyrobów cukierniczych oraz dbanie o ich jakość  , Organizacja pracy w cukierni oraz ustalanie grafików  , Składanie zamówień na surowce i kontrola stanów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> w branży cukierniczej lub piekarniczej.</li><li>Potrafisz <b>organizować pracę i planować produkcję</b> w cukierni.</li><li>Znajomość <b>zasad HACCP i norm bezpieczeństwa żywności</b> jest dla Ciebie istotna.</li><li>Radzenie sobie z <b>obsługą klienta i budowaniem relacji</b> to Twoja mocna strona.</li><li>Zależy Ci na <b>stabilnym zatrudnieniu na umowę o pracę</b> oraz <b>wynagrodzeniu z premiami</b>.</li><li>Cenisz sobie <b>zniżki na wyroby piekarni i cukierni</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766111,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-kierowniczka-cukierni-police,oferta,1004766111",
+      "displayWorkplace": "Police",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766111",
+      "title": "Kierownik / Kierowniczka cukierni",
+      "company": "PIEKARNIA-CUKIERNIA S.C. \"STAROMIEJSKA\" ANITA JAROSZ & MARIUSZ BRZOZOWSKI",
+      "salary": "od 7 000 zł / mies. (zal. od umowy)",
+      "location": "Police",
+      "description": "Twój zakres obowiązków, Zarządzanie zespołem pracowników cukierni  , Nadzorowanie produkcji wyrobów cukierniczych oraz dbanie o ich jakość  , Organizacja pracy w cukierni oraz ustalanie grafików  , Składanie zamówień na surowce i kontrola stanów...",
+      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-cukierni-police,oferta,1004766111"
+    },
+    {
+      "groupId": "5c420000-56be-0050-6790-08de993baaf8",
+      "jobTitle": "Beauty Consultant",
+      "companyName": "NCF SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074103002",
+      "companyId": 1074103002,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074103002/ee4d0000-5df0-0015-7376-08da665b8bb0_280x280.png",
+      "lastPublicated": "2026-04-13T09:16:02.677Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 200–6 500 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Szukamy osób, które kochają branżę Beauty oraz kategorie Make Up, Skin Care i Fragrance, Zależy nam na profesjonalnej obsłudze naszych Klientów w perfumeriach z uśmiechem i zaangażowaniem, Prowadzenie Konsultacji Make Up,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie lub wykształcenie w branży <b>kosmetologii, wizażu, pielęgnacji skóry lub zapachów</b>.</li><li>Interesujesz się kategoriami <b>Make Up, Skin Care i Fragrance</b> oraz chcesz świadczyć profesjonalną obsługę klienta.</li><li>Jesteś dyspozycyjny na <b>pełen etat lub część etatu</b> z elastycznym grafikiem, również w weekendy.</li><li>Cenisz <b>umowę o pracę, umowę zlecenie lub B2B</b> i zależy Ci na wynagrodzeniu z systemem bonusów.</li><li>Chcesz uczestniczyć w <b>szkoleniach, eventach i działaniach w social media</b>.</li><li>Posiadasz <b>umiejętności komunikacji i chęć pracy zespołowej</b> z klientem i współpracownikami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766077,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/beauty-consultant-szczecin,oferta,1004766077",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766077",
+      "title": "Beauty Consultant",
+      "company": "NCF SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "5 200–6 500 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Szukamy osób, które kochają branżę Beauty oraz kategorie Make Up, Skin Care i Fragrance, Zależy nam na profesjonalnej obsłudze naszych Klientów w perfumeriach z uśmiechem i zaangażowaniem, Prowadzenie Konsultacji Make Up,...",
+      "url": "https://www.pracuj.pl/praca/beauty-consultant-szczecin,oferta,1004766077"
+    },
+    {
+      "groupId": "882b0000-56be-0050-d5a9-08de91488920",
+      "jobTitle": "Przedstawiciel Handlowy Orange",
+      "companyName": "FIBERWEB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ - Partner Orange",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074218091",
+      "companyId": 1074218091,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074218091/684c0000-56be-0050-46da-08ddec4a1be5_280x280.jpg",
+      "lastPublicated": "2026-04-13T09:15:18.307Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "4 000–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Przygotowywanie ofert handlowych: Tworzenie i prezentowanie ofert dostosowanych do potrzeb klientów., Negocjowanie warunków umów: Prowadzenie rozmów z klientami w celu uzgodnienia korzystnych warunków współpracy.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży</b> i umiejętności negocjacyjne.</li><li>Cenisz <b>elastyczny czas pracy</b> i swobodę działania.</li><li>Chcesz pracować z <b>umową agencyjną</b> i wynagrodzeniem prowizyjnym.</li><li>Potrafisz <b>budować długoterminowe relacje</b> z klientami.</li><li>Zależy Ci na <b>dostępie do bazy klientów</b> i wsparciu szkoleniowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004749754,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-orange-szczecin,oferta,1004749754",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004749754",
+      "title": "Przedstawiciel Handlowy Orange",
+      "company": "FIBERWEB SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ - Partner Orange",
+      "salary": "4 000–10 000 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Przygotowywanie ofert handlowych: Tworzenie i prezentowanie ofert dostosowanych do potrzeb klientów., Negocjowanie warunków umów: Prowadzenie rozmów z klientami w celu uzgodnienia korzystnych warunków współpracy.,...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-orange-szczecin,oferta,1004749754"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-3cc5-08de85a005dc",
+      "jobTitle": "Pracownik wykładający towar (k/m/x)",
+      "companyName": "Netto Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002146",
+      "companyId": 20002146,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002146/2c580000-43a8-f403-2e3c-08d87741d6d8_280x280.png",
+      "lastPublicated": "2026-04-13T09:15:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Wykładanie towarów, Prawidłowe eksponowanie towarów na półkach, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ważne <b>orzeczenie do celów sanitarno-epidemiologicznych</b>.</li><li>Chcesz pracować przy <b>wykładaniu i eksponowaniu towarów</b>.</li><li>Potrzebujesz <b>elastycznego grafiku</b> odpowiadającego Twoim potrzebom.</li><li>Oczekujesz zatrudnienia na <b>umowę zlecenie z terminową wypłatą</b>.</li><li>Liczy się dla Ciebie <b>jasne i kompleksowe wyjaśnienie zadań</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004716943,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-wykladajacy-towar-k-m-x-goleniow-krola-wladyslawa-jagielly-16,oferta,1004716943",
+      "displayWorkplace": "Goleniów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.56763458251953,
+        "longitude": 14.83279037475586
+      },
+      "distanceInKilometers": 24.2,
+      "id": "1004716943",
+      "title": "Pracownik wykładający towar (k/m/x)",
+      "company": "Netto Sp. z o.o.",
+      "salary": "31,40 zł brutto / godz.",
+      "location": "Goleniów",
+      "description": "Twój zakres obowiązków, Wykładanie towarów, Prawidłowe eksponowanie towarów na półkach, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
+      "url": "https://www.pracuj.pl/praca/pracownik-wykladajacy-towar-k-m-x-goleniow-krola-wladyslawa-jagielly-16,oferta,1004716943"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-f650-08de993bd6d3",
+      "jobTitle": "Koordynator / Koordynatorka ds. obcokrajowców",
+      "companyName": "Randstad Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/13645018",
+      "companyId": 13645018,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/13645018/03000000-bb2f-3863-c6bb-08d919468b63_280x280.png",
+      "lastPublicated": "2026-04-13T09:12:42.847Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "33 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, organizacja i koordynacja bieżącej pracy pracowników podczas zmiany, opieka nad obiegiem dokumentów między firmą a pracownikami, pomoc w komunikacji miedzy przełożonymi a pracownikami - wsparcie w językowym tłumaczeniu,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>znajomość języka angielskiego i polskiego w mowie i piśmie</b>.</li><li>Jesteś gotowy do pracy <b>w systemie zmianowym, także nocnym</b>.</li><li>Posiadasz <b>prawo jazdy kat. B</b> oraz dobrą znajomość <b>pakietu MS Office</b>.</li><li>Masz doświadczenie w <b>koordynacji pracy i nadzorze nad obiegiem dokumentów</b>.</li><li>Jesteś otwarty na <b>wspieranie komunikacji językowej</b> i <b>dbanie o bezpieczeństwo pracy</b>.</li><li>Chcesz pracować na <b>umowie o pracę tymczasową z atrakcyjnym wynagrodzeniem i premią</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766050,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/koordynator-koordynatorka-ds-obcokrajowcow-szczecin,oferta,1004766050",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766050",
+      "title": "Koordynator / Koordynatorka ds. obcokrajowców",
+      "company": "Randstad Polska Sp. z o.o.",
+      "salary": "33 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, organizacja i koordynacja bieżącej pracy pracowników podczas zmiany, opieka nad obiegiem dokumentów między firmą a pracownikami, pomoc w komunikacji miedzy przełożonymi a pracownikami - wsparcie w językowym tłumaczeniu,...",
+      "url": "https://www.pracuj.pl/praca/koordynator-koordynatorka-ds-obcokrajowcow-szczecin,oferta,1004766050"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-ad53-08de859fb00b",
+      "jobTitle": "Kasjer (k/m/x)",
+      "companyName": "Netto Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002146",
+      "companyId": 20002146,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002146/2c580000-43a8-f403-2e3c-08d87741d6d8_280x280.png",
+      "lastPublicated": "2026-04-13T09:11:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa Klientów na kasie fiskalnej, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>orzeczenie do celów sanitarno-epidemiologicznych</b>.</li><li>Chcesz pracować na stanowisku <b>kasjera</b> z obsługą kasy fiskalnej.</li><li>Potrzebujesz <b>elastycznych godzin pracy</b> dostosowanych do własnej dyspozycyjności.</li><li>Oczekujesz <b>umowy zlecenia</b> z regularnym wynagrodzeniem.</li><li>Zależy Ci na <b>jasnym zakresie obowiązków</b> i wyjaśnieniu zadań.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004716927,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kasjer-k-m-x-goleniow-krola-wladyslawa-jagielly-16,oferta,1004716927",
+      "displayWorkplace": "Goleniów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.56763458251953,
+        "longitude": 14.83279037475586
+      },
+      "distanceInKilometers": 24.2,
+      "id": "1004716927",
+      "title": "Kasjer (k/m/x)",
+      "company": "Netto Sp. z o.o.",
+      "salary": "31,40 zł brutto / godz.",
+      "location": "Goleniów",
+      "description": "Twój zakres obowiązków, Obsługa Klientów na kasie fiskalnej, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
+      "url": "https://www.pracuj.pl/praca/kasjer-k-m-x-goleniow-krola-wladyslawa-jagielly-16,oferta,1004716927"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-e879-08de993b3a72",
+      "jobTitle": "Specjalista / Specjalistka ds. Obsługi Klienta w Bankowości z j. Niemieckim (Szczecin & Hybrid)",
+      "companyName": "Concentrix CVG International Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20193268",
+      "companyId": 20193268,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20193268/342a0000-56be-0050-6668-08dc6529d116_280x280.png",
+      "lastPublicated": "2026-04-13T09:02:46.383Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "49–8 300 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Jesteś pierwszym kontaktem dla naszych klientów - Twoje wsparcie jest nieocenione!, Rozwiązujesz wyzwania z uśmiechem, zapewniając klientom obsługę na najwyższym poziomie., Pracujesz w zespole, gdzie współpraca i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posługujesz się <b>płynnie językiem niemieckim na poziomie C1</b>.</li><li>Masz doświadczenie w telefonicznej obsłudze klienta i rozwiązywaniu problemów.</li><li>Potrafisz zachować profesjonalizm i spokój w stresujących sytuacjach.</li><li>Cenisz <b>pracę hybrydową z możliwością pracy zdalnej</b> po okresie stabilizacji.</li><li>Zależy Ci na <b>pełnym zatrudnieniu na umowę o pracę</b> oraz dostępie do benefitów takich jak prywatna opieka medyczna i ubezpieczenie na życie.</li><li>Chcesz korzystać z <b>profesjonalnych szkoleń</b> i wsparcia zespołu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765986,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-w-bankowosci-z-j-niemieckim-szczecin-szczecin-plac-brama-portowa-1,oferta,1004765986",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.425323486328125,
+        "longitude": 14.550300598144531
+      },
+      "distanceInKilometers": 0.6,
+      "id": "1004765986",
+      "title": "Specjalista / Specjalistka ds. Obsługi Klienta w Bankowości z j. Niemieckim (Szczecin & Hybrid)",
+      "company": "Concentrix CVG International Sp. z o.o.",
+      "salary": "49–8 300 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Jesteś pierwszym kontaktem dla naszych klientów - Twoje wsparcie jest nieocenione!, Rozwiązujesz wyzwania z uśmiechem, zapewniając klientom obsługę na najwyższym poziomie., Pracujesz w zespole, gdzie współpraca i...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-w-bankowosci-z-j-niemieckim-szczecin-szczecin-plac-brama-portowa-1,oferta,1004765986"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-6ace-08de89895455",
+      "jobTitle": "Specjalista / Specjalistka ds. administracyjnych",
+      "companyName": "CSK Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20269589",
+      "companyId": 20269589,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20269589/ee4d0000-5df0-0015-3ef0-08da958b1477_280x280.png",
+      "lastPublicated": "2026-04-13T09:00:51.033Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 600–7 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Opracowywanie dokumentacji pracowniczej, w tym ewidencji czasu pracy,, Nadzór nad dokumentacją,, Kontakt z organami administracji publicznej i z kontrahentami,, Aktywne diagnozowanie problemów i podejmowanie odpowiednich...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe</b>, najlepiej z zakresu transportu lub administracji.</li><li>Interesuje Cię praca z <b>dokumentacją pracowniczą i administracyjną</b>.</li><li>Jesteś gotowy do <b>kontaktów z klientami i urzędami</b> oraz rozwiązywania problemów.</li><li>Posiadasz <b>prawo jazdy</b> i dyspozycyjność do pracy w podanych godzinach.</li><li>Chcesz pracować na stanowisku wymagającym <b>zaangażowania i dokładności</b>.</li><li>Znasz lub chcesz doskonalić <b>znajomość języka angielskiego</b> (mile widziana).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004726104,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-administracyjnych-szczecin-bulwar-gdanski-33,oferta,1004726104",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.419105529785156,
+        "longitude": 14.561606407165527
+      },
+      "distanceInKilometers": 1.5,
+      "id": "1004726104",
+      "title": "Specjalista / Specjalistka ds. administracyjnych",
+      "company": "CSK Sp. z o.o.",
+      "salary": "5 600–7 500 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Opracowywanie dokumentacji pracowniczej, w tym ewidencji czasu pracy,, Nadzór nad dokumentacją,, Kontakt z organami administracji publicznej i z kontrahentami,, Aktywne diagnozowanie problemów i podejmowanie odpowiednich...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-administracyjnych-szczecin-bulwar-gdanski-33,oferta,1004726104"
+    },
+    {
+      "groupId": "5c420000-56be-0050-9a25-08de993ad5c3",
+      "jobTitle": "Specjalista / Specjalistka ds. Obsługi Klienta w Bankowości z j. Niemieckim (Szczecin & Hybrid)",
+      "companyName": "Concentrix CVG International Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20193268",
+      "companyId": 20193268,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20193268/342a0000-56be-0050-6668-08dc6529d116_280x280.png",
+      "lastPublicated": "2026-04-13T09:00:36.217Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "49–8 300 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Jesteś pierwszym kontaktem dla naszych klientów - Twoje wsparcie jest nieocenione!, Rozwiązujesz wyzwania z uśmiechem, zapewniając klientom obsługę na najwyższym poziomie., Pracujesz w zespole, gdzie współpraca i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>płynną znajomość języka niemieckiego na poziomie C1</b> i chcesz ją wykorzystać w pracy.</li><li>Potrafisz pracować pod presją i zachowujesz <b>profesjonalizm w trudnych sytuacjach</b>.</li><li>Zaangażujesz się w <b>telefoniczne wsparcie klientów banku</b> w zakresie blokowania kart, kodów PIN i dostępu do konta.</li><li>Cenisz <b>możliwość pracy hybrydowej z przewagą zdalnej</b> po okresie adaptacji.</li><li>Oczekujesz <b>wynagrodzenia umożliwiającego godne życie</b> oraz bogatego pakietu benefitów, w tym prywatnej opieki medycznej i ubezpieczenia na życie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765977,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-w-bankowosci-z-j-niemieckim-szczecin-szczecin-plac-brama-portowa-1,oferta,1004765977",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.425323486328125,
+        "longitude": 14.550300598144531
+      },
+      "distanceInKilometers": 0.6,
+      "id": "1004765977",
+      "title": "Specjalista / Specjalistka ds. Obsługi Klienta w Bankowości z j. Niemieckim (Szczecin & Hybrid)",
+      "company": "Concentrix CVG International Sp. z o.o.",
+      "salary": "49–8 300 zł / mies. (zal. od umowy)",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Jesteś pierwszym kontaktem dla naszych klientów - Twoje wsparcie jest nieocenione!, Rozwiązujesz wyzwania z uśmiechem, zapewniając klientom obsługę na najwyższym poziomie., Pracujesz w zespole, gdzie współpraca i...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-w-bankowosci-z-j-niemieckim-szczecin-szczecin-plac-brama-portowa-1,oferta,1004765977"
+    },
+    {
+      "groupId": "cc2e0000-56be-0050-1b49-08de760252cb",
+      "jobTitle": "Kierowca / kierowczyni międzynarodowy/a kat. C+E",
+      "companyName": "Roos Spedition Sp.z.o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20086915",
+      "companyId": 20086915,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20086915/03000000-bb2f-3863-363c-08d88fa095ae_280x280.jpg",
+      "lastPublicated": "2026-04-13T09:00:35.913Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "11 000–22 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, transport chemii w cysternach i kontenerach  chemicznych na terenie Unii Europejskiej, działanie w interesie firmy i dbanie o jej dobre imię, zaangażowanie oraz dbałość o wysoką jakość realizowanych zadań...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20086915/mobile-banners/2c580000-43a8-f403-b6f3-08d98973977e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz ważne uprawnienia: <b>prawo jazdy C+E, kod 95, kartę kierowcy, ADR podstawowy + cysterna</b>.</li><li>Masz minimum 6 miesięcy doświadczenia w <b>międzynarodowym transporcie chemii</b>.</li><li>Chcesz pracować w systemie <b>3/1, 4/1, 5/1, 6/1 lub 6/2</b> umożliwiającym planowanie czasu prywatnego.</li><li>Ceniasz <b>wynagrodzenie zasadnicze + dodatki stażowe oraz premie</b> za ekodriving i polecenie pracownika.</li><li>Oczekujesz <b>umowy o pracę, nowoczesnej floty i wsparcia technicznego</b>.</li><li>Zależy Ci na <b>finansowaniu karty pobytu, uprawnień ADR oraz dojazdów</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004677539,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kierowczyni-miedzynarodowy-a-kat-c%2be-szczecin,oferta,1004677539",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004677539",
+      "title": "Kierowca / kierowczyni międzynarodowy/a kat. C+E",
+      "company": "Roos Spedition Sp.z.o.o.",
+      "salary": "11 000–22 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, transport chemii w cysternach i kontenerach  chemicznych na terenie Unii Europejskiej, działanie w interesie firmy i dbanie o jej dobre imię, zaangażowanie oraz dbałość o wysoką jakość realizowanych zadań...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kierowczyni-miedzynarodowy-a-kat-c%2be-szczecin,oferta,1004677539"
+    },
+    {
+      "groupId": "84450000-56be-0050-ff05-08de89ac92ea",
+      "jobTitle": "Pracownik Magazynowy / Pracowniczka Magazynowa",
+      "companyName": "Instore Solution Services Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/14185467",
+      "companyId": 14185467,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/14185467/f15b0000-56be-0050-bded-08dc42827cdd_280x280.png",
+      "lastPublicated": "2026-04-13T08:58:29.37Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "31,40–33,90 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, czynności magazynowe,, kompletacja towaru ze skanerem,, przyjmowanie i rozładunek/ załadunek zamówień, zwrotów,, odpowiednie składowanie towarów zgodnie z zasadami ich przechowywania,, wspieranie innych działów magazynu....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/14185467/mobile-banners/342a0000-56be-0050-d4ac-08dca17c0fef.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>doświadczenie na stanowisku magazynowym</b> i możesz wykonywać czynności związane z kompletacją i składowaniem towarów.</li><li>Jesteś <b>dyspozycyjny/a</b> do pracy w systemie dwuzmianowym oraz w soboty.</li><li>Spełniasz wymóg <b>ważnych badań wstępnych</b> i cechujesz się odpowiedzialnością oraz sumiennością.</li><li>Zależy Ci na <b>umowie zleceniu z wyraźnie określoną stawką godzinową</b> wraz z dodatkami i premiami.</li><li>Potrzebujesz <b>możliwości dojazdu na miejsce pracy</b> ze Stargardu lub Nowogardu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004731869,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-magazynowy-pracowniczka-magazynowa-lozienica-pow-goleniowski,oferta,1004731869",
+      "displayWorkplace": "Łozienica (pow. goleniowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004731869",
+      "title": "Pracownik Magazynowy / Pracowniczka Magazynowa",
+      "company": "Instore Solution Services Polska Sp. z o.o.",
+      "salary": "31,40–33,90 zł brutto / godz.",
+      "location": "Łozienica (pow. goleniowski)",
+      "description": "Twój zakres obowiązków, czynności magazynowe,, kompletacja towaru ze skanerem,, przyjmowanie i rozładunek/ załadunek zamówień, zwrotów,, odpowiednie składowanie towarów zgodnie z zasadami ich przechowywania,, wspieranie innych działów magazynu....",
+      "url": "https://www.pracuj.pl/praca/pracownik-magazynowy-pracowniczka-magazynowa-lozienica-pow-goleniowski,oferta,1004731869"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-2a06-08de859dda28",
+      "jobTitle": "Sprzedawca (k/m/x)",
+      "companyName": "Netto Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002146",
+      "companyId": 20002146,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002146/2c580000-43a8-f403-2e3c-08d87741d6d8_280x280.png",
+      "lastPublicated": "2026-04-13T08:58:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "4 990 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz lub jesteś gotów do wyrobienia <b>orzeczenia sanitarno-epidemiologicznego</b>.</li><li>Masz <b>gotowość do pracy zmianowej</b> i doświadczenie w obsłudze klienta.</li><li>Potrafisz <b>współpracować w zespole</b> i angażujesz się w wykonywane zadania.</li><li>Chcesz realizować zadania związane z <b>obsługą klientów, ekspozycją towarów i utrzymaniem estetyki sklepu</b>.</li><li>Cenisz <b>umowę o pracę, atrakcyjne wynagrodzenie oraz pakiet benefitów</b> obejmujący opiekę medyczną, ubezpieczenie i zniżki zakupowe.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004716880,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-modra-116,oferta,1004716880",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.45517349243164,
+        "longitude": 14.472253799438477
+      },
+      "distanceInKilometers": 6,
+      "id": "1004716880",
+      "title": "Sprzedawca (k/m/x)",
+      "company": "Netto Sp. z o.o.",
+      "salary": "4 990 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Wsparcie klientów podczas zakupów – przy kasie i na sali sprzedaży z uwzględnieniem sprzedaży sugerowanej, Ekspozycja towarów na sali sprzedaży zgodnie z zasadą FIFO, Utrzymanie estetycznego wyglądu sklepu poprzez m.in....",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-k-m-x-szczecin-modra-116,oferta,1004716880"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-e245-08de859daf1f",
+      "jobTitle": "Pracownik wykładający towar (k/m/x)",
+      "companyName": "Netto Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002146",
+      "companyId": 20002146,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002146/2c580000-43a8-f403-2e3c-08d87741d6d8_280x280.png",
+      "lastPublicated": "2026-04-13T08:57:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Wykładanie towarów, Prawidłowe eksponowanie towarów na półkach, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>orzeczenie do celów sanitarno-epidemiologicznych</b>.</li><li>Chcesz wykonywać zadania związane z <b>wykładaniem i eksponowaniem towarów</b>.</li><li>Preferujesz <b>elastyczny czas pracy</b> z możliwością samodzielnego wyboru dni i godzin.</li><li>Szukasz zatrudnienia na <b>umowę zlecenie</b> z terminowym wynagrodzeniem.</li><li>Zależy Ci na <b>jasnym i kompleksowym wyjaśnieniu zadań</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004716876,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-wykladajacy-towar-k-m-x-szczecin-modra-116,oferta,1004716876",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.45517349243164,
+        "longitude": 14.472253799438477
+      },
+      "distanceInKilometers": 6,
+      "id": "1004716876",
+      "title": "Pracownik wykładający towar (k/m/x)",
+      "company": "Netto Sp. z o.o.",
+      "salary": "31,40 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Wykładanie towarów, Prawidłowe eksponowanie towarów na półkach, Dbanie o dobrą atmosferę (uśmiech, żart, koleżeńska pomoc to nieodłączna część kultury pracy w naszej firmie)...",
+      "url": "https://www.pracuj.pl/praca/pracownik-wykladajacy-towar-k-m-x-szczecin-modra-116,oferta,1004716876"
+    },
+    {
+      "groupId": "8c320000-56be-0050-71fd-08de87f6e7e8",
+      "jobTitle": "Kierowca kat. B – sprzedaż cateringu (K/M)",
+      "companyName": "Sandwicz Szop",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20429678",
+      "companyId": 20429678,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20429678/cc2c0000-56be-0050-91de-08ddc8140fe0_280x280.png",
+      "lastPublicated": "2026-04-13T08:40:00Z",
+      "expirationDate": "2026-04-21T21:59:59Z",
+      "salaryDisplayText": "5 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Dzień pracy rozpoczynamy o godzinie 6:00 i kończymy około 13:00-14:00. Codzienna praca rozpoczyna się od pobrania towaru, spakowania go do pojemników termoizolacyjnych oraz przygotowania do wyjazdu. Każdy kierowca prowadzi...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> oraz <b>własny pojazd</b>.</li><li>Cenisz <b>pracę w stałych godzinach porannych</b> od poniedziałku do piątku bez nadgodzin.</li><li>Posiadasz <b>umiejętności komunikacyjne</b> i lubisz pracę z klientem.</li><li>Chcesz pracować na <b>indywidualnej trasie sprzedażowej</b> w konkretnym rejonie Szczecina.</li><li>Zależy Ci na <b>atrakcyjnym wynagrodzeniu z premią</b> bez górnej granicy zarobków.</li><li>Oczekujesz <b>benefitów</b> takich jak ubezpieczenie, zniżki, posiłki pracownicze oraz rozliczenie paliwa.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004721731,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kat-b-sprzedaz-cateringu-k-m-szczecin,oferta,1004721731",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004721731",
+      "title": "Kierowca kat. B – sprzedaż cateringu (K/M)",
+      "company": "Sandwicz Szop",
+      "salary": "5 000–10 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Dzień pracy rozpoczynamy o godzinie 6:00 i kończymy około 13:00-14:00. Codzienna praca rozpoczyna się od pobrania towaru, spakowania go do pojemników termoizolacyjnych oraz przygotowania do wyjazdu. Każdy kierowca prowadzi...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-b-sprzedaz-cateringu-k-m-szczecin,oferta,1004721731"
+    },
+    {
+      "groupId": "f4350000-56be-0050-04d8-08de8e35576e",
+      "jobTitle": "Pomocnik / Pomocniczka Lakiernika Samochodowego",
+      "companyName": "Grupa Bemo",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801471",
+      "companyId": 18801471,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801471/ee4d0000-5df0-0015-1186-08db4007d0a7_280x280.jpg",
+      "lastPublicated": "2026-04-13T08:28:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "6 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, przygotowywanie pojazdów do lakierowania, pomoc w doborze lakieru i przygotowaniu odpowiednich proporcji powłok lakierniczych, pomoc w lakierowaniu samochodu, polerowanie końcowe elementów, rozklejanie pojazdów z napisów...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18801471/mobile-banners/40470000-56be-0050-4439-08de72c32226.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętności manualne i precyzję</b> oraz chęć nauki zawodu lakiernika samochodowego.</li><li>Interesuje Cię <b>przygotowywanie pojazdów do lakierowania</b> oraz wsparcie w procesie lakierowania i polerowania.</li><li>Posiadasz <b>podstawową wiedzę o przygotowaniu powierzchni</b> i potrafisz pracować w zespole.</li><li>Masz <b>prawo jazdy kat. B</b>, co ułatwia realizację obowiązków.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna, ubezpieczenie czy dofinansowanie zajęć sportowych</b>.</li><li>Chcesz pracować w <b>branży motoryzacyjnej</b> i w dobrze skomunikowanym miejscu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737788,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pomocnik-pomocniczka-lakiernika-samochodowego-ustowo-pow-policki-56,oferta,1004737788",
+      "displayWorkplace": "Ustowo (pow. policki)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.38861846923828,
+        "longitude": 14.4981689453125
+      },
+      "distanceInKilometers": 5.8,
+      "id": "1004737788",
+      "title": "Pomocnik / Pomocniczka Lakiernika Samochodowego",
+      "company": "Grupa Bemo",
+      "salary": "6 850 zł brutto / mies.",
+      "location": "Ustowo (pow. policki)",
+      "description": "Twój zakres obowiązków, przygotowywanie pojazdów do lakierowania, pomoc w doborze lakieru i przygotowaniu odpowiednich proporcji powłok lakierniczych, pomoc w lakierowaniu samochodu, polerowanie końcowe elementów, rozklejanie pojazdów z napisów...",
+      "url": "https://www.pracuj.pl/praca/pomocnik-pomocniczka-lakiernika-samochodowego-ustowo-pow-policki-56,oferta,1004737788"
+    },
+    {
+      "groupId": "54400000-56be-0050-6152-08de96223a6b",
+      "jobTitle": "Specjalistka / Specjalista ds. Eksportu",
+      "companyName": "\"PAUDIO TECHNOLOGIES\" sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20378380",
+      "companyId": 20378380,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20378380/03000000-bb2f-3863-d5e1-08d9fb64b2b6_280x280.jpg",
+      "lastPublicated": "2026-04-13T08:18:09.827Z",
+      "expirationDate": "2026-05-12T21:59:59Z",
+      "salaryDisplayText": "od 6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Opieka nad obecnymi klientami firmy, Aktywne pozyskiwanie nowych klientów, Przygotowywanie ofert handlowych, Negocjacje handlowe i finalizacja umów, Doradztwo techniczne w zakresie produktów i usług, Udział w prezentacjach,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz znajomość <b>technik sprzedaży</b> i <b>języka angielskiego</b> na poziomie komunikatywnym.</li><li>Potrafisz <b>budować relacje z klientami</b> oraz pracować w zespole.</li><li>Posiadasz uprawnienia do prowadzenia pojazdów kat. <b>B</b> i znasz pakiet <b>MS365</b>.</li><li>Chcesz realizować zadania związane z <b>obsługą i pozyskiwaniem klientów eksportowych</b> oraz koordynacją dostaw.</li><li>Interesuje Cię praca z <b>ofertami handlowymi, negocjacjami i analizą rynków zagranicznych</b>.</li><li>Cenisz <b>elastyczny czas pracy</b>, brak dress code’u oraz parking dla pracowników.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004765742,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-eksportu-szczecin-majowa-2,oferta,1004765742",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.47498321533203,
+        "longitude": 14.485328674316406
+      },
+      "distanceInKilometers": 6.7,
+      "id": "1004765742",
+      "title": "Specjalistka / Specjalista ds. Eksportu",
+      "company": "\"PAUDIO TECHNOLOGIES\" sp. z o.o.",
+      "salary": "od 6 000 zł brutto / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Opieka nad obecnymi klientami firmy, Aktywne pozyskiwanie nowych klientów, Przygotowywanie ofert handlowych, Negocjacje handlowe i finalizacja umów, Doradztwo techniczne w zakresie produktów i usług, Udział w prezentacjach,...",
+      "url": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-eksportu-szczecin-majowa-2,oferta,1004765742"
+    },
+    {
+      "groupId": "9c440000-56be-0050-6e26-08de908c3671",
+      "jobTitle": "Doświadczony Spedytor Międzynarodowy",
+      "companyName": "Motohouse Logistics sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074094915",
+      "companyId": 1074094915,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074094915/eafd0000-56be-0050-a49e-08dc30a5518e_280x280.jpg",
+      "lastPublicated": "2026-04-13T08:09:49.677Z",
+      "expirationDate": "2026-05-17T21:59:59Z",
+      "salaryDisplayText": "15 000–100 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Motohouse ponownie otwiera nabór w projekcie skierowanym do najbardziej doświadczonych spedytorów międzynarodowych. To propozycja dla profesjonalistów, którzy osiągają ponadprzeciętne wyniki i są ich pewni, a jednocześnie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074094915/mobile-banners/a42d0000-56be-0050-7e2f-08de908e933d.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074094915/desktop-banners/8c1f0000-56be-0050-0de0-08de908db62e.jpg",
+      "aiSummary": "<ul><li>Masz <b>własną aktywną bazę kontrahentów</b> i chcesz ją rozwijać w oparciu o własną niezależność.</li><li>Preferujesz <b>model rozliczeń prowizyjnych</b> bez stałej podstawy, skoncentrowany na wyniku.</li><li>Działasz <b>samodzielnie zdalnie</b> lub z biura, organizując pracę według własnych zasad.</li><li>Cenisz <b>pełne wsparcie operacyjne i administracyjne</b>, redukujące ryzyko i formalności.</li><li>Posiadasz <b>doświadczenie w branży TSL</b> i znasz wysokie standardy procesowe i obsługi.</li><li>Chcesz pracować pod <b>marką z ugruntowaną pozycją</b> oraz korzystać z zaawansowanych narzędzi i zaplecza firmowego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004746050,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doswiadczony-spedytor-miedzynarodowy-szczecin,oferta,1004746050",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004746050",
+      "title": "Doświadczony Spedytor Międzynarodowy",
+      "company": "Motohouse Logistics sp. z o.o.",
+      "salary": "15 000–100 000 zł netto (+ VAT) / mies.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Motohouse ponownie otwiera nabór w projekcie skierowanym do najbardziej doświadczonych spedytorów międzynarodowych. To propozycja dla profesjonalistów, którzy osiągają ponadprzeciętne wyniki i są ich pewni, a jednocześnie...",
+      "url": "https://www.pracuj.pl/praca/doswiadczony-spedytor-miedzynarodowy-szczecin,oferta,1004746050"
+    },
+    {
+      "groupId": "38410000-56be-0050-620e-08de94a48515",
+      "jobTitle": "Pracownik / Pracowniczka Restauracji KFC Hakena",
+      "companyName": "AmRest Sp. z o.o. - KFC",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20375664",
+      "companyId": 20375664,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20375664/2c580000-43a8-f403-a20d-08d9d74a0af3_280x280.png",
+      "lastPublicated": "2026-04-13T08:05:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "31–32 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>chęć do nauki</b> i pozytywne nastawienie.</li><li>Ważna jest dla Ciebie <b>współpraca zespołowa</b>.</li><li>Chcesz pracować na stanowisku związanym z <b>obsługą klienta i przygotowaniem produktów</b>.</li><li>Cenisz <b>elastyczny grafik</b> i możliwość dopasowania pracy do swojego czasu.</li><li>Zależy Ci na <b>wynagrodzeniu wypłacanym na czas</b> i premiach za wyniki.</li><li>Szukasz umowy odpowiadającej Twoim potrzebom, w tym <b>umowy o pracę lub zlecenia</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755638,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-hakena-szczecin,oferta,1004755638",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004755638",
+      "title": "Pracownik / Pracowniczka Restauracji KFC Hakena",
+      "company": "AmRest Sp. z o.o. - KFC",
+      "salary": "31–32 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-hakena-szczecin,oferta,1004755638"
+    },
+    {
+      "groupId": "38410000-56be-0050-f430-08de94a4837a",
+      "jobTitle": "Pracownik / Pracowniczka Restauracji KFC Wysoka",
+      "companyName": "AmRest Sp. z o.o. - KFC",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20375664",
+      "companyId": 20375664,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20375664/2c580000-43a8-f403-a20d-08d9d74a0af3_280x280.png",
+      "lastPublicated": "2026-04-13T08:03:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "31–32 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>chęć do nauki</b> i pracę z klientem traktujesz jako priorytet.</li><li>Lubisz <b>pracować w elastycznym grafiku</b> i dostosowywać czas pracy do swoich potrzeb.</li><li>Cenisz <b>wynagrodzenie z premiami</b> i dodatkowymi stawkami za godziny nocne.</li><li>Dbasz o <b>jakość i porządek</b> na stanowisku pracy.</li><li>Chcesz korzystać z <b>szerokich benefitów</b> m.in. opieki medycznej, dofinansowania języków i sportu.</li><li>Interesuje Cię <b>umowa o pracę lub zlecenie</b> z możliwością stabilizacji po 3 miesiącach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755627,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-wysoka-stare-brynki,oferta,1004755627",
+      "displayWorkplace": "Stare Brynki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004755627",
+      "title": "Pracownik / Pracowniczka Restauracji KFC Wysoka",
+      "company": "AmRest Sp. z o.o. - KFC",
+      "salary": "31–32 zł brutto / godz.",
+      "location": "Stare Brynki",
+      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-wysoka-stare-brynki,oferta,1004755627"
+    },
+    {
+      "groupId": "38410000-56be-0050-a495-08de94a482fe",
+      "jobTitle": "Pracownik / Pracowniczka Restauracji KFC Rodla",
+      "companyName": "AmRest Sp. z o.o. - KFC",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20375664",
+      "companyId": 20375664,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20375664/2c580000-43a8-f403-a20d-08d9d74a0af3_280x280.png",
+      "lastPublicated": "2026-04-13T08:02:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "31–32 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>energię i chęć do nauki</b> oraz potrafisz efektywnie współpracować.</li><li>Zależy Ci na <b>elastycznym grafiku</b> i samodzielnym ustalaniu godzin pracy.</li><li>Chcesz otrzymywać dodatki za pracę w nocy oraz <b>premie za wyniki i polecenia</b>.</li><li>Doceniasz <b>dostęp do lekcji języków obcych</b> i różnorodne benefity, w tym opiekę medyczną i dofinansowanie sportu.</li><li>Interesuje Cię <b>praca związana z przygotowywaniem i serwowaniem potraw</b> oraz utrzymaniem wysokiej jakości i czystości.</li><li>Preferujesz umowę o pracę lub zlecenie z możliwością przejścia na umowę o pracę po okresie próbnym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755621,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-rodla-szczecin,oferta,1004755621",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004755621",
+      "title": "Pracownik / Pracowniczka Restauracji KFC Rodla",
+      "company": "AmRest Sp. z o.o. - KFC",
+      "salary": "31–32 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-rodla-szczecin,oferta,1004755621"
+    },
+    {
+      "groupId": "441b0000-56be-0050-6e52-08de94a4819d",
+      "jobTitle": "Pracownik / Pracowniczka Restauracji KFC Kaskada",
+      "companyName": "AmRest Sp. z o.o. - KFC",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20375664",
+      "companyId": 20375664,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20375664/2c580000-43a8-f403-a20d-08d9d74a0af3_280x280.png",
+      "lastPublicated": "2026-04-13T08:01:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "31–32 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>chęć do nauki</b> i pozytywne nastawienie w pracy zespołowej.</li><li>Chcesz uczestniczyć w <b>przygotowywaniu i serwowaniu produktów</b> zgodnie ze standardami jakości.</li><li>Cenisz <b>elastyczny grafik</b> i możliwość wyboru godzin pracy.</li><li>Zależy Ci na <b>wynagrodzeniu premiowanym</b> i dodatkach za pracę w nocy.</li><li>Doceniasz <b>dostęp do benefitów</b> takich jak prywatna opieka medyczna i dofinansowanie nauki.</li><li>Jesteś zainteresowany/-a <b>umową o pracę lub zleceniem</b> z możliwością stabilizacji po 3 miesiącach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004755609,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-kaskada-szczecin,oferta,1004755609",
+      "displayWorkplace": "Szczecin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004755609",
+      "title": "Pracownik / Pracowniczka Restauracji KFC Kaskada",
+      "company": "AmRest Sp. z o.o. - KFC",
+      "salary": "31–32 zł brutto / godz.",
+      "location": "Szczecin",
+      "description": "Twój zakres obowiązków, Mistrz/Mistrzyni smaku: Przygotowywanie pysznych produktów., Ambasador/Ambasadorka gościnności: Kompletowanie i serwowanie zamówień., Strażnik/Strażniczka jakości: Pielęgnacja sprzętu i utrzymanie krystalicznej czystości...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-restauracji-kfc-kaskada-szczecin,oferta,1004755609"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-1d49-08de8e2f788d",
+      "jobTitle": "Blacharz Samochodowy / Blacharka Samochodowa",
+      "companyName": "Grupa Bemo",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801471",
+      "companyId": 18801471,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801471/ee4d0000-5df0-0015-1186-08db4007d0a7_280x280.jpg",
+      "lastPublicated": "2026-04-13T07:44:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 000–20 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, wykonywanie napraw blacharskich, rozbrajanie samochodu przed naprawą blacharską, uzbrajanie pojazdu po naprawie, obsługa specjalistycznych urządzeń naprawczych...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "podstawa + RBH"
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18801471/mobile-banners/40470000-56be-0050-4439-08de72c32226.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku blacharza samochodowego</b> i znasz technologie napraw blacharskich.</li><li>Potrafisz <b>obsługiwać specjalistyczne urządzenia diagnostyczne i naprawcze</b>.</li><li>Jesteś <b>sumienny i odpowiedzialny</b>, posiadasz prawo jazdy kat. B.</li><li>Cenisz <b>terminowe wynagrodzenie</b> i pracę w zespole specjalistów.</li><li>Ważna jest dla Ciebie <b>dobra lokalizacja firmy</b> oraz dostęp do benefitów, takich jak prywatna opieka medyczna i ubezpieczenie na życie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737530,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/blacharz-samochodowy-blacharka-samochodowa-szczecin-pomorska-115b,oferta,1004737530",
+      "displayWorkplace": "Szczecin, Prawobrzeże",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 53.38587951660156,
+        "longitude": 14.679457664489746
+      },
+      "distanceInKilometers": 9.9,
+      "id": "1004737530",
+      "title": "Blacharz Samochodowy / Blacharka Samochodowa",
+      "company": "Grupa Bemo",
+      "salary": "5 000–20 000 zł brutto / mies.",
+      "location": "Szczecin, Prawobrzeże",
+      "description": "Twój zakres obowiązków, wykonywanie napraw blacharskich, rozbrajanie samochodu przed naprawą blacharską, uzbrajanie pojazdu po naprawie, obsługa specjalistycznych urządzeń naprawczych...",
+      "url": "https://www.pracuj.pl/praca/blacharz-samochodowy-blacharka-samochodowa-szczecin-pomorska-115b,oferta,1004737530"
+    }
+  ]
+}

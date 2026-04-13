@@ -1,0 +1,3628 @@
+{
+  "meta": {
+    "profileKey": "05",
+    "profileLabel": "Katowice – all",
+    "slug": "katowice",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Katowice&rd=30&latitude=50.2137315&longitude=19.0058848",
+    "scrapedAt": "2026-04-13T12:07:04.431Z",
+    "pages": 1,
+    "total": 51,
+    "errors": 0,
+    "location": "Katowice",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "5c2e0000-56be-0050-4441-08de9954e25a",
+      "jobTitle": "Mechanik utrzymania ruchu",
+      "companyName": "PRZEDSIĘBIORSTWO PROJEKTOWANIA I REALIZACJI PROINTECH sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074173032",
+      "companyId": 1074173032,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T12:05:23.24Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 500–6 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonanie bieżących napraw elektronarzędzi., Utrzymanie w pełnej gotowości parku maszynowego., Wykonanie niezbędnych przeglądów urządzeń i narzędzi oraz ich konserwacja., Nadzór nad instalacją., Przygotowanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku mechanika utrzymania ruchu</b> i uprawnienia elektryczne do 1kV.</li><li>Posiadasz <b>wiedzę z zakresu elektryki</b> oraz umiejętność czytania schematów elektrycznych.</li><li>Potrafisz <b>samodzielnie wykonywać przeglądy, naprawy i konserwację</b> maszyn oraz elektronarzędzi.</li><li>Radzenie sobie z <b>pracą pod presją czasu</b> i prowadzenie dokumentacji technicznej jest dla Ciebie naturalne.</li><li>Znasz <b>podstawy mechaniki</b> i nadzór nad instalacjami technicznymi.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767151,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mechanik-utrzymania-ruchu-chorzow-wieniawskiego-20c,oferta,1004767151",
+      "displayWorkplace": "Chorzów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.27299880981445,
+        "longitude": 18.95030975341797
+      },
+      "distanceInKilometers": 7.7,
+      "id": "1004767151",
+      "title": "Mechanik utrzymania ruchu",
+      "company": "PRZEDSIĘBIORSTWO PROJEKTOWANIA I REALIZACJI PROINTECH sp. z o.o.",
+      "salary": "5 500–6 500 zł brutto / mies.",
+      "location": "Chorzów",
+      "description": "Twój zakres obowiązków, Wykonanie bieżących napraw elektronarzędzi., Utrzymanie w pełnej gotowości parku maszynowego., Wykonanie niezbędnych przeglądów urządzeń i narzędzi oraz ich konserwacja., Nadzór nad instalacją., Przygotowanie...",
+      "url": "https://www.pracuj.pl/praca/mechanik-utrzymania-ruchu-chorzow-wieniawskiego-20c,oferta,1004767151"
+    },
+    {
+      "groupId": "ec400000-56be-0050-4efa-08de9704869a",
+      "jobTitle": "Przedstawiciel Handlowy/Przedstawicielka Handlowa ds. współpracy z Rolnikami/ Agronom",
+      "companyName": "WOKAS SPÓŁKA AKCYJNA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20057994",
+      "companyId": 20057994,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20057994/402c0000-56be-0050-3a90-08de99220c9b_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:01:17.71Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 000–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Budowanie i utrzymywanie długofalowych relacji z rolnikami, gospodarstwami rolnymi i dystrybutorami, Doradztwo w zakresie doboru produktów rolniczych (podłoża, nawozy, środki poprawiające jakość gleby, itp.), Prezentacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe rolnicze</b> i doświadczenie w kontakcie z rolnikami lub sprzedaży produktów rolniczych.</li><li>Pracujesz nad <b>budowaniem relacji z gospodarstwami i doradztwem</b> w zakresie technologii upraw i ochrony roślin.</li><li>Potrafisz <b>prezentować ofertę oraz prowadzić szkolenia</b> i działania techniczne dla klientów.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i umiejętność pracy samodzielnej oraz zespołowej.</li><li>Cenisz <b>system wynagrodzenia łączący podstawę i prowizję</b>, a także wsparcie techniczne i narzędzia pracy (samochód, laptop, telefon).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767121,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-ds-wspolpracy-z-rolnikami-agro-katowice,oferta,1004767121",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767121",
+      "title": "Przedstawiciel Handlowy/Przedstawicielka Handlowa ds. współpracy z Rolnikami/ Agronom",
+      "company": "WOKAS SPÓŁKA AKCYJNA",
+      "salary": "10 000–15 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Budowanie i utrzymywanie długofalowych relacji z rolnikami, gospodarstwami rolnymi i dystrybutorami, Doradztwo w zakresie doboru produktów rolniczych (podłoża, nawozy, środki poprawiające jakość gleby, itp.), Prezentacja...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-ds-wspolpracy-z-rolnikami-agro-katowice,oferta,1004767121"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-882f-08de85adaed1",
+      "jobTitle": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "companyName": "ERA Spółka z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20022710",
+      "companyId": 20022710,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20022710/03000000-bb2f-3863-b7bc-08d94c420524_280x280.png",
+      "lastPublicated": "2026-04-13T11:52:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "2 403–2 404 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>aktualne orzeczenie o niepełnosprawności</b>.</li><li>Jesteś gotowy na wykonywanie <b>prac porządkowych</b> w środowisku biurowym lub innym.</li><li>Cenisz <b>umowę o pracę</b> i stabilne zatrudnienie.</li><li>Szukasz pracy z <b>bogatym pakietem świadczeń socjalnych i zdrowotnych</b>.</li><li>Chcesz korzystać z <b>dofinansowań do rehabilitacji, kursów i wypoczynku</b>.</li><li>Zależy Ci na wsparciu przy wdrożeniu i niezbędnych narzędziach pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717706,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-chorzow,oferta,1004717706",
+      "displayWorkplace": "Chorzów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717706",
+      "title": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "company": "ERA Spółka z o.o.",
+      "salary": "2 403–2 404 zł brutto / mies.",
+      "location": "Chorzów",
+      "description": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-chorzow,oferta,1004717706"
+    },
+    {
+      "groupId": "00050000-56be-0050-8452-08de9565242d",
+      "jobTitle": "Customer service specialist in the automotive industry with Italian",
+      "companyName": "Concentrix CVG International Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20193268",
+      "companyId": 20193268,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20193268/342a0000-56be-0050-6668-08dc6529d116_280x280.png",
+      "lastPublicated": "2026-04-13T11:52:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "5 500 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, Responding to customer inquiries via phone, chat, and email, representing with professionalism and enthusiasm., Maintain clear and accurate documentation of customer interactions, resolutions, and follow-ups in the CRM...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "More than one vacancy",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej rok doświadczenia w <b>obsłudze klienta</b>, najlepiej w branży motoryzacyjnej.</li><li>Posługujesz się językiem <b>włoskim na poziomie C1</b> oraz dobrze znasz <b>angielski na poziomie B2</b>.</li><li>Potrafisz efektywnie rozwiązywać problemy i utrzymywać profesjonalny kontakt z klientem.</li><li>Cenisz <b>pracę zdalną</b> oraz kompleksowy pakiet świadczeń, w tym opiekę medyczną i ubezpieczenie.</li><li>Chcesz pracować w środowisku, gdzie <b>zdobywasz wiedzę techniczną</b> z zakresu motoryzacji i produktów cyfrowych.</li><li>Jesteś zorganizowany i potrafisz dbać o dokładną dokumentację w systemie CRM.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004756815,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/customer-service-specialist-in-the-automotive-industry-with-italian-katowice,oferta,1004756815",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004756815",
+      "title": "Customer service specialist in the automotive industry with Italian",
+      "company": "Concentrix CVG International Sp. z o.o.",
+      "salary": "5 500 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Your responsibilities, Responding to customer inquiries via phone, chat, and email, representing with professionalism and enthusiasm., Maintain clear and accurate documentation of customer interactions, resolutions, and follow-ups in the CRM...",
+      "url": "https://www.pracuj.pl/praca/customer-service-specialist-in-the-automotive-industry-with-italian-katowice,oferta,1004756815"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-81d7-08de85af8081",
+      "jobTitle": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "companyName": "ERA Spółka z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20022710",
+      "companyId": 20022710,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20022710/03000000-bb2f-3863-b7bc-08d94c420524_280x280.png",
+      "lastPublicated": "2026-04-13T11:51:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "2 403–2 404 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>aktualne orzeczenie o niepełnosprawności</b>.</li><li>Jesteś gotowy do wykonywania obowiązków związanych ze <b>sprzątaniem i utrzymaniem czystości</b>.</li><li>Cenisz <b>umowę o pracę</b> oraz narzędzia potrzebne do pracy.</li><li>Zależy Ci na <b>wsparciu w zakresie szkoleń, rehabilitacji i opieki zdrowotnej</b>.</li><li>Chcesz korzystać z <b>dodatkowych świadczeń socjalnych i dofinansowań</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717703,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-tychy,oferta,1004717703",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717703",
+      "title": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "company": "ERA Spółka z o.o.",
+      "salary": "2 403–2 404 zł brutto / mies.",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-tychy,oferta,1004717703"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-32b6-08de85b13916",
+      "jobTitle": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "companyName": "ERA Spółka z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20022710",
+      "companyId": 20022710,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20022710/03000000-bb2f-3863-b7bc-08d94c420524_280x280.png",
+      "lastPublicated": "2026-04-13T11:51:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "3 604–3 605 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 5
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>aktualne orzeczenie o niepełnosprawności</b>, które jest warunkiem koniecznym.</li><li>Jesteś gotowy/gotowa do wykonywania obowiązków związanych ze <b>sprzątaniem i utrzymaniem czystości</b>.</li><li>Cenisz <b>umowę o pracę</b> oraz niezbędne narzędzia i wsparcie przy wdrożeniu.</li><li>Chcesz korzystać z <b>szerokiego pakietu świadczeń socjalnych i dofinansowań</b> (m.in. medycznych, rehabilitacyjnych, wypoczynkowych).</li><li>Zależy Ci na <b>świadczeniach dodatkowych</b> takich jak prywatna opieka medyczna, ubezpieczenie na życie i dofinansowanie szkoleń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717700,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-katowice,oferta,1004717700",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717700",
+      "title": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "company": "ERA Spółka z o.o.",
+      "salary": "3 604–3 605 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-katowice,oferta,1004717700"
+    },
+    {
+      "groupId": "d4280000-56be-0050-95d4-08de91741deb",
+      "jobTitle": "Regionalny Przedstawiciel Handlowy (K/M)",
+      "companyName": "RGB ELEKTRONIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20132047",
+      "companyId": 20132047,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20132047/ee4d0000-5df0-0015-ffc4-08db3f307b5a_280x280.png",
+      "lastPublicated": "2026-04-13T11:43:24.35Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "6 500–9 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów na usługi napraw automatyki przemysłowej, Rozwijanie i budowanie długofalowej współpracy z obecnymi klientami, Pozyskiwanie i odbiór urządzeń automatyki przemysłowej do naprawy,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "+ miesięczna nagroda uznaniowa"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku przedstawiciela handlowego</b> i gotowość do pracy w terenie.</li><li>Potrafisz <b>samodzielnie planować i realizować cele sprzedażowe</b> oraz budować relacje z klientami.</li><li>Jesteś dyspozycyjny/a, posiadasz prawo jazdy kat. B i umiejętność pracy zespołowej.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz zatrudnienie na podstawie umowy o pracę.</li><li>Chcesz korzystać z <b>narzędzi pracy zapewnionych przez pracodawcę</b> oraz możliwości udziału w targach branżowych.</li><li>Doceniasz <b>benefity takie jak prywatna opieka medyczna, dofinansowanie szkoleń i służbowy samochód</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750673,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-k-m-gliwice,oferta,1004750673",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750673",
+      "title": "Regionalny Przedstawiciel Handlowy (K/M)",
+      "company": "RGB ELEKTRONIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "6 500–9 500 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów na usługi napraw automatyki przemysłowej, Rozwijanie i budowanie długofalowej współpracy z obecnymi klientami, Pozyskiwanie i odbiór urządzeń automatyki przemysłowej do naprawy,...",
+      "url": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-k-m-gliwice,oferta,1004750673"
+    },
+    {
+      "groupId": "d4280000-56be-0050-95d4-08de91741deb",
+      "jobTitle": "Regionalny Przedstawiciel Handlowy (K/M)",
+      "companyName": "RGB ELEKTRONIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20132047",
+      "companyId": 20132047,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20132047/ee4d0000-5df0-0015-ffc4-08db3f307b5a_280x280.png",
+      "lastPublicated": "2026-04-13T11:43:24.35Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "6 500–9 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów na usługi napraw automatyki przemysłowej, Rozwijanie i budowanie długofalowej współpracy z obecnymi klientami, Pozyskiwanie i odbiór urządzeń automatyki przemysłowej do naprawy,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "+ miesięczna nagroda uznaniowa"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku przedstawiciela handlowego</b> i gotowość do pracy w terenie.</li><li>Potrafisz <b>samodzielnie planować i realizować cele sprzedażowe</b> oraz budować relacje z klientami.</li><li>Jesteś dyspozycyjny/a, posiadasz prawo jazdy kat. B i umiejętność pracy zespołowej.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz zatrudnienie na podstawie umowy o pracę.</li><li>Chcesz korzystać z <b>narzędzi pracy zapewnionych przez pracodawcę</b> oraz możliwości udziału w targach branżowych.</li><li>Doceniasz <b>benefity takie jak prywatna opieka medyczna, dofinansowanie szkoleń i służbowy samochód</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750671,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-k-m-katowice,oferta,1004750671",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750671",
+      "title": "Regionalny Przedstawiciel Handlowy (K/M)",
+      "company": "RGB ELEKTRONIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "6 500–9 500 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych klientów na usługi napraw automatyki przemysłowej, Rozwijanie i budowanie długofalowej współpracy z obecnymi klientami, Pozyskiwanie i odbiór urządzeń automatyki przemysłowej do naprawy,...",
+      "url": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-k-m-katowice,oferta,1004750671"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-ae10-08de9950c977",
+      "jobTitle": "Agent / Agentka Call Center",
+      "companyName": "Marta Daniluk",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074224173",
+      "companyId": 1074224173,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:40:01.497Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 500–10 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Pozyskiwanie Klientów indywidualnych oraz firmowych., Umawianie spotkań osobistych lub on-line., Rozmowa z klientami i poznanie ich potrzeb., Budowanie relacji z klientami....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie minimum średnie</b> i łatwo nawiązujesz relacje.</li><li>Jesteś <b>otwarty i komunikatywny</b>, gotowy do kontaktu z klientami.</li><li>Chcesz <b>pozyskiwać klientów i umawiać spotkania</b> w biurze lub online.</li><li>Akceptujesz <b>obecność w biurze w Katowicach raz w tygodniu</b>.</li><li>Szanujesz <b>elastyczność czasu pracy</b> i samodzielne planowanie działań.</li><li>Zależy Ci na <b>wsparciu, szkoleniu i nieograniczonych prowizjach</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767043,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-call-center-siemianowice-slaskie,oferta,1004767043",
+      "displayWorkplace": "Siemianowice Śląskie",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767043",
+      "title": "Agent / Agentka Call Center",
+      "company": "Marta Daniluk",
+      "salary": "4 500–10 000 zł netto (+ VAT) / mies.",
+      "location": "Siemianowice Śląskie",
+      "description": "Twój zakres obowiązków, Pozyskiwanie Klientów indywidualnych oraz firmowych., Umawianie spotkań osobistych lub on-line., Rozmowa z klientami i poznanie ich potrzeb., Budowanie relacji z klientami....",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-call-center-siemianowice-slaskie,oferta,1004767043"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-cc45-08de8e4e7f3e",
+      "jobTitle": "Project Manager – Program Optymalizacji Kosztów (Europa) m/f",
+      "companyName": "LHH Recruitment Solutions",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074043894",
+      "companyId": 1074043894,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074043894/244f0000-56be-0050-1618-08ddd580dcf1_280x280.png",
+      "lastPublicated": "2026-04-13T11:39:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "24 000–28 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Poszukujemy osoby na stanowisko Project Manager, która poprowadzi międzynarodowe projekty optymalizacji kosztów w obszarach produkcji, łańcucha dostaw, zakupów i dystrybucji na rynkach europejskich. Osoba na tym stanowisku...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 10 lat doświadczenia</b> w produkcji, operacjach lub supply chain.</li><li>Posiadasz <b>doświadczenie w prowadzeniu międzynarodowych projektów</b> w Europie.</li><li>Znajomość <b>procesów produkcyjnych, logistyki i zakupów strategicznych</b> jest dla Ciebie istotna.</li><li>Jesteś gotów do <b>podróży służbowych</b> i pracy w środowisku międzykulturowym.</li><li>Cenisz możliwość <b>prowadzenia projektów optymalizacji kosztów o szerokim zasięgu</b> i wpływie na wyniki biznesowe.</li><li>Oczekujesz <b>konkurencyjnego wynagrodzenia</b> oraz wsparcia w zakresie prywatnej opieki medycznej i dofinansowania aktywności sportowej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004738824,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/project-manager-program-optymalizacji-kosztow-europa-m-f-zabrze,oferta,1004738824",
+      "displayWorkplace": "Zabrze",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004738824",
+      "title": "Project Manager – Program Optymalizacji Kosztów (Europa) m/f",
+      "company": "LHH Recruitment Solutions",
+      "salary": "24 000–28 000 zł brutto / mies.",
+      "location": "Zabrze",
+      "description": "Twój zakres obowiązków, Poszukujemy osoby na stanowisko Project Manager, która poprowadzi międzynarodowe projekty optymalizacji kosztów w obszarach produkcji, łańcucha dostaw, zakupów i dystrybucji na rynkach europejskich. Osoba na tym stanowisku...",
+      "url": "https://www.pracuj.pl/praca/project-manager-program-optymalizacji-kosztow-europa-m-f-zabrze,oferta,1004738824"
+    },
+    {
+      "groupId": "fc230000-56be-0050-baab-08de8b1c2911",
+      "jobTitle": "Kierowca C+E Transport Międzynarodowy (k/m)",
+      "companyName": "Paul Schockemoehle Logistics Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18804804",
+      "companyId": 18804804,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18804804/03000000-bb2f-3863-7d29-08d9a38e2f94_280x280.png",
+      "lastPublicated": "2026-04-13T11:38:25.773Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "13 500–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, kierowanie zestawami (ciągnik siodłowy z naczepą) w ruchu międzynarodowym, dbałość o najwyższą jakość wszelkich realizowanych zadań...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18804804/mobile-banners/2da80000-56be-0050-c5d3-08dc39e4376e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>ważne uprawnienia C+E</b> i doświadczenie w transporcie międzynarodowym.</li><li>Dbasz o <b>stan powierzonego sprzętu</b> i wykonujesz zadania dokładnie.</li><li>Interesuje Cię <b>praca na trasach międzynarodowych</b> w systemie 2 tygodnie w trasie, 1 weekend w domu.</li><li>Cenisz <b>atrakcyjne wynagrodzenie</b> i możliwość zdobycia dodatku stażowego.</li><li>Szanujesz <b>bezpieczeństwo i pracę zgodnie z przepisami</b>.</li><li>Chcesz korzystać z <b>benefitów medycznych, ubezpieczeń i wsparcia szkoleniowego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004732630,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-c%2be-transport-miedzynarodowy-k-m-gliwice,oferta,1004732630",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004732630",
+      "title": "Kierowca C+E Transport Międzynarodowy (k/m)",
+      "company": "Paul Schockemoehle Logistics Polska Sp. z o.o.",
+      "salary": "13 500–15 000 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, kierowanie zestawami (ciągnik siodłowy z naczepą) w ruchu międzynarodowym, dbałość o najwyższą jakość wszelkich realizowanych zadań...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-transport-miedzynarodowy-k-m-gliwice,oferta,1004732630"
+    },
+    {
+      "groupId": "fc230000-56be-0050-078a-08de8b1b5874",
+      "jobTitle": "Kierowca C+E Transport Krajowy (k/m)",
+      "companyName": "Paul Schockemoehle Logistics Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18804804",
+      "companyId": 18804804,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18804804/03000000-bb2f-3863-7d29-08d9a38e2f94_280x280.png",
+      "lastPublicated": "2026-04-13T11:38:10.34Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "10 100–11 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, kierowanie zestawami (ciągnik siodłowy z naczepą) w ruchu krajowym, dbałość o najwyższą jakość wszelkich realizowanych zadań...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18804804/mobile-banners/2da80000-56be-0050-c5d3-08dc39e4376e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. C+E</b>, kurs na przewóz rzeczy oraz aktualne badania i kartę tachografu.</li><li>Posiadasz <b>doświadczenie w transporcie krajowym</b> jako kierowca zestawów.</li><li>Dbasz o powierzony sprzęt i wykonujesz obowiązki <b>rzetelnie i dokładnie</b>.</li><li>Cenisz <b>umowę o pracę, atrakcyjne wynagrodzenie</b> i system premii.</li><li>Chcesz pracować na <b>nowoczesnym taborze</b> z pełnym zapleczem socjalnym i dostępem do szkoleń.</li><li>Doceniasz <b>benefity</b> takie jak prywatna opieka medyczna, ubezpieczenie i dofinansowanie szkoleń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004732619,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-c%2be-transport-krajowy-k-m-gliwice,oferta,1004732619",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004732619",
+      "title": "Kierowca C+E Transport Krajowy (k/m)",
+      "company": "Paul Schockemoehle Logistics Polska Sp. z o.o.",
+      "salary": "10 100–11 500 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, kierowanie zestawami (ciągnik siodłowy z naczepą) w ruchu krajowym, dbałość o najwyższą jakość wszelkich realizowanych zadań...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-transport-krajowy-k-m-gliwice,oferta,1004732619"
+    },
+    {
+      "groupId": "fc230000-56be-0050-6bdf-08de8b1d1119",
+      "jobTitle": "Kierowca C+E Transport Międzynarodowy (k/m) 1/2 etatu",
+      "companyName": "Paul Schockemoehle Logistics Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18804804",
+      "companyId": 18804804,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18804804/03000000-bb2f-3863-7d29-08d9a38e2f94_280x280.png",
+      "lastPublicated": "2026-04-13T11:36:30.79Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "7 650–8 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, kierowanie zestawami (ciągnik siodłowy z naczepą) w ruchu międzynarodowym, dbałość o najwyższą jakość wszelkich realizowanych zadań...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18804804/mobile-banners/2da80000-56be-0050-c5d3-08dc39e4376e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>prawo jazdy kat. C+E</b> oraz aktualne uprawnienia i badania do transportu międzynarodowego.</li><li>Masz <b>doświadczenie</b> w prowadzeniu zestawów ciężarowych w transporcie międzynarodowym.</li><li>Dbasz o <b>bezpieczeństwo i stan techniczny</b> powierzonych pojazdów.</li><li>Interesuje Cię praca w systemie 2 na weekend z <b>atrakcyjnym wynagrodzeniem i premiami</b>.</li><li>Cenisz prowadzenie pojazdów z <b>nowoczesnym taborem</b> oraz wsparcie 24h/7.</li><li>Doceniasz <b>dodatkowe benefity</b> jak opieka medyczna, ubezpieczenia i dofinansowanie szkoleń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004732605,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-c%2be-transport-miedzynarodowy-k-m-1-2-etatu-gliwice,oferta,1004732605",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004732605",
+      "title": "Kierowca C+E Transport Międzynarodowy (k/m) 1/2 etatu",
+      "company": "Paul Schockemoehle Logistics Polska Sp. z o.o.",
+      "salary": "7 650–8 850 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, kierowanie zestawami (ciągnik siodłowy z naczepą) w ruchu międzynarodowym, dbałość o najwyższą jakość wszelkich realizowanych zadań...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c%2be-transport-miedzynarodowy-k-m-1-2-etatu-gliwice,oferta,1004732605"
+    },
+    {
+      "groupId": "f0380000-56be-0050-c024-08de8357c772",
+      "jobTitle": "Osoba do sprzątania, Kirchhoff",
+      "companyName": "Zakłady Usługowe EZT S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/15436588",
+      "companyId": 15436588,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/15436588/24160000-56be-0050-cfff-08de6ecb4259_280x280.png",
+      "lastPublicated": "2026-04-13T11:34:00Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "4 806 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, utrzymanie czystości pomieszczeń biurowych, socjalnych, sanitarnych...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/15436588/mobile-banners/9b030000-5dac-0015-0a19-08db7c5f0f9d.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzątaniu</b> i gotowość do rozpoczęcia pracy od zaraz.</li><li>Jesteś osobą z <b>niepełnosprawnością</b> i szukasz zatrudnienia wspierającego aktywizację zawodową.</li><li>Chcesz pracować na stanowisku odpowiedzialnym za <b>utrzymanie czystości pomieszczeń biurowych i sanitarnych</b>.</li><li>Poszukujesz <b>umowy o pracę</b> i ustalonego wynagrodzenia 4806 zł brutto.</li><li>Preferujesz <b>pracę zmianową od poniedziałku do soboty</b>, w określonych godzinach (6-14, 14-22).</li><li>Zależy Ci na <b>wsparciu doświadczonej kadry i szkoleniu</b> przed rozpoczęciem obowiązków.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004708764,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/osoba-do-sprzatania-kirchhoff-gliwice,oferta,1004708764",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004708764",
+      "title": "Osoba do sprzątania, Kirchhoff",
+      "company": "Zakłady Usługowe EZT S.A.",
+      "salary": "4 806 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, utrzymanie czystości pomieszczeń biurowych, socjalnych, sanitarnych...",
+      "url": "https://www.pracuj.pl/praca/osoba-do-sprzatania-kirchhoff-gliwice,oferta,1004708764"
+    },
+    {
+      "groupId": "500d0000-56be-0050-818b-08de8357fef9",
+      "jobTitle": "Operator/ka wózka widłowego",
+      "companyName": "INNPRO ROBERT BŁĘDOWSKI sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074106473",
+      "companyId": 1074106473,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074106473/2da80000-56be-0050-bac9-08dc36c3d68d_280x280.png",
+      "lastPublicated": "2026-04-13T11:33:00Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "6 300–6 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa wózka widłowego wysokiego składowania, Praca ze skanerem magazynowym, Uzupełnianie towaru na ścieżkach pickingowych, Dbałość o poprawną rotację i rozmieszczenie towaru w magazynie, Przestrzeganie procedur...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074106473/mobile-banners/b4170000-56be-0050-28a2-08de3d6b3cc3.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>uprawnienia UDT</b> i doświadczenie w obsłudze wózka widłowego wysokiego składowania.</li><li>Pracujesz zgodnie z <b>procedurami magazynowymi i BHP</b>.</li><li>Cenisz <b>pracę w systemie dwuzmianowym</b> z wolnymi weekendami.</li><li>Chcesz otrzymać <b>dodatkowe premie</b> za frekwencję i zaangażowanie po okresie próbnym.</li><li>Zależy Ci na <b>umowie o pracę</b> i beneficie w postaci dofinansowania zajęć sportowych oraz ubezpieczenia na życie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004708762,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-ka-wozka-widlowego-zabrze-macieja-mielzynskiego-24,oferta,1004708762",
+      "displayWorkplace": "Zabrze",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.32208251953125,
+        "longitude": 18.75511360168457
+      },
+      "distanceInKilometers": 21.6,
+      "id": "1004708762",
+      "title": "Operator/ka wózka widłowego",
+      "company": "INNPRO ROBERT BŁĘDOWSKI sp. z o.o.",
+      "salary": "6 300–6 900 zł brutto / mies.",
+      "location": "Zabrze",
+      "description": "Twój zakres obowiązków, Obsługa wózka widłowego wysokiego składowania, Praca ze skanerem magazynowym, Uzupełnianie towaru na ścieżkach pickingowych, Dbałość o poprawną rotację i rozmieszczenie towaru w magazynie, Przestrzeganie procedur...",
+      "url": "https://www.pracuj.pl/praca/operator-ka-wozka-widlowego-zabrze-macieja-mielzynskiego-24,oferta,1004708762"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-c793-08de85b20ca4",
+      "jobTitle": "Przepalacz złomu, pracownik placu (m/k)",
+      "companyName": "Metkom Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20004325",
+      "companyId": 20004325,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20004325/3c040000-56be-0050-2ed5-08dceddb1029_280x280.png",
+      "lastPublicated": "2026-04-13T11:32:19.01Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "od 5 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Cięcie palnikiem złomu do określonych gabarytów, segregowanie metali, Rozładunek złomu przeznaczonego do cięcia i załadunek pociętego, z zachowaniem przepisów BHP, Rozdzielanie złomu na poszczególne rodzaje metali (np....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>kurs na cięcie gazowe</b> metali płomieniem propan-butan i doświadczenie z tym związane.</li><li>Potrafisz <b>samodzielnie i dokładnie</b> wykonywać zadania cięcia oraz segregacji złomu.</li><li>Jesteś gotowy do pracy z różnymi rodzajami metali i obsługi wygodnego sprzętu.</li><li>Oczekujesz zatrudnienia na <b>umowę o pracę</b> oraz niezbędnych narzędzi do pracy.</li><li>Doceniasz benefity takie jak <b>dofinansowanie MultiSport</b> i <b>ubezpieczenie NNW</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717590,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przepalacz-zlomu-pracownik-placu-m-k-dabrowa-gornicza-walentego-rozdzienskiego-11,oferta,1004717590",
+      "displayWorkplace": "Dąbrowa Górnicza",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.355987548828125,
+        "longitude": 19.27178192138672
+      },
+      "distanceInKilometers": 24.7,
+      "id": "1004717590",
+      "title": "Przepalacz złomu, pracownik placu (m/k)",
+      "company": "Metkom Sp. z o.o.",
+      "salary": "od 5 000 zł brutto / mies.",
+      "location": "Dąbrowa Górnicza",
+      "description": "Twój zakres obowiązków, Cięcie palnikiem złomu do określonych gabarytów, segregowanie metali, Rozładunek złomu przeznaczonego do cięcia i załadunek pociętego, z zachowaniem przepisów BHP, Rozdzielanie złomu na poszczególne rodzaje metali (np....",
+      "url": "https://www.pracuj.pl/praca/przepalacz-zlomu-pracownik-placu-m-k-dabrowa-gornicza-walentego-rozdzienskiego-11,oferta,1004717590"
+    },
+    {
+      "groupId": "e8180000-56be-0050-fefe-08de98b21a43",
+      "jobTitle": "Elektryk brygadzista - majster robót",
+      "companyName": "ELMAX Tychy",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20090935",
+      "companyId": 20090935,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20090935/2c580000-43a8-f403-a286-08d81f4ce347_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:29:36.34Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "7 000–12 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Pełnienie funkcji brygadzisty , majstra robót elektrycznych , Delegowanie zadań podległemu zespołowi instalatorów, Zarządzanie pracą brygad własnych i obcych, Współpraca z inwestorem, projektantami i innymi podmiotami w...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie elektryczne</b> i doświadczenie w kierowaniu zespołem.</li><li>Chcesz pełnić funkcję <b>brygadzisty lub majstra robót elektrycznych</b> i zarządzać pracą zespołów.</li><li>Potrafisz organizować pracę własną i podległego zespołu pod presją czasu.</li><li>Posiadasz <b>prawo jazdy kat. B</b> oraz umiejętność nawiązywania kontaktów interpersonalnych.</li><li>Znasz obsługę <b>pakietu MS Office</b> lub <b>AutoCAD</b> – to będzie dodatkowym atutem.</li><li>Doceniasz zatrudnienie na umowę o pracę lub B2B oraz dostęp do niezbędnych narzędzi pracy i benefity Multi Sport.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766991,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/elektryk-brygadzista-majster-robot-tychy-oswiecimska-83,oferta,1004766991",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.12677764892578,
+        "longitude": 19.006092071533203
+      },
+      "distanceInKilometers": 9.7,
+      "id": "1004766991",
+      "title": "Elektryk brygadzista - majster robót",
+      "company": "ELMAX Tychy",
+      "salary": "7 000–12 000 zł / mies. (zal. od umowy)",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, Pełnienie funkcji brygadzisty , majstra robót elektrycznych , Delegowanie zadań podległemu zespołowi instalatorów, Zarządzanie pracą brygad własnych i obcych, Współpraca z inwestorem, projektantami i innymi podmiotami w...",
+      "url": "https://www.pracuj.pl/praca/elektryk-brygadzista-majster-robot-tychy-oswiecimska-83,oferta,1004766991"
+    },
+    {
+      "groupId": "5c420000-56be-0050-b060-08de994a0cd8",
+      "jobTitle": "Doradca Klienta - sprzedaż domów jednorodzinnych (cała Polska)",
+      "companyName": "TECTON sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074228129",
+      "companyId": 1074228129,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074228129/dc450000-56be-0050-f510-08de994eb0e3_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:22:56.54Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 000–30 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie i obsługa klientów zainteresowanych budową domu, Prowadzenie spotkań i doradztwo w zakresie oferty, Budowanie długofalowych relacji z klientami, Realizacja celów sprzedażowych, Dbanie o najwyższy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>sprzedaży</b> i umiejętność prowadzenia procesu handlowego od kontaktu do finalizacji.</li><li>Potrafisz <b>budować relacje z klientem</b> i skutecznie doradzać w zakresie oferty.</li><li>Posiadasz <b>wysoką motywację</b> do realizacji celów sprzedażowych oraz dobrą organizację pracy.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i chcesz działać na terenie całej Polski.</li><li>Cenisz <b>atrakcyjne wynagrodzenie z prowizjami</b> oraz dostęp do samochodu służbowego i narzędzi CRM.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766940,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-klienta-sprzedaz-domow-jednorodzinnych-cala-polska-katowice,oferta,1004766940",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766940",
+      "title": "Doradca Klienta - sprzedaż domów jednorodzinnych (cała Polska)",
+      "company": "TECTON sp. z o.o.",
+      "salary": "10 000–30 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie i obsługa klientów zainteresowanych budową domu, Prowadzenie spotkań i doradztwo w zakresie oferty, Budowanie długofalowych relacji z klientami, Realizacja celów sprzedażowych, Dbanie o najwyższy...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-sprzedaz-domow-jednorodzinnych-cala-polska-katowice,oferta,1004766940"
+    },
+    {
+      "groupId": "b4030000-56be-0050-49a4-08de7dcf3715",
+      "jobTitle": "Kierowca kat. C+E transport międzynarodowy",
+      "companyName": "Jost Group",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20104549",
+      "companyId": 20104549,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20104549/2c580000-43a8-f403-81d4-08d90fb61f54_280x280.png",
+      "lastPublicated": "2026-04-13T11:21:45.35Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "15 500–15 990 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20104549/mobile-banners/9b030000-5dac-0015-f172-08da6e252018.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/20104549/desktop-banners/c42f0000-56be-0050-c554-08de537a399c.jpg",
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. C+E</b> oraz doświadczenie w <b>transporcie międzynarodowym po UE</b>.</li><li>Posiadasz <b>świadectwo kwalifikacji i cyfrową kartę kierowcy</b>.</li><li>Jesteś gotów do pracy w systemie <b>2/1, 3/1, 4/1, 4/2, 6/2 lub 8/2</b>, ze <b>sprawdzonym zakresem tras</b>.</li><li>Cenisz <b>wynagrodzenie netto ok. 3100 euro</b> oraz zatrudnienie na <b>umowę o pracę</b>.</li><li>Zależy Ci na <b>pracy z nowoczesnym taborem IVECO LNG</b> i <b>dostępie do opieki medycznej w UE</b>.</li><li>Mieszkasz w województwie zachodniopomorskim i chcesz pracować na trasie <b>Szczecin-Belgia-Szczecin</b> z <b>weekendami w domu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004693784,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-katowice,oferta,1004693784",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004693784",
+      "title": "Kierowca kat. C+E transport międzynarodowy",
+      "company": "Jost Group",
+      "salary": "15 500–15 990 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-katowice,oferta,1004693784"
+    },
+    {
+      "groupId": "5c420000-56be-0050-6d85-08de993e2c2a",
+      "jobTitle": "Senior Software Developer",
+      "companyName": "B2B.NET S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20424689",
+      "companyId": 20424689,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20424689/03000000-bb2f-3863-a2ad-08d9952c4759_280x280.png",
+      "lastPublicated": "2026-04-13T11:20:55.213Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "20 000–22 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Rozwój aplikacji backendowych w Java + Spring Boot., Projektowanie i rozwój REST API., Rozwój logiki biznesowej (obszar finansowy/klasyfikacje klientów)., Integracja backendu z frontendem., Praca z ElasticSearch., Rozwój i...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20424689/mobile-banners/181b0000-56be-0050-c717-08de58e8c9f7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w Java 8+</b> oraz <b>Spring Boot</b> i rozwijasz backend aplikacji.</li><li>Pracujesz z <b>REST API</b>, <b>SQL</b> (Oracle/MS SQL) i znasz <b>architekturę mikroserwisową</b>.</li><li>Interesujesz się rozwojem logiki biznesowej w obszarze finansowym oraz integracją backendu z frontendem.</li><li>Posiadasz doświadczenie z <b>Elasticsearch</b> i pisaniem testów jednostkowych oraz integracyjnych.</li><li>Cenisz pracę zespołową w modelu <b>SCRUM</b> oraz korzystanie z narzędzi takich jak <b>Git i Maven</b>.</li><li>Mile widziane jest doświadczenie z <b>Kafka lub innym MQ</b> oraz znajomość <b>Docker</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766923,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-software-developer-katowice,oferta,1004766923",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766923",
+      "title": "Senior Software Developer",
+      "company": "B2B.NET S.A.",
+      "salary": "20 000–22 000 zł netto (+ VAT) / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Rozwój aplikacji backendowych w Java + Spring Boot., Projektowanie i rozwój REST API., Rozwój logiki biznesowej (obszar finansowy/klasyfikacje klientów)., Integracja backendu z frontendem., Praca z ElasticSearch., Rozwój i...",
+      "url": "https://www.pracuj.pl/praca/senior-software-developer-katowice,oferta,1004766923"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-9066-08de99428e2f",
+      "jobTitle": "Hostessa - Partner projektu SpringNet",
+      "companyName": "OPINION MEDIA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18802633",
+      "companyId": 18802633,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:19:09.96Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "40–80 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Twoim podstawowym zadaniem będzie budowanie pierwszego, pozytywnego kontaktu z potencjalnymi klientami podczas różnych eventów, targów, konferencji oraz lokalnych inicjatyw i wydarzeń zarówno offline jak i online,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa o staż / praktyki"
+      ],
+      "workSchedules": [
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>otwartość i komunikatywność</b> do nawiązywania pierwszego kontaktu z klientami podczas wydarzeń.</li><li>Zależy Ci na <b>samodzielnym działaniu</b> oraz inicjowaniu rozmów i budowaniu relacji.</li><li>Interesujesz się <b>profilaktyką zdrowia i urody</b>, rozwojem osobistym lub podróżami.</li><li>Cenisz <b>elastyczny grafik pracy</b> oparty na eventach i targach, także online.</li><li>Chcesz korzystać ze <b>wsparcia marketingowego i szkoleń</b> umożliwiających efektywną pracę.</li><li>Motywuje Cię <b>system wynagrodzeń</b> zależny od jakości pozyskanych kontaktów i efektów sprzedażowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766914,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/hostessa-partner-projektu-springnet-gliwice,oferta,1004766914",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766914",
+      "title": "Hostessa - Partner projektu SpringNet",
+      "company": "OPINION MEDIA",
+      "salary": "40–80 zł / godz. (zal. od umowy)",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, Twoim podstawowym zadaniem będzie budowanie pierwszego, pozytywnego kontaktu z potencjalnymi klientami podczas różnych eventów, targów, konferencji oraz lokalnych inicjatyw i wydarzeń zarówno offline jak i online,...",
+      "url": "https://www.pracuj.pl/praca/hostessa-partner-projektu-springnet-gliwice,oferta,1004766914"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-33c8-08de85aa2a3b",
+      "jobTitle": "Projektkoordinator / Bauleiter (k/m/d)",
+      "companyName": "Anteo Telekommunikations GmbH",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074197755",
+      "companyId": 1074197755,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074197755/04570000-56be-0050-bed3-08dd41f70e17_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:12:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "20 000–25 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Samodzielne zarządzanie i koordynacja projektów telekomunikacyjnych w Niemczech, Tworzenie, utrzymanie i monitorowanie harmonogramów projektów oraz zapewnienie terminowej realizacji, Analiza i interpretacja dokumentacji...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "umowa z niemiecką spółką, stawka miesięczna 4000-6000 € brutto"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doskonałą znajomość języka niemieckiego</b> w mowie i piśmie.</li><li>Posiadasz doświadczenie w <b>zarządzaniu i koordynacji projektów telekomunikacyjnych</b>.</li><li>Potrafisz czytać i interpretować <b>rysunki techniczne oraz dokumentację budowlaną</b>.</li><li>Znajomość <b>konstrukcji stalowych, fundamentów oraz systemów uziemienia</b> jest dla Ciebie atutem.</li><li>Cenisz <b>elastyczne formy pracy</b> oraz narzędzia służbowe jak telefon i laptop.</li><li>Jesteś gotów do pracy pod presją czasu i posiadasz <b>umiejętności organizacyjne</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717502,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/projektkoordinator-bauleiter-k-m-d-ruda-slaska-1-maja-276,oferta,1004717502",
+      "displayWorkplace": "Ruda Śląska, Wirek",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.27092361450195,
+        "longitude": 18.86353302001953
+      },
+      "distanceInKilometers": 12,
+      "id": "1004717502",
+      "title": "Projektkoordinator / Bauleiter (k/m/d)",
+      "company": "Anteo Telekommunikations GmbH",
+      "salary": "20 000–25 000 zł brutto / mies.",
+      "location": "Ruda Śląska, Wirek",
+      "description": "Twój zakres obowiązków, Samodzielne zarządzanie i koordynacja projektów telekomunikacyjnych w Niemczech, Tworzenie, utrzymanie i monitorowanie harmonogramów projektów oraz zapewnienie terminowej realizacji, Analiza i interpretacja dokumentacji...",
+      "url": "https://www.pracuj.pl/praca/projektkoordinator-bauleiter-k-m-d-ruda-slaska-1-maja-276,oferta,1004717502"
+    },
+    {
+      "groupId": "f4350000-56be-0050-eed5-08de8e4c40e7",
+      "jobTitle": "Pracownik Magazynowy (m/k/x*)",
+      "companyName": "Fresh Logistics Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20220609",
+      "companyId": 20220609,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20220609/03000000-bb2f-3863-0cbc-08d93b9f89e8_280x280.png",
+      "lastPublicated": "2026-04-13T11:12:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 900–6 400 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Załadunek i rozładunek towarów w magazynie w temperaturze +2 do +6°C, Obsługa wózków jezdniowych i transport wewnętrzny towarów, Skanowanie i ewidencjonowanie produktów w systemie magazynowym...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20220609/mobile-banners/2c580000-43a8-f403-2617-08d983597a2f.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz uprawnienia na <b>wózki widłowe</b> lub chcesz je zdobyć.</li><li>Jesteś gotowy do pracy w <b>chłodniejszych warunkach</b> i systemie równoważnym.</li><li>Posiadasz <b>prawo jazdy kat. B</b> przydatne do transportu i mobilności.</li><li>Ceniasz <b>umowę o pracę</b> z wynagrodzeniem do 6 400 PLN brutto i dodatkami.</li><li>Zależy Ci na <b>szkoleniach i uprawnieniach</b> finansowanych przez pracodawcę.</li><li>Doceniasz pakiet <b>benefitów pozapłacowych</b>, w tym prywatną opiekę medyczną i program poleceń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004738648,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-magazynowy-m-k-x-gliwice,oferta,1004738648",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004738648",
+      "title": "Pracownik Magazynowy (m/k/x*)",
+      "company": "Fresh Logistics Polska Sp. z o.o.",
+      "salary": "5 900–6 400 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, Załadunek i rozładunek towarów w magazynie w temperaturze +2 do +6°C, Obsługa wózków jezdniowych i transport wewnętrzny towarów, Skanowanie i ewidencjonowanie produktów w systemie magazynowym...",
+      "url": "https://www.pracuj.pl/praca/pracownik-magazynowy-m-k-x-gliwice,oferta,1004738648"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-b1b7-08de85ab9cdd",
+      "jobTitle": "Operator Koparki (m/k)",
+      "companyName": "Metkom Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20004325",
+      "companyId": 20004325,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20004325/3c040000-56be-0050-2ed5-08dceddb1029_280x280.png",
+      "lastPublicated": "2026-04-13T11:10:47.287Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "od 6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, praca na maszynie przeładunkowej Fuchs, załadunek i rozładunek samochodów ciężarowych, załadunek złomu i praca przy prasonożycach, dbałość o powierzony sprzęt, codzienna obsługa maszyny, znajomość rodzajów złomu, obsługa...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>uprawnienia na koparki (klasa 1)</b> i doświadczenie w ich obsłudze.</li><li>Posiadasz <b>umiejętność pracy na maszynie przeładunkowej Fuchs</b> oraz znasz rodzaje złomu.</li><li>Jesteś <b>dokładny i samodzielny</b> w realizacji powierzonych zadań.</li><li>Posiadasz lub jesteś otwarty na zdobycie uprawnień na <b>wózki widłowe UDT</b>.</li><li>Cenisz <b>umowę o pracę</b> oraz benefity, takie jak dofinansowanie MultiSport i ubezpieczenie NNW.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717497,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-koparki-m-k-dabrowa-gornicza-walentego-rozdzienskiego-11,oferta,1004717497",
+      "displayWorkplace": "Dąbrowa Górnicza",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.355987548828125,
+        "longitude": 19.27178192138672
+      },
+      "distanceInKilometers": 24.7,
+      "id": "1004717497",
+      "title": "Operator Koparki (m/k)",
+      "company": "Metkom Sp. z o.o.",
+      "salary": "od 6 000 zł brutto / mies.",
+      "location": "Dąbrowa Górnicza",
+      "description": "Twój zakres obowiązków, praca na maszynie przeładunkowej Fuchs, załadunek i rozładunek samochodów ciężarowych, załadunek złomu i praca przy prasonożycach, dbałość o powierzony sprzęt, codzienna obsługa maszyny, znajomość rodzajów złomu, obsługa...",
+      "url": "https://www.pracuj.pl/praca/operator-koparki-m-k-dabrowa-gornicza-walentego-rozdzienskiego-11,oferta,1004717497"
+    },
+    {
+      "groupId": "2c2d0000-56be-0050-5f1e-08de8a672c22",
+      "jobTitle": "Zastępca Kierownika Restauracji Popeyes (K/M)",
+      "companyName": "Rex Concepts",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20200629",
+      "companyId": 20200629,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20200629/ee4d0000-5df0-0015-44e2-08db87696926_280x280.png",
+      "lastPublicated": "2026-04-13T11:09:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "6 000–6 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie restauracji pod nieobecność Kierownika – dasz radę!, Wspieranie zespołu w rekrutacji, szkoleniu i rozwoju – będziesz dbać o to, żeby każdy nowy pracownik czuł się jak u siebie – od pierwszego dnia do awansu,,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20200629/mobile-banners/eafd0000-56be-0050-ca2b-08dc3786a36d.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum pół roku doświadczenia w zarządzaniu zespołem</b> w branży QSR.</li><li>Potrafisz <b>samodzielnie organizować pracę i ustalać priorytety</b>.</li><li>Zwracasz uwagę na <b>kontrolę kosztów, efektywność i liczby</b>.</li><li>Jesteś <b>zorientowany na jakość obsługi i dbasz o gościnność</b>.</li><li>Cenisz <b>umowę o pracę, premie za wyniki oraz prywatną opiekę medyczną</b>.</li><li>Chcesz <b>prowadzić zespół i nadzorować pracę restauracji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004729578,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/zastepca-kierownika-restauracji-popeyes-k-m-katowice-3-maja-30,oferta,1004729578",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.25936508178711,
+        "longitude": 19.017953872680664
+      },
+      "distanceInKilometers": 5.2,
+      "id": "1004729578",
+      "title": "Zastępca Kierownika Restauracji Popeyes (K/M)",
+      "company": "Rex Concepts",
+      "salary": "6 000–6 500 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Prowadzenie restauracji pod nieobecność Kierownika – dasz radę!, Wspieranie zespołu w rekrutacji, szkoleniu i rozwoju – będziesz dbać o to, żeby każdy nowy pracownik czuł się jak u siebie – od pierwszego dnia do awansu,,...",
+      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-restauracji-popeyes-k-m-katowice-3-maja-30,oferta,1004729578"
+    },
+    {
+      "groupId": "64320000-56be-0050-6cd4-08de8f13d781",
+      "jobTitle": "Workplace Experience Specialist I",
+      "companyName": "JAMF",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20266921",
+      "companyId": 20266921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20266921/03000000-bb2f-3863-4ebb-08d6dec4e321_280x280.png",
+      "lastPublicated": "2026-04-13T11:09:00Z",
+      "expirationDate": "2026-05-15T21:59:59Z",
+      "salaryDisplayText": "5 500–10 500 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, Serve as the point of contact for the office; acting as the “face” of Jamf at reception; exemplifying the Jamf brand in all manner of decorum., Organize and execute memorable events to build company culture and encourage...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20266921/mobile-banners/03000000-bb2f-3863-8c79-08d9f12ff866.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. 1 rok doświadczenia</b> w zarządzaniu biurem, obsłudze klienta lub branży hospitality.</li><li>Potrafisz <b>organizować wydarzenia</b> i angażować społeczność firmową.</li><li>Cenisz <b>pracę w kontakcie z różnymi interesariuszami</b>, jak pracownicy, lokalne władze i dostawcy.</li><li>Jesteś <b>zorganizowany/a, komunikatywny/a</b> i potrafisz efektywnie zarządzać wieloma zadaniami.</li><li>Chcesz korzystać z <b>elastycznych godzin pracy</b> i dostęp do udogodnień, takich jak Apple urządzenia i strefa relaksu.</li><li>Interesujesz się tworzeniem <b>inkluzjnego i pozytywnego środowiska pracy</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004741284,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/workplace-experience-specialist-i-katowice,oferta,1004741284",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004741284",
+      "title": "Workplace Experience Specialist I",
+      "company": "JAMF",
+      "salary": "5 500–10 500 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Your responsibilities, Serve as the point of contact for the office; acting as the “face” of Jamf at reception; exemplifying the Jamf brand in all manner of decorum., Organize and execute memorable events to build company culture and encourage...",
+      "url": "https://www.pracuj.pl/praca/workplace-experience-specialist-i-katowice,oferta,1004741284"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-bbe8-08de85a70e17",
+      "jobTitle": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "companyName": "ERA Spółka z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20022710",
+      "companyId": 20022710,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20022710/03000000-bb2f-3863-b7bc-08d94c420524_280x280.png",
+      "lastPublicated": "2026-04-13T11:08:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "2 403–2 404 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>aktualne orzeczenie o niepełnosprawności</b>.</li><li>Jesteś sumienny i masz <b>chęć do pracy</b przy utrzymaniu czystości.</li><li>Gotowość do wykonywania <b>zadań sprzątających</b, takich jak mycie podłóg czy sezonowe mycie okien.</li><li>Oczekujesz <b>umowy o pracę</b> oraz wsparcia podczas wdrożenia w obowiązki.</li><li>Zależy Ci na <b>dofinansowaniach</b> do szkoleń, rehabilitacji i wypoczynku.</li><li>Cenisz <b>benefity medyczne i socjalne</b>, takie jak prywatna opieka zdrowotna i ubezpieczenie na życie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717468,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-gliwice,oferta,1004717468",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717468",
+      "title": "Pracownik Sprzątający / Pracowniczka Sprzątająca z orzeczeniem o niepełnosprawności",
+      "company": "ERA Spółka z o.o.",
+      "salary": "2 403–2 404 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, sprzątanie pomieszczeń, zamiatanie, mycie podłóg, odkurzanie, opróżnianie koszy na śmieci i wymiana worków, sezonowe mycie okien...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-pracowniczka-sprzatajaca-z-orzeczeniem-o-niepelnosprawnosc-gliwice,oferta,1004717468"
+    },
+    {
+      "groupId": "00050000-56be-0050-1901-08de955e66e6",
+      "jobTitle": "Travel Advisor with Greek Expertise",
+      "companyName": "Concentrix CVG International Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20193268",
+      "companyId": 20193268,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20193268/342a0000-56be-0050-6668-08dc6529d116_280x280.png",
+      "lastPublicated": "2026-04-13T11:04:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "6 500 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, Connecting Across Channels: Engage with adventurers via phone, chat, and email, making every interaction a step into their next great story. Whether inbound or outbound, your communication will be the bridge between dreams...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "More than one vacancy",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz<b> biegłą znajomość języka greckiego (C1) i komunikatywną znajomość języka angielskiego (B2)</b>.</li><li>Jesteś gotów/-a do <b>elastycznej pracy w różnych kanałach komunikacji</b>, w tym telefon, czat i e-mail.</li><li>Ceniasz <b>dbałość o jakość obsługi klienta oraz ochronę danych osobowych</b>.</li><li>Chcesz pracować w trybie <b>stacjonarnym w biurze w Katowicach</b> z możliwością udziału w szkoleniach.</li><li>Zależy Ci na <b>pełnoetatowym zatrudnieniu z dodatkowymi benefitami</b>, takimi jak prywatna opieka medyczna czy ubezpieczenie na życie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004756528,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/travel-advisor-with-greek-expertise-katowice-zabrska-19,oferta,1004756528",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.263404846191406,
+        "longitude": 19.011714935302734
+      },
+      "distanceInKilometers": 5.6,
+      "id": "1004756528",
+      "title": "Travel Advisor with Greek Expertise",
+      "company": "Concentrix CVG International Sp. z o.o.",
+      "salary": "6 500 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Your responsibilities, Connecting Across Channels: Engage with adventurers via phone, chat, and email, making every interaction a step into their next great story. Whether inbound or outbound, your communication will be the bridge between dreams...",
+      "url": "https://www.pracuj.pl/praca/travel-advisor-with-greek-expertise-katowice-zabrska-19,oferta,1004756528"
+    },
+    {
+      "groupId": "b82b0000-56be-0050-791b-08de88c9a7c1",
+      "jobTitle": "Pracownik produkcji (m/k)",
+      "companyName": "Personnel Service Polska sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074050911",
+      "companyId": 1074050911,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074050911/eafd0000-56be-0050-2ef9-08dc2313110a_280x280.png",
+      "lastPublicated": "2026-04-13T11:03:48.433Z",
+      "expirationDate": "2026-04-22T21:59:59Z",
+      "salaryDisplayText": "5 500–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kontrola odlewów tarcz i hamulców, Przygotowanie materiałów do produkcji, Ustawianie maszyn produkcyjnych, Raportowanie wyników pracy...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074050911/mobile-banners/94580000-56be-0050-debe-08dcf2956668.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy na produkcji</b> i gotowość do podjęcia pracy od zaraz.</li><li>Jesteś gotów do odbycia <b>płatnego szkolenia wstępnego</b przez pierwsze 2 tygodnie.</li><li>Preferujesz pracę w <b>systemie 4-brygadowym</b>.</li><li>Cenisz <b>wynagrodzenie podstawowe z premiami</b o charakterze frekwencyjnym i produkcyjnym.</li><li>Potrzebujesz <b>bezpłatnego transportu pracowniczego</b z wymienionych lokalizacji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004723716,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-produkcji-m-k-dabrowa-gornicza,oferta,1004723716",
+      "displayWorkplace": "Dąbrowa Górnicza",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004723716",
+      "title": "Pracownik produkcji (m/k)",
+      "company": "Personnel Service Polska sp. z o.o.",
+      "salary": "5 500–7 000 zł brutto / mies.",
+      "location": "Dąbrowa Górnicza",
+      "description": "Twój zakres obowiązków, Kontrola odlewów tarcz i hamulców, Przygotowanie materiałów do produkcji, Ustawianie maszyn produkcyjnych, Raportowanie wyników pracy...",
+      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-m-k-dabrowa-gornicza,oferta,1004723716"
+    },
+    {
+      "groupId": "90270000-56be-0050-a554-08de8fd32706",
+      "jobTitle": "Operator lini produkcyjnej",
+      "companyName": "HR Work Force Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20081272",
+      "companyId": 20081272,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20081272/2c580000-43a8-f403-c320-08d98c8a416e_280x280.png",
+      "lastPublicated": "2026-04-13T11:03:00Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "5 544 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Praca polega na obsłudze procesu produkcyjnego siarkobetonów, w tym:, , - przygotowywaniu kruszyw do suszenia,, - dozowaniu surowców do mieszalnika głównego,, - mieszaniu i podawaniu gorącej masy betonowej (ok. 140°C) do...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20081272/mobile-banners/e00a0000-56be-0050-0e8d-08de8fde40e9.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>brak przeciwwskazań do pracy fizycznej</b>, zwłaszcza dotyczących kręgosłupa lub stawów.</li><li>Jesteś gotowy/gotowa do <b>pracy zmianowej</b>.</li><li>Cechujesz się <b>sumiennością, odpowiedzialnością i zaangażowaniem</b>.</li><li>Chcesz pracować przy <b>obsłudze produkcji siarkobetonów</b> z manualnym wykonywaniem zadań.</li><li>Oczekujesz <b>umowy zlecenie i stawki 33 zł brutto za godzinę</b>.</li><li>Zależy Ci na <b>pełnej opiece koordynatora i ubezpieczeniu na życie</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744122,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-lini-produkcyjnej-gliwice,oferta,1004744122",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744122",
+      "title": "Operator lini produkcyjnej",
+      "company": "HR Work Force Sp. z o.o.",
+      "salary": "5 544 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, Praca polega na obsłudze procesu produkcyjnego siarkobetonów, w tym:, , - przygotowywaniu kruszyw do suszenia,, - dozowaniu surowców do mieszalnika głównego,, - mieszaniu i podawaniu gorącej masy betonowej (ok. 140°C) do...",
+      "url": "https://www.pracuj.pl/praca/operator-lini-produkcyjnej-gliwice,oferta,1004744122"
+    },
+    {
+      "groupId": "00050000-56be-0050-4ac1-08de95561180",
+      "jobTitle": "Inkasent / Inkasentka - odczyty liczników energii elektrycznej",
+      "companyName": "ENERGO ZET sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20229240",
+      "companyId": 20229240,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20229240/03000000-bb2f-3863-e7d6-08d9ab420d32_280x280.png",
+      "lastPublicated": "2026-04-13T11:02:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "3 000–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Rzetelne i uczciwe oraz systematyczne odczytywanie liczników energii elektrycznej, jak i przesłanie danych odczytowych do TAURON Dystrybucja S.A. według harmonogramu przekazanego przez Koordynatora, Wizualne sprawdzanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz ważne <b>świadectwo kwalifikacyjne E</b> do 1 kV.</li><li>Masz <b>własny samochód i prawo jazdy kat. B</b>.</li><li>Jesteś <b>rzetelny, odpowiedzialny i sumienny</b> w wykonywaniu obowiązków.</li><li>Chcesz pracować <b>przede wszystkim w terenie i kontaktować się z ludźmi</b>.</li><li>Preferujesz <b>nienormowane godziny pracy</b> i elastyczność.</li><li>Interesuje Cię praca z wynagrodzeniem <b>uzależnionym od wykonanych odczytów</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004756509,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inkasent-inkasentka-odczyty-licznikow-energii-elektrycznej-katowice,oferta,1004756509",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004756509",
+      "title": "Inkasent / Inkasentka - odczyty liczników energii elektrycznej",
+      "company": "ENERGO ZET sp. z o.o.",
+      "salary": "3 000–10 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Rzetelne i uczciwe oraz systematyczne odczytywanie liczników energii elektrycznej, jak i przesłanie danych odczytowych do TAURON Dystrybucja S.A. według harmonogramu przekazanego przez Koordynatora, Wizualne sprawdzanie...",
+      "url": "https://www.pracuj.pl/praca/inkasent-inkasentka-odczyty-licznikow-energii-elektrycznej-katowice,oferta,1004756509"
+    },
+    {
+      "groupId": "dc2d0000-56be-0050-c719-08de867550d6",
+      "jobTitle": "Pracownik produkcji - operator maszyn",
+      "companyName": "SGP-Sorting Group Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20058959",
+      "companyId": 20058959,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20058959/342a0000-56be-0050-43fe-08dc53b3ebdb_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:57:55.593Z",
+      "expirationDate": "2026-04-19T21:59:59Z",
+      "salaryDisplayText": "5 455–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa maszyn produkcyjnych,, wizualna kontrola wyprodukowanych elementów,, wypełnianie raportów produkcyjnych....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20058959/mobile-banners/9b030000-5dac-0015-0336-08dbba77465c.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz dostępność do pracy w systemach <b>4B, 6D lub pn-pt</b>.</li><li>Zależy Ci na zatrudnieniu na <b>umowę o pracę tymczasową</b> z określonym wynagrodzeniem i dodatkami.</li><li>Posiadasz umiejętność <b>obsługi maszyn produkcyjnych</b> oraz wykonywania kontroli wizualnej.</li><li>Jesteś gotów/gotowa do pracy <b>w weekendy i na nocne zmiany</b> z dodatkowymi premiami.</li><li>Ceniasz <b>premie, dodatki na posiłki i możliwość zakwaterowania</b> (w tym dla osób z Ukrainy).</li><li>Masz chęć uczestniczyć w szkoleniach i podnosić kwalifikacje.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004720082,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-produkcji-operator-maszyn-tychy,oferta,1004720082",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004720082",
+      "title": "Pracownik produkcji - operator maszyn",
+      "company": "SGP-Sorting Group Poland Sp. z o.o.",
+      "salary": "5 455–6 000 zł brutto / mies.",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, obsługa maszyn produkcyjnych,, wizualna kontrola wyprodukowanych elementów,, wypełnianie raportów produkcyjnych....",
+      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-operator-maszyn-tychy,oferta,1004720082"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-51f6-08de99499272",
+      "jobTitle": "Elektromonter / Elektromonterka Szaf Sterowniczych",
+      "companyName": "PROPOINT S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20075212",
+      "companyId": 20075212,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20075212/7c2f0000-56be-0050-7b9b-08dd8d6b6315_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:51:28.033Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 5 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, prefabrykowanie szaf elektrycznych zasilających oraz sterowniczych,, prowadzenie dokumentacji list materiałowych,, realizację projektu w oparciu o dokumentację techniczną oraz standard klienta,, raportowanie braków...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2 lata doświadczenia w <b>budowaniu szaf sterowniczych</b> lub krótsze w roli juniora.</li><li>Posiadasz <b>uprawnienia SEP 1kV</b> oraz umiesz czytać dokumentację techniczną.</li><li>Potrafisz realizować prefabrykację zgodnie z dokumentacją i standardami klienta.</li><li>Cenisz <b>pracę w systemie jednozmianowym</b> oraz udział w międzynarodowych projektach.</li><li>Oczekujesz pakietu <b>benefitów pozapłacowych</b>, w tym opieki medycznej i ubezpieczenia.</li><li>Masz prawo jazdy kat. B i umiesz organizować własną pracę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766734,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/elektromonter-elektromonterka-szaf-sterowniczych-gliwice-bojkowska-37r,oferta,1004766734",
+      "displayWorkplace": "Gliwice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.27812957763672,
+        "longitude": 18.687746047973633
+      },
+      "distanceInKilometers": 23.8,
+      "id": "1004766734",
+      "title": "Elektromonter / Elektromonterka Szaf Sterowniczych",
+      "company": "PROPOINT S.A.",
+      "salary": "od 5 000 zł brutto / mies.",
+      "location": "Gliwice",
+      "description": "Twój zakres obowiązków, prefabrykowanie szaf elektrycznych zasilających oraz sterowniczych,, prowadzenie dokumentacji list materiałowych,, realizację projektu w oparciu o dokumentację techniczną oraz standard klienta,, raportowanie braków...",
+      "url": "https://www.pracuj.pl/praca/elektromonter-elektromonterka-szaf-sterowniczych-gliwice-bojkowska-37r,oferta,1004766734"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-9103-08de85ac4170",
+      "jobTitle": "Opiekun/Opiekunka osoby starszej - z zamieszkaniem u Podopiecznego",
+      "companyName": "Synergie Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20013037",
+      "companyId": 20013037,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T10:46:33.757Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "4 300–5 300 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, pomoc w codziennych czynnościach (m.in. karmienie, pomoc w ubieraniu i rozbieraniu, asysta przy wstawaniu z łóżka),, pomoc przy higienie osobistej,, pomoc w regularnym przyjmowaniu leków, , drobne prace domowe (np.:...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 6 miesięcy doświadczenia</b> w opiece nad osobą starszą lub chorą, także w formie rodzinnej.</li><li>Jesteś gotowy/gotowa na <b>zamieszkanie u Podopiecznego przez co najmniej 6 tygodni</b>.</li><li>Potrafisz <b>prowadzić gospodarstwo domowe</b> (gotowanie, sprzątanie, zakupy) i wspierać w codziennych czynnościach.</li><li>Cenisz <b>legalne zatrudnienie z terminową wypłatą</b> oraz <b>wysokie wynagrodzenie</b> za pracę z zamieszkaniem.</li><li>Zależy Ci na <b>kompleksowej organizacji</b> (dojazd, zakwaterowanie, wyżywienie) i możliwości <b>prywatnego ubezpieczenia medycznego</b>.</li><li>Chcesz mieć <b>wsparcie zespołu</b> i możliwość <b>polecenia innych opiekunów</b> z dodatkową premią.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717367,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/opiekun-opiekunka-osoby-starszej-z-zamieszkaniem-u-podopiecznego-zabrze,oferta,1004717367",
+      "displayWorkplace": "Zabrze",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717367",
+      "title": "Opiekun/Opiekunka osoby starszej - z zamieszkaniem u Podopiecznego",
+      "company": "Synergie Poland Sp. z o.o.",
+      "salary": "4 300–5 300 zł brutto / mies.",
+      "location": "Zabrze",
+      "description": "Twój zakres obowiązków, pomoc w codziennych czynnościach (m.in. karmienie, pomoc w ubieraniu i rozbieraniu, asysta przy wstawaniu z łóżka),, pomoc przy higienie osobistej,, pomoc w regularnym przyjmowaniu leków, , drobne prace domowe (np.:...",
+      "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-osoby-starszej-z-zamieszkaniem-u-podopiecznego-zabrze,oferta,1004717367"
+    },
+    {
+      "groupId": "ec400000-56be-0050-e7ae-08de96ed6875",
+      "jobTitle": "Spawacz MIG (aluminium) (m/k)",
+      "companyName": "SGP-Sorting Group Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20058959",
+      "companyId": 20058959,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20058959/f0260000-56be-0050-e702-08dcec39ac38_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:45:18.407Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "60–72 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, spawanie aluminiowych elementów z branży kolejowej,, wizualna kontrola jakości wykonywanych spawów....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Informacja o wysokości wynagrodzenia, w tym o przedziale wynagrodzenia, wszystkich jego składnikach oraz zasadach wynagradzania, zostanie przekazana kandydatom w trakcie trwania procesu rekrutacyjnego, zgodnie z obowiązującymi przepisami dotyczącymi jawności wynagrodzeń."
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20058959/mobile-banners/9b030000-5dac-0015-0336-08dbba77465c.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>ważne uprawnienia MIG 131</b> i doświadczenie w spawaniu aluminium.</li><li>Jesteś gotowy do <b>pracy zmianowej</b> od poniedziałku do piątku.</li><li>Posiadasz minimum roczne doświadczenie w <b>spawaniu aluminiowych elementów</b>, szczególnie w branży kolejowej.</li><li>Cenisz elastyczność form współpracy, wybierając <b>umowę zlecenie lub B2B</b> z atrakcyjnym wynagrodzeniem.</li><li>Chcesz korzystać ze wsparcia koordynatora oraz możliwości <b>bonusu za polecenie</b> nowej osoby do pracy.</li><li>Mile widziane są kursy na <b>palnik gazowy lub suwnice</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004762617,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/spawacz-mig-aluminium-m-k-bytom,oferta,1004762617",
+      "displayWorkplace": "Bytom",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004762617",
+      "title": "Spawacz MIG (aluminium) (m/k)",
+      "company": "SGP-Sorting Group Poland Sp. z o.o.",
+      "salary": "60–72 zł / godz. (zal. od umowy)",
+      "location": "Bytom",
+      "description": "Twój zakres obowiązków, spawanie aluminiowych elementów z branży kolejowej,, wizualna kontrola jakości wykonywanych spawów....",
+      "url": "https://www.pracuj.pl/praca/spawacz-mig-aluminium-m-k-bytom,oferta,1004762617"
+    },
+    {
+      "groupId": "fc380000-56be-0050-dfe0-08de8419783f",
+      "jobTitle": "Area Manager - Kierownik / Kierowniczka Obszaru",
+      "companyName": "Amazon",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20398476",
+      "companyId": 20398476,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20398476/2c580000-43a8-f403-1ef3-08d9049b870d_280x280.png",
+      "lastPublicated": "2026-04-13T10:38:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "9 683 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Tworzenie, nadzorowanie i promowanie kultury bezpieczeństwa i zadowolenia z pracy, Analizowanie i wdrażanie modyfikacji w celu zapewnienia jakości i wydajności na stałym, wysokim poziomie, Nadzorowanie projektów mających na...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w kierowaniu zespołem</b> i zarządzaniu procesami operacyjnymi.</li><li>Posiadasz <b>wykształcenie wyższe</b> oraz biegłą znajomość <b>języka angielskiego i polskiego</b>.</li><li>Umiesz podejmować decyzje na podstawie <b>danych analitycznych i empirycznych</b>.</li><li>Zależy Ci na <b>wdrażaniu standardów bezpieczeństwa i optymalizacji procesów</b>.</li><li>Masz doświadczenie we współpracy z różnymi partnerami biznesowymi.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna, ubezpieczenie i pakiet relokacyjny</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004711753,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/area-manager-kierownik-kierowniczka-obszaru-sosnowiec,oferta,1004711753",
+      "displayWorkplace": "Sosnowiec",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004711753",
+      "title": "Area Manager - Kierownik / Kierowniczka Obszaru",
+      "company": "Amazon",
+      "salary": "9 683 zł brutto / mies.",
+      "location": "Sosnowiec",
+      "description": "Twój zakres obowiązków, Tworzenie, nadzorowanie i promowanie kultury bezpieczeństwa i zadowolenia z pracy, Analizowanie i wdrażanie modyfikacji w celu zapewnienia jakości i wydajności na stałym, wysokim poziomie, Nadzorowanie projektów mających na...",
+      "url": "https://www.pracuj.pl/praca/area-manager-kierownik-kierowniczka-obszaru-sosnowiec,oferta,1004711753"
+    },
+    {
+      "groupId": "2c2d0000-56be-0050-c157-08de8a6270f2",
+      "jobTitle": "Manual Tester",
+      "companyName": "Scalo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20048614",
+      "companyId": 20048614,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20048614/03000000-bb2f-3863-d424-08d930062d01_280x280.png",
+      "lastPublicated": "2026-04-13T10:37:58.16Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "90 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, udział w projekcie realizowanym w nowoczesnym środowisku technologicznym,, tworzenie przypadków testowych oraz raportów testowych w oparciu o plan testów,, kierowanie działaniami testowymi w ramach projektu,, tworzenie,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20048614/mobile-banners/04070000-56be-0050-2566-08de6f9a9631.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia jako <b>Inżynier Testów</b> i certyfikat <b>ISTQB Foundation</b>.</li><li>Posiadasz praktyczną znajomość <b>testów API, UX oraz automatyzacji testów</b>.</li><li>Pracujesz z narzędziami <b>Jira i Confluence</b> oraz znasz cykl życia oprogramowania.</li><li>Posługujesz się językiem angielskim na poziomie <b>minimum B2</b> w mowie i piśmie.</li><li>Cenisz <b>pracę hybrydową</b> z częstą obecnością w biurze w Katowicach.</li><li>Chcesz uczestniczyć w różnorodnych projektach i mieć dostęp do <b>benefitów medycznych, sportowych i programów rekomendacji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004729449,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/manual-tester-katowice,oferta,1004729449",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004729449",
+      "title": "Manual Tester",
+      "company": "Scalo Sp. z o.o.",
+      "salary": "90 zł netto (+ VAT) / godz.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, udział w projekcie realizowanym w nowoczesnym środowisku technologicznym,, tworzenie przypadków testowych oraz raportów testowych w oparciu o plan testów,, kierowanie działaniami testowymi w ramach projektu,, tworzenie,...",
+      "url": "https://www.pracuj.pl/praca/manual-tester-katowice,oferta,1004729449"
+    },
+    {
+      "groupId": "581b0000-56be-0050-e353-08de84e8fb87",
+      "jobTitle": "Mechanik autokarów i pojazdów ciężkich",
+      "companyName": "DANIEL BARTOSZ \"DANIEL TOURIST JUNIOR\"",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074022188",
+      "companyId": 1074022188,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074022188/9b030000-5dac-0015-f725-08da581195b4_280x280.png",
+      "lastPublicated": "2026-04-13T10:32:34.587Z",
+      "expirationDate": "2026-04-19T21:59:59Z",
+      "salaryDisplayText": "6 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Diagnozowanie i naprawa usterek mechanicznych pojazdów, Przeprowadzanie przeglądów technicznych i serwisowych, Konserwacja i wymiana części samochodowych, Utrzymywanie porządku i standardów BHP...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074022188/mobile-banners/b0380000-56be-0050-3ec4-08de86767215.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie zawodowe</b> w mechanice autokarów lub pojazdów ciężkich.</li><li>Posiadasz <b>umiejętność diagnozowania i naprawy usterek mechanicznych</b>.</li><li>Znajomość <b>narzędzi i technologii mechanicznych</b> oraz <b>prawo jazdy kat. B</b> jest dla Ciebie standardem.</li><li>Cenisz <b>atrakcyjne wynagrodzenie</b> oraz <b>ubezpieczenie na życie</b>.</li><li>Jesteś gotowy do pracy <b>od zaraz</b> i zależy Ci na utrzymaniu standardów <b>BHP</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004719922,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mechanik-autokarow-i-pojazdow-ciezkich-sosnowiec-kosynierow-2c,oferta,1004719922",
+      "displayWorkplace": "Sosnowiec",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.30540084838867,
+        "longitude": 19.19942283630371
+      },
+      "distanceInKilometers": 17.2,
+      "id": "1004719922",
+      "title": "Mechanik autokarów i pojazdów ciężkich",
+      "company": "DANIEL BARTOSZ \"DANIEL TOURIST JUNIOR\"",
+      "salary": "6 000–9 000 zł brutto / mies.",
+      "location": "Sosnowiec",
+      "description": "Twój zakres obowiązków, Diagnozowanie i naprawa usterek mechanicznych pojazdów, Przeprowadzanie przeglądów technicznych i serwisowych, Konserwacja i wymiana części samochodowych, Utrzymywanie porządku i standardów BHP...",
+      "url": "https://www.pracuj.pl/praca/mechanik-autokarow-i-pojazdow-ciezkich-sosnowiec-kosynierow-2c,oferta,1004719922"
+    },
+    {
+      "groupId": "9c440000-56be-0050-af8a-08de90d772b8",
+      "jobTitle": "Doradca / Doradczyni Klienta Biznesowego Orange Polska",
+      "companyName": "GTI Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/8611557",
+      "companyId": 8611557,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/8611557/2c580000-43a8-f403-65b6-08d8c21c8acd_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:31:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "8 000–15 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, doradztwo i sprzedaż usług w zakresie rozwiązań telekomunikacyjnych oraz ICT dla klientów biznesowych, negocjacje i przygotowanie ofert handlowych, pozyskiwanie nowych klientów oraz obsługa posprzedażowa, realizacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/8611557/mobile-banners/8c210000-56be-0050-9f85-08dd7b66da0e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży i obsłudze klientów</b>, preferencyjnie w telekomunikacji.</li><li>Chcesz realizować <b>cele sprzedażowe</b> i prowadzić negocjacje oraz przygotowywać oferty handlowe.</li><li>Cenisz <b>program wdrożeniowy, szkolenia produktowe i sprzedażowe</b>.</li><li>Interesuje Cię praca z <b>nowymi i obecnymi klientami biznesowymi</b> w obszarze ICT i telekomunikacji.</li><li>Oczekujesz <b>atrakcyjnych premii, prowizji oraz konkursów z nagrodami</b>.</li><li>Doceniasz wsparcie <b>doświadczonych menedżerów oraz benefity takie jak dofinansowanie sportu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750197,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-biznesowego-orange-polska-katowice,oferta,1004750197",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750197",
+      "title": "Doradca / Doradczyni Klienta Biznesowego Orange Polska",
+      "company": "GTI Sp. z o.o.",
+      "salary": "8 000–15 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, doradztwo i sprzedaż usług w zakresie rozwiązań telekomunikacyjnych oraz ICT dla klientów biznesowych, negocjacje i przygotowanie ofert handlowych, pozyskiwanie nowych klientów oraz obsługa posprzedażowa, realizacja...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-biznesowego-orange-polska-katowice,oferta,1004750197"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-4b71-08de9946ca81",
+      "jobTitle": "Pracownik Sklepu (M/K)",
+      "companyName": "TEDi Sieć Handlowa Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20297387",
+      "companyId": 20297387,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20297387/03000000-bb2f-3863-f1f8-08d8c9e07c4a_280x280.png",
+      "lastPublicated": "2026-04-13T10:29:54.56Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 4 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosować się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20297387/mobile-banners/342a0000-56be-0050-10b2-08dc3ea01943.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dyspozycyjność do pracy zmianowej i w weekendy</b>.</li><li>Potrafisz obsługiwać <b>kasę fiskalną i realizować zadania zgodnie z procedurami</b>.</li><li>Ważna jest dla Ciebie <b>praca zespołowa i dobra komunikacja</b>.</li><li>Posiadasz <b>doświadczenie w pracy w sieci handlowej</b> – to dodatkowy atut.</li><li>Cenisz <b>elastyczne godziny pracy oraz wynagrodzenie wypłacane na czas</b>.</li><li>Chcesz korzystać z <b>dodatkowych benefitów, takich jak ubezpieczenie na życie i zniżki na firmowe produkty</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766577,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-chorzow-szpitalna-16,oferta,1004766577",
+      "displayWorkplace": "Chorzów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.27714157104492,
+        "longitude": 18.941654205322266
+      },
+      "distanceInKilometers": 8.5,
+      "id": "1004766577",
+      "title": "Pracownik Sklepu (M/K)",
+      "company": "TEDi Sieć Handlowa Sp. z o.o.",
+      "salary": "od 4 850 zł brutto / mies.",
+      "location": "Chorzów",
+      "description": "Twój zakres obowiązków, obsługa kasy fiskalnej zgodnie z obowiązującymi procedurami wewnętrznymi,, eksponowanie towaru według ustalonych w sieci zasad,, stosować się do procedur wewnętrznych pracodawcy,, dbanie o czystość i porządek na sali...",
+      "url": "https://www.pracuj.pl/praca/pracownik-sklepu-m-k-chorzow-szpitalna-16,oferta,1004766577"
+    },
+    {
+      "groupId": "a80d0000-56be-0050-2f56-08de84291b90",
+      "jobTitle": "Regionalny przedstawiciel handlowy B2B (Rynek premium)",
+      "companyName": "SCANDINAVIAN BABY PIOTR DMOWSKI SPÓŁKA KOMANDYTOWA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074108795",
+      "companyId": 1074108795,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074108795/ee4d0000-5df0-0015-4a19-08da8f33295a_280x280.png",
+      "lastPublicated": "2026-04-13T10:29:36.98Z",
+      "expirationDate": "2026-05-02T21:59:59Z",
+      "salaryDisplayText": "9 000–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Budowanie długofalowych relacji i zaufania: dbasz o to, by właściciele i pracownicy salonów czuli Twoje wsparcie. Nie jesteś osobą od „zbierania zamówień” ale partnerem, który bierze odpowiedzialność za sukces naszych marek...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074108795/mobile-banners/14090000-56be-0050-5638-08de4168c4b2.png",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074108795/desktop-banners/80130000-56be-0050-b7fe-08de4166add3.png",
+      "aiSummary": "<ul><li>Masz <b>minimum 3 lata doświadczenia w sprzedaży B2B</b>, najlepiej z produktami premium.</li><li>Potrafisz <b>budować długofalowe relacje</b> i wspierać klientów na wysokim poziomie.</li><li>Posiadasz umiejętność <b>prowadzenia szkoleń produktowych</b> oraz <b>zarządzania ekspozycją</b> w sklepach.</li><li>Wyróżnia Cię <b>samodzielność, dobra organizacja pracy</b> oraz znajomość systemów CRM.</li><li>Posługujesz się <b>językiem angielskim na poziomie B2</b> i masz prawo jazdy kat. B.</li><li>Cenisz <b>pracę w modelu hybrydowym</b> z narzędziami służbowymi i systemem premiowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717295,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-b2b-rynek-premium-katowice,oferta,1004717295",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717295",
+      "title": "Regionalny przedstawiciel handlowy B2B (Rynek premium)",
+      "company": "SCANDINAVIAN BABY PIOTR DMOWSKI SPÓŁKA KOMANDYTOWA",
+      "salary": "9 000–15 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Budowanie długofalowych relacji i zaufania: dbasz o to, by właściciele i pracownicy salonów czuli Twoje wsparcie. Nie jesteś osobą od „zbierania zamówień” ale partnerem, który bierze odpowiedzialność za sukces naszych marek...",
+      "url": "https://www.pracuj.pl/praca/regionalny-przedstawiciel-handlowy-b2b-rynek-premium-katowice,oferta,1004717295"
+    },
+    {
+      "groupId": "882b0000-56be-0050-f37e-08de91626b85",
+      "jobTitle": "Kierownik / Kierowniczka Zespołu w Biurze Sprzedaży",
+      "companyName": "BARI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20178080",
+      "companyId": 20178080,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20178080/9b030000-5dac-0015-d783-08da6fd41c8c_280x280.png",
+      "lastPublicated": "2026-04-13T10:25:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Budowanie własnego zespołu sprzedażowego poprzez działania rekrutacyjne i wdrożeniowe (przy wsparciu osoby z HR oraz doświadczonego Menedżera), Zarządzanie procesem pozyskiwania Klientów Indywidualnych i Biznesowych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży</b> i chcesz rozwijać zespół od podstaw.</li><li>Stawiasz na <b>osiąganie celów</b> i efektywne zarządzanie czasem pracy.</li><li>Posiadasz <b>predyspozycje menedżerskie</b> i umiejętności negocjacyjne.</li><li>Jesteś dyspozycyjny do pracy w regionie oraz zdalnie.</li><li>Cenisz <b>profesjonalne szkolenia</b> i jasną ścieżkę awansu.</li><li>Doceniasz <b>dodatkowe benefity</b> takie jak opieka medyczna, dofinansowanie szkoleń i elastyczny czas pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750148,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-kierowniczka-zespolu-w-biurze-sprzedazy-tychy,oferta,1004750148",
+      "displayWorkplace": "Tychy",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750148",
+      "title": "Kierownik / Kierowniczka Zespołu w Biurze Sprzedaży",
+      "company": "BARI",
+      "salary": "7 000 zł / mies. (zal. od umowy)",
+      "location": "Tychy",
+      "description": "Twój zakres obowiązków, Budowanie własnego zespołu sprzedażowego poprzez działania rekrutacyjne i wdrożeniowe (przy wsparciu osoby z HR oraz doświadczonego Menedżera), Zarządzanie procesem pozyskiwania Klientów Indywidualnych i Biznesowych...",
+      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-zespolu-w-biurze-sprzedazy-tychy,oferta,1004750148"
+    },
+    {
+      "groupId": "882b0000-56be-0050-d492-08de915bbd50",
+      "jobTitle": "Doradca Handlowy – Odnawialne Źródła Energii",
+      "companyName": "POWERFUL ENERGY",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074192949",
+      "companyId": 1074192949,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074192949/00260000-56be-0050-5687-08dd1a4137df_280x280.png",
+      "lastPublicated": "2026-04-13T10:22:11.667Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "5 000–35 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, PRACA W OZE – ZARABIAJ TYLE, ILE CHCESZ!, Doradca Techniczno-Handlowy – Odnawialne Źródła Energii, , Chcesz pracować w branży, która zmienia świat na lepsze? Szukasz pracy, w której Twoje zaangażowanie przekłada się na...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> i chęć pracy w terenie.</li><li>Lubisz <b>kontakt z klientami</b> i budowanie relacji biznesowych.</li><li>Jesteś <b>samodzielny/a</b> i nastawiony/a na osiąganie wyników.</li><li>Interesujesz się <b>odnawialnymi źródłami energii</b> lub chcesz zdobyć doświadczenie w tej branży.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz pakiet narzędzi i wsparcie sprzedażowe.</li><li>Chcesz zarabiać adekwatnie do zaangażowania i efektywności.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750089,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-handlowy-odnawialne-zrodla-energii-katowice,oferta,1004750089",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750089",
+      "title": "Doradca Handlowy – Odnawialne Źródła Energii",
+      "company": "POWERFUL ENERGY",
+      "salary": "5 000–35 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, PRACA W OZE – ZARABIAJ TYLE, ILE CHCESZ!, Doradca Techniczno-Handlowy – Odnawialne Źródła Energii, , Chcesz pracować w branży, która zmienia świat na lepsze? Szukasz pracy, w której Twoje zaangażowanie przekłada się na...",
+      "url": "https://www.pracuj.pl/praca/doradca-handlowy-odnawialne-zrodla-energii-katowice,oferta,1004750089"
+    },
+    {
+      "groupId": "fc230000-56be-0050-c14f-08de8b27f89e",
+      "jobTitle": "Elektryk",
+      "companyName": "Petrobit Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20383442",
+      "companyId": 20383442,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20383442/2c580000-43a8-f403-5e1a-08d98e395a8e_280x280.png",
+      "lastPublicated": "2026-04-13T10:18:16.913Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "7 000–12 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, serwis, montaż i przeglądy instalacji elektrycznych na stacjach paliw,, diagnostyka i usuwanie awarii urządzeń elektrycznych,, wykonywanie pomiarów elektrycznych oraz raportowanie wyników,, współpraca z działem technicznym...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20383442/mobile-banners/2c580000-43a8-f403-8d35-08d9fd19198c.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne elektryczne</b> i uprawnienia SEP do 1 kV.</li><li>Posiadasz doświadczenie w serwisie lub instalacjach przemysłowych oraz prawo jazdy kat. B.</li><li>Potrafisz samodzielnie diagnozować i usuwać awarie urządzeń elektrycznych.</li><li>Cenisz <b>stabilne zatrudnienie z atrakcyjnym wynagrodzeniem</b> i narzędzia pracy takie jak samochód służbowy.</li><li>Interesuje Cię udział w <b>szkoleniach technicznych i branżowych</b>.</li><li>Doceniasz <b>elastyczny czas pracy i dofinansowanie kursów</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004732247,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/elektryk-katowice,oferta,1004732247",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004732247",
+      "title": "Elektryk",
+      "company": "Petrobit Sp. z o.o.",
+      "salary": "7 000–12 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, serwis, montaż i przeglądy instalacji elektrycznych na stacjach paliw,, diagnostyka i usuwanie awarii urządzeń elektrycznych,, wykonywanie pomiarów elektrycznych oraz raportowanie wyników,, współpraca z działem technicznym...",
+      "url": "https://www.pracuj.pl/praca/elektryk-katowice,oferta,1004732247"
+    },
+    {
+      "groupId": "c01b0000-56be-0050-99ec-08de980c1dc9",
+      "jobTitle": "Kasjer / Kasjerka - Sprzedawca / Sprzedawczyni",
+      "companyName": "Nicola Gulba",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074219330",
+      "companyId": 1074219330,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T10:14:47.72Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "1–31,40 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wykładanie towaru, Obsługa kasy fiskalnej, Obsługa Lotto (dostęp do szkoleń pokrywa pracodawca), Dbanie o estetykę, Przestrzeganie zapoznanych standardów sieci Żabka, Sprawdzanie dat ważności towaru, Utrzymanie porządku na...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>książeczkę sanepidowską</b> i jesteś gotów do pracy przy obsłudze kasy fiskalnej oraz Lotto.</li><li>Jesteś <b>sumienny, punktualny i dokładny</b>, dbając o estetykę i porządek na stanowisku.</li><li>Zależy Ci na wykonywaniu obowiązków zgodnie z obowiązującymi <b>standardami sieci Żabka</b>.</li><li>Chcesz pracować na podstawie <b>umowy o pracę</b> z dostępem do szkoleń oraz różnorodnymi premiami.</li><li>Posiadasz lub chcesz zdobyć <b>doświadczenie w handlu</b>, także bez wcześniejszego doświadczenia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766505,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kasjer-kasjerka-sprzedawca-sprzedawczyni-tarnowskie-gory-slonecznikow-41,oferta,1004766505",
+      "displayWorkplace": "Tarnowskie Góry",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.43360900878906,
+        "longitude": 18.867273330688477
+      },
+      "distanceInKilometers": 26.4,
+      "id": "1004766505",
+      "title": "Kasjer / Kasjerka - Sprzedawca / Sprzedawczyni",
+      "company": "Nicola Gulba",
+      "salary": "1–31,40 zł / godz. (zal. od umowy)",
+      "location": "Tarnowskie Góry",
+      "description": "Twój zakres obowiązków, Wykładanie towaru, Obsługa kasy fiskalnej, Obsługa Lotto (dostęp do szkoleń pokrywa pracodawca), Dbanie o estetykę, Przestrzeganie zapoznanych standardów sieci Żabka, Sprawdzanie dat ważności towaru, Utrzymanie porządku na...",
+      "url": "https://www.pracuj.pl/praca/kasjer-kasjerka-sprzedawca-sprzedawczyni-tarnowskie-gory-slonecznikow-41,oferta,1004766505"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-3f9f-08de96e4c916",
+      "jobTitle": "Senior Java Developer",
+      "companyName": "Scalo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20048614",
+      "companyId": 20048614,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20048614/03000000-bb2f-3863-d424-08d930062d01_280x280.png",
+      "lastPublicated": "2026-04-13T10:10:39.463Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "110–140 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, uczestnictwo w projekcie dot. branży bankowej,, rozwój, projektowanie i programowanie istniejących oraz nowych modułów w aplikacjach bankowych,, udział w opracowywaniu architektury systemu i projektów technicznych,,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20048614/mobile-banners/04070000-56be-0050-2566-08de6f9a9631.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 5 lat doświadczenia w <b>programowaniu w Java 21</b> i znajomość <b>Spring Boot</b>.</li><li>Pracujesz z <b>technologiami chmurowymi</b>, szczególnie <b>Kubernetesem i Google Cloud Platform</b>.</li><li>Znasz <b>wzorce projektowe</b> i masz doświadczenie w <b>architekturze mikroserwisów</b>.</li><li>Uczestniczysz w projektach związanych z <b>branżą bankową</b> oraz integracją systemów.</li><li>Cenisz <b>pracę zdalną</b> z możliwością okazjonalnej obecności w biurze w Warszawie lub Katowicach.</li><li>Zależy Ci na <b>wsparciu produkcyjnym aplikacji</b> i współtworzeniu standardów technicznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004762431,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-java-developer-katowice,oferta,1004762431",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004762431",
+      "title": "Senior Java Developer",
+      "company": "Scalo Sp. z o.o.",
+      "salary": "110–140 zł netto (+ VAT) / godz.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, uczestnictwo w projekcie dot. branży bankowej,, rozwój, projektowanie i programowanie istniejących oraz nowych modułów w aplikacjach bankowych,, udział w opracowywaniu architektury systemu i projektów technicznych,,...",
+      "url": "https://www.pracuj.pl/praca/senior-java-developer-katowice,oferta,1004762431"
+    },
+    {
+      "groupId": "6c1d0000-56be-0050-32c2-08de8a5be694",
+      "jobTitle": "Specjalista / Specjalistka ds. Marketingu i Rozwoju Biznesu | Marketing and Business Development Specialist, (m/f)",
+      "companyName": "Euro-Locks Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/9270785",
+      "companyId": 9270785,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/9270785/2c580000-43a8-f403-6d84-08d8e894b679_280x280.png",
+      "lastPublicated": "2026-04-13T10:09:36.37Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "6 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, planning and implementing marketing activities supporting B2B sales,, running marketing campaigns, including: mailing and social media activities,, generating sales leads and follow-up activities,, developing and updating...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>B2B marketingu i wspieraniu sprzedaży</b> w branży produkcyjnej, najlepiej technicznej.</li><li>Posiadasz <b>umiejętność organizacji i realizacji kampanii marketingowych oraz wydarzeń branżowych</b>.</li><li>Posługujesz się <b>bardzo dobrze językiem angielskim i znasz podstawy techniczne</b> produktów.</li><li>Potrafisz <b>samodzielnie zarządzać wieloma projektami</b> i <b>budować relacje biznesowe</b>.</li><li>Jesteś gotowy do <b>podróży służbowych w kraju i za granicą</b>.</li><li>Ceniasz pracę w <b>międzynarodowym środowisku z szerokim zakresem obowiązków</b> marketingu i rozwoju biznesu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004729333,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-marketingu-i-rozwoju-biznesu-marketing-and-business-ruda-slaska-pawla-29,oferta,1004729333",
+      "displayWorkplace": "Ruda Śląska",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.30904769897461,
+        "longitude": 18.875431060791016
+      },
+      "distanceInKilometers": 14.1,
+      "id": "1004729333",
+      "title": "Specjalista / Specjalistka ds. Marketingu i Rozwoju Biznesu | Marketing and Business Development Specialist, (m/f)",
+      "company": "Euro-Locks Sp. z o.o.",
+      "salary": "6 000–10 000 zł brutto / mies.",
+      "location": "Ruda Śląska",
+      "description": "Twój zakres obowiązków, planning and implementing marketing activities supporting B2B sales,, running marketing campaigns, including: mailing and social media activities,, generating sales leads and follow-up activities,, developing and updating...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-marketingu-i-rozwoju-biznesu-marketing-and-business-ruda-slaska-pawla-29,oferta,1004729333"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-97cb-08de993fe5ca",
+      "jobTitle": "Kierowca C CE C+E Międzynarodowy Tandem (k/m)",
+      "companyName": "Grzegorz Żmigrodzki KUBAS-TRANS",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20428443",
+      "companyId": 20428443,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20428443/402c0000-56be-0050-89bc-08de99412ae2_280x280.png",
+      "lastPublicated": "2026-04-13T10:05:15.137Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "14 000–16 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Praca na trasach Polska-Francja, Kółka między 6-10 dni 2/3 razy w miesiącu, Jazda na Tandem, Samochód przypisany do kierowcy, Dniówka = 500 zł netto...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>aktualne prawo jazdy kat. C i C+E</b> oraz <b>kurs przewozu rzeczy</b>.</li><li>Jesteś gotowy na <b>prace w trasach Polska–Francja</b> z cyklem 6–10 dni, 2–3 razy w miesiącu.</li><li>Masz <b>aktualną kartę kierowcy i badania lekarskie</b> wymagane do wykonywania zawodu.</li><li>Cenisz <b>umowę o pracę z pełnym ZUS</b> oraz <b>wynagrodzenie wypłacane po trasie lub miesięcznie</b>.</li><li>Interesuje Cię <b>stałe przypisanie pojazdu oraz zaplanowane trasy</b>.</li><li>Doceniasz <b>wsparcie formalne i dostęp do zaplecza parkingowego oraz stref odpoczynku</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766443,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-c-ce-c%2be-miedzynarodowy-tandem-k-m-sosnowiec,oferta,1004766443",
+      "displayWorkplace": "Sosnowiec",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004766443",
+      "title": "Kierowca C CE C+E Międzynarodowy Tandem (k/m)",
+      "company": "Grzegorz Żmigrodzki KUBAS-TRANS",
+      "salary": "14 000–16 000 zł brutto / mies.",
+      "location": "Sosnowiec",
+      "description": "Twój zakres obowiązków, Praca na trasach Polska-Francja, Kółka między 6-10 dni 2/3 razy w miesiącu, Jazda na Tandem, Samochód przypisany do kierowcy, Dniówka = 500 zł netto...",
+      "url": "https://www.pracuj.pl/praca/kierowca-c-ce-c%2be-miedzynarodowy-tandem-k-m-sosnowiec,oferta,1004766443"
+    },
+    {
+      "groupId": "7c310000-56be-0050-0801-08de8beed6fa",
+      "jobTitle": "Agent / Agentka ds. nieruchomości",
+      "companyName": "TUR NIERUCHOMOŚCI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074045398",
+      "companyId": 1074045398,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074045398/2c580000-43a8-f403-4f1b-08d95d7a1587_280x280.jpg",
+      "lastPublicated": "2026-04-13T10:02:00Z",
+      "expirationDate": "2026-05-11T21:59:59Z",
+      "salaryDisplayText": "6 000–30 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Działać lokalnie, budując swoją rozpoznawalność jako ekspert w nieruchomościach., Pozyskiwać oferty i klientów – nie tylko przez telefon, ale przede wszystkim dzięki naszej strategii widoczności i poleceń., Spotykać się z...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074045398/mobile-banners/03000000-bb2f-3863-595a-08d9bbb57203.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>otwartość na ludzi</b> i gotowość do działania bez wymaganego doświadczenia w nieruchomościach.</li><li>Preferujesz <b>samodzielną pracę</b> z dobrą organizacją czasu oraz gotowość do pracy w terenie i biurze.</li><li>Chcesz korzystać z <b>wsparcia mentora i systemu szkoleń</b> od podstaw po zaawansowane etapy kariery.</li><li>Zależy Ci na pracy z <b>gotowymi narzędziami marketingowymi, CRM i systemami pracy</b>.</li><li>Interesujesz się udziałem w <b>programie poleceń i jasnej ścieżce kariery</b> w branży nieruchomości.</li><li>Doceniasz <b>elastyczne godziny pracy</b> oraz możliwość częściowej pracy zdalnej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004734753,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-ds-nieruchomosci-katowice,oferta,1004734753",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004734753",
+      "title": "Agent / Agentka ds. nieruchomości",
+      "company": "TUR NIERUCHOMOŚCI",
+      "salary": "6 000–30 000 zł / mies. (zal. od umowy)",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Działać lokalnie, budując swoją rozpoznawalność jako ekspert w nieruchomościach., Pozyskiwać oferty i klientów – nie tylko przez telefon, ale przede wszystkim dzięki naszej strategii widoczności i poleceń., Spotykać się z...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-ds-nieruchomosci-katowice,oferta,1004734753"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-15e8-08de859da708",
+      "jobTitle": "Staż Mechanik (K/M) - Akademia Techniczna Lipton",
+      "companyName": "Lipton Teas and Infusions",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074089046",
+      "companyId": 1074089046,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074089046/342a0000-56be-0050-af4c-08dc57c1b22b_280x280.png",
+      "lastPublicated": "2026-04-13T09:55:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "5 100 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Poznasz pracę w nowoczesnej, międzynarodowej firmie produkcyjnej z wysokimi standardami bezpieczeństwa, Będziesz pomagał w obsłudze i naprawie maszyn pakujących herbatę, Nauczysz się przeprowadzać konserwacje i remonty...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074089046/mobile-banners/342a0000-56be-0050-95b4-08dc57d35756.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074089046/desktop-banners/20160000-56be-0050-f1ed-08ddcb64e091.jpg",
+      "aiSummary": "<ul><li>Posiadasz <b>wykształcenie techniczne</b> w zakresie mechaniki, mechatroniki, automatyki, elektryki lub pokrewnych.</li><li>Jesteś gotowy do pracy na <b>3 zmiany w systemie czterobrygadowym</b> z dodatkiem za pracę zmianową.</li><li>Chcesz zdobyć <b>praktyczne doświadczenie w obsłudze i naprawie maszyn produkcyjnych</b> w międzynarodowej firmie.</li><li>Zależy Ci na <b>wdrażaniu usprawnień i wsparciu operatorów maszyn</b> w codziennej pracy.</li><li>Oczekujesz <b>umowy o pracę z premią oraz wsparcia doświadczonych specjalistów</b> podczas wdrożenia.</li><li>Doceniasz <b>dostęp do nowoczesnych narzędzi, automatyzację i benefity</b> takie jak prywatna opieka medyczna i dofinansowanie zajęć sportowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717137,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/staz-mechanik-k-m-akademia-techniczna-lipton-katowice-kolodziejska-2,oferta,1004717137",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.260738372802734,
+        "longitude": 19.100154876708984
+      },
+      "distanceInKilometers": 8.6,
+      "id": "1004717137",
+      "title": "Staż Mechanik (K/M) - Akademia Techniczna Lipton",
+      "company": "Lipton Teas and Infusions",
+      "salary": "5 100 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Poznasz pracę w nowoczesnej, międzynarodowej firmie produkcyjnej z wysokimi standardami bezpieczeństwa, Będziesz pomagał w obsłudze i naprawie maszyn pakujących herbatę, Nauczysz się przeprowadzać konserwacje i remonty...",
+      "url": "https://www.pracuj.pl/praca/staz-mechanik-k-m-akademia-techniczna-lipton-katowice-kolodziejska-2,oferta,1004717137"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-d34e-08de859f5d14",
+      "jobTitle": "Mechanik w Fabryce Herbaty (K/M)",
+      "companyName": "Lipton Teas and Infusions",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074089046",
+      "companyId": 1074089046,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074089046/342a0000-56be-0050-af4c-08dc57c1b22b_280x280.png",
+      "lastPublicated": "2026-04-13T09:55:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "6 500–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Zapewniasz sprawne działanie maszyn pakujących, poprzez stały nadzór nad ich stanem technicznym i szybką reakcję na pojawiające się nieprawidłowości, Wykonujesz przeglądy i kontrole parku maszynowego, zgodnie z...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074089046/mobile-banners/342a0000-56be-0050-95b4-08dc57d35756.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074089046/desktop-banners/20160000-56be-0050-f1ed-08ddcb64e091.jpg",
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne i doświadczenie</b> w utrzymaniu ruchu oraz diagnozowaniu maszyn przemysłowych.</li><li>Jesteś gotowy na <b>pracę na trzy zmiany</b> w systemie czterobrygadowym z dodatkiem płacowym.</li><li>Posiadasz <b>umiejętność czytania rysunku technicznego</b> i obsługi podstawowych programów komputerowych.</li><li>Chcesz pracować z <b>nowoczesnymi narzędziami i automatyzacją</b> w międzynarodowym środowisku.</li><li>Ceniasz sobie <b>wsparcie podczas wdrożenia</b> oraz jasne kryteria rozwoju zawodowego.</li><li>Zależy Ci na <b>atrakcyjnych dodatkach płacowych i benefitach</b> takich jak opieka medyczna, ubezpieczenie i program emerytalny.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717135,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mechanik-w-fabryce-herbaty-k-m-katowice-kolodziejska-2,oferta,1004717135",
+      "displayWorkplace": "Katowice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 50.260738372802734,
+        "longitude": 19.100154876708984
+      },
+      "distanceInKilometers": 8.6,
+      "id": "1004717135",
+      "title": "Mechanik w Fabryce Herbaty (K/M)",
+      "company": "Lipton Teas and Infusions",
+      "salary": "6 500–8 000 zł brutto / mies.",
+      "location": "Katowice",
+      "description": "Twój zakres obowiązków, Zapewniasz sprawne działanie maszyn pakujących, poprzez stały nadzór nad ich stanem technicznym i szybką reakcję na pojawiające się nieprawidłowości, Wykonujesz przeglądy i kontrole parku maszynowego, zgodnie z...",
+      "url": "https://www.pracuj.pl/praca/mechanik-w-fabryce-herbaty-k-m-katowice-kolodziejska-2,oferta,1004717135"
+    }
+  ]
+}

@@ -1,0 +1,3988 @@
+{
+  "meta": {
+    "profileKey": "01",
+    "profileLabel": "Warsaw – all",
+    "slug": "warsaw",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Warsaw&rd=30&latitude=52.2319581&longitude=21.0067249",
+    "scrapedAt": "2026-04-13T14:00:36.732Z",
+    "pages": 1,
+    "total": 50,
+    "errors": 0,
+    "location": "Warsaw",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "6c1d0000-56be-0050-1195-08de8a698871",
+      "jobTitle": "Junior PHP Developer (Laravel)",
+      "companyName": "GRUPA ESPRZEDAŻ Ł. SADŁOWSKI, J. KARNAT SPÓŁKA KOMANDYTOWA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074207658",
+      "companyId": 1074207658,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074207658/30480000-56be-0050-9f94-08de7f5eade4_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:58:28.503Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "7 000–14 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, rozwój i utrzymanie systemu (PHP / Laravel),, implementacja nowych funkcjonalności,, praca z istniejącym kodem (refaktoryzacja, rozwój),, tworzenie integracji (marketplace, kurierzy, systemy zewnętrzne),, analiza i...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074207658/mobile-banners/18460000-56be-0050-efa0-08de7f7259f5.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. 1 rok doświadczenia komercyjnego</b> w PHP i frameworku Laravel.</li><li>Chcesz rozwijać i utrzymywać istniejący system Sellasist WMS.</li><li>Posiadasz umiejętności pracy z <b>API REST</b>, relacyjnymi bazami danych i Git.</li><li>Preferujesz <b>pracę zdalną lub hybrydową</b> oraz elastyczne godziny pracy.</li><li>Zależy Ci na pracy przy produkcie z zespołem ponad 30 programistów.</li><li>Cenisz <b>umowę o pracę, B2B lub umowę zlecenie</b> z możliwością wyboru formy zatrudnienia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004730541,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/junior-php-developer-laravel-warszawa-trawiasta-58,oferta,1004730541",
+      "displayWorkplace": "Warszawa, Wawer",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 52.2258415222168,
+        "longitude": 21.155759811401367
+      },
+      "distanceInKilometers": 10.2,
+      "id": "1004730541",
+      "title": "Junior PHP Developer (Laravel)",
+      "company": "GRUPA ESPRZEDAŻ Ł. SADŁOWSKI, J. KARNAT SPÓŁKA KOMANDYTOWA",
+      "salary": "7 000–14 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Wawer",
+      "description": "Twój zakres obowiązków, rozwój i utrzymanie systemu (PHP / Laravel),, implementacja nowych funkcjonalności,, praca z istniejącym kodem (refaktoryzacja, rozwój),, tworzenie integracji (marketplace, kurierzy, systemy zewnętrzne),, analiza i...",
+      "url": "https://www.pracuj.pl/praca/junior-php-developer-laravel-warszawa-trawiasta-58,oferta,1004730541"
+    },
+    {
+      "groupId": "2c2d0000-56be-0050-6d62-08de8a68bcbe",
+      "jobTitle": "Młodszy Specjalista / Młodsza Specjalistka ds. Wsparcia WMS",
+      "companyName": "GRUPA ESPRZEDAŻ Ł. SADŁOWSKI, J. KARNAT SPÓŁKA KOMANDYTOWA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074207658",
+      "companyId": 1074207658,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074207658/30480000-56be-0050-9f94-08de7f5eade4_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:58:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "7 000–11 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, wsparcie zespołu we wdrożeniach systemu Sellasist WMS,, udział w konfiguracji systemu pod procesy magazynowe klientów,, testowanie funkcjonalności systemu (np. przyjęcia, kompletacja, wysyłka),, zgłaszanie błędów i...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz około <b>rok doświadczenia w logistyce, e-commerce lub pracy magazynowej</b>.</li><li>Chcesz zdobyć praktyczną wiedzę i rozwijać się w zakresie <b>systemów WMS</b>.</li><li>Interesujesz się <b>procesami realizacji zamówień</b> i potrafisz dostrzegać obszary wymagające usprawnień.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i gotowość do sporadycznych wyjazdów.</li><li>Cenisz możliwość pracy pod okiem doświadczonych specjalistów oraz <b>wybór formy zatrudnienia</b>.</li><li>Doceniasz <b>benefity takie jak prywatna opieka medyczna i dofinansowanie zajęć sportowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004730537,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-wsparcia-wms-jawczyce-pow-warszawski-zachodni,oferta,1004730537",
+      "displayWorkplace": "Jawczyce (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004730537",
+      "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Wsparcia WMS",
+      "company": "GRUPA ESPRZEDAŻ Ł. SADŁOWSKI, J. KARNAT SPÓŁKA KOMANDYTOWA",
+      "salary": "7 000–11 000 zł / mies. (zal. od umowy)",
+      "location": "Jawczyce (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, wsparcie zespołu we wdrożeniach systemu Sellasist WMS,, udział w konfiguracji systemu pod procesy magazynowe klientów,, testowanie funkcjonalności systemu (np. przyjęcia, kompletacja, wysyłka),, zgłaszanie błędów i...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-wsparcia-wms-jawczyce-pow-warszawski-zachodni,oferta,1004730537"
+    },
+    {
+      "groupId": "6c1d0000-56be-0050-f444-08de8a7d3259",
+      "jobTitle": "IT Project Manager",
+      "companyName": "Next Technology Professionals Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20209153",
+      "companyId": 20209153,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20209153/9b030000-5dac-0015-9f04-08db40cac3b1_280x280.png",
+      "lastPublicated": "2026-04-13T13:57:02.583Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "15 000–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Kompleksowe prowadzenie projektów wdrożeniowych IT (od analizy wymagań po wdrożenie)., Planowanie harmonogramów, kontrola budżetu oraz koordynacja prac zespołu., Bezpośrednia współpraca z klientami biznesowymi i...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20209153/mobile-banners/04070000-56be-0050-f579-08de6fb1ce9c.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum <b>6 lat doświadczenia w prowadzeniu projektów IT</b> i wdrożeniach systemów SaaS lub CRM.</li><li>Potrafisz <b>koordynować zespoły techniczne</b> oraz zarządzać integracjami systemowymi i API.</li><li>Umiesz <b>planować harmonogramy, kontrolować budżety</b> i tworzyć dokumentację projektową.</li><li>Dbasz o <b>komunikację z klientami biznesowymi i technicznymi</b> oraz prowadzenie negocjacji.</li><li>Preferujesz model pracy <b>hybrydowej z biurem w Warszawie</b>, w trybie full-time.</li><li>Masz znajomość języka <b>angielskiego na poziomie minimum B2</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004730530,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/it-project-manager-warszawa,oferta,1004730530",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004730530",
+      "title": "IT Project Manager",
+      "company": "Next Technology Professionals Sp. z o.o.",
+      "salary": "15 000–20 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Kompleksowe prowadzenie projektów wdrożeniowych IT (od analizy wymagań po wdrożenie)., Planowanie harmonogramów, kontrola budżetu oraz koordynacja prac zespołu., Bezpośrednia współpraca z klientami biznesowymi i...",
+      "url": "https://www.pracuj.pl/praca/it-project-manager-warszawa,oferta,1004730530"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-61ff-08de8e5d34e9",
+      "jobTitle": "Ekspert ds. systemów dynamicznej informacji pasażerskiej​ (k/m)",
+      "companyName": "PKP Polskie Linie Kolejowe S.A",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20057479",
+      "companyId": 20057479,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20057479/342a0000-56be-0050-789b-08dcba9e3d07_280x280.png",
+      "lastPublicated": "2026-04-13T13:57:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "11 000–15 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, zarządzanie i rozwój kolejowych systemów dynamicznej informacji pasażerskiej,, konfiguracja aplikacji zarządzającej informacją pasażerską, weryfikacja poprawności danych oraz tworzenie i modyfikacja layoutów wyświetlaczy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 10 lat doświadczenia</b> w IT, telekomunikacji lub systemach technicznych.</li><li>Posiadasz <b>wyższe wykształcenie</b> w obszarze informatyki, telekomunikacji lub pokrewnym.</li><li>Znajomość <b>systemów dynamicznej informacji pasażerskiej, sieci TCP/IP oraz bezpieczeństwa teleinformatycznego</b> jest dla Ciebie naturalna.</li><li>Umiesz <b>analizować dokumentację techniczną</b> i nadzorować projekty wdrożeniowe systemów teleinformatycznych.</li><li>Cenisz <b>dofinansowanie szkoleń, prywatną opiekę medyczną oraz benefity socjalne</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739567,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ekspert-ds-systemow-dynamicznej-informacji-pasazerskiej-k-m-warszawa,oferta,1004739567",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739567",
+      "title": "Ekspert ds. systemów dynamicznej informacji pasażerskiej​ (k/m)",
+      "company": "PKP Polskie Linie Kolejowe S.A",
+      "salary": "11 000–15 500 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, zarządzanie i rozwój kolejowych systemów dynamicznej informacji pasażerskiej,, konfiguracja aplikacji zarządzającej informacją pasażerską, weryfikacja poprawności danych oraz tworzenie i modyfikacja layoutów wyświetlaczy...",
+      "url": "https://www.pracuj.pl/praca/ekspert-ds-systemow-dynamicznej-informacji-pasazerskiej-k-m-warszawa,oferta,1004739567"
+    },
+    {
+      "groupId": "38410000-56be-0050-9c7a-08de9493b6a5",
+      "jobTitle": "Sprzedawca - Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:57:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na <b>kontakt z klientem</b> i pracę zespołową.</li><li>Jesteś gotów na <b>pracę fizyczną na zmiany, w tym nocne i weekendy</b>.</li><li>Chcesz wykonywać <b>obsługę kasy, uzupełnianie towaru oraz dbanie o ekspozycję</b>.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna, karty sportowe i wsparcie finansowe</b>.</li><li>Doceniasz <b>jasny zakres obowiązków i przejrzystą komunikację</b> w miejscu pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754728,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-pruszkow,oferta,1004754728",
+      "displayWorkplace": "Pruszków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754728",
+      "title": "Sprzedawca - Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Pruszków",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-pruszkow,oferta,1004754728"
+    },
+    {
+      "groupId": "38410000-56be-0050-2999-08de948b7548",
+      "jobTitle": "Sprzedawca - Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:56:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na <b>kontakt z klientem i pracę w zespole</b>.</li><li>Jesteś gotowy/a do <b>pracy fizycznej na 3 zmiany, w tym nocne i weekendy</b>.</li><li>Chcesz pracować w stanowisku łączącym <b>obsługę kasy, ekspozycję towaru i dbałość o porządek</b>.</li><li>Cenisz <b>benefity finansowe i socjalne</b> takie jak e-kody zakupowe, prywatną opiekę medyczną i dofinansowanie sportu.</li><li>Doceniasz <b>wsparcie w nagłych sytuacjach i preferencyjne warunki ubezpieczenia</b>.</li><li>Chcesz mieć jasno określony zakres obowiązków i <b>przejrzystą komunikację</b> w miejscu pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754703,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-raszyn-pow-pruszkowski,oferta,1004754703",
+      "displayWorkplace": "Raszyn (pow. pruszkowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754703",
+      "title": "Sprzedawca - Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Raszyn (pow. pruszkowski)",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-raszyn-pow-pruszkowski,oferta,1004754703"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-1dca-08de995eef73",
+      "jobTitle": "AI / LLM Engineer (K/M)",
+      "companyName": "Soflab Technology Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20072879",
+      "companyId": 20072879,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20072879/03000000-bb2f-3863-6f2e-08d88b98c769_280x280.png",
+      "lastPublicated": "2026-04-13T13:55:29.223Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "120–160 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie i rozwój rozwiązań opartych o modele językowe (LLM), Integracja modeli AI z aplikacjami oraz systemami backendowymi poprzez API, Tworzenie i optymalizacja promptów oraz logiki interakcji z modelami, Budowa...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20072879/mobile-banners/2c580000-43a8-f403-4920-08d946cb30c7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 4 lata doświadczenia w pracy jako <b>AI Engineer</b> lub pokrewne, w tym min. 2 lata przy projektach <b>AI/ML</b>.</li><li>Posiadasz bardzo dobrą znajomość <b>Python</b> oraz praktyczne umiejętności integracji <b>LLM API</b>.</li><li>Interesuje Cię projektowanie i rozwój rozwiązań opartych o modele językowe oraz <b>prompt engineering</b> z wykorzystaniem LangChain lub LangGraph.</li><li>Masz doświadczenie w przygotowywaniu i przetwarzaniu danych oraz optymalizacji modeli, w tym podstawy <b>fine-tuningu</b>.</li><li>Cenisz <b>elastyczny czas pracy</b> i możliwość <b>pracy zdalnej</b> w środowisku pozbawionym dress code’u.</li><li>Chcesz pracować przy wdrażaniu zaawansowanych rozwiązań AI łączących modele z aplikacjami backendowymi.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768067,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ai-llm-engineer-k-m-warszawa-sienna-75,oferta,1004768067",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 52.230167388916016,
+        "longitude": 20.994049072265625
+      },
+      "distanceInKilometers": 0.9,
+      "id": "1004768067",
+      "title": "AI / LLM Engineer (K/M)",
+      "company": "Soflab Technology Sp. z o.o.",
+      "salary": "120–160 zł netto (+ VAT) / godz.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Projektowanie i rozwój rozwiązań opartych o modele językowe (LLM), Integracja modeli AI z aplikacjami oraz systemami backendowymi poprzez API, Tworzenie i optymalizacja promptów oraz logiki interakcji z modelami, Budowa...",
+      "url": "https://www.pracuj.pl/praca/ai-llm-engineer-k-m-warszawa-sienna-75,oferta,1004768067"
+    },
+    {
+      "groupId": "5c420000-56be-0050-2ea8-08de994437b3",
+      "jobTitle": "Senior Guidewire Portal Developer (React / TypeScript)",
+      "companyName": "IT LeasingTeam",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20213067",
+      "companyId": 20213067,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20213067/2c580000-43a8-f403-2da1-08d98c888315_280x280.png",
+      "lastPublicated": "2026-04-13T13:55:05.633Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "170–200 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Rozwój Frontendu: Projektowanie i wdrażanie nowych funkcjonalności w ramach Guidewire Portals (szczególnie CustomerEngage oraz ProducerEngage)., Architektura & Prototypowanie: Tworzenie rozwiązań Proof-of-Concept dla nowych...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 5 lat doświadczenia w rozwoju systemów <b>Guidewire Portals</b>, szczególnie CustomerEngage i ProducerEngage.</li><li>Pracujesz z <b>React, TypeScript</b> oraz znasz podstawy integracji z backendem w technologii JVM.</li><li>Preferujesz samodzielne podejście, mentoring i odpowiedzialność za architekturę frontendową.</li><li>Posługujesz się biegle językiem <b>angielskim (minimum C1)</b> i jesteś otwarty na komunikację z międzynarodowymi zespołami.</li><li>Cenisz <b>pracę zdalną</b> z elastycznością wizyt w biurze i okazjonalne wyjazdy do klienta.</li><li>Chcesz uczestniczyć w projektach wdrażania nowoczesnych platform cyfrowych dla sektora ubezpieczeń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768064,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-guidewire-portal-developer-react-typescript-warszawa,oferta,1004768064",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768064",
+      "title": "Senior Guidewire Portal Developer (React / TypeScript)",
+      "company": "IT LeasingTeam",
+      "salary": "170–200 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Rozwój Frontendu: Projektowanie i wdrażanie nowych funkcjonalności w ramach Guidewire Portals (szczególnie CustomerEngage oraz ProducerEngage)., Architektura & Prototypowanie: Tworzenie rozwiązań Proof-of-Concept dla nowych...",
+      "url": "https://www.pracuj.pl/praca/senior-guidewire-portal-developer-react-typescript-warszawa,oferta,1004768064"
+    },
+    {
+      "groupId": "5c420000-56be-0050-1180-08de995d0ccf",
+      "jobTitle": "QA Engineer – Contact Center (F/M)",
+      "companyName": "Soflab Technology Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20072879",
+      "companyId": 20072879,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20072879/03000000-bb2f-3863-6f2e-08d88b98c769_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:50.97Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "115–140 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Testowanie systemów Contact Center (voice, chat, routing, IVR), Tworzenie i wykonywanie scenariuszy oraz przypadków testowych, Testowanie integracji z systemami zewnętrznymi i bankowymi, Analiza wymagań i identyfikacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20072879/mobile-banners/2c580000-43a8-f403-4920-08d946cb30c7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>2–4 lata doświadczenia w testowaniu oprogramowania</b> i znasz procesy Contact Center.</li><li>Pracujesz z narzędziami do zarządzania testami i błędami, np. <b>Jira</b>.</li><li>Masz doświadczenie w <b>testach integracyjnych i systemowych</b> oraz analizie wymagań.</li><li>Znasz język polski i angielski na poziomie umożliwiającym <b>swobodną komunikację</b>.</li><li>Cenisz <b>możliwość pracy zdalnej</b> i elastyczny czas pracy.</li><li>Interesujesz się technologiami <b>Amazon Connect</b> i testowaniem Contact Center.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768061,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/qa-engineer-contact-center-f-m-warszawa-sienna-75,oferta,1004768061",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.230167388916016,
+        "longitude": 20.994049072265625
+      },
+      "distanceInKilometers": 0.9,
+      "id": "1004768061",
+      "title": "QA Engineer – Contact Center (F/M)",
+      "company": "Soflab Technology Sp. z o.o.",
+      "salary": "115–140 zł netto (+ VAT) / godz.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Testowanie systemów Contact Center (voice, chat, routing, IVR), Tworzenie i wykonywanie scenariuszy oraz przypadków testowych, Testowanie integracji z systemami zewnętrznymi i bankowymi, Analiza wymagań i identyfikacja...",
+      "url": "https://www.pracuj.pl/praca/qa-engineer-contact-center-f-m-warszawa-sienna-75,oferta,1004768061"
+    },
+    {
+      "groupId": "5c420000-56be-0050-0bfb-08de995f452e",
+      "jobTitle": "Programista / Programistka iOS",
+      "companyName": "Soflab Technology Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20072879",
+      "companyId": 20072879,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20072879/03000000-bb2f-3863-6f2e-08d88b98c769_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:48.53Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "100–130 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie zaawansowanych aplikacji na platformę iOS, Współpraca z zespołem w celu projektowania i dostarczania nowych funkcji, Diagnoza i naprawianie błędów, dbałość o wydajność aplikacji, Przeprowadzanie testów...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20072879/mobile-banners/2c580000-43a8-f403-4920-08d946cb30c7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej <b>4-letnie doświadczenie w tworzeniu aplikacji iOS</b> z użyciem SwiftUI i UIKit.</li><li>Pracujesz zgodnie z <b>Clean Architecture, zasadami SOLID oraz wzorcem MVVM</b>.</li><li>Posiadasz praktykę w integracji z <b>REST API</b> oraz testowaniu aplikacji.</li><li>Obsługujesz <b>Git i GitFlow</b> w zespole oraz pracujesz w metodykach zwinnych, takich jak Scrum.</li><li>Cenisz elastyczność pracy, w tym <b>możliwość pracy zdalnej i elastyczny czas pracy</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768060,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/programista-programistka-ios-warszawa-sienna-75,oferta,1004768060",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 52.230167388916016,
+        "longitude": 20.994049072265625
+      },
+      "distanceInKilometers": 0.9,
+      "id": "1004768060",
+      "title": "Programista / Programistka iOS",
+      "company": "Soflab Technology Sp. z o.o.",
+      "salary": "100–130 zł netto (+ VAT) / godz.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Projektowanie zaawansowanych aplikacji na platformę iOS, Współpraca z zespołem w celu projektowania i dostarczania nowych funkcji, Diagnoza i naprawianie błędów, dbałość o wydajność aplikacji, Przeprowadzanie testów...",
+      "url": "https://www.pracuj.pl/praca/programista-programistka-ios-warszawa-sienna-75,oferta,1004768060"
+    },
+    {
+      "groupId": "5c420000-56be-0050-1027-08de995da043",
+      "jobTitle": "Asystent Project Managera",
+      "companyName": "Karlsbad Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20116623",
+      "companyId": 20116623,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20116623/2c580000-43a8-f403-8f33-08d8fe8aa6a2_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:33.727Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 900–5 880 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Obsługa katalogu nagród w programie lojalnościowym, Prace fizyczne: pakowanie i wysyłka nagród, Nadzór nad bieżącym magazynem nagród, Bieżący kontakt z dostawcami nagród, Wprowadzenie danych związanych z projektem, Wsparcie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dobrą znajomość pakietu MS Office</b> i umiesz organizować pracę.</li><li>Chcesz pracować <b>pełnoetatowo</b> z ustalonymi godzinami pracy.</li><li>Posiadasz <b>zdolności komunikacyjne</b> i umiesz współpracować w zespole.</li><li>Masz doświadczenie lub zainteresowanie <b>obsługą klienta lub sklepu internetowego</b>.</li><li>Jesteś gotowy na <b>wsparcie Project Managera</b> przy bieżących zadaniach i prace magazynowe.</li><li>Ceniasz sobie <b>brak dress code’u oraz dostęp do napojów</b> podczas pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768056,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-project-managera-warszawa-wolbromska-38,oferta,1004768056",
+      "displayWorkplace": "Warszawa, Targówek",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.28245544433594,
+        "longitude": 21.079679489135742
+      },
+      "distanceInKilometers": 7.5,
+      "id": "1004768056",
+      "title": "Asystent Project Managera",
+      "company": "Karlsbad Sp. z o.o.",
+      "salary": "4 900–5 880 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Targówek",
+      "description": "Twój zakres obowiązków, Obsługa katalogu nagród w programie lojalnościowym, Prace fizyczne: pakowanie i wysyłka nagród, Nadzór nad bieżącym magazynem nagród, Bieżący kontakt z dostawcami nagród, Wprowadzenie danych związanych z projektem, Wsparcie...",
+      "url": "https://www.pracuj.pl/praca/asystent-project-managera-warszawa-wolbromska-38,oferta,1004768056"
+    },
+    {
+      "groupId": "2c2d0000-56be-0050-80a9-08de8a7d97aa",
+      "jobTitle": "Service Desk Team Leader",
+      "companyName": "PEOPLE TRUST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074023084",
+      "companyId": 1074023084,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074023084/2c580000-43a8-f403-bf50-08d83aafbcbb_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:25.48Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "70–90 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie zespołem Service Desk (5–7 osób) – organizacja pracy, wyznaczanie priorytetów, rozwój i bieżące wsparcie zespołu, Budowanie prawdziwego teamu – motywowanie, feedback, rozwiązywanie konfliktów i dbanie o dobrą...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074023084/mobile-banners/ee4e0000-5df0-0015-aaa5-08da13b3d83c.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w zarządzaniu zespołem Service Desk i organizacji pracy.</li><li>Posiadasz umiejętność komunikacji na poziomie <b>otwartości i proaktywności</b>.</li><li>Znasz zasady <b>ITIL</b> i potrafisz monitorować SLA oraz KPI.</li><li>Potrafisz tworzyć i rozwijać procesy oraz zarządzać eskalacjami.</li><li>Cenisz <b>dofinansowanie szkoleń i prywatną opiekę medyczną</b>.</li><li>Masz zdolność analizy problemów i wdrażania usprawnień w obszarze Service Desk.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004730519,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/service-desk-team-leader-warszawa-aleja-armii-ludowej-26,oferta,1004730519",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.218379974365234,
+        "longitude": 21.007705688476562
+      },
+      "distanceInKilometers": 1.6,
+      "id": "1004730519",
+      "title": "Service Desk Team Leader",
+      "company": "PEOPLE TRUST SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "70–90 zł netto (+ VAT) / mies.",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Zarządzanie zespołem Service Desk (5–7 osób) – organizacja pracy, wyznaczanie priorytetów, rozwój i bieżące wsparcie zespołu, Budowanie prawdziwego teamu – motywowanie, feedback, rozwiązywanie konfliktów i dbanie o dobrą...",
+      "url": "https://www.pracuj.pl/praca/service-desk-team-leader-warszawa-aleja-armii-ludowej-26,oferta,1004730519"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-d53e-08de995b9232",
+      "jobTitle": "Tester / Testerka Aplikacji Mobilnych",
+      "companyName": "Soflab Technology Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20072879",
+      "companyId": 20072879,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20072879/03000000-bb2f-3863-6f2e-08d88b98c769_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:18.867Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "65–85 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie, dokumentowanie i wykonywanie przypadków testowych, Przeprowadzanie różnych testów manualnych, w tym testów funkcjonalnych, integracyjnych, akceptacyjnych i regresyjnych zgodnie z wymaganiami WCAG,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20072879/mobile-banners/2c580000-43a8-f403-4920-08d946cb30c7.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2 lata doświadczenia w <b>manualnym testowaniu aplikacji mobilnych</b>.</li><li>Pracujesz w zespole realizującym projekty w <b>metodykach zwinnych</b>.</li><li>Posiadasz praktyczną znajomość <b>JIRA i Confluence</b> oraz umiejętność tworzenia i raportowania dokumentacji testowej.</li><li>Znajomość <b>standardów WCAG i testów dostępności cyfrowej</b>, w tym narzędzi takich jak NVDA jest dla Ciebie istotna.</li><li>Cenisz <b>elastyczny czas pracy i możliwość pracy zdalnej</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768047,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/tester-testerka-aplikacji-mobilnych-warszawa-sienna-75,oferta,1004768047",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.230167388916016,
+        "longitude": 20.994049072265625
+      },
+      "distanceInKilometers": 0.9,
+      "id": "1004768047",
+      "title": "Tester / Testerka Aplikacji Mobilnych",
+      "company": "Soflab Technology Sp. z o.o.",
+      "salary": "65–85 zł netto (+ VAT) / godz.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Projektowanie, dokumentowanie i wykonywanie przypadków testowych, Przeprowadzanie różnych testów manualnych, w tym testów funkcjonalnych, integracyjnych, akceptacyjnych i regresyjnych zgodnie z wymaganiami WCAG,...",
+      "url": "https://www.pracuj.pl/praca/tester-testerka-aplikacji-mobilnych-warszawa-sienna-75,oferta,1004768047"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-0bfe-08de99531436",
+      "jobTitle": "Sprzedawca - Kasjer (m/k) I Włochy",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:06.547Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>nastawienie na kontakt z ludźmi</b> i chcesz pracować w zespole.</li><li>Jesteś gotów/gotowa do <b>pracy fizycznej na 3 zmiany, także w weekendy</b>.</li><li>Chcesz zajmować się <b>obsługą klienta przy kasie i na sali sprzedaży</b>, dbaniem o ekspozycję oraz porządek.</li><li>Cenisz <b>dodatkowe wsparcie finansowe, benefity i zniżki</b> na zakupy i usługi.</li><li>Zależy Ci na <b>dostępie do prywatnej opieki medycznej oraz kart sportowych</b>.</li><li>Oczekujesz <b>jasnego zakresu obowiązków i przejrzystej komunikacji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768045,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-i-wlochy-warszawa,oferta,1004768045",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768045",
+      "title": "Sprzedawca - Kasjer (m/k) I Włochy",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-i-wlochy-warszawa,oferta,1004768045"
+    },
+    {
+      "groupId": "38410000-56be-0050-53fc-08de9493bac2",
+      "jobTitle": "Sprzedawca - Kasjer (m/k) I Praga Północ",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:54:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na kontakt z ludźmi i chęć pracy w zespole.</li><li>Jesteś gotowy do pracy fizycznej na zmiany, także nocne i weekendy.</li><li>Posiadasz zaangażowanie i chęć współpracy.</li><li>Ceniasz <b>dodatkowe wsparcie finansowe</b> i <b>szeroki pakiet benefitów</b> socjalnych.</li><li>Chcesz pracować w firmie oferującej <b>przejrzystą komunikację</b> i jasny zakres obowiązków.</li><li>Interesuje Cię stanowisko obejmujące <b>obsługę klienta, wykładanie towaru oraz dbanie o ekspozycję</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754697,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-i-praga-polnoc-warszawa,oferta,1004754697",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754697",
+      "title": "Sprzedawca - Kasjer (m/k) I Praga Północ",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-i-praga-polnoc-warszawa,oferta,1004754697"
+    },
+    {
+      "groupId": "5c420000-56be-0050-e9d1-08de9960ce29",
+      "jobTitle": "ServiceNow Developer (SAM/ITOM)",
+      "companyName": "IN4GE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074095560",
+      "companyId": 1074095560,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074095560/342a0000-56be-0050-2da3-08dcabae616c_280x280.png",
+      "lastPublicated": "2026-04-13T13:53:10.08Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "170–210 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Rozwój i konfiguracja rozwiązań w platformie ServiceNow (SAM Pro, ITOM)., Przekładanie wymagań biznesowych na specyfikacje techniczne oraz user stories., Realizacja integracji z systemami zewnętrznymi (m.in. Oracle, SAP,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074095560/mobile-banners/ec300000-56be-0050-e55f-08de52826583.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>ServiceNow (SAM Pro, ITOM)</b> i znasz praktycznie ITOM Discovery oraz CMDB.</li><li>Pracujesz z integracjami systemowymi, w tym API oraz SSO Microsoft Entra ID.</li><li>Potrafisz przekładać wymagania biznesowe na specyfikacje techniczne i user stories.</li><li>Cenisz <b>pracę 100% zdalną</b> w modelu B2B oraz współpracę w środowisku międzynarodowym.</li><li>Interesujesz się rozwojem platformy ServiceNow i rozbudową integracji enterprise.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768035,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/servicenow-developer-sam-itom-warszawa,oferta,1004768035",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768035",
+      "title": "ServiceNow Developer (SAM/ITOM)",
+      "company": "IN4GE sp. z o.o.",
+      "salary": "170–210 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Rozwój i konfiguracja rozwiązań w platformie ServiceNow (SAM Pro, ITOM)., Przekładanie wymagań biznesowych na specyfikacje techniczne oraz user stories., Realizacja integracji z systemami zewnętrznymi (m.in. Oracle, SAP,...",
+      "url": "https://www.pracuj.pl/praca/servicenow-developer-sam-itom-warszawa,oferta,1004768035"
+    },
+    {
+      "groupId": "441b0000-56be-0050-8f1b-08de9493c485",
+      "jobTitle": "Sprzedawca - Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:53:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na kontakt z ludźmi i pracę w zespole.</li><li>Jesteś gotowy na pracę fizyczną i zmianową, także nocną i w weekendy.</li><li>Chcesz wykonywać zadania takie jak obsługa kasy, wykładanie towaru i dbanie o porządek sklepu.</li><li>Cenisz <b>dodatkowe wsparcie finansowe</b> i szeroki pakiet benefitów, w tym prywatną opiekę medyczną oraz karty sportowe.</li><li>Interesuje Cię <b>przejrzysta komunikacja</b> i jasno określone obowiązki pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754668,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-piastow,oferta,1004754668",
+      "displayWorkplace": "Piastów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754668",
+      "title": "Sprzedawca - Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Piastów",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-piastow,oferta,1004754668"
+    },
+    {
+      "groupId": "54360000-56be-0050-0d1b-08de85c3d30a",
+      "jobTitle": "Sprzedawca - Kasjer (k/m/x)​",
+      "companyName": "Auchan",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18800911",
+      "companyId": 18800911,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18800911/03000000-bb2f-3863-291c-08d8ee0211c8_280x280.png",
+      "lastPublicated": "2026-04-13T13:52:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "5 310–5 610 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Jeśli lubisz kontakt z ludźmi, handel to Twoja pasja, szukasz pracy stabilnej, ale nie pozbawionej wyzwań - Dołącz do naszego międzypokoleniowego zespołu!, , Twoje zadania:, , - Budowanie pozytywnych relacji i więzi z...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>otwartość na różnorodne zadania</b> i gotowość do pracy fizycznej.</li><li>Jesteś <b>dyspozycyjny do pracy zmianowej</b> i cenisz kontakt z klientem.</li><li>Posiadasz <b>umiejętność pracy w zespole</b> i pozytywne nastawienie.</li><li>Chcesz korzystać z <b>benefitów takich jak prywatna opieka medyczna, ubezpieczenie na życie i dofinansowania</b>.</li><li>Zależy Ci na <b>stabilnym zatrudnieniu na umowę o pracę</b> i premii wynikowej.</li><li>Interesuje Cię <b>dostęp do zniżek i programów wsparcia pracowniczego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718286,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-k-m-x-warszawa-dzieci-warszawy-28,oferta,1004718286",
+      "displayWorkplace": "Warszawa, Ursus",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.192222595214844,
+        "longitude": 20.908815383911133
+      },
+      "distanceInKilometers": 8.1,
+      "id": "1004718286",
+      "title": "Sprzedawca - Kasjer (k/m/x)​",
+      "company": "Auchan",
+      "salary": "5 310–5 610 zł brutto / mies.",
+      "location": "Warszawa, Ursus",
+      "description": "Twój zakres obowiązków, Jeśli lubisz kontakt z ludźmi, handel to Twoja pasja, szukasz pracy stabilnej, ale nie pozbawionej wyzwań - Dołącz do naszego międzypokoleniowego zespołu!, , Twoje zadania:, , - Budowanie pozytywnych relacji i więzi z...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-k-m-x-warszawa-dzieci-warszawy-28,oferta,1004718286"
+    },
+    {
+      "groupId": "ec400000-56be-0050-e49f-08de97070854",
+      "jobTitle": "Travel Expenses Coordinator",
+      "companyName": "Simon-Kucher Core Business Services Sp. z o. o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074130706",
+      "companyId": 1074130706,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074130706/9b030000-5dac-0015-c6cb-08dbca571458_280x280.png",
+      "lastPublicated": "2026-04-13T13:52:00Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "9 500–11 000 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, After appropriate onboarding, you will independently review and process travel expense reports in Emburse Enterprise for our employees in Germany., You will verify receipts and documentation for accuracy, completeness, and...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Additional salary information",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "The compensation package at Simon-Kucher CBS consists of: a gross base salary, a remote work allowance paid monthly and an annual bonus. The bonus is paid in December and is based on the results of a 360-degree performance evaluation."
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3 lata doświadczenia w <b>zarządzaniu rozliczeniami podróży</b> lub księgowości w środowisku międzynarodowym.</li><li>Sprawnie korzystasz z <b>Excela (VLOOKUP, tabele przestawne)</b> oraz masz doświadczenie z <b>SAP (moduł finansowy)</b>.</li><li>Komunikujesz się płynnie w języku <b>angielskim na poziomie C1</b> i potrafisz samodzielnie organizować pracę.</li><li>Interesujesz się <b>optymalizacją procesów i automatyzacją</b> w obszarze rozliczeń podróży.</li><li>Cenisz <b>stałą umowę o pracę</b>, bogaty pakiet medyczny i elastyczne formy pracy zdalnej.</li><li>Chcesz pracować w międzynarodowym środowisku z dostępem do różnorodnych <b>programów wsparcia i szkoleń</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004763818,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/travel-expenses-coordinator-warszawa-domaniewska-42,oferta,1004763818",
+      "displayWorkplace": "Warszawa, Mokotów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.18356704711914,
+        "longitude": 21.000595092773438
+      },
+      "distanceInKilometers": 5.4,
+      "id": "1004763818",
+      "title": "Travel Expenses Coordinator",
+      "company": "Simon-Kucher Core Business Services Sp. z o. o.",
+      "salary": "9 500–11 000 zł brutto / mies.",
+      "location": "Warszawa, Mokotów",
+      "description": "Your responsibilities, After appropriate onboarding, you will independently review and process travel expense reports in Emburse Enterprise for our employees in Germany., You will verify receipts and documentation for accuracy, completeness, and...",
+      "url": "https://www.pracuj.pl/praca/travel-expenses-coordinator-warszawa-domaniewska-42,oferta,1004763818"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-0885-08de995cb63d",
+      "jobTitle": "Recepcjonista medyczny / Recepcjonistka medyczna",
+      "companyName": "Wielospecjalistyczne Centrum Medyczne FIMEDICA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20285839",
+      "companyId": 20285839,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T13:49:10.24Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Bezpośrednia oraz telefoniczna obsługa pacjentów., Rejestrowanie, potwierdzanie i koordynowanie wizyt w systemie medycznym., Przyjmowanie płatności od pacjentów., Obsługa kasy fiskalnej, terminala płatniczego oraz urządzeń...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dobre umiejętności organizacyjne</b> i potrafisz sprawnie obsługiwać pacjentów bezpośrednio i telefonicznie.</li><li>Posiadasz <b>podstawową znajomość języka angielskiego</b> i status studenta studiów zaocznych.</li><li>Jesteś gotowy do pracy w systemie zmianowym w godzinach 8:00–20:00 oraz opcjonalnie w wybrane soboty.</li><li>Potrafisz obsługiwać <b>kasy fiskalne, terminale płatnicze i urządzenia biurowe</b>.</li><li>Zależy Ci na wykonywaniu <bzadań administracyjnych i koordynacji wizyt</b> oraz współpracy z firmami ubezpieczeniowymi.</li><li>Posiadasz <b>wysoką kulturę osobistą i komunikatywność</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768014,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/recepcjonista-medyczny-recepcjonistka-medyczna-warszawa-gieldowa-5,oferta,1004768014",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.230533599853516,
+        "longitude": 20.974573135375977
+      },
+      "distanceInKilometers": 2.2,
+      "id": "1004768014",
+      "title": "Recepcjonista medyczny / Recepcjonistka medyczna",
+      "company": "Wielospecjalistyczne Centrum Medyczne FIMEDICA",
+      "salary": "31,40 zł brutto / godz.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Bezpośrednia oraz telefoniczna obsługa pacjentów., Rejestrowanie, potwierdzanie i koordynowanie wizyt w systemie medycznym., Przyjmowanie płatności od pacjentów., Obsługa kasy fiskalnej, terminala płatniczego oraz urządzeń...",
+      "url": "https://www.pracuj.pl/praca/recepcjonista-medyczny-recepcjonistka-medyczna-warszawa-gieldowa-5,oferta,1004768014"
+    },
+    {
+      "groupId": "441b0000-56be-0050-20c6-08de9493c615",
+      "jobTitle": "Sprzedawca – lada tradycyjna (m/k) I Białołęka",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:49:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca (Lada Tradycyjna) / Sprzedawczyni (Lada Tradycyjna)., Obsługa klienta na ladzie tradycyjnej, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na <b>kontakt z klientem</b> i pracę w zespole.</li><li>Jesteś gotowy do <b>pracy fizycznej na trzy zmiany</b>, w tym w weekendy.</li><li>Chcesz wykonywać zadania związane z <b>obsługą klienta na ladzie tradycyjnej</b> oraz dbać o ekspozycję towaru.</li><li>Cenisz <b>dodatkowe wsparcie finansowe i rozbudowany pakiet benefitów</b> obejmujący m.in. prywatną opiekę medyczną i karty sportowe.</li><li>Interesuje Cię <b>rozliczanie godzin nocnych po wyższych stawkach</b>.</li><li>Szanujesz jasny zakres obowiązków i dostęp do informacji oraz szkoleń w wygodnej formie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754654,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-lada-tradycyjna-m-k-i-bialoleka-warszawa,oferta,1004754654",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754654",
+      "title": "Sprzedawca – lada tradycyjna (m/k) I Białołęka",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca (Lada Tradycyjna) / Sprzedawczyni (Lada Tradycyjna)., Obsługa klienta na ladzie tradycyjnej, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-lada-tradycyjna-m-k-i-bialoleka-warszawa,oferta,1004754654"
+    },
+    {
+      "groupId": "441b0000-56be-0050-2080-08de949c14ec",
+      "jobTitle": "Sprzedawca – lada tradycyjna (m/k) I Nowy Sklep",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:48:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca (Lada Tradycyjna) / Sprzedawczyni (Lada Tradycyjna)., Obsługa klienta na ladzie tradycyjnej, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na kontakt z ludźmi i pracę w zespole.</li><li>Jesteś gotów/gotowa do pracy fizycznej na zmiany, w tym nocne i weekendy.</li><li>Chcesz realizować obowiązki związane z obsługą klienta i dbaniem o ekspozycję towaru na ladzie tradycyjnej.</li><li>Cenisz <b>dodatkowe wsparcie finansowe</b> i <b>bogaty pakiet benefitów</b>, w tym prywatną opiekę medyczną i karty sportowe.</li><li>Poszukujesz pracy z <b>jasnym zakresem obowiązków i przejrzystą komunikacją</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754652,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-lada-tradycyjna-m-k-i-nowy-sklep-dawidy-bankowe-pow-pruszkowski,oferta,1004754652",
+      "displayWorkplace": "Dawidy Bankowe (pow. pruszkowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754652",
+      "title": "Sprzedawca – lada tradycyjna (m/k) I Nowy Sklep",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Dawidy Bankowe (pow. pruszkowski)",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca (Lada Tradycyjna) / Sprzedawczyni (Lada Tradycyjna)., Obsługa klienta na ladzie tradycyjnej, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-lada-tradycyjna-m-k-i-nowy-sklep-dawidy-bankowe-pow-pruszkowski,oferta,1004754652"
+    },
+    {
+      "groupId": "5c420000-56be-0050-9c0c-08de9960fa47",
+      "jobTitle": "Payroll & HR Operations Specialist",
+      "companyName": "Grafton Recruitment",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/76",
+      "companyId": 76,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/76/f15b0000-56be-0050-a7ca-08dc5961ab50_280x280.png",
+      "lastPublicated": "2026-04-13T13:46:57.427Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "11 000–14 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Przygotowywanie i weryfikacja danych do naliczeń payroll, Współpraca z zewnętrznym dostawcą (m.in. ADP), Koordynacja przepływu informacji między zespołami, Obsługa zapytań pracowników (np. zaświadczenia, wynagrodzenia),...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>2-4 lata doświadczenia w kadrach i/lub payroll</b> oraz znajomość procesów ZUS, wynagrodzeń i absencji.</li><li>Posługujesz się <b>płynnie językiem angielskim (B2/C1)</b> i dobrze znasz program Excel.</li><li>Jesteś <b>samodzielny, dokładny i proaktywny</b> w organizacji pracy oraz komunikacji zespołowej.</li><li>Gotowość do pracy <b>z biura na etapie wdrożenia</b> (Mokotów, Konstruktorska Business Center).</li><li>Cenisz <b>dofinansowanie prywatnej opieki medycznej i kartę sportową</b> oraz wsparcie w szkoleniach i procesach usprawniających.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768000,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/payroll-hr-operations-specialist-warszawa,oferta,1004768000",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768000",
+      "title": "Payroll & HR Operations Specialist",
+      "company": "Grafton Recruitment",
+      "salary": "11 000–14 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Przygotowywanie i weryfikacja danych do naliczeń payroll, Współpraca z zewnętrznym dostawcą (m.in. ADP), Koordynacja przepływu informacji między zespołami, Obsługa zapytań pracowników (np. zaświadczenia, wynagrodzenia),...",
+      "url": "https://www.pracuj.pl/praca/payroll-hr-operations-specialist-warszawa,oferta,1004768000"
+    },
+    {
+      "groupId": "ec400000-56be-0050-67d0-08de96f7941c",
+      "jobTitle": "Kierownik sklepu (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:46:26.71Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 100–8 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              "",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową*. ",
+              "(*przybliżona średnia wartość premii z 6 miesięcy w roku 2025) "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i nastawienie na realizację celów sprzedażowych.</li><li>Jesteś gotowy na <b>pracę fizyczną i zmianową</b>, w tym w weekendy i święta.</li><li>Potrafisz dbać o <b>obsługę klienta</b> oraz prawidłowe funkcjonowanie sklepu według standardów.</li><li>Cenisz <b>dodatkowe benefity</b> takie jak prywatna opieka medyczna oraz wsparcie finansowe.</li><li>Chcesz pracować z jasno określonymi obowiązkami i przejrzystą komunikacją.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767993,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-lomianki,oferta,1004767993",
+      "displayWorkplace": "Łomianki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767993",
+      "title": "Kierownik sklepu (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "8 100–8 900 zł brutto / mies.",
+      "location": "Łomianki",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-lomianki,oferta,1004767993"
+    },
+    {
+      "groupId": "38410000-56be-0050-5c62-08de949c17a4",
+      "jobTitle": "Sprzedawca – Kasjer (m/k) I Nowy sklep",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:46:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na <b>kontakt z klientem</b> i pracę zespołową.</li><li>Jesteś gotowy do <b>pracy fizycznej na 3 zmiany</b>, w tym w weekendy.</li><li>Zależy Ci na <b>obsłudze kasy fiskalnej</b> oraz dbaniu o ekspozycję towaru.</li><li>Cenisz <b>dodatkowe wsparcie finansowe i liczne benefity</b>, w tym prywatną opiekę medyczną i dofinansowanie zajęć sportowych.</li><li>Chcesz pracować w sklepie z jasno określonymi obowiązkami i przejrzystą komunikacją.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754642,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-i-nowy-sklep-dawidy-bankowe-pow-pruszkowski,oferta,1004754642",
+      "displayWorkplace": "Dawidy Bankowe (pow. pruszkowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754642",
+      "title": "Sprzedawca – Kasjer (m/k) I Nowy sklep",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Dawidy Bankowe (pow. pruszkowski)",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-i-nowy-sklep-dawidy-bankowe-pow-pruszkowski,oferta,1004754642"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-17b3-08de96f79567",
+      "jobTitle": "Kierownik sklepu (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:45:48.71Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 100–8 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              "",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową*. ",
+              "(*przybliżona średnia wartość premii z 6 miesięcy w roku 2025) "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i realizacji celów sprzedażowych.</li><li>Jesteś gotowy do <b>pracy fizycznej i zmianowej</b>, także w weekendy i święta.</li><li>Ceniasz <b>klarowne obowiązki i komunikację</b> w środowisku pracy.</li><li>Zależy Ci na <b>dostępie do prywatnej opieki medycznej</b> oraz bogatym pakiecie benefitów.</li><li>Chcesz odpowiadać za <b>funkcjonowanie sklepu i zespół</b>, w tym zarządzanie towarem i obsługę klienta.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767989,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-pruszkow,oferta,1004767989",
+      "displayWorkplace": "Pruszków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767989",
+      "title": "Kierownik sklepu (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "8 100–8 900 zł brutto / mies.",
+      "location": "Pruszków",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-pruszkow,oferta,1004767989"
+    },
+    {
+      "groupId": "ec400000-56be-0050-3df7-08de96f795d6",
+      "jobTitle": "Kierownik sklepu (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:44:55.69Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 100–8 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              "",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową*. ",
+              "(*przybliżona średnia wartość premii z 6 miesięcy w roku 2025) "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i odpowiadasz za realizację celów sprzedażowych.</li><li>Jesteś gotowy do pracy <b>fizycznej i w systemie zmianowym</b>, także w weekendy i święta.</li><li>Zależy Ci na <b>odpowiedzialności za organizację i funkcjonowanie sklepu</b> zgodnie z procedurami.</li><li>Cenisz <b>dostęp do licznych benefitów</b> takich jak prywatna opieka medyczna, dofinansowania i wsparcie finansowe.</li><li>Potrafisz <b>skutecznie komunikować się i współpracować</b> w zespole na różnych szczeblach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767987,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-piaseczno,oferta,1004767987",
+      "displayWorkplace": "Piaseczno",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767987",
+      "title": "Kierownik sklepu (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "8 100–8 900 zł brutto / mies.",
+      "location": "Piaseczno",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-piaseczno,oferta,1004767987"
+    },
+    {
+      "groupId": "ec400000-56be-0050-381d-08de96f79643",
+      "jobTitle": "Kierownik sklepu (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:44:10.277Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 100–8 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              "",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową*. ",
+              "(*przybliżona średnia wartość premii z 6 miesięcy w roku 2025) "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i potrafisz realizować cele sprzedażowe.</li><li>Jesteś gotowy do <b>pracy fizycznej i w systemie zmianowym</b>, także w weekendy i święta.</li><li>Potrafisz <b>zarządzać dostępnością produktów</b> i przestrzegać procedur operacyjnych.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna</b>, dofinansowania i wsparcie socjalne.</li><li>Jesteś <b>proaktywny, komunikatywny i nastawiony na współpracę</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767985,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-piastow,oferta,1004767985",
+      "displayWorkplace": "Piastów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767985",
+      "title": "Kierownik sklepu (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "8 100–8 900 zł brutto / mies.",
+      "location": "Piastów",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-piastow,oferta,1004767985"
+    },
+    {
+      "groupId": "38410000-56be-0050-2b7b-08de949c1a1f",
+      "jobTitle": "Sprzedawca - Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:44:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "2 825–6 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>gotowość do pracy na 3 zmiany, również nocne i weekendy</b>.</li><li>Cenisz <b>kontakt z klientem oraz pracę zespołową</b>.</li><li>Jesteś gotowy/-a wykonywać <b>prace fizyczne i dbać o ekspozycję towaru</b>.</li><li>Zależy Ci na <b>dofinansowaniu zakupów, prywatnej opiece medycznej i innych benefitach</b>.</li><li>Poszukujesz <b>jasnego zakresu obowiązków oraz przejrzystej komunikacji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754637,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-lesznowola-pow-piaseczynski,oferta,1004754637",
+      "displayWorkplace": "Lesznowola (pow. piaseczyński)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754637",
+      "title": "Sprzedawca - Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "2 825–6 150 zł brutto / mies.",
+      "location": "Lesznowola (pow. piaseczyński)",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Sprzedawca-Kasjer / Sprzedawczyni-Kasjerka., Obsługa klienta przy kasie fiskalnej i na sali sprzedaży, Wykładanie towaru i dbanie o jego ekspozycję, Sprawdzanie i uzupełnianie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-kasjer-m-k-lesznowola-pow-piaseczynski,oferta,1004754637"
+    },
+    {
+      "groupId": "ec400000-56be-0050-e052-08de96fff606",
+      "jobTitle": "Kierownik sklepu (m/k) I Bielany",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:43:28.347Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 100–8 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              "",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową*. ",
+              "(*przybliżona średnia wartość premii z 6 miesięcy w roku 2025) "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i realizacji celów sprzedażowych.</li><li>Jesteś gotowy na <b>pracę fizyczną i system zmianowy</b>, w tym weekendy i święta.</li><li>Cenisz <b>jasny zakres obowiązków</b> i przejrzystą komunikację.</li><li>Chcesz korzystać z <b>rozbudowanego pakietu benefitów</b>, w tym prywatnej opieki medycznej i wsparcia finansowego.</li><li>Jesteś <b>samodzielny, proaktywny</b> i nastawiony na współpracę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767981,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-i-bielany-warszawa,oferta,1004767981",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767981",
+      "title": "Kierownik sklepu (m/k) I Bielany",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "8 100–8 900 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-i-bielany-warszawa,oferta,1004767981"
+    },
+    {
+      "groupId": "441b0000-56be-0050-f2e1-08de94aae2d3",
+      "jobTitle": "Operator/ka prasy krawędziowej",
+      "companyName": "Manpower",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20155508",
+      "companyId": 20155508,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20155508/ee4d0000-5df0-0015-fa4c-08da1312ea0c_280x280.png",
+      "lastPublicated": "2026-04-13T13:42:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "55–65 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa pras krawędziowych (Trumpf, Amada), Dokonywanie pomiarów detali z wykorzystaniem narzędzi pomiarowych, Stanowiskowa kontrola jakości produktów, Realizacja zleceń produkcyjnych zgodnie z harmonogramem, Bieżąca,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20155508/mobile-banners/9b030000-5dac-0015-083e-08dbaf793939.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętność czytania rysunku technicznego</b> i obsługi narzędzi pomiarowych.</li><li>Potrafisz obsługiwać <b>prasy krawędziowe Trumpf lub Amada</b>.</li><li>Jesteś gotów/-a do pracy w <b>systemie zmianowym</b>, w tym na trzy zmiany.</li><li>Posiadasz <b>wykształcenie zawodowe</b> oraz zdolności manualne.</li><li>Potrafisz prowadzić <b>kontrolę jakości</b> i wykonywać bieżącą konserwację maszyn.</li><li>Cenisz <b>konkurencyjne wynagrodzenie</b> w oparciu o stawkę 55-65 zł/h brutto.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754623,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-ka-prasy-krawedziowej-konotopa-pow-warszawski-zachodni,oferta,1004754623",
+      "displayWorkplace": "Konotopa (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754623",
+      "title": "Operator/ka prasy krawędziowej",
+      "company": "Manpower",
+      "salary": "55–65 zł brutto / godz.",
+      "location": "Konotopa (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, Obsługa pras krawędziowych (Trumpf, Amada), Dokonywanie pomiarów detali z wykorzystaniem narzędzi pomiarowych, Stanowiskowa kontrola jakości produktów, Realizacja zleceń produkcyjnych zgodnie z harmonogramem, Bieżąca,...",
+      "url": "https://www.pracuj.pl/praca/operator-ka-prasy-krawedziowej-konotopa-pow-warszawski-zachodni,oferta,1004754623"
+    },
+    {
+      "groupId": "90270000-56be-0050-f48d-08de8fef1b2d",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:41:15.89Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>pełnoletniość</b> i możesz pracować <b>4-5 dni w tygodniu</b> w elastycznym systemie.</li><li>Lubisz <b>kontakt z klientem</b> i potrafisz prezentować produkt w punktach detalicznych.</li><li>Jesteś <b>zaangażowany/a</b>, <b>uczciwy/a</b> i gotowy/a na realizację celów sprzedażowych.</li><li>Chcesz otrzymać <b>wynagrodzenie podstawowe i bonusy</b> oraz narzędzia pracy zapewnione przez pracodawcę.</li><li>Ceniasz <b>elastyczność godzin</b> pracy i możliwość działania blisko miejsca zamieszkania lub nauki.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744959,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-legionowo,oferta,1004744959",
+      "displayWorkplace": "Legionowo",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744959",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Legionowo",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-legionowo,oferta,1004744959"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-1611-08de8fef20e8",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:41:07.72Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś osobą <b>pełnoletnią</b> i dyspozycyjną 4-5 dni w tygodniu.</li><li>Lubisz <b>prezentować produkty</b> i efektywnie nawiązywać kontakty.</li><li>Masz <b>motywację do realizacji celów sprzedażowych</b> i uczysz się szybko.</li><li>Cenisz <b>elastyczne godziny pracy</b> i narzędzia służbowe.</li><li>Interesuje Cię <b>praca w punktach retail</b> oraz budowanie własnej sieci kontaktów.</li><li>Chcesz otrzymywać <b>wynagrodzenie złożone z podstawy i premii</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744957,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-lomianki,oferta,1004744957",
+      "displayWorkplace": "Łomianki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744957",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Łomianki",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-lomianki,oferta,1004744957"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-e2a1-08de8fefb6c0",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:40:31.097Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś <b>pełnoletnią osobą</b> dyspozycyjną 4-5 dni w tygodniu, gotową do pracy w punktach detalicznych.</li><li>Posiadasz <b>umiejętności komunikacyjne</b> i łatwo budujesz relacje z klientami.</li><li>Masz <b>motywację do realizacji celów sprzedażowych</b> i chęć nauki nowych informacji produktowych.</li><li>Akceptujesz pracę na podstawie <b>umowy zlecenia</b> i elastyczne godziny pracy dopasowane do Ciebie.</li><li>Jesteś zainteresowany/a korzystaniem z <b>narzędzi pracy</b> typu iPad oraz profesjonalnego uniformu.</li><li>Zależy Ci na <b>wynagrodzeniu z podstawą i premiami</b> oraz wsparciu ze strony pracodawcy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744953,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-grodzisk-mazowiecki,oferta,1004744953",
+      "displayWorkplace": "Grodzisk Mazowiecki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744953",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Grodzisk Mazowiecki",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-grodzisk-mazowiecki,oferta,1004744953"
+    },
+    {
+      "groupId": "90270000-56be-0050-f3c4-08de8feff7d3",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:40:26.943Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś <b>pełnoletni/a</b> i dyspozycyjny/a 4-5 dni w tygodniu.</li><li>Lubisz <b>kontakt z klientem</b> i łatwo nawiązujesz relacje.</li><li>Interesuje Cię <b>prezentacja produktów</b> w punktach retail.</li><li>Cenisz <b>elastyczne godziny pracy</b> oraz możliwość pracy blisko domu lub uczelni.</li><li>Chcesz osiągać <b>wynagrodzenie z podstawą i bonusami</b>.</li><li>Zależy Ci na <b>narzędziach pracy</b> i wsparciu szkoleniowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744948,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-kobylka,oferta,1004744948",
+      "displayWorkplace": "Kobyłka",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744948",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Kobyłka",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-kobylka,oferta,1004744948"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-01bf-08de8ff01ba1",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:40:24.77Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ukończone 18 lat i możesz pracować minimum 4 dni w tygodniu.</li><li>Jesteś komunikatywny/a i łatwo nawiązujesz kontakty z pełnoletnimi klientami.</li><li>Masz motywację do realizacji celów sprzedażowych i rozwijania sieci kontaktów.</li><li>Doceniasz <b>elastyczne godziny pracy</b> i preferujesz pracę blisko domu lub uczelni.</li><li>Chcesz otrzymać <b>narzędzia pracy</b> takie jak iPad oraz profesjonalny uniform.</li><li>Jeśli masz doświadczenie w sprzedaży lub branży FMCG, jest to dodatkowy atut, ale nie jest wymagane.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744946,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-radzymin,oferta,1004744946",
+      "displayWorkplace": "Radzymin",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744946",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Radzymin",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-radzymin,oferta,1004744946"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-fe45-08de96f796af",
+      "jobTitle": "Kierownik sklepu (m/k) I Nowy sklep",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:40:06.047Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 100–8 900 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              "",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową*. ",
+              "(*przybliżona średnia wartość premii z 6 miesięcy w roku 2025) "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem</b> i potrafisz realizować cele sprzedażowe.</li><li>Jesteś gotowy do pracy fizycznej i w systemie zmianowym, również w weekendy i święta.</li><li>Zależy Ci na <b>koordynowaniu funkcjonowania sklepu</b> zgodnie z procedurami i standardami.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna</b>, dodatkowe wsparcie finansowe i programy socjalne.</li><li>Chcesz pracować z jasno określonym zakresem obowiązków i przejrzystą komunikacją.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767965,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-i-nowy-sklep-dawidy-bankowe-pow-pruszkowski,oferta,1004767965",
+      "displayWorkplace": "Dawidy Bankowe (pow. pruszkowski)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767965",
+      "title": "Kierownik sklepu (m/k) I Nowy sklep",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "8 100–8 900 zł brutto / mies.",
+      "location": "Dawidy Bankowe (pow. pruszkowski)",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Kierownika / Kierowniczki Sklepu Biedronka., Zarządzanie zespołem pracowników sklepu – tworzenie grafiku, motywowanie i rozwijanie, Ścisła współpraca z Zastępcami Kierownika...",
+      "url": "https://www.pracuj.pl/praca/kierownik-sklepu-m-k-i-nowy-sklep-dawidy-bankowe-pow-pruszkowski,oferta,1004767965"
+    },
+    {
+      "groupId": "90270000-56be-0050-5f58-08de8fefbd62",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:39:03.95Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś <b>pełnoletnią osobą</b> z dostępnością do pracy 4-5 dni w tygodniu.</li><li>Masz <b>łatwość nawiązywania kontaktów</b> i efektywnej komunikacji z klientami.</li><li>Chcesz <b>prezentować produkty</b> i realizować cele sprzedażowe w punktach detalicznych.</li><li>Zależy Ci na <b>elastycznych godzinach pracy</b> i stanowisku blisko miejsca zamieszkania lub uczelni.</li><li>Interesuje Cię <b>wynagrodzenie oparte na podstawie i bonusach</b>.</li><li>Posiadasz lub chcesz zdobyć <b>doświadczenie w sprzedaży lub branży FMCG</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744940,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-pruszkow,oferta,1004744940",
+      "displayWorkplace": "Pruszków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744940",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Pruszków",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-pruszkow,oferta,1004744940"
+    },
+    {
+      "groupId": "90270000-56be-0050-64ec-08de8ff005e3",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:55.917Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś <b>pełnoletnią osobą</b> i możesz pracować <b>4-5 dni w tygodniu</b> (min. 85 h miesięcznie).</li><li>Potrafisz <b>komunikować się i nawiązywać kontakty</b> z klientami w punktach sprzedaży detalicznej.</li><li>Masz <b>zaangażowanie i motywację do realizacji celów sprzedażowych</b>.</li><li>Chcesz pracować z <b>profesjonalnymi narzędziami i otrzymać atrakcyjne wynagrodzenie</b z systemem premii.</li><li>Preferujesz <b>elastyczne godziny pracy</b> z możliwością pracy blisko domu lub uczelni.</li><li>Jesteś otwarty/a na zdobywanie <b>nowej wiedzy produktowej</b> i budowanie własnej sieci kontaktów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744938,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-marki,oferta,1004744938",
+      "displayWorkplace": "Marki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744938",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Marki",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-marki,oferta,1004744938"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-d88e-08de8ff08bef",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:50.827Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś <b>pełnoletnią osobą</b> i dysponujesz <b>4-5 dniami pracy w tygodniu</b>.</li><li>Potrafisz <b>nawiązywać kontakty i komunikować się</b z pełnoletnimi konsumentami.</li><li>Jesteś <b>zaangażowany/a i zmotywowany/a</b do realizacji celów sprzedażowych.</li><li>Chcesz pracować <b>blisko domu lub uczelni</b> z elastycznym grafikiem.</li><li>Doceniasz <b>wynagrodzenie podstawowe z bonusami</b oraz narzędzia pracy zapewnione przez pracodawcę.</li><li>Zależy Ci na <b>zdobywaniu wiedzy produktowej</b oraz możliwości udziału w eventach i akcjach specjalnych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744936,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-zabki,oferta,1004744936",
+      "displayWorkplace": "Ząbki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744936",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Ząbki",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-zabki,oferta,1004744936"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-f4a3-08de8ff1c22c",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:49.207Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ukończone 18 lat i jesteś dyspozycyjny/a min. 4 dni w tygodniu.</li><li>Potrafisz nawiązywać łatwo kontakty i jesteś komunikatywny/a.</li><li>Jesteś zaangażowany/a, uczciwy/a i zmotywowany/a do realizacji celów.</li><li>Chcesz zdobywać nową wiedzę produktową i pracować z narzędziami firmy.</li><li>Zależy Ci na elastycznym czasie pracy i atrakcyjnym systemie wynagrodzenia z bonusami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744935,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-piaseczno,oferta,1004744935",
+      "displayWorkplace": "Piaseczno",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744935",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Piaseczno",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-piaseczno,oferta,1004744935"
+    },
+    {
+      "groupId": "5c420000-56be-0050-1da6-08de99612cfe",
+      "jobTitle": "Linux Embedded Developer",
+      "companyName": "YOUR ITEAMS sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074122129",
+      "companyId": 1074122129,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074122129/9b030000-5dac-0015-0d44-08db0f400e09_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:22.453Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "110–130 zł netto (+ VAT) / godz.",
+      "jobDescription": "Your responsibilities, Analyze and optimize Linux kernel performance, addressing scheduler, memory management, and interrupt handling., Utilize tracing tools such as KernelShark, trace-cmd, and ftrace to identify latency, bottlenecks, and...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074122129/mobile-banners/44230000-56be-0050-e056-08de5d905eab.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>Linux kernel internals</b>, optymalizacją wydajności oraz narzędziami śledzącymi jak KernelShark i trace-cmd.</li><li>Pracujesz z <b>embedded Linux, Yocto</b> i systemd oraz znasz procesy cross-kompilacji.</li><li>Interesuje Cię <b>zakres systemów wbudowanych i sieciowych</b>, w tym <b>XDP i eBPF</b> do przetwarzania ruchu sieciowego.</li><li>Cenisz <b>elastyczne warunki pracy</b> takie jak możliwość pracy zdalnej i elastyczny czas pracy oraz opiekę medyczną.</li><li>Chcesz rozwijać kompetencje w obszarze <b>niskopoziomowej optymalizacji systemów</b> i zaawansowanego monitoringu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767962,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/linux-embedded-developer-warszawa,oferta,1004767962",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767962",
+      "title": "Linux Embedded Developer",
+      "company": "YOUR ITEAMS sp. z o.o.",
+      "salary": "110–130 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Your responsibilities, Analyze and optimize Linux kernel performance, addressing scheduler, memory management, and interrupt handling., Utilize tracing tools such as KernelShark, trace-cmd, and ftrace to identify latency, bottlenecks, and...",
+      "url": "https://www.pracuj.pl/praca/linux-embedded-developer-warszawa,oferta,1004767962"
+    },
+    {
+      "groupId": "00050000-56be-0050-ab2e-08de956c0f07",
+      "jobTitle": "Specjalista / Specjalistka ds. umawiania spotkań",
+      "companyName": "databroker Sp. z o. o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20206190",
+      "companyId": 20206190,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20206190/2c580000-43a8-f403-8575-08d9da775fb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:12.977Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "5 275–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa połączeń wychodzących,, Kontakt z klientami biznesowymi,, Umawianie spotkań dla przedstawicieli firmy ubezpieczeniowej....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum średnie wykształcenie</b> i <b>czystą kartę karną</b>.</li><li>Chcesz wykonywać <b>obsługę połączeń wychodzących</b> i umawiać spotkania z klientami biznesowymi.</li><li>Posiadasz <b>podstawową znajomość obsługi komputera</b> oraz <b>komunikatywność</b>.</li><li>Nie wymagamy doświadczenia – zapewniamy <b>kompleksowe szkolenia</b>.</li><li>Cenisz <b>stawkę godzinową 31,40 zł</b> oraz <b>system premiowy</b> związany z realizacją celów.</li><li>Chcesz pracować w <b>standardowych godzinach 8-16 od poniedziałku do piątku</b> z dostępem do ubezpieczeń i pakietu sportowego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004757459,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-umawiania-spotkan-warszawa,oferta,1004757459",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004757459",
+      "title": "Specjalista / Specjalistka ds. umawiania spotkań",
+      "company": "databroker Sp. z o. o.",
+      "salary": "5 275–6 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Obsługa połączeń wychodzących,, Kontakt z klientami biznesowymi,, Umawianie spotkań dla przedstawicieli firmy ubezpieczeniowej....",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-umawiania-spotkan-warszawa,oferta,1004757459"
+    },
+    {
+      "groupId": "18460000-56be-0050-1cb1-08de9639821a",
+      "jobTitle": "Project Coordinator - Project & Process Management Specialist",
+      "companyName": "SQUARE ONE RESOURCES sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20409928",
+      "companyId": 20409928,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20409928/00230000-56be-0050-c213-08dd5a4ccc03_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:00Z",
+      "expirationDate": "2026-05-09T21:59:59Z",
+      "salaryDisplayText": "130–150 zł netto (+ VAT) / godz.",
+      "jobDescription": "Your responsibilities, Assist the Delivery Manager in coordinating the activities of the delivery team., Maintain and define project schedules in collaboration with the Delivery Lead., Track, monitor, and report on project progress, risks, and...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "More than one vacancy",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>Agile, Scrum i Kanban</b> oraz praktykę w prowadzeniu spotkań zespołowych.</li><li>Posiadasz biegłość w <b>Jira</b> i <b>Confluence</b> do zarządzania zadaniami i dokumentacją.</li><li>Potrafisz efektywnie koordynować harmonogramy i monitorować postępy projektów oraz ryzyka.</li><li>Wyróżnia Cię umiejętność tworzenia i stylizowania <b>dokumentów i materiałów wizualnych</b>.</li><li>Cenisz <b>komunikację i współpracę w zespołach międzynarodowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004760558,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/project-coordinator-project-process-management-specialist-warszawa-pulawska-2,oferta,1004760558",
+      "displayWorkplace": "Warszawa, Mokotów",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 52.21259307861328,
+        "longitude": 21.019184112548828
+      },
+      "distanceInKilometers": 2.4,
+      "id": "1004760558",
+      "title": "Project Coordinator - Project & Process Management Specialist",
+      "company": "SQUARE ONE RESOURCES sp. z o.o.",
+      "salary": "130–150 zł netto (+ VAT) / godz.",
+      "location": "Warszawa, Mokotów",
+      "description": "Your responsibilities, Assist the Delivery Manager in coordinating the activities of the delivery team., Maintain and define project schedules in collaboration with the Delivery Lead., Track, monitor, and report on project progress, risks, and...",
+      "url": "https://www.pracuj.pl/praca/project-coordinator-project-process-management-specialist-warszawa-pulawska-2,oferta,1004760558"
+    },
+    {
+      "groupId": "500d0000-56be-0050-11ad-08de835f943b",
+      "jobTitle": "Koordynator/ Koordynatorka magazynu w restauracji pracowniczej",
+      "companyName": "Compass Group Poland",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18802096",
+      "companyId": 18802096,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18802096/2c580000-43a8-f403-b061-08d8de2ee9a0_280x280.png",
+      "lastPublicated": "2026-04-13T13:37:00Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "7 000–8 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Przyjmowanie dostaw do kilku magazynów w budynku wielopoziomowym na ok. 2000 osób,, Planowanie i koordynowanie codziennej pracy zespołu 5 magazynierów,, Przydzielanie zadań i nadzór nad ich realizacją,, Optymalizacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18802096/mobile-banners/342a0000-56be-0050-b02f-08dc57d765dc.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku koordynatora magazynu</b> i potrafisz zarządzać zespołem.</li><li>Znajomość języka angielskiego na poziomie <b>komunikatywnym</b> jest dla Ciebie istotna.</li><li>Jesteś gotowy/a do <b>koordynowania dostaw i nadzoru nad magazynem</b> w dużym obiekcie.</li><li>Zależy Ci na <b>dofinansowaniu zajęć sportowych</b> oraz dostępie do prywatnej opieki medycznej.</li><li>Posiadasz aktualne <b>badania sanitarno-epidemiologiczne</b> niezbędne do pracy.</li><li>Cenisz <b>umowę zlecenie z możliwością przejścia na umowę o pracę</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004709511,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/koordynator-koordynatorka-magazynu-w-restauracji-pracowniczej-warszawa-rondo-daszynskiego-2b,oferta,1004709511",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.23876953125,
+        "longitude": 21.00503158569336
+      },
+      "distanceInKilometers": 0.8,
+      "id": "1004709511",
+      "title": "Koordynator/ Koordynatorka magazynu w restauracji pracowniczej",
+      "company": "Compass Group Poland",
+      "salary": "7 000–8 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Przyjmowanie dostaw do kilku magazynów w budynku wielopoziomowym na ok. 2000 osób,, Planowanie i koordynowanie codziennej pracy zespołu 5 magazynierów,, Przydzielanie zadań i nadzór nad ich realizacją,, Optymalizacja...",
+      "url": "https://www.pracuj.pl/praca/koordynator-koordynatorka-magazynu-w-restauracji-pracowniczej-warszawa-rondo-daszynskiego-2b,oferta,1004709511"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-7aaf-08de8ff147f9",
+      "jobTitle": "Ambasador / Ambasadorka Marki PLOOM",
+      "companyName": "Modus",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20174691",
+      "companyId": 20174691,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20174691/78200000-56be-0050-5714-08dd7cb0f93f_280x280.png",
+      "lastPublicated": "2026-04-13T13:36:31.597Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "36–68 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20174691/mobile-banners/b8210000-56be-0050-25bd-08de7073f17a.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Jesteś <b>pełnoletnią osobą dyspozycyjną 4-5 dni w tygodniu</b> i możesz pracować 85-160 godzin miesięcznie.</li><li>Masz <b>otwartość i komunikatywność</b> oraz łatwo nawiązujesz kontakty z klientami.</li><li>Chcesz <b>aktywnego pozyskiwania klientów i prezentowania produktu</b> w punktach sprzedaży detalicznej.</li><li>Posiadasz <b>motywację do realizacji celów sprzedażowych</b> i uczciwość w działaniu.</li><li>Cenisz <b>elastyczne godziny pracy</b> i preferujesz miejsce pracy blisko domu lub uczelni.</li><li>Zależy Ci na <b>atrakcyjnym systemie wynagrodzenia</b> z podstawą i bonusami oraz narzędziach pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744917,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-sulejowek,oferta,1004744917",
+      "displayWorkplace": "Sulejówek",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744917",
+      "title": "Ambasador / Ambasadorka Marki PLOOM",
+      "company": "Modus",
+      "salary": "36–68 zł brutto / godz.",
+      "location": "Sulejówek",
+      "description": "Twój zakres obowiązków, Aktywne pozyskiwanie nowych konsumentów w punktach sprzedaży Retail (praca w punktach detalicznych m.in. Żabka)., Prezentacja innowacyjnego urządzenia oraz jego unikalnych cech pełnoletnim konsumentom., Budowanie własnej...",
+      "url": "https://www.pracuj.pl/praca/ambasador-ambasadorka-marki-ploom-sulejowek,oferta,1004744917"
+    },
+    {
+      "groupId": "dc2d0000-56be-0050-0da4-08de8667d7be",
+      "jobTitle": "Manager / Managerka restauracji i eventów",
+      "companyName": "TOWARZYSTWO GASTRONOMICZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074232844",
+      "companyId": 1074232844,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T13:36:23.81Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "33–55 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, witanie gości i opieka podczas przyjęć, współpraca z zespołem resturacji, spotkania z przyszłymi klientami, omawianie oferty, odpisywanie na zapytania mailowe,, przygotowywanie ofert, orientowanie się w ofertach innych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>orientację na wysoki standard obsługi</b> i umiejętność pracy pod presją czasu.</li><li>Potrafisz <b>samodzielnie realizować zadania</b> i dbasz o higienę pracy.</li><li>Masz gotowość do pracy w <b>systemie zmianowym</b>.</li><li>Chcesz odpowiadać za <b>kontakt z klientami i organizację eventów</b>.</li><li>Interesuje Cię współpraca z <b>zespołem gastronomicznym</b> i rozwijanie oferty.</li><li>Cenisz <b>zatrudnienie B2B</b> z wynagrodzeniem uzależnionym od doświadczenia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727663,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/manager-managerka-restauracji-i-eventow-warszawa,oferta,1004727663",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004727663",
+      "title": "Manager / Managerka restauracji i eventów",
+      "company": "TOWARZYSTWO GASTRONOMICZNE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "33–55 zł netto (+ VAT) / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, witanie gości i opieka podczas przyjęć, współpraca z zespołem resturacji, spotkania z przyszłymi klientami, omawianie oferty, odpisywanie na zapytania mailowe,, przygotowywanie ofert, orientowanie się w ofertach innych...",
+      "url": "https://www.pracuj.pl/praca/manager-managerka-restauracji-i-eventow-warszawa,oferta,1004727663"
+    },
+    {
+      "groupId": "b82b0000-56be-0050-2c11-08de88f41f9c",
+      "jobTitle": "Starszy Sprzedawca-Kasjer (m/k) I Praga Południe",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:36:00Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "5 650–6 470 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Starszy Sprzedawca-Kasjer / Starsza Sprzedawczyni-Kasjerka., Prowadzenie zmiany samodzielnie lub w obecności Kierownika Sklepu (organizacja pracy zespołu, wyjaśnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową oraz dodatek zmianowy. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz nastawienie na kontakt z ludźmi i pracę w zespole.</li><li>Jesteś gotowy do pracy fizycznej na 3 zmiany, w tym nocne i weekendy.</li><li>Potrafisz samodzielnie organizować pracę zespołu i kontrolować dostawy.</li><li>Cenisz sobie <b>dodatkowe wsparcie finansowe i benefity</b>, takie jak prywatna opieka medyczna i dofinansowanie sportu.</li><li>Interesuje Cię praca z jasno określonym zakresem obowiązków i przejrzystą komunikacją.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004730444,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/starszy-sprzedawca-kasjer-m-k-i-praga-poludnie-warszawa,oferta,1004730444",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004730444",
+      "title": "Starszy Sprzedawca-Kasjer (m/k) I Praga Południe",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "5 650–6 470 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Starszy Sprzedawca-Kasjer / Starsza Sprzedawczyni-Kasjerka., Prowadzenie zmiany samodzielnie lub w obecności Kierownika Sklepu (organizacja pracy zespołu, wyjaśnianie...",
+      "url": "https://www.pracuj.pl/praca/starszy-sprzedawca-kasjer-m-k-i-praga-poludnie-warszawa,oferta,1004730444"
+    },
+    {
+      "groupId": "38410000-56be-0050-bbcb-08de94a8df09",
+      "jobTitle": "Kierowca - Handlowiec (M/K) - Dostarczaj i sprzedawaj pyszne wyroby cukiernicze!",
+      "companyName": "Olsza Olbrysz Sp. J.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20426684",
+      "companyId": 20426684,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20426684/03000000-bb2f-3863-df1e-08d997b203db_280x280.png",
+      "lastPublicated": "2026-04-13T13:36:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "7 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktywna sprzedaż produktów klientom w wyznaczonym obszarze, Zarządzanie oraz rozwijanie bieżącej współpracy z klientami, Budowanie długofalowych relacji handlowych, Realizacja założonych planów sprzedażowych, Raportowanie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20426684/mobile-banners/342a0000-56be-0050-3a76-08dc9bfa80c1.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w aktywnej sprzedaży produktów oraz zarządzaniu relacjami z klientami.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i praktykę w prowadzeniu samochodów dostawczych.</li><li>Umiesz negocjować i budować długofalowe relacje handlowe.</li><li>Jesteś gotowy/-a na <b>delegacje 4-dniowe</b> oraz planowanie pracy.</li><li>Cenisz <b>dofinansowanie szkoleń</b>, zniżki na produkty oraz firmowy parking.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754595,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-handlowiec-m-k-dostarczaj-i-sprzedawaj-pyszne-wyroby-cukiernicze-warszawa,oferta,1004754595",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754595",
+      "title": "Kierowca - Handlowiec (M/K) - Dostarczaj i sprzedawaj pyszne wyroby cukiernicze!",
+      "company": "Olsza Olbrysz Sp. J.",
+      "salary": "7 000–9 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Aktywna sprzedaż produktów klientom w wyznaczonym obszarze, Zarządzanie oraz rozwijanie bieżącej współpracy z klientami, Budowanie długofalowych relacji handlowych, Realizacja założonych planów sprzedażowych, Raportowanie...",
+      "url": "https://www.pracuj.pl/praca/kierowca-handlowiec-m-k-dostarczaj-i-sprzedawaj-pyszne-wyroby-cukiernicze-warszawa,oferta,1004754595"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-8df6-08de89aad048",
+      "jobTitle": "Główny Specjalista / Główna Specjalistka ds. zamówień publicznych",
+      "companyName": "TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO WARSZAWA POŁUDNIE SP Z O O",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20167291",
+      "companyId": 20167291,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20167291/9b030000-5dac-0015-6846-08db20a626d1_280x280.png",
+      "lastPublicated": "2026-04-13T13:35:40.773Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "9 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, samodzielne  przygotowanie i przeprowadzenie postępowań o udzielenie zamówień publicznych w tym przetargów unijnych zgodnie z ustawą Prawo zamówień publicznych oraz przepisami UE, w szczególności w zakresie sporządzania...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe</b> i znajomość ustawy Prawo zamówień publicznych oraz procedur przetargowych.</li><li>Potrafisz samodzielnie prowadzić postępowania o udzielenie zamówień publicznych, w tym przetargi unijne.</li><li>Posiadasz <b>dobre umiejętności organizacyjne i komunikacyjne</b>, oraz rzetelność w realizacji zadań.</li><li>Znasz pakiet MS Office i lubisz współpracować z różnymi działami w firmie.</li><li>Chcesz pracować na podstawie <b>umowy o pracę</b> w pełnym wymiarze czasu oraz korzystać z dofinansowania sportu i prywatnej opieki medycznej.</li><li>Interesujesz się lub masz <b>mile widziane zainteresowanie architekturą i budownictwem</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727640,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/glowny-specjalista-glowna-specjalistka-ds-zamowien-publicznych-warszawa-skaryszewska-3,oferta,1004727640",
+      "displayWorkplace": "Warszawa, Praga-Południe",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.24897384643555,
+        "longitude": 21.04717445373535
+      },
+      "distanceInKilometers": 3.4,
+      "id": "1004727640",
+      "title": "Główny Specjalista / Główna Specjalistka ds. zamówień publicznych",
+      "company": "TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO WARSZAWA POŁUDNIE SP Z O O",
+      "salary": "9 000–12 000 zł brutto / mies.",
+      "location": "Warszawa, Praga-Południe",
+      "description": "Twój zakres obowiązków, samodzielne  przygotowanie i przeprowadzenie postępowań o udzielenie zamówień publicznych w tym przetargów unijnych zgodnie z ustawą Prawo zamówień publicznych oraz przepisami UE, w szczególności w zakresie sporządzania...",
+      "url": "https://www.pracuj.pl/praca/glowny-specjalista-glowna-specjalistka-ds-zamowien-publicznych-warszawa-skaryszewska-3,oferta,1004727640"
+    }
+  ]
+}

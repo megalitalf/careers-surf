@@ -1,0 +1,3567 @@
+{
+  "meta": {
+    "profileKey": "04",
+    "profileLabel": "Lodz – all",
+    "slug": "lodz",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Lodz&rd=30&latitude=51.7728245&longitude=19.4784857",
+    "scrapedAt": "2026-04-13T17:05:41.390Z",
+    "pages": 1,
+    "total": 51,
+    "errors": 0,
+    "location": "Lodz",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "5c420000-56be-0050-4ec8-08de9960feb9",
+      "jobTitle": "Inżynier Budowy w branży elektrotechnicznej",
+      "companyName": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074126072",
+      "companyId": 1074126072,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074126072/dc450000-56be-0050-ba31-08de995b898b_280x280.jpg",
+      "lastPublicated": "2026-04-13T16:20:40.9Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> i praktyczną znajomość Norma PRO, Auto-Cad oraz pakietu Office.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i gotowość do wyjazdów służbowych na terenie całego kraju.</li><li>Potrafisz <b>organizować pracę zespołu</b> oraz nadzorować realizację kontraktów budowlanych.</li><li>Jesteś gotów do <b>analizy dokumentacji technicznej</b> i przygotowywania kosztorysów oraz ofert handlowych.</li><li>Doceniasz <b>umowę o pracę, narzędzia pracy i dofinansowanie szkoleń</b> oferowane przez pracodawcę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768270,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-budowy-w-branzy-elektrotechnicznej-lodz,oferta,1004768270",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768270",
+      "title": "Inżynier Budowy w branży elektrotechnicznej",
+      "company": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "salary": "6 000–12 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-w-branzy-elektrotechnicznej-lodz,oferta,1004768270"
+    },
+    {
+      "groupId": "5c420000-56be-0050-4ec8-08de9960feb9",
+      "jobTitle": "Inżynier Budowy w branży elektrotechnicznej",
+      "companyName": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074126072",
+      "companyId": 1074126072,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074126072/dc450000-56be-0050-ba31-08de995b898b_280x280.jpg",
+      "lastPublicated": "2026-04-13T16:20:40.9Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> i praktyczną znajomość Norma PRO, Auto-Cad oraz pakietu Office.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i gotowość do wyjazdów służbowych na terenie całego kraju.</li><li>Potrafisz <b>organizować pracę zespołu</b> oraz nadzorować realizację kontraktów budowlanych.</li><li>Jesteś gotów do <b>analizy dokumentacji technicznej</b> i przygotowywania kosztorysów oraz ofert handlowych.</li><li>Doceniasz <b>umowę o pracę, narzędzia pracy i dofinansowanie szkoleń</b> oferowane przez pracodawcę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768269,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-budowy-w-branzy-elektrotechnicznej-rzgow,oferta,1004768269",
+      "displayWorkplace": "Rzgów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768269",
+      "title": "Inżynier Budowy w branży elektrotechnicznej",
+      "company": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "salary": "6 000–12 000 zł brutto / mies.",
+      "location": "Rzgów",
+      "description": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-w-branzy-elektrotechnicznej-rzgow,oferta,1004768269"
+    },
+    {
+      "groupId": "fc380000-56be-0050-de09-08de8439e191",
+      "jobTitle": "Menadżer / Menadżerka ds. Rozwoju Nowego Biznesu",
+      "companyName": "Unum Życie TUiR S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18802586",
+      "companyId": 18802586,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18802586/03000000-bb2f-3863-4c9b-08d8809d2774_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "8 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, pozyskiwanie nowych klientów biznesowych i przygotowywanie ofert ubezpieczeń grupowych,, budowanie relacji i własnego portfela klientów,, obsługa klientów i wsparcie w obszarze benefitów pracowniczych,, realizacja celów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. roczne doświadczenie w sprzedaży B2B</b> i relacjach biznesowych.</li><li>Potrafisz <b>budować partnerskie oraz etyczne relacje</b> i diagnozować potrzeby klienta.</li><li>Jesteś <b>samodzielny, odpowiedzialny oraz gotowy do podróży służbowych</b> z prawem jazdy kat. B.</li><li>Ceniasz <b>samochód służbowy do użytku prywatnego, elastyczny czas pracy</b> oraz wsparcie trenera sprzedaży.</li><li>Chcesz korzystać z <b>profesjonalnych szkoleń, pakietu benefitów i nowoczesnych narzędzi pracy</b>.</li><li>Interesuje Cię <b>długofalowa współpraca na umowie agencyjnej</b> i udział w inicjatywach społecznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718597,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/menadzer-menadzerka-ds-rozwoju-nowego-biznesu-lodz,oferta,1004718597",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004718597",
+      "title": "Menadżer / Menadżerka ds. Rozwoju Nowego Biznesu",
+      "company": "Unum Życie TUiR S.A.",
+      "salary": "8 000–12 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, pozyskiwanie nowych klientów biznesowych i przygotowywanie ofert ubezpieczeń grupowych,, budowanie relacji i własnego portfela klientów,, obsługa klientów i wsparcie w obszarze benefitów pracowniczych,, realizacja celów...",
+      "url": "https://www.pracuj.pl/praca/menadzer-menadzerka-ds-rozwoju-nowego-biznesu-lodz,oferta,1004718597"
+    },
+    {
+      "groupId": "f0260000-56be-0050-1f6d-08de88bcbf09",
+      "jobTitle": "Pracownik/ Pracownica kuchni",
+      "companyName": "Compass Group Poland",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18802096",
+      "companyId": 18802096,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18802096/2c580000-43a8-f403-b061-08d8de2ee9a0_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "31,40–33 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta - nakładanie i wydawanie posiłków,, Dbanie o czystość na miejscu pracy,, Proste zadania w kuchni (pomoc przy przygotowaniu potraw, kanapek, sałatek),, Wsparcie w zmywalni naczyń....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz aktualne badania sanitarno-epidemiologiczne.</li><li>Chcesz wykonywać proste prace kuchenne oraz obsługiwać klientów przy nakładaniu posiłków.</li><li>Cenisz <b>bezpłatne posiłki pracownicze</b> podczas pracy.</li><li>Oczekujesz <b>benefitów</b> takich jak prywatna opieka medyczna, ubezpieczenie na życie i dofinansowanie do sportu po okresie próbnym.</li><li>Interesuje Cię zatrudnienie na <b>umowę zlecenie</b> z możliwością przejścia na umowę o pracę.</li><li>Chcesz korzystać z <b>programów wsparcia</b> (porady prawne, finansowe, psychologiczne) oraz systemów premiowania.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728092,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracownica-kuchni-pawlikowice-pow-pabianicki-155,oferta,1004728092",
+      "displayWorkplace": "Pawlikowice (pow. pabianicki)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.61565017700195,
+        "longitude": 19.360021591186523
+      },
+      "distanceInKilometers": 19.3,
+      "id": "1004728092",
+      "title": "Pracownik/ Pracownica kuchni",
+      "company": "Compass Group Poland",
+      "salary": "31,40–33 zł / godz. (zal. od umowy)",
+      "location": "Pawlikowice (pow. pabianicki)",
+      "description": "Twój zakres obowiązków, Obsługa klienta - nakładanie i wydawanie posiłków,, Dbanie o czystość na miejscu pracy,, Proste zadania w kuchni (pomoc przy przygotowaniu potraw, kanapek, sałatek),, Wsparcie w zmywalni naczyń....",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracownica-kuchni-pawlikowice-pow-pabianicki-155,oferta,1004728092"
+    },
+    {
+      "groupId": "90270000-56be-0050-96a5-08de8fd2c34b",
+      "jobTitle": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
+      "companyName": "Tutlo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20270775",
+      "companyId": 20270775,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20270775/10310000-56be-0050-f0f1-08de0fd17f21_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-17T21:59:59Z",
+      "salaryDisplayText": "5 400–7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20270775/mobile-banners/000d0000-56be-0050-fe44-08dd4f3849a4.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w nauczaniu języka angielskiego i znasz język na poziomie <b>C1 lub wyższym</b>.</li><li>Posiadasz <b>elastyczny czas</b> pracy i możesz prowadzić lekcje online między 7:00 a 23:00.</li><li>Masz dostęp do <b>stabilnego łącza internetowego</b> umożliwiającego prowadzenie zajęć.</li><li>Cenisz możliwość pracy <b>zdalnej bez dress code’u</b> i samodzielnego zarządzania harmonogramem.</li><li>Chcesz korzystać z <b>gotowych materiałów</b> oraz zdobyć zaświadczenie o odbyciu praktyk.</li><li>Interesuje Cię udział w programach <b>certyfikujących TEFL lub CELTA</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748764,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-lodz,oferta,1004748764",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004748764",
+      "title": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
+      "company": "Tutlo Sp. z o.o.",
+      "salary": "5 400–7 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
+      "url": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-lodz,oferta,1004748764"
+    },
+    {
+      "groupId": "d4280000-56be-0050-9b70-08de91918409",
+      "jobTitle": "Dyrektor Oddziału / Branch Manager (M/K)",
+      "companyName": "Homfi Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20218101",
+      "companyId": 20218101,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20218101/ee4d0000-5df0-0015-904a-08da87662858_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "10 000–100 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, budowa i rozwój zespołu sprzedażowego,, rekrutacja agentów nieruchomości,, prowadzenie programu szkoleń wdrożeniowych dla nowych agentów,, prowadzenie treningów “on the job”, odpraw zespołu, rozmów tygodniowych,,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Menedżer / Menedżerka",
+        "Dyrektor / Dyrektorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem sprzedażowym</b> i rekrutacji agentów nieruchomości.</li><li>Posiadasz umiejętność prowadzenia <b>szkoleń i warsztatów sprzedażowych</b>.</li><li>Potrafisz <b>analizować dane z CRM i CMS</b> w celu poprawy efektywności zespołu.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz benefity takie jak prywatna opieka medyczna i ubezpieczenie na życie.</li><li>Posługujesz się <b>dobrze językiem angielskim</b> i masz wysokie zdolności interpersonalne.</li><li>Chcesz pracować z profesjonalnym wyposażeniem i narzędziami pracy online i zdalnie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751063,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/dyrektor-oddzialu-branch-manager-m-k-lodz,oferta,1004751063",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751063",
+      "title": "Dyrektor Oddziału / Branch Manager (M/K)",
+      "company": "Homfi Sp. z o.o.",
+      "salary": "10 000–100 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, budowa i rozwój zespołu sprzedażowego,, rekrutacja agentów nieruchomości,, prowadzenie programu szkoleń wdrożeniowych dla nowych agentów,, prowadzenie treningów “on the job”, odpraw zespołu, rozmów tygodniowych,,...",
+      "url": "https://www.pracuj.pl/praca/dyrektor-oddzialu-branch-manager-m-k-lodz,oferta,1004751063"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-b2d5-08de85a93e7b",
+      "jobTitle": "Młodszy Doradca / Młodsza Doradczyni Klienta",
+      "companyName": "Pan Materac",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074008661",
+      "companyId": 1074008661,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074008661/03000000-bb2f-3863-d079-08d8d98e6ffa_280x280.png",
+      "lastPublicated": "2026-04-13T14:41:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "5 600–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, aktywna sprzedaż zgodnie ze standardami firmy, realizacja celów i planów sprzedażowych, prowadzenie dokumentacji biurowej salonu, budowanie i utrzymanie długofalowych relacji z Klientami, obsługa telefoniczna Klientów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum roczne doświadczenie w <b>sprzedaży lub obsłudze klienta</b>.</li><li>Jesteś dyspozycyjny i chętny do <b>poszerzania wiedzy produktowej i sprzedażowej</b>.</li><li>Posiadasz <b>umiejętności komunikacyjne i budowanie relacji</b> z klientami.</li><li>Doceniasz zatrudnienie na <b>umowę o pracę</b> oraz atrakcyjne wynagrodzenie z systemem prowizyjnym.</li><li>Zależy Ci na <b>prywatnej opiece medycznej i beneficie sportowym</b>.</li><li>Mile widziana jest znajomość <b>języka angielskiego</b> lub doświadczenie w sprzedaży produktów Premium.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718380,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mlodszy-doradca-mlodsza-doradczyni-klienta-lodz-pojezierska-91a,oferta,1004718380",
+      "displayWorkplace": "Łódź, Bałuty",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.80050277709961,
+        "longitude": 19.4237117767334
+      },
+      "distanceInKilometers": 4.9,
+      "id": "1004718380",
+      "title": "Młodszy Doradca / Młodsza Doradczyni Klienta",
+      "company": "Pan Materac",
+      "salary": "5 600–6 000 zł brutto / mies.",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, aktywna sprzedaż zgodnie ze standardami firmy, realizacja celów i planów sprzedażowych, prowadzenie dokumentacji biurowej salonu, budowanie i utrzymanie długofalowych relacji z Klientami, obsługa telefoniczna Klientów...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-doradca-mlodsza-doradczyni-klienta-lodz-pojezierska-91a,oferta,1004718380"
+    },
+    {
+      "groupId": "f4350000-56be-0050-9a1c-08de8e5ecdf6",
+      "jobTitle": "Przedstawiciel handlowy / Przedstawicielka handlowa - Kärcher",
+      "companyName": "MerService Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20061864",
+      "companyId": 20061864,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20061864/f4350000-56be-0050-de3a-08de01c10b57_280x280.jpg",
+      "lastPublicated": "2026-04-13T14:23:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "8 320–9 900 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Współpraca z kierownikami i personelem działów w sieciach DIY (np. Castorama, Leroy Merlin, OBI, PSB) oraz elektro (np. Media Expert, RTV Euro AGD, Media Markt)., Zapewnienie odpowiedniej ekspozycji produktów Kärcher w...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20061864/mobile-banners/c0380000-56be-0050-7097-08de340cbd28.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>minimum 3 lata doświadczenia</b> w sprzedaży, najlepiej w branży DIY lub elektro.</li><li>Masz <b>czynne prawo jazdy kat. B</b> i gotowość do pracy w weekendy.</li><li>Potrafisz współpracować z sieciami handlowymi i dbać o <b>ekspozycję produktów</b>.</li><li>Chcesz korzystać ze <b>samochodu służbowego i elastycznej formy zatrudnienia</b>.</li><li>Cenisz <b>szkolenia oraz wsparcie specjalistów</b> w codziennych obowiązkach.</li><li>Zależy Ci na <b>benefitach</b> takich jak prywatna opieka medyczna i karta MultiSport.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739648,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-k%c3%a4rcher-lodz,oferta,1004739648",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739648",
+      "title": "Przedstawiciel handlowy / Przedstawicielka handlowa - Kärcher",
+      "company": "MerService Sp. z o.o.",
+      "salary": "8 320–9 900 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Współpraca z kierownikami i personelem działów w sieciach DIY (np. Castorama, Leroy Merlin, OBI, PSB) oraz elektro (np. Media Expert, RTV Euro AGD, Media Markt)., Zapewnienie odpowiedniej ekspozycji produktów Kärcher w...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-k%c3%a4rcher-lodz,oferta,1004739648"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-aedb-08de9964c9e6",
+      "jobTitle": "Agent Wynajmu",
+      "companyName": "99rent Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20189572",
+      "companyId": 20189572,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20189572/2c580000-43a8-f403-129d-08d8eebc4fa9_280x280.png",
+      "lastPublicated": "2026-04-13T14:00:50.103Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 700–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Podstawienie, wydania i odbiór pojazdów od Klientów, Podstawienia i odbiory samochodów do serwisu, Inspekcje Pojazdów, Obsługa telefoniczna i mailowa Klientów, Obsługa Klientów zgodnie z obowiązującymi zasadami, umowami i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>czynne prawo jazdy kat. B</b> i co najmniej rok doświadczenia za kierownicą.</li><li>Potrafisz nawiązywać kontakty i obsługiwać klientów zgodnie z procedurami.</li><li>Posiadasz <b>komunikatywną znajomość języka angielskiego</b> i umiejętność pracy w zespole.</li><li>Chcesz wykonywać zadania związane z <b>obsługą i dbałością o flotę pojazdów</b>.</li><li>Cenisz sobie <b>benefity takie jak opieka medyczna, karta sportowa i premie motywacyjne</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768086,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-wynajmu-lodz-nowogrodzka-2c,oferta,1004768086",
+      "displayWorkplace": "Łódź, Widzew",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.76728439331055,
+        "longitude": 19.50819969177246
+      },
+      "distanceInKilometers": 2.2,
+      "id": "1004768086",
+      "title": "Agent Wynajmu",
+      "company": "99rent Sp. z o.o.",
+      "salary": "4 700–6 000 zł brutto / mies.",
+      "location": "Łódź, Widzew",
+      "description": "Twój zakres obowiązków, Podstawienie, wydania i odbiór pojazdów od Klientów, Podstawienia i odbiory samochodów do serwisu, Inspekcje Pojazdów, Obsługa telefoniczna i mailowa Klientów, Obsługa Klientów zgodnie z obowiązującymi zasadami, umowami i...",
+      "url": "https://www.pracuj.pl/praca/agent-wynajmu-lodz-nowogrodzka-2c,oferta,1004768086"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-7852-08de970a1cad",
+      "jobTitle": "Edukator/edukatorka rysunku - artystyczne zajęcia online dla dzieci",
+      "companyName": "EduGO P.S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20436956",
+      "companyId": 20436956,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20436956/03000000-bb2f-3863-4e17-08d9b3db95c7_280x280.png",
+      "lastPublicated": "2026-04-13T13:58:23.08Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "2 200–4 500 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie interaktywnych lekcji rysunku online dla dzieci (klasy 0-8) na podstawie autorskich materiałów i przygotowanego programu nauczania., Tworzenie przyjaznej atmosfery i budowaniem relacji z dziećmi., Dbanie o...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy z dziećmi</b> i potrafisz dostosować metody nauczania do ich potrzeb.</li><li>Posiadasz <b>umiejętności artystyczne</b> i portfolio z pracami wykonanymi w technikach klasycznych.</li><li>Chcesz pracować <b>zdalnie</b> w elastycznym wymiarze godzin, dostępny co najmniej 20 godzin tygodniowo.</li><li>Jesteś <b>kreatywny, pozytywnie nastawiony</b> i potrafisz budować przyjazną atmosferę podczas lekcji online.</li><li>Posiadasz komputer z kamerą i dostęp do <b>stabilnego internetu</b>.</li><li>Możesz podjąć współpracę na podstawie umowy zlecenia lub B2B.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004763919,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/edukator-edukatorka-rysunku-artystyczne-zajecia-online-dla-dzieci-lodz,oferta,1004763919",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004763919",
+      "title": "Edukator/edukatorka rysunku - artystyczne zajęcia online dla dzieci",
+      "company": "EduGO P.S.A.",
+      "salary": "2 200–4 500 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Prowadzenie interaktywnych lekcji rysunku online dla dzieci (klasy 0-8) na podstawie autorskich materiałów i przygotowanego programu nauczania., Tworzenie przyjaznej atmosfery i budowaniem relacji z dziećmi., Dbanie o...",
+      "url": "https://www.pracuj.pl/praca/edukator-edukatorka-rysunku-artystyczne-zajecia-online-dla-dzieci-lodz,oferta,1004763919"
+    },
+    {
+      "groupId": "5c420000-56be-0050-4875-08de9934b743",
+      "jobTitle": "Staż w obszarze rachunkowości – spółka BPO / SSC",
+      "companyName": "Polska Rada Biznesu Program Kariera",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20066888",
+      "companyId": 20066888,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20066888/ee4d0000-5df0-0015-c4fe-08da370d0328_280x280.png",
+      "lastPublicated": "2026-04-13T13:57:30.54Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 850 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Księgowanie jednorodnych faktur kosztowych, towarowych, sprzedażowych,, Księgowanie prostych wyciągów bankowych,, Archiwizowanie dokumentów i wsparcie zespołu w bieżących obowiązkach,, Uczestniczenie w automatyzacji...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Praktykant / Praktykantka - stażysta / Stażystka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>podstawową wiedzę z rachunkowości</b> i jesteś po lub w trakcie kursu I stopnia księgowości.</li><li>Jesteś <b>studentem IV lub V roku</b> kierunków finansów, rachunkowości lub ekonomii albo absolwentem technikum ekonomicznego.</li><li>Posiadasz <b>dobrą znajomość MS Excel</b> i innych narzędzi MS Office.</li><li>Potrafisz <b>organizować pracę</b> zgodnie z terminami i efektywnie współpracować w zespole.</li><li>Ceńisz <b>dokładność, samodzielność i umiejętność pracy z danymi</b> w codziennych obowiązkach.</li><li>Chcesz <b>uczestniczyć w automatyzacji procesów</b> i wspierać zespół w bieżących zadaniach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768073,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/staz-w-obszarze-rachunkowosci-spolka-bpo-ssc-lodz,oferta,1004768073",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768073",
+      "title": "Staż w obszarze rachunkowości – spółka BPO / SSC",
+      "company": "Polska Rada Biznesu Program Kariera",
+      "salary": "4 850 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Księgowanie jednorodnych faktur kosztowych, towarowych, sprzedażowych,, Księgowanie prostych wyciągów bankowych,, Archiwizowanie dokumentów i wsparcie zespołu w bieżących obowiązkach,, Uczestniczenie w automatyzacji...",
+      "url": "https://www.pracuj.pl/praca/staz-w-obszarze-rachunkowosci-spolka-bpo-ssc-lodz,oferta,1004768073"
+    },
+    {
+      "groupId": "38410000-56be-0050-416d-08de94ac0e21",
+      "jobTitle": "Przedstawiciel Handlowy",
+      "companyName": "AUXILIA S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20022207",
+      "companyId": 20022207,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20022207/03000000-bb2f-3863-34b6-08d90961ffbf_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:55:46.063Z",
+      "expirationDate": "2026-05-22T21:59:59Z",
+      "salaryDisplayText": "8 000–24 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Szukamy skutecznych i przebojowych handlowców – ludzi, którzy potrafią rozmawiać z klientami, dobrze czują się w sprzedaży i lubią, gdy ich wysiłek przekłada się bezpośrednio na wyniki (i wypłatę). Jeśli potrafisz działać...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20022207/mobile-banners/ee4d0000-5df0-0015-d52b-08dba24c89b8.png",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/20022207/desktop-banners/c42f0000-56be-0050-d417-08de5375f554.jpg",
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży</b> i potrafisz osiągać wyniki.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i umiesz działać samodzielnie.</li><li>Cenisz <b>elastyczny czas pracy</b> i możliwość pracy zdalnej oraz w terenie.</li><li>Chcesz korzystać z <b>narzędzi pracy</b> takich jak samochód służbowy, laptop i telefon.</li><li>Zależy Ci na <b>systemie wynagrodzenia uzależnionym od rezultatów</b>.</li><li>Oczekujesz <b>wsparcia szkoleniowego i merytorycznego</b> na co dzień.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754706,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-lodz,oferta,1004754706",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754706",
+      "title": "Przedstawiciel Handlowy",
+      "company": "AUXILIA S.A.",
+      "salary": "8 000–24 000 zł netto (+ VAT) / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Szukamy skutecznych i przebojowych handlowców – ludzi, którzy potrafią rozmawiać z klientami, dobrze czują się w sprzedaży i lubią, gdy ich wysiłek przekłada się bezpośrednio na wyniki (i wypłatę). Jeśli potrafisz działać...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-lodz,oferta,1004754706"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-9224-08de9962d074",
+      "jobTitle": "Specjalista / Specjalistka ds. sprzedaży - branża motoryzacyjna",
+      "companyName": "Łukasz Nawrot Auto-Hunters",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074140466",
+      "companyId": 1074140466,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074140466/eafd0000-56be-0050-6324-08dc32387754_280x280.jpeg",
+      "lastPublicated": "2026-04-13T13:52:29.87Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–24 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kompleksowa obsługa Klienta – diagnozowanie jego potrzeb, przygotowanie oferty, podpisywanie umów, opiekę nad Klientem po dokonaniu zakupu pojazdu, Licytowania pojazdów on-line, Bieżąca obsługa Klientów, Prowadzenie i...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2 lata doświadczenia w sprzedaży, najlepiej w branży motoryzacyjnej.</li><li>Posiadasz <b>umiejętności sprzedażowe</b> i potrafisz <b>finalizować transakcje</b> oraz obsługiwać klienta kompleksowo.</li><li>Znajomość języka angielskiego na poziomie komunikatywnym oraz pakietu MS Office jest dla Ciebie standardem.</li><li>Chcesz pracować w firmie oferującej <b>prowizje bez górnego limitu</b> i system premiowy zależny od wyników.</li><li>Jesteś zmotywowany do realizacji celów sprzedażowych i radzenia sobie pod presją czasu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768032,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-branza-motoryzacyjna-lodz-drewnowska-62,oferta,1004768032",
+      "displayWorkplace": "Łódź, Bałuty",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.781368255615234,
+        "longitude": 19.445390701293945
+      },
+      "distanceInKilometers": 2.5,
+      "id": "1004768032",
+      "title": "Specjalista / Specjalistka ds. sprzedaży - branża motoryzacyjna",
+      "company": "Łukasz Nawrot Auto-Hunters",
+      "salary": "6 000–24 000 zł netto (+ VAT) / mies.",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, Kompleksowa obsługa Klienta – diagnozowanie jego potrzeb, przygotowanie oferty, podpisywanie umów, opiekę nad Klientem po dokonaniu zakupu pojazdu, Licytowania pojazdów on-line, Bieżąca obsługa Klientów, Prowadzenie i...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-branza-motoryzacyjna-lodz-drewnowska-62,oferta,1004768032"
+    },
+    {
+      "groupId": "8c280000-56be-0050-e9dd-08de9922e4ce",
+      "jobTitle": "Główna księgowa / Główny księgowy",
+      "companyName": "POWIATOWE CENTRUM POMOCY RODZINIE W PABIANICACH",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20339801",
+      "companyId": 20339801,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20339801/dc450000-56be-0050-e231-08de9923b7c9_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:41:44.123Z",
+      "expirationDate": "2026-04-28T21:59:59Z",
+      "salaryDisplayText": "7 500–8 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, 1) opracowywanie projektów rocznych planów finansowych Centrum,, 2) opracowywanie projektów zmian do budżetu Powiatu,, 3) prowadzenie rachunkowości Centrum zgodnie z obowiązującymi przepisami prawa,, 4) wykonywanie zadań z...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>odpowiednie kwalifikacje i doświadczenie księgowe</b> wymagane do pełnienia funkcji głównego księgowego.</li><li>Posiadasz <b>znajomość przepisów prawa finansowego i rachunkowości</b> niezbędną do realizacji obowiązków.</li><li>Jesteś zdolny do <b>samodzielnego zarządzania pracą działu finansowo-księgowego</b> i podejmowania decyzji.</li><li>Cenienie <b>umowę o pracę z pełnym wymiarem czasu pracy</b> oraz miejsce zatrudnienia w Powiatowym Centrum Pomocy Rodzinie.</li><li>Zależy Ci na <b>dofinansowaniu szkoleń i ubezpieczeniu na życie</b> jako część pakietu benefitów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767972,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/glowna-ksiegowa-glowny-ksiegowy-pabianice-traugutta-6a,oferta,1004767972",
+      "displayWorkplace": "Pabianice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.668968200683594,
+        "longitude": 19.352109909057617
+      },
+      "distanceInKilometers": 14.5,
+      "id": "1004767972",
+      "title": "Główna księgowa / Główny księgowy",
+      "company": "POWIATOWE CENTRUM POMOCY RODZINIE W PABIANICACH",
+      "salary": "7 500–8 500 zł brutto / mies.",
+      "location": "Pabianice",
+      "description": "Twój zakres obowiązków, 1) opracowywanie projektów rocznych planów finansowych Centrum,, 2) opracowywanie projektów zmian do budżetu Powiatu,, 3) prowadzenie rachunkowości Centrum zgodnie z obowiązującymi przepisami prawa,, 4) wykonywanie zadań z...",
+      "url": "https://www.pracuj.pl/praca/glowna-ksiegowa-glowny-ksiegowy-pabianice-traugutta-6a,oferta,1004767972"
+    },
+    {
+      "groupId": "5c420000-56be-0050-00ca-08de995e9d2e",
+      "jobTitle": "Sprzedawca do stacjonarnego sklepu - arabskie perfumy, damskie torebki",
+      "companyName": "THIS4YOU JAROSŁAW DUBIŃSKI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074234689",
+      "companyId": 1074234689,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T13:29:20.733Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "31–31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta w sklepie stacjonarnym., Obsługa kasy fiskalnej i terminala płatniczego., Pakowanie zamówień internetowych., Dbanie o estetyczny wygląd sklepu oraz ekspozycję towaru....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>status studenta</b> i szukasz pracy od połowy maja.</li><li>Interesuje Cię <b>kontakt z klientem</b> i obsługa sprzedaży w sklepie stacjonarnym.</li><li>Posiadasz <b>komunikatywność, kulturę osobistą</b> oraz jesteś sumienny/a i odpowiedzialny/a.</li><li>Chcesz zdobyć doświadczenie z <b>obsługą kasy fiskalnej i terminala płatniczego</b>.</li><li>Cenisz sobie pracę w <b>stabilnych godzinach</b> oraz szkolenia z obsługi produktów i systemu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767896,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-do-stacjonarnego-sklepu-arabskie-perfumy-damskie-torebki-lodz-nastrojowa-51,oferta,1004767896",
+      "displayWorkplace": "Łódź, Bałuty",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.820430755615234,
+        "longitude": 19.441816329956055
+      },
+      "distanceInKilometers": 5.9,
+      "id": "1004767896",
+      "title": "Sprzedawca do stacjonarnego sklepu - arabskie perfumy, damskie torebki",
+      "company": "THIS4YOU JAROSŁAW DUBIŃSKI",
+      "salary": "31–31,40 zł brutto / godz.",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, Obsługa klienta w sklepie stacjonarnym., Obsługa kasy fiskalnej i terminala płatniczego., Pakowanie zamówień internetowych., Dbanie o estetyczny wygląd sklepu oraz ekspozycję towaru....",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-do-stacjonarnego-sklepu-arabskie-perfumy-damskie-torebki-lodz-nastrojowa-51,oferta,1004767896"
+    },
+    {
+      "groupId": "880e0000-56be-0050-db55-08de86883fd2",
+      "jobTitle": "Operator / Operatorka Suszarni",
+      "companyName": "ZREW Transformatory S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20144199",
+      "companyId": 20144199,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20144199/9b030000-5dac-0015-5cb1-08db8e8c9c2f_280x280.png",
+      "lastPublicated": "2026-04-13T13:28:36.573Z",
+      "expirationDate": "2026-04-19T21:59:59Z",
+      "salaryDisplayText": "32–33 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa urządzeń suszarni próżniowej zgodnie z instrukcjami technologicznymi, Przestrzeganie procesu technologicznego zgodnie z instrukcjami, Kontrola sprawności maszyn oraz dbanie o ich stan techniczny...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20144199/mobile-banners/9b030000-5dac-0015-1d4f-08db2ab159a1.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do pracy w ruchu ciągłym – to warunek konieczny.</li><li>Potrafisz bezpiecznie organizować pracę przy obsłudze urządzeń.</li><li>Chcesz obsługiwać <b>urządzenia suszarni próżniowej</b> zgodnie z instrukcjami.</li><li>Zależy Ci na <b>kontroli stanu technicznego maszyn</b> i dbaniu o ich sprawność.</li><li>Posiadasz lub chcesz zdobyć doświadczenie na podobnym stanowisku.</li><li>Cenisz <b>pakiet benefitów</b> obejmujący opiekę medyczną, dofinansowania i świadczenia socjalne.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004720921,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-operatorka-suszarni-lodz-rokicinska-144,oferta,1004720921",
+      "displayWorkplace": "Łódź, Widzew",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.75752258300781,
+        "longitude": 19.557708740234375
+      },
+      "distanceInKilometers": 5.8,
+      "id": "1004720921",
+      "title": "Operator / Operatorka Suszarni",
+      "company": "ZREW Transformatory S.A.",
+      "salary": "32–33 zł brutto / godz.",
+      "location": "Łódź, Widzew",
+      "description": "Twój zakres obowiązków, Obsługa urządzeń suszarni próżniowej zgodnie z instrukcjami technologicznymi, Przestrzeganie procesu technologicznego zgodnie z instrukcjami, Kontrola sprawności maszyn oraz dbanie o ich stan techniczny...",
+      "url": "https://www.pracuj.pl/praca/operator-operatorka-suszarni-lodz-rokicinska-144,oferta,1004720921"
+    },
+    {
+      "groupId": "94470000-56be-0050-395b-08de8b40efbb",
+      "jobTitle": "Pracownik Magazynu (Domino's Pizza Commissary Łódź)",
+      "companyName": "DP Polska S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20079365",
+      "companyId": 20079365,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20079365/10080000-56be-0050-01bf-08de38b3780a_280x280.png",
+      "lastPublicated": "2026-04-13T13:19:50.64Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "5 000–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa wózka widłowego, zapewnienie prawidłowego rozmieszczenia towarów w magazynie, kompletowanie towarów pod zamówienie odbiorcy zgodnie z ustanowionymi procedurami, dbanie o czystość i porządek w miejscu pracy, pomoc na...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Podstawa na start 5000 zł miesięcznie. Po okresie próbnym do 7000 zł (wyliczane wraz z premiami)."
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20079365/mobile-banners/342e0000-56be-0050-7065-08de4f616235.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>uprawnienia do obsługi wózków widłowych z certyfikatem UDT</b>.</li><li>Jesteś gotowy/a do <b>wykonywania badań sanitarno-epidemiologicznych</b> i pracy w systemie jednozmianowym pon-sb 7-15.</li><li>Masz umiejętność <b>kompletowania towarów i dbania o porządek w magazynie</b>.</li><li>Potrafisz <b>pracować w zespole i wykazujesz zdolności organizacyjne</b>.</li><li>Cenisz <b>pełnopłatne szkolenie, premię oraz ubezpieczenie NNW od pierwszego dnia</b>.</li><li>Znasz obsługę komputera i urządzeń magazynowych, co będzie dodatkowym atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004733024,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-magazynu-domino-s-pizza-commissary-lodz-lodz-dostawcza-3a,oferta,1004733024",
+      "displayWorkplace": "Łódź, Górna",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.73918914794922,
+        "longitude": 19.51424217224121
+      },
+      "distanceInKilometers": 4.5,
+      "id": "1004733024",
+      "title": "Pracownik Magazynu (Domino's Pizza Commissary Łódź)",
+      "company": "DP Polska S.A.",
+      "salary": "5 000–7 000 zł brutto / mies.",
+      "location": "Łódź, Górna",
+      "description": "Twój zakres obowiązków, obsługa wózka widłowego, zapewnienie prawidłowego rozmieszczenia towarów w magazynie, kompletowanie towarów pod zamówienie odbiorcy zgodnie z ustanowionymi procedurami, dbanie o czystość i porządek w miejscu pracy, pomoc na...",
+      "url": "https://www.pracuj.pl/praca/pracownik-magazynu-domino-s-pizza-commissary-lodz-lodz-dostawcza-3a,oferta,1004733024"
+    },
+    {
+      "groupId": "5c420000-56be-0050-915b-08de993b240f",
+      "jobTitle": "Doradca Salonu Firmowego",
+      "companyName": "KUBENZ Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20185045",
+      "companyId": 20185045,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20185045/342c0000-56be-0050-7205-08ddfb528b7b_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:18:26.157Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 666–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, profesjonalne doradztwo Klientom w doborze mody męskiej,, aktywna sprzedaż produktów i tworzenie pozytywnego doświadczenia zakupowego,, dbałość o estetykę i prezentację produktów w salonie....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>sprzedaży</b>, szczególnie w branży odzieżowej.</li><li>Potrafisz <b>komunikować się i budować relacje</b> z klientami.</li><li>Interesujesz się <b>modą męską</b> i śledzisz aktualne trendy.</li><li>Jesteś dyspozycyjny do pracy w systemie <b>12-godzinnym, także w weekendy</b>.</li><li>Chcesz oferować <b>profesjonalne doradztwo</b> i dbać o estetykę salonu.</li><li>Cenisz <b>umowę o pracę</b> oraz zniżki na produkty firmy Kubenz.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767756,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-salonu-firmowego-lodz,oferta,1004767756",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767756",
+      "title": "Doradca Salonu Firmowego",
+      "company": "KUBENZ Sp. z o.o.",
+      "salary": "4 666–7 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, profesjonalne doradztwo Klientom w doborze mody męskiej,, aktywna sprzedaż produktów i tworzenie pozytywnego doświadczenia zakupowego,, dbałość o estetykę i prezentację produktów w salonie....",
+      "url": "https://www.pracuj.pl/praca/doradca-salonu-firmowego-lodz,oferta,1004767756"
+    },
+    {
+      "groupId": "fc380000-56be-0050-d59d-08de84038140",
+      "jobTitle": "Przedstawiciel Handlowy / Przedstawicielka Handlowa w Branży Energetycznej",
+      "companyName": "J&G ENTERPRISE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074224960",
+      "companyId": 1074224960,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074224960/4c200000-56be-0050-7873-08de8403b694_280x280.png",
+      "lastPublicated": "2026-04-13T13:13:10.33Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "1 000–35 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Tworzyć i rozwijać trwałe relacje z klientami biznesowymi., Aktywnie wyszukiwać nowe możliwości i prowadzić klientów przez cały proces zakupowy., Przygotowywać oferty, które naprawdę robią wrażenie i odpowiadają potrzebom...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074224960/mobile-banners/4c200000-56be-0050-a149-08de8424336a.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074224960/desktop-banners/4c200000-56be-0050-29ac-08de84243898.jpg",
+      "aiSummary": "<ul><li>Masz <b>naturalną otwartość i umiejętność słuchania</b>, które pozwalają skutecznie rozumieć potrzeby klientów.</li><li>Posiadasz <b>pasję do sprzedaży i chęć rozwoju</b> w branży energetycznej lub OZE.</li><li>Potrafisz <b>budować trwałe relacje biznesowe</b> i realizować cele sprzedażowe samodzielnie i proaktywnie.</li><li>Cenisz <b>elastyczność pracy</b> oraz możliwość działania na własnych zasadach.</li><li>Zależy Ci na <b>atrakcyjnych prowizjach i wsparciu przy rozwoju działalności</b>.</li><li>Masz lub jesteś otwarty na zdobycie <b>doświadczenia w pracy terenowej i sprzedaży B2B</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712630,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-w-branzy-energetycznej-lodz,oferta,1004712630",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004712630",
+      "title": "Przedstawiciel Handlowy / Przedstawicielka Handlowa w Branży Energetycznej",
+      "company": "J&G ENTERPRISE sp. z o.o.",
+      "salary": "1 000–35 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Tworzyć i rozwijać trwałe relacje z klientami biznesowymi., Aktywnie wyszukiwać nowe możliwości i prowadzić klientów przez cały proces zakupowy., Przygotowywać oferty, które naprawdę robią wrażenie i odpowiadają potrzebom...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-w-branzy-energetycznej-lodz,oferta,1004712630"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-fe62-08de995bcd8a",
+      "jobTitle": "Lider Procesów Magazynowych (m/k)",
+      "companyName": "Adecco Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/14234837",
+      "companyId": 14234837,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/14234837/58230000-56be-0050-6a41-08de9000f0c9_280x280.png",
+      "lastPublicated": "2026-04-13T13:12:27.747Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "7 500–9 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, kompleksowa odpowiedzialność za planowanie, organizowanie oraz wspieranie pracy podległego zespołu pracowników (dbanie o zaangażowanie oraz wzajemne wsparcie),, realizacja procesów logistycznych (dbałość o prawidłowy oraz...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/14234837/mobile-banners/ee4d0000-5df0-0015-6a58-08dbca30a7a9.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy na stanowisku kierowniczym w magazynie</b> i znasz procesy logistyczne.</li><li>Znajomość <b>języka angielskiego na poziomie B2</b> umożliwiająca swobodną komunikację.</li><li>Potrafisz <b>zarządzać zespołem</b> i organizować pracę w systemie zmianowym.</li><li>Posiadasz umiejętności analityczne oraz sprawną obsługę <b>pakietu MS Office, zwłaszcza MS Excel</b>.</li><li>Cenisz <b>konkurencyjne wynagrodzenie i rozbudowany pakiet benefitów</b>, w tym prywatną opiekę medyczną i dofinansowanie wakacji dla dzieci.</li><li>Jesteś gotowy do <b>współpracy w zespołach międzydziałowych</b> i realizacji usprawnień procesowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767703,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lider-procesow-magazynowych-m-k-strykow,oferta,1004767703",
+      "displayWorkplace": "Stryków",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767703",
+      "title": "Lider Procesów Magazynowych (m/k)",
+      "company": "Adecco Poland Sp. z o.o.",
+      "salary": "7 500–9 500 zł brutto / mies.",
+      "location": "Stryków",
+      "description": "Twój zakres obowiązków, kompleksowa odpowiedzialność za planowanie, organizowanie oraz wspieranie pracy podległego zespołu pracowników (dbanie o zaangażowanie oraz wzajemne wsparcie),, realizacja procesów logistycznych (dbałość o prawidłowy oraz...",
+      "url": "https://www.pracuj.pl/praca/lider-procesow-magazynowych-m-k-strykow,oferta,1004767703"
+    },
+    {
+      "groupId": "fc380000-56be-0050-5377-08de8424fc1a",
+      "jobTitle": "Pracownik produkcji (k/m)",
+      "companyName": "Human & Hunter APT",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20075795",
+      "companyId": 20075795,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20075795/10230000-56be-0050-3cf2-08de63193b64_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:00:08.113Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "5 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, wykonywanie zadań z dbałością o najwyższą jakość produktu (kontrola jakości, łączenie, klejenie, owijanie, wycinanie),, prace manualne z wykorzystaniem narzędzi ręcznych, pneumatycznych, maszyn produkcyjnych,, wykonywanie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20075795/mobile-banners/2da80000-56be-0050-3d2a-08dc1802ca5b.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz umiejętność odczytania podstawowych informacji z <b>rysunku technicznego</b>.</li><li>Jesteś dyspozycyjny do pracy w <b>systemie 3-zmianowym</b>.</li><li>Chcesz wykonywać zadania związane z <b>kontrolą jakości i pracami manualnymi</b> przy użyciu narzędzi ręcznych i maszyn.</li><li>Cenisz <b>wynagrodzenie z dodatkiem za pracę w nocy i premiiami</b> miesięcznymi oraz roczną.</li><li>Oczekujesz <b>szkolenia stanowiskowego i wsparcia koordynatora</b> w pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712560,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-produkcji-k-m-lodz,oferta,1004712560",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004712560",
+      "title": "Pracownik produkcji (k/m)",
+      "company": "Human & Hunter APT",
+      "salary": "5 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, wykonywanie zadań z dbałością o najwyższą jakość produktu (kontrola jakości, łączenie, klejenie, owijanie, wycinanie),, prace manualne z wykorzystaniem narzędzi ręcznych, pneumatycznych, maszyn produkcyjnych,, wykonywanie...",
+      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-k-m-lodz,oferta,1004712560"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-57e3-08de995b6a4d",
+      "jobTitle": "Asystent / Asystentka Inżyniera Budowy w branży Elektrotechnicznej",
+      "companyName": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074126072",
+      "companyId": 1074126072,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074126072/dc450000-56be-0050-ba31-08de995b898b_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:58:21.49Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne w elektrotechnice</b> i prawo jazdy kat. B.</li><li>Posiadasz praktyczną znajomość <b>Norma PRO, Auto-Cad i pakietu Office</b>.</li><li>Jesteś gotów do <b>wyjazdów służbowych na terenie całego kraju</b>.</li><li>Potrafisz organizować pracę własną i zespołu oraz nadzorować <b>dokumentację i wykonawców</b>.</li><li>Ceniasz <b>stabilne zatrudnienie na umowę o pracę oraz narzędzia pracy</b> zapewniane przez firmę.</li><li>Zależy Ci na <b>dofinansowaniu szkoleń, ubezpieczeniu i wsparciu sportowym</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767596,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-asystentka-inzyniera-budowy-w-branzy-elektrotechnicznej-rzgow,oferta,1004767596",
+      "displayWorkplace": "Rzgów",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767596",
+      "title": "Asystent / Asystentka Inżyniera Budowy w branży Elektrotechnicznej",
+      "company": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "salary": "6 000–10 000 zł brutto / mies.",
+      "location": "Rzgów",
+      "description": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "url": "https://www.pracuj.pl/praca/asystent-asystentka-inzyniera-budowy-w-branzy-elektrotechnicznej-rzgow,oferta,1004767596"
+    },
+    {
+      "groupId": "882b0000-56be-0050-6569-08de917dbdde",
+      "jobTitle": "Chief Accountant",
+      "companyName": "MERIT AKTIVA sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074042133",
+      "companyId": 1074042133,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074042133/03000000-bb2f-3863-a026-08d882667fb7_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:53:59.75Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "15 000–17 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Twój zakres odpowiedzialności:, , ✅Nadzór merytoryczny: Prowadzenie pełnej księgowości spółki zgodnie z polską ustawą o rachunkowości oraz standardami Grupy Visma., ✅Podatki i sprawozdawczość: Sporządzanie i wysyłka...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 5-8 lat doświadczenia na stanowisku <b>Głównego Księgowego</b>, najlepiej w firmach IT/SaaS lub międzynarodowych grupach kapitałowych.</li><li>Pracujesz na poziomie <b>zaawansowanym z językiem angielskim (C1)</b> oraz znasz przepisy podatkowe i raportowanie według IFRS.</li><li>Potrafisz <b>zarządzać zespołem</b> i pracować zgodnie z procedurami oraz standardami grupowymi.</li><li>Interesuje Cię <b>praca na nowoczesnych systemach ERP</b> i automatyzacja procesów księgowych.</li><li>Cenisz możliwość pracy <b>hybrydowej lub z biura w Łodzi</b> oraz benefity takie jak medyczna opieka i dofinansowanie szkoleń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750985,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/chief-accountant-lodz-henryka-sienkiewicza-85-87,oferta,1004750985",
+      "displayWorkplace": "Łódź, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.760616302490234,
+        "longitude": 19.462419509887695
+      },
+      "distanceInKilometers": 1.8,
+      "id": "1004750985",
+      "title": "Chief Accountant",
+      "company": "MERIT AKTIVA sp. z o.o.",
+      "salary": "15 000–17 000 zł brutto / mies.",
+      "location": "Łódź, Śródmieście",
+      "description": "Twój zakres obowiązków, Twój zakres odpowiedzialności:, , ✅Nadzór merytoryczny: Prowadzenie pełnej księgowości spółki zgodnie z polską ustawą o rachunkowości oraz standardami Grupy Visma., ✅Podatki i sprawozdawczość: Sporządzanie i wysyłka...",
+      "url": "https://www.pracuj.pl/praca/chief-accountant-lodz-henryka-sienkiewicza-85-87,oferta,1004750985"
+    },
+    {
+      "groupId": "7c310000-56be-0050-30ca-08de8bf10906",
+      "jobTitle": "Spedytor / Partner Spedycyjny",
+      "companyName": "GTC Poland Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074022738",
+      "companyId": 1074022738,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074022738/2c580000-43a8-f403-c5e5-08d987e6a02e_280x280.png",
+      "lastPublicated": "2026-04-13T12:51:12.09Z",
+      "expirationDate": "2026-05-11T21:59:59Z",
+      "salaryDisplayText": "6 920–30 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, organizacja transportów krajowych i międzynarodowych, pozyskiwanie i obsługa klientów oraz przewoźników, negocjowanie stawek i warunków transportu, nadzór nad realizacją zleceń transportowych, rozwój własnego portfela...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Twoje wynagrodzenie jest uzależnione od wyniku i nie ma górnej granicy. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074022738/mobile-banners/c0450000-56be-0050-1864-08de8c0a94fd.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074022738/desktop-banners/60180000-56be-0050-7f44-08de8c0a9925.jpg",
+      "aiSummary": "<ul><li>Masz <b>minimum 2 lata doświadczenia w spedycji drogowej</b>.</li><li>Jesteś osobą <b>samodzielną i nastawioną na wyniki</b>.</li><li>Posiadasz <b>dobrą znajomość rynku transportowego i giełd transportowych</b>.</li><li>Chcesz <b>rozwijać własny oddział spedycyjny</b> w ramach struktury firmy.</li><li>Cenisz <b>elastyczną formę współpracy</b> oraz <b>wysoki udział w wypracowanej marży</b>.</li><li>Zależy Ci na wsparciu <b>zaplecza operacyjnego, księgowego i prawnego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004735616,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/spedytor-partner-spedycyjny-lodz,oferta,1004735616",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004735616",
+      "title": "Spedytor / Partner Spedycyjny",
+      "company": "GTC Poland Sp. z o.o.",
+      "salary": "6 920–30 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, organizacja transportów krajowych i międzynarodowych, pozyskiwanie i obsługa klientów oraz przewoźników, negocjowanie stawek i warunków transportu, nadzór nad realizacją zleceń transportowych, rozwój własnego portfela...",
+      "url": "https://www.pracuj.pl/praca/spedytor-partner-spedycyjny-lodz,oferta,1004735616"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-b0e6-08de859a2b21",
+      "jobTitle": "Technical Business Analyst",
+      "companyName": "HAPPY TEAM",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074010215",
+      "companyId": 1074010215,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074010215/9b030000-5dac-0015-dee7-08dbbea6655c_280x280.png",
+      "lastPublicated": "2026-04-13T12:45:41.997Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "15 000–20 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Szukamy osoby z doświadczeniem w branży logistyki, która rozumie specyfikę procesów operacyjnych i potrafi skutecznie łączyć perspektywę biznesową z technologiczną., , Rola zakłada aktywną współpracę z Product Ownerem,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3–5 lat doświadczenia jako <b>Business Analyst lub Technical Business Analyst</b> w projektach IT z wykorzystaniem nowoczesnych technologii.</li><li>Pracujesz na styku <b>biznesu i IT</b>, rozumiesz procesy operacyjne i potrafisz tworzyć precyzyjną dokumentację.</li><li>Posługujesz się <b>biegłą znajomością języka angielskiego</b>, umożliwiającą codzienną komunikację z międzynarodowym zespołem.</li><li>Cenisz <b>elastyczne godziny pracy i możliwość zdalnej pracy</b> oraz dodatkowe benefity takie jak opieka medyczna i dofinansowanie szkoleń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717973,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/technical-business-analyst-lodz,oferta,1004717973",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004717973",
+      "title": "Technical Business Analyst",
+      "company": "HAPPY TEAM",
+      "salary": "15 000–20 000 zł netto (+ VAT) / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Szukamy osoby z doświadczeniem w branży logistyki, która rozumie specyfikę procesów operacyjnych i potrafi skutecznie łączyć perspektywę biznesową z technologiczną., , Rola zakłada aktywną współpracę z Product Ownerem,...",
+      "url": "https://www.pracuj.pl/praca/technical-business-analyst-lodz,oferta,1004717973"
+    },
+    {
+      "groupId": "84450000-56be-0050-9b88-08de89a9dd93",
+      "jobTitle": "Agent / Agentka ds. wynajmu samochodów (k/m/x)",
+      "companyName": "ONE RENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074148086",
+      "companyId": 1074148086,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074148086/f15b0000-56be-0050-0a32-08dc85f2b2a2_280x280.png",
+      "lastPublicated": "2026-04-13T12:44:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "31,40–33,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Podstawianie i odbiór samochodów dla klientów z pomocą systemu w telefonie lub na tablecie, Relokacja samochodów między oddziałami i serwisami na terenie regionu oraz Polski, Wykonywanie podstawowej obsługi samochodów -...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> od co najmniej roku i jesteś dostępny wieczorami oraz weekendy.</li><li>Chcesz pracować przy <b>obsłudze floty samochodów</b>, w tym relokacji i podstawowej konserwacji pojazdów.</li><li>Posiadasz <b>podstawową wiedzę branżową</b> i umiesz obsługiwać komputer lub tablet.</li><li>Interesuje Cię <b>system prowizji i bonusów</b> zależny od dyspozycyjności i sprzedaży.</li><li>Ceniasz <b>elastyczny czas pracy</b> oraz zniżki na firmowe produkty i usługi.</li><li>Preferujesz zatrudnienie na <b>umowę zlecenie</b> z możliwością szybkiego rozpoczęcia pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727337,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-ds-wynajmu-samochodow-k-m-x-lodz,oferta,1004727337",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004727337",
+      "title": "Agent / Agentka ds. wynajmu samochodów (k/m/x)",
+      "company": "ONE RENT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "31,40–33,40 zł brutto / godz.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Podstawianie i odbiór samochodów dla klientów z pomocą systemu w telefonie lub na tablecie, Relokacja samochodów między oddziałami i serwisami na terenie regionu oraz Polski, Wykonywanie podstawowej obsługi samochodów -...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-ds-wynajmu-samochodow-k-m-x-lodz,oferta,1004727337"
+    },
+    {
+      "groupId": "ec400000-56be-0050-6a02-08de96fcddeb",
+      "jobTitle": "Pracownik produkcji / Pracownica produkcji",
+      "companyName": "ZREW Transformatory S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20144199",
+      "companyId": 20144199,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20144199/9b030000-5dac-0015-5cb1-08db8e8c9c2f_280x280.png",
+      "lastPublicated": "2026-04-13T12:39:19.63Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "32 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, W związku z budową nowego zakładu - Łódź, Nowy Józefów poszukujemy pracowników przy montażu transformatorów mocy – nawijanie uzwojeń oraz monterów (nowy zakład zostanie uruchomiony 09.2026). Do września 2026 r. Twoim...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20144199/mobile-banners/9b030000-5dac-0015-1d4f-08db2ab159a1.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. wykształcenie zawodowe</b> i potrafisz <b>pracować w zespole</b>.</li><li>Jesteś gotowy do pracy przy <b>montażu transformatorów</b>, w tym nawijaniu uzwojeń.</li><li>Chcesz podjąć zatrudnienie przed uruchomieniem nowego zakładu (09.2026) w lokalizacji Łódź.</li><li>Możesz <b>uzupełnić wymagany formularz</b> – brak odpowiedzi wyklucza aplikację.</li><li>Masz <b>doświadczenie lub chęć nauki</b> na stanowisku nawijacza, a dodatkowo atutem będzie uprawnienie na suwnice i wózki widłowe.</li><li>Cenisz <b>pakiet świadczeń socjalnych i opiekę medyczną</b> oferowane przez pracodawcę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004763332,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-produkcji-pracownica-produkcji-lodz-rokicinska-144,oferta,1004763332",
+      "displayWorkplace": "Łódź, Widzew",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.75752258300781,
+        "longitude": 19.557708740234375
+      },
+      "distanceInKilometers": 5.8,
+      "id": "1004763332",
+      "title": "Pracownik produkcji / Pracownica produkcji",
+      "company": "ZREW Transformatory S.A.",
+      "salary": "32 zł brutto / godz.",
+      "location": "Łódź, Widzew",
+      "description": "Twój zakres obowiązków, W związku z budową nowego zakładu - Łódź, Nowy Józefów poszukujemy pracowników przy montażu transformatorów mocy – nawijanie uzwojeń oraz monterów (nowy zakład zostanie uruchomiony 09.2026). Do września 2026 r. Twoim...",
+      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-pracownica-produkcji-lodz-rokicinska-144,oferta,1004763332"
+    },
+    {
+      "groupId": "042e0000-56be-0050-f80b-08de9911bc7b",
+      "jobTitle": "Stolarz",
+      "companyName": "\"SZPROS\" ZAKŁAD STOLARSKI ANDRZEJ KRAJEWSKI",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074100276",
+      "companyId": 1074100276,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T12:33:05.55Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 806–5 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie i montaż mebli , Obsługa maszyn stolarskich i narzędzi ręcznych  , Przygotowywanie materiałów do produkcji  , Czytanie i interpretacja rysunków technicznych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy na stanowisku stolarza</b>.</li><li>Potrafisz <b>czytać i interpretować rysunki techniczne</b>.</li><li>Znajomość <b>obsługi maszyn stolarskich i narzędzi ręcznych</b> jest dla Ciebie naturalna.</li><li>Cenisz <b>dokładność, precyzję i zdolności manualne</b> w wykonywaniu obowiązków.</li><li>Chcesz wykonywać i montować <b>meble oraz przygotowywać materiały do produkcji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767418,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/stolarz-ksawerow-pow-pabianicki-tymiankowa-36,oferta,1004767418",
+      "displayWorkplace": "Ksawerów (pow. pabianicki)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.67820358276367,
+        "longitude": 19.424516677856445
+      },
+      "distanceInKilometers": 11.2,
+      "id": "1004767418",
+      "title": "Stolarz",
+      "company": "\"SZPROS\" ZAKŁAD STOLARSKI ANDRZEJ KRAJEWSKI",
+      "salary": "4 806–5 000 zł brutto / mies.",
+      "location": "Ksawerów (pow. pabianicki)",
+      "description": "Twój zakres obowiązków, Wykonywanie i montaż mebli , Obsługa maszyn stolarskich i narzędzi ręcznych  , Przygotowywanie materiałów do produkcji  , Czytanie i interpretacja rysunków technicznych...",
+      "url": "https://www.pracuj.pl/praca/stolarz-ksawerow-pow-pabianicki-tymiankowa-36,oferta,1004767418"
+    },
+    {
+      "groupId": "5c420000-56be-0050-f416-08de995317d5",
+      "jobTitle": "Pracownik Produkcji",
+      "companyName": "SN Group Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074083308",
+      "companyId": 1074083308,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074083308/7c120000-56be-0050-c81d-08de962c4b7e_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:32:30.823Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "31,50 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Prace produkcyjne przy konstrukcjach stalowych, Obsługa maszyn i urządzeń, Dbanie o czystość na miejscu pracy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do pracy w systemie <b>dwuzmianowym</b> i punktualność.</li><li>Jesteś <b>zaangażowany</b>, <b>samodyscyplinowany</b> i dyspozycyjny do podjęcia pracy od zaraz.</li><li>Potrafisz <b>pracować zespołowo</b> i komunikować się efektywnie.</li><li>Chcesz wykonywać <b>prace produkcyjne przy konstrukcjach stalowych</b> oraz obsługiwać maszyny i urządzenia.</li><li>Cenisz <b>wynagrodzenie godzinowe 31-32 zł brutto</b> oraz system wzrostu płac powiązany ze stażem.</li><li>Zależy Ci na <b>wsparciu opiekuna</b> i dostępie do benefitów socjalnych u klienta.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767414,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-produkcji-zgierz,oferta,1004767414",
+      "displayWorkplace": "Zgierz",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767414",
+      "title": "Pracownik Produkcji",
+      "company": "SN Group Sp. z o.o.",
+      "salary": "31,50 zł brutto / godz.",
+      "location": "Zgierz",
+      "description": "Twój zakres obowiązków, Prace produkcyjne przy konstrukcjach stalowych, Obsługa maszyn i urządzeń, Dbanie o czystość na miejscu pracy...",
+      "url": "https://www.pracuj.pl/praca/pracownik-produkcji-zgierz,oferta,1004767414"
+    },
+    {
+      "groupId": "5c420000-56be-0050-1f78-08de995790e9",
+      "jobTitle": "Zastępca Kierownika Sklepu (m/k)",
+      "companyName": "ER Group Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074145799",
+      "companyId": 1074145799,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074145799/9b030000-5dac-0015-da42-08dbfa20a230_280x280.png",
+      "lastPublicated": "2026-04-13T12:31:11.693Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 500–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wsparcie kierownika w codziennym prowadzeniu sklepu, w tym zarządzanie zespołem, sprzedażą i magazynem, Aktywny udział w maksymalizacji sprzedaży i obsłudze klienta, Dbanie o wizerunek marki i standardy obsługi klienta,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku Zastępcy Kierownika Sklepu</b> i umiejętność zarządzania zespołem.</li><li>Potrafisz <b>koordynować sprzedaż, magazyn oraz obsługę klienta</b> w codziennej pracy.</li><li>Dbasz o <b>standardy obsługi klienta i wizerunek marki</b>.</li><li>Cenisz <b>benefity takie jak prywatna opieka medyczna, ubezpieczenie na życie i premie</b>.</li><li>Jesteś <b>zorganizowany i zaangażowany</b> w wykonywane obowiązki.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767411,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-lodz,oferta,1004767411",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767411",
+      "title": "Zastępca Kierownika Sklepu (m/k)",
+      "company": "ER Group Sp. z o.o.",
+      "salary": "5 500–7 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Wsparcie kierownika w codziennym prowadzeniu sklepu, w tym zarządzanie zespołem, sprzedażą i magazynem, Aktywny udział w maksymalizacji sprzedaży i obsłudze klienta, Dbanie o wizerunek marki i standardy obsługi klienta,...",
+      "url": "https://www.pracuj.pl/praca/zastepca-kierownika-sklepu-m-k-lodz,oferta,1004767411"
+    },
+    {
+      "groupId": "5c420000-56be-0050-4c52-08de994ce683",
+      "jobTitle": "Kierowca kat. C – Dystrybucja spożywcza (k/m)",
+      "companyName": "Alfa Sped Sp. z o.o. S.K.A",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20003186",
+      "companyId": 20003186,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20003186/2c580000-43a8-f403-36cd-08d8e3b1e53d_280x280.png",
+      "lastPublicated": "2026-04-13T12:21:12.343Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Dostarczanie towarów samochodem ciężarowym 12 mpl, Obsługa skanera, Dbanie o prawidłowy obieg dokumentów, Utrzymywanie dobrych relacji z klientami, Dbanie o pojazd służbowy...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20003186/mobile-banners/9b030000-5dac-0015-b3ca-08db60359817.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>prawo jazdy kat. C</b> oraz aktualną kartę kierowcy i kurs na przewóz rzeczy (kod 95).</li><li>Jesteś gotów do pracy co drugą sobotę i dbasz o <b>odpowiedzialność oraz rzetelność</b>.</li><li>Chcesz dostarczać towary samochodem ciężarowym i obsługiwać skaner oraz dokumentację.</li><li>Zależy Ci na pracy z <b>umową o pracę</b> i jasnym systemem wynagrodzeń.</li><li>Interesuje Cię szkolenie wdrożeniowe i praca w <b>centrum logistycznym</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767348,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kat-c-dystrybucja-spozywcza-k-m-lodz,oferta,1004767348",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767348",
+      "title": "Kierowca kat. C – Dystrybucja spożywcza (k/m)",
+      "company": "Alfa Sped Sp. z o.o. S.K.A",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Dostarczanie towarów samochodem ciężarowym 12 mpl, Obsługa skanera, Dbanie o prawidłowy obieg dokumentów, Utrzymywanie dobrych relacji z klientami, Dbanie o pojazd służbowy...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-c-dystrybucja-spozywcza-k-m-lodz,oferta,1004767348"
+    },
+    {
+      "groupId": "9c270000-56be-0050-4fbf-08de9566e816",
+      "jobTitle": "Księgowa BPO / Księgowy BPO",
+      "companyName": "Meritoros SA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20070455",
+      "companyId": 20070455,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20070455/9b030000-5dac-0015-8fba-08db15ab9ac0_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:21:00Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "6 500–11 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, kompleksowe prowadzenie pełnej księgowości, sporządzanie i składanie deklaracji podatkowych oraz raportów dla instytucji takich jak US, GUS, PFRON oraz NBP, przygotowywanie analiz, raportów i sprawozdań finansowych, zarówno...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2 lata doświadczenia w pełnej księgowości, znać program Comarch Optima i prawa podatkowe.</li><li>Chcesz samodzielnie przygotowywać sprawozdania finansowe i raporty dla instytucji.</li><li>Interesujesz się automatyzacją procesów i aktywnie wdrażasz usprawnienia w pracy.</li><li>Cenisz <b>pracę zadaniową</b> z elastycznym czasem i modelem hybrydowym (3 dni zdalnie).</li><li>Doceniasz dodatkowy <b>płatny urlop</b> i dostęp do szkoleń oraz wsparcie językowe w godzinach pracy.</li><li>Zależy Ci na <b>pakiecie medycznym</b> i benefitach takich jak Multisport czy ubezpieczenie życia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004757098,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ksiegowa-bpo-ksiegowy-bpo-lodz,oferta,1004757098",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004757098",
+      "title": "Księgowa BPO / Księgowy BPO",
+      "company": "Meritoros SA",
+      "salary": "6 500–11 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, kompleksowe prowadzenie pełnej księgowości, sporządzanie i składanie deklaracji podatkowych oraz raportów dla instytucji takich jak US, GUS, PFRON oraz NBP, przygotowywanie analiz, raportów i sprawozdań finansowych, zarówno...",
+      "url": "https://www.pracuj.pl/praca/ksiegowa-bpo-ksiegowy-bpo-lodz,oferta,1004757098"
+    },
+    {
+      "groupId": "882b0000-56be-0050-2756-08de917a34a4",
+      "jobTitle": "Doradca / Doradczyni klienta",
+      "companyName": "Eco Run Spółka Akcyjna",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074175539",
+      "companyId": 1074175539,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074175539/f15b0000-56be-0050-e3a8-08dcd25c9052_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:16:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "5 000–7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Bezpośredni kontakt z klientem, Budowanie relacji i przedstawianie oferty, Doradztwo dopasowane do potrzeb klienta, Praca w terenie z klientami indywidualnymi (B2C)...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074175539/mobile-banners/b0140000-56be-0050-3181-08dd72ba6e6e.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B</b> i nie boisz się pracy w terenie.</li><li>Potrafisz nawiązywać <b>bezpośredni kontakt z klientem</b> i budować relacje.</li><li>Chcesz prowadzić <b>doradztwo dopasowane do potrzeb klienta</b>.</li><li>Cenisz <b>elastyczne godziny pracy</b> i różne formy współpracy.</li><li>Zależy Ci na <b>dostępie do nowoczesnych narzędzi CRM</b> wspierających sprzedaż.</li><li>Interesują Cię <b>tygodniowe bonusy pieniężne</b> za osiągnięcie celów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004750866,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-lodz,oferta,1004750866",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004750866",
+      "title": "Doradca / Doradczyni klienta",
+      "company": "Eco Run Spółka Akcyjna",
+      "salary": "5 000–7 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Bezpośredni kontakt z klientem, Budowanie relacji i przedstawianie oferty, Doradztwo dopasowane do potrzeb klienta, Praca w terenie z klientami indywidualnymi (B2C)...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-lodz,oferta,1004750866"
+    },
+    {
+      "groupId": "5c420000-56be-0050-d361-08de995627d1",
+      "jobTitle": "Pracownik Restauracji Popeyes (K/M)",
+      "companyName": "Rex Concepts BK Poland S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20200629",
+      "companyId": 20200629,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20200629/ee4d0000-5df0-0015-44e2-08db87696926_280x280.png",
+      "lastPublicated": "2026-04-13T12:15:00.383Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "33–35 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Przygotowanie pysznych dań - Chicken Sandwich, tendersy i inne smakołyki, które pokochają nasi Goście,, Tworzenie pozytywnej atmosfery - Twoje podejście sprawi, że Goście będą chcieli wrócić,, Dbanie o porządek w...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 15
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20200629/mobile-banners/eafd0000-56be-0050-ca2b-08dc3786a36d.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>pozytywną energię</b> i umiesz tworzyć przyjazną atmosferę dla Gości.</li><li>Jesteś <b>komunikatywny i otwarty</b>, a praca zespołowa jest dla Ciebie istotna.</li><li>Jesteś <b>dyspozycyjny w tygodniu i/lub weekendy</b>, gotowy na pracę w dynamicznym tempie.</li><li>Potrafisz być <b>elastyczny</b> i chętny do różnorodnych zadań.</li><li>Nie wymagasz doświadczenia – chcesz się <b>uczyć od podstaw</b>.</li><li>Cenisz <b>elastyczny grafik i pakiet benefitów</b> takich jak opieka medyczna i premie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767243,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-restauracji-popeyes-k-m-lodz-aleja-marsz-jozefa-pilsudskiego-15-23,oferta,1004767243",
+      "displayWorkplace": "Łódź, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.758995056152344,
+        "longitude": 19.465206146240234
+      },
+      "distanceInKilometers": 1.8,
+      "id": "1004767243",
+      "title": "Pracownik Restauracji Popeyes (K/M)",
+      "company": "Rex Concepts BK Poland S.A.",
+      "salary": "33–35 zł brutto / godz.",
+      "location": "Łódź, Śródmieście",
+      "description": "Twój zakres obowiązków, Przygotowanie pysznych dań - Chicken Sandwich, tendersy i inne smakołyki, które pokochają nasi Goście,, Tworzenie pozytywnej atmosfery - Twoje podejście sprawi, że Goście będą chcieli wrócić,, Dbanie o porządek w...",
+      "url": "https://www.pracuj.pl/praca/pracownik-restauracji-popeyes-k-m-lodz-aleja-marsz-jozefa-pilsudskiego-15-23,oferta,1004767243"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-4e14-08de89a031f8",
+      "jobTitle": "BRAND AMBASSADOR ds. HoReCa",
+      "companyName": "HDREY GROUP sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074025506",
+      "companyId": 1074025506,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074025506/30560000-56be-0050-6bea-08ddb48a146d_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:12:34.847Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, rozwój współpracy z hotelami premium, wybranymi restauracjami / konceptami lifestyle, wprowadzanie produktów HDREY do oferty partnerów, prowadzenie szkoleń dla kosmetologów i personelu, budowanie relacji z właścicielami i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>branży beauty, HoReCa lub sprzedaży</b> i umiesz pracować z wymagającym klientem.</li><li>Dbasz o <b>wysoką kulturę osobistą i estetykę pracy</b>.</li><li>Jesteś <b>samodzielny</b> i nastawiony na osiąganie wyników.</li><li>Chcesz rozwijać współpracę z <b>hotelami premium i wybranymi konceptami gastronomicznymi</b>.</li><li>Interesuje Cię <b>prowadzenie szkoleń i budowanie relacji z właścicielami oraz managerami</b>.</li><li>Cenisz <b>atrakcyjne wynagrodzenie oraz udział w eventach i szkoleniach branżowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727177,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/brand-ambassador-ds-horeca-lodz,oferta,1004727177",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004727177",
+      "title": "BRAND AMBASSADOR ds. HoReCa",
+      "company": "HDREY GROUP sp. z o.o.",
+      "salary": "9 000–12 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, rozwój współpracy z hotelami premium, wybranymi restauracjami / konceptami lifestyle, wprowadzanie produktów HDREY do oferty partnerów, prowadzenie szkoleń dla kosmetologów i personelu, budowanie relacji z właścicielami i...",
+      "url": "https://www.pracuj.pl/praca/brand-ambassador-ds-horeca-lodz,oferta,1004727177"
+    },
+    {
+      "groupId": "ec400000-56be-0050-4efa-08de9704869a",
+      "jobTitle": "Przedstawiciel Handlowy/Przedstawicielka Handlowa ds. współpracy z Rolnikami/ Agronom",
+      "companyName": "WOKAS SPÓŁKA AKCYJNA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20057994",
+      "companyId": 20057994,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20057994/402c0000-56be-0050-3a90-08de99220c9b_280x280.jpg",
+      "lastPublicated": "2026-04-13T12:01:17.71Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 000–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Budowanie i utrzymywanie długofalowych relacji z rolnikami, gospodarstwami rolnymi i dystrybutorami, Doradztwo w zakresie doboru produktów rolniczych (podłoża, nawozy, środki poprawiające jakość gleby, itp.), Prezentacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20057994/mobile-banners/dc450000-56be-0050-45cd-08de99564d21.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie wyższe rolnicze</b> i doświadczenie w kontakcie z rolnikami lub sprzedaży produktów rolniczych.</li><li>Pracujesz nad <b>budowaniem relacji z gospodarstwami i doradztwem</b> w zakresie technologii upraw i ochrony roślin.</li><li>Potrafisz <b>prezentować ofertę oraz prowadzić szkolenia</b> i działania techniczne dla klientów.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i umiejętność pracy samodzielnej oraz zespołowej.</li><li>Cenisz <b>system wynagrodzenia łączący podstawę i prowizję</b>, a także wsparcie techniczne i narzędzia pracy (samochód, laptop, telefon).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767125,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-ds-wspolpracy-z-rolnikami-agro-lodz,oferta,1004767125",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767125",
+      "title": "Przedstawiciel Handlowy/Przedstawicielka Handlowa ds. współpracy z Rolnikami/ Agronom",
+      "company": "WOKAS SPÓŁKA AKCYJNA",
+      "salary": "10 000–15 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Budowanie i utrzymywanie długofalowych relacji z rolnikami, gospodarstwami rolnymi i dystrybutorami, Doradztwo w zakresie doboru produktów rolniczych (podłoża, nawozy, środki poprawiające jakość gleby, itp.), Prezentacja...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-ds-wspolpracy-z-rolnikami-agro-lodz,oferta,1004767125"
+    },
+    {
+      "groupId": "f4350000-56be-0050-6c7f-08de8e32325f",
+      "jobTitle": "Doradca / Doradczyni",
+      "companyName": "Auto Agencja",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074231197",
+      "companyId": 1074231197,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074231197/e0370000-56be-0050-49f1-08de8e32c4c9_280x280.png",
+      "lastPublicated": "2026-04-13T11:59:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "4 000–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, wyszukiwanie propozycji: analiza rynku aukcyjnego w USA i selekcja aut z potencjałem do zakupu,, prowadzenie procesu sprzedaży: kontakt z zainteresowanymi klientami, prezentacja ofert zgodnie z naszymi standardami obsługi,,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży</b> oraz zdolności organizacji pracy i podejmowania decyzji.</li><li>Interesujesz się <b>motoryzacją i analizą rynku aukcyjnego</b>.</li><li>Potrafisz prowadzić <b>proces sprzedaży i finalizować transakcje</b> z klientami.</li><li>Cenisz <b>elastyczny czas pracy oraz dodatkowy urlop</b>.</li><li>Chcesz korzystać z <b>szkoleń, wsparcia mentoringowego i profesjonalnych narzędzi</b>.</li><li>Mile widziana jest znajomość <b>języków obcych i technik negocjacyjnych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004738925,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-doradczyni-lodz-dunska-1,oferta,1004738925",
+      "displayWorkplace": "Łódź, Bałuty",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.8023681640625,
+        "longitude": 19.39891815185547
+      },
+      "distanceInKilometers": 6.4,
+      "id": "1004738925",
+      "title": "Doradca / Doradczyni",
+      "company": "Auto Agencja",
+      "salary": "4 000–20 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, wyszukiwanie propozycji: analiza rynku aukcyjnego w USA i selekcja aut z potencjałem do zakupu,, prowadzenie procesu sprzedaży: kontakt z zainteresowanymi klientami, prezentacja ofert zgodnie z naszymi standardami obsługi,,...",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-lodz-dunska-1,oferta,1004738925"
+    },
+    {
+      "groupId": "64320000-56be-0050-ee61-08de8f20945b",
+      "jobTitle": "Kierowca kat.C",
+      "companyName": "WoźTrans MARIUSZ WOŹNIAK",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074165303",
+      "companyId": 1074165303,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:57:58.917Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "6 000–15 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kierowanie pojazdem kategorii C, Realizacja tras krajowych, Przestrzeganie przepisów dotyczących czasu pracy, Dostarczanie towaru do punktów sprzedaży, Troska o powierzony sprzęt...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. C</b> oraz ukończony <b>kurs na przewóz towarów</b>.</li><li>Posiadasz <b>doświadczenie w zawodzie</b> oraz ważną <b>książeczkę sanepidowską</b>.</li><li>Jesteś gotowy do <b>realizacji tras krajowych</b> z codziennym wyjazdem i powrotem do Łodzi.</li><li>Cenisz <b>stabilne zatrudnienie na umowę o pracę</b> z <b>stałymi trasami</b>.</li><li>Potrafisz <b>przestrzegać przepisów dotyczących czasu pracy</b> i dbasz o powierzony sprzęt.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744374,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kat-c-szczawin-pow-zgierski-koscielna-9,oferta,1004744374",
+      "displayWorkplace": "Szczawin (pow. zgierski)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.896156311035156,
+        "longitude": 19.489906311035156
+      },
+      "distanceInKilometers": 13.8,
+      "id": "1004744374",
+      "title": "Kierowca kat.C",
+      "company": "WoźTrans MARIUSZ WOŹNIAK",
+      "salary": "6 000–15 000 zł brutto / mies.",
+      "location": "Szczawin (pow. zgierski)",
+      "description": "Twój zakres obowiązków, Kierowanie pojazdem kategorii C, Realizacja tras krajowych, Przestrzeganie przepisów dotyczących czasu pracy, Dostarczanie towaru do punktów sprzedaży, Troska o powierzony sprzęt...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-c-szczawin-pow-zgierski-koscielna-9,oferta,1004744374"
+    },
+    {
+      "groupId": "e40e0000-56be-0050-67c0-08de85b58a27",
+      "jobTitle": "Spawacz/Spawaczka",
+      "companyName": "VIBROSON ŁÓDŹ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20171001",
+      "companyId": 20171001,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20171001/10080000-56be-0050-2a59-08de39763a53_280x280.png",
+      "lastPublicated": "2026-04-13T11:57:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "6 000–7 700 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Spawanie konstrukcji stalowych wykonanych ze stali węglowych oraz nierdzewnych, metodami MIG/MAG., Przygotowanie części do spawania, czyszczenie, sczepianie., Spawanie elementów zgodnie z rysunkiem technicznym., Kontrola...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w spawaniu konstrukcji stalowych</b> metodami MIG/MAG.</li><li>Posiadasz <b>uprawnienia do spawania stali węglowych i nierdzewnych</b> metodami MIG/MAG.</li><li>Jesteś <b>samodzielny</b> i cechuje Cię <b>wysoka odpowiedzialność</b>.</li><li>Chcesz pracować w systemie <b>jednozmianowym (6:00–14:00)</b> na podstawie umowy o pracę.</li><li>Cenisz <b>atrakcyjne wynagrodzenie</b> i możliwość przystąpienia do ubezpieczenia grupowego.</li><li>Mile widziane są <b>uprawnienia do obsługi suwnic z poziomu roboczego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717729,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/spawacz-spawaczka-lodz-chocianowicka-85,oferta,1004717729",
+      "displayWorkplace": "Łódź, Górna",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.70774459838867,
+        "longitude": 19.404142379760742
+      },
+      "distanceInKilometers": 8.9,
+      "id": "1004717729",
+      "title": "Spawacz/Spawaczka",
+      "company": "VIBROSON ŁÓDŹ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "6 000–7 700 zł brutto / mies.",
+      "location": "Łódź, Górna",
+      "description": "Twój zakres obowiązków, Spawanie konstrukcji stalowych wykonanych ze stali węglowych oraz nierdzewnych, metodami MIG/MAG., Przygotowanie części do spawania, czyszczenie, sczepianie., Spawanie elementów zgodnie z rysunkiem technicznym., Kontrola...",
+      "url": "https://www.pracuj.pl/praca/spawacz-spawaczka-lodz-chocianowicka-85,oferta,1004717729"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-2b45-08de85b4b3ee",
+      "jobTitle": "Ślusarz-Monter / Ślusarka-Monterka",
+      "companyName": "VIBROSON ŁÓDŹ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20171001",
+      "companyId": 20171001,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20171001/10080000-56be-0050-2a59-08de39763a53_280x280.png",
+      "lastPublicated": "2026-04-13T11:56:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "5 000–6 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie cięcia, szlifowania, gięcia, wiercenia, gratowania, elementów metalowych zgodnie z wymaganiami projektu., Przygotowanie części do spawania oraz czyszczenie po zakończeniu procesu spawania., Obsługa narzędzi...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku ślusarza</b> i potrafisz samodzielnie realizować zadania produkcyjne.</li><li>Wykonujesz prace związane z <b>cięciem, szlifowaniem, gięciem i wierceniem elementów metalowych</b>.</li><li>Potrafisz obsługiwać <b>narzędzia ręczne i urządzenia dźwigowe z poziomu roboczego</b>.</li><li>Cenisz <b>umowę o pracę oraz pracę w systemie jednozmianowym</b> w godzinach porannych.</li><li>Zależy Ci na <b>atrakcyjnym wynagrodzeniu i możliwości przystąpienia do ubezpieczenia grupowego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004717724,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/slusarz-monter-slusarka-monterka-lodz-chocianowicka-85,oferta,1004717724",
+      "displayWorkplace": "Łódź, Górna",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.70774459838867,
+        "longitude": 19.404142379760742
+      },
+      "distanceInKilometers": 8.9,
+      "id": "1004717724",
+      "title": "Ślusarz-Monter / Ślusarka-Monterka",
+      "company": "VIBROSON ŁÓDŹ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "5 000–6 000 zł brutto / mies.",
+      "location": "Łódź, Górna",
+      "description": "Twój zakres obowiązków, Wykonywanie cięcia, szlifowania, gięcia, wiercenia, gratowania, elementów metalowych zgodnie z wymaganiami projektu., Przygotowanie części do spawania oraz czyszczenie po zakończeniu procesu spawania., Obsługa narzędzi...",
+      "url": "https://www.pracuj.pl/praca/slusarz-monter-slusarka-monterka-lodz-chocianowicka-85,oferta,1004717724"
+    },
+    {
+      "groupId": "fc230000-56be-0050-0364-08de8b1cd598",
+      "jobTitle": "Kierowca – Operator koparko-ładowarki (M/K)",
+      "companyName": "MCKB S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20027238",
+      "companyId": 20027238,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20027238/2c580000-43a8-f403-e399-08d951c53da3_280x280.png",
+      "lastPublicated": "2026-04-13T11:47:41.91Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "od 40 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Obsługa koparko-ładowarki, Prowadzenie pojazdu zgodnie z przepisami ruchu drogowego, Realizacja dostaw materiałowych na budowy, Dbanie o stan techniczny sprzętu / pojazdu i zgłaszanie usterek, Przestrzeganie zasad BHP...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20027238/mobile-banners/9b030000-5dac-0015-0c2f-08daddc5c7d8.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>uprawnienia operatora koparko-ładowarki</b> oraz prawo jazdy kat. B.</li><li>Masz <b>doświadczenie na podobnym stanowisku</b> i znasz przepisy ruchu drogowego.</li><li>Jesteś gotów do <b>pracy w delegacji</b> oraz dbasz o stan techniczny sprzętu.</li><li>Cenisz <b>dofinansowanie zajęć sportowych, szkoleń i wakacji dzieci</b>.</li><li>Przykładasz wagę do <b>odpowiedzialności, rzetelności i przestrzegania zasad BHP</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004732677,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-operator-koparko-ladowarki-m-k-lodz-stefana-jaracza-64,oferta,1004732677",
+      "displayWorkplace": "Łódź, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.77409362792969,
+        "longitude": 19.470415115356445
+      },
+      "distanceInKilometers": 0.6,
+      "id": "1004732677",
+      "title": "Kierowca – Operator koparko-ładowarki (M/K)",
+      "company": "MCKB S.A.",
+      "salary": "od 40 zł / godz. (zal. od umowy)",
+      "location": "Łódź, Śródmieście",
+      "description": "Twój zakres obowiązków, Obsługa koparko-ładowarki, Prowadzenie pojazdu zgodnie z przepisami ruchu drogowego, Realizacja dostaw materiałowych na budowy, Dbanie o stan techniczny sprzętu / pojazdu i zgłaszanie usterek, Przestrzeganie zasad BHP...",
+      "url": "https://www.pracuj.pl/praca/kierowca-operator-koparko-ladowarki-m-k-lodz-stefana-jaracza-64,oferta,1004732677"
+    },
+    {
+      "groupId": "90270000-56be-0050-d750-08de8fc7abe6",
+      "jobTitle": "Brygadzista / Brygadzistka",
+      "companyName": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074041053",
+      "companyId": 1074041053,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074041053/644b0000-56be-0050-58e5-08dd5651d8df_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:47:13.35Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "7 500–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, organizacja i kontrola jakości pracy zespołu,, dbanie o dostęp do narzędzi pracy,, kontrola przestrzegania zasad BHP,, kontakt z kierownictwem wyższego szczebla,, wykonywanie prac razem z zespołem....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074041053/mobile-banners/eafd0000-56be-0050-2feb-08dc376e41d3.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy magazynowej i zarządzaniu zespołem</b>.</li><li>Posiadasz <b>uprawnienia UDT do obsługi wózków widłowych</b> oraz dobrą znajomość MS Office.</li><li>Chcesz <b>organizować i kontrolować pracę zespołu</b> z dbałością o jakość i BHP.</li><li>Cenisz <b>umowę o pracę i system pracy 1 zmiana (8-16)</b>.</li><li>Zależy Ci na <b>wynagrodzeniu w przedziale 7000–8000 zł brutto</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004744316,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/brygadzista-brygadzistka-lodz,oferta,1004744316",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004744316",
+      "title": "Brygadzista / Brygadzistka",
+      "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
+      "salary": "7 500–8 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, organizacja i kontrola jakości pracy zespołu,, dbanie o dostęp do narzędzi pracy,, kontrola przestrzegania zasad BHP,, kontakt z kierownictwem wyższego szczebla,, wykonywanie prac razem z zespołem....",
+      "url": "https://www.pracuj.pl/praca/brygadzista-brygadzistka-lodz,oferta,1004744316"
+    },
+    {
+      "groupId": "9c440000-56be-0050-835f-08de90a07a48",
+      "jobTitle": "Kierowca międzynarodowy kat. B i C",
+      "companyName": "FALCON LOGISTIC KRZYSZTOF CHYBA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074106078",
+      "companyId": 1074106078,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074106078/ee4d0000-5df0-0015-7361-08db430335f6_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:45:28.82Z",
+      "expirationDate": "2026-05-02T21:59:59Z",
+      "salaryDisplayText": "10 000–15 500 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, wykonywanie zleceń przewozu towarów samochodem dostawczym o DMC do 3,5t na terenie całej Europy, prawidłowe zabezpieczenie ładunku, staranne prowadzenie dokumentacji transportowej, dbałość o powierzone mienie, dbałość o...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. B lub C</b> i doświadczenie na trasach międzynarodowych.</li><li>Jesteś gotów do pracy w systemie <b>minimum 23/7 dni</b>, preferowane 30/10.</li><li>Posiadasz lub możesz założyć <b>własną działalność gospodarczą</b> (współpraca B2B).</li><li>Znajomość <b>dokumentacji transportowej</b> oraz umiejętność organizacji pracy i nawigacji.</li><li>Cenisz <b>długoterminową współpracę</b> oraz terminowe rozliczenia na konto.</li><li>Zależy Ci na pracy na <b>nowoczesnych samochodach dostawczych</b> wyposażonych w lodówkę i nawigację.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004747387,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-miedzynarodowy-kat-b-i-c-lodz,oferta,1004747387",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004747387",
+      "title": "Kierowca międzynarodowy kat. B i C",
+      "company": "FALCON LOGISTIC KRZYSZTOF CHYBA",
+      "salary": "10 000–15 500 zł netto (+ VAT) / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, wykonywanie zleceń przewozu towarów samochodem dostawczym o DMC do 3,5t na terenie całej Europy, prawidłowe zabezpieczenie ładunku, staranne prowadzenie dokumentacji transportowej, dbałość o powierzone mienie, dbałość o...",
+      "url": "https://www.pracuj.pl/praca/kierowca-miedzynarodowy-kat-b-i-c-lodz,oferta,1004747387"
+    },
+    {
+      "groupId": "ec400000-56be-0050-fa07-08de96f43431",
+      "jobTitle": "Pracownik / Pracownica produkcji",
+      "companyName": "Personnel Service Polska sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074050911",
+      "companyId": 1074050911,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074050911/eafd0000-56be-0050-2ef9-08dc2313110a_280x280.png",
+      "lastPublicated": "2026-04-13T11:38:50.547Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "5 500–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie prac ręcznych transportowych;, Obsługa maszyn i urządzeń produkcyjnych;, Realizowanie zadań produkcyjnych zgodnie z dokumentacją konstrukcyjną i technologiczną, w sposób gwarantujący najwyższą jakość -...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074050911/mobile-banners/94580000-56be-0050-debe-08dcf2956668.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dyspozycyjność do pracy w systemie 3-zmianowym</b> od poniedziałku do piątku.</li><li>Chcesz wykonywać <b>prace produkcyjne i obsługiwać maszyny</b> zgodnie z dokumentacją.</li><li>Interesuje Cię <b>nauka obsługi sprzętu pomiarowego i odczytu rysunku technicznego</b>, także od podstaw.</li><li>Jesteś gotów przestrzegać przepisów BHP oraz wykonywać <b>samokontrolę jakości</b> w trakcie produkcji.</li><li>Oczekujesz <b>wynagrodzenia z premią</b> i dodatkami za pracę nocną oraz możliwość nadgodzin.</li><li>Chcesz zdobyć <b>uprawnienia UDT lub na suwnicę</b> w trakcie zatrudnienia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004762901,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracownica-produkcji-lodz,oferta,1004762901",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004762901",
+      "title": "Pracownik / Pracownica produkcji",
+      "company": "Personnel Service Polska sp. z o.o.",
+      "salary": "5 500–7 000 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Wykonywanie prac ręcznych transportowych;, Obsługa maszyn i urządzeń produkcyjnych;, Realizowanie zadań produkcyjnych zgodnie z dokumentacją konstrukcyjną i technologiczną, w sposób gwarantujący najwyższą jakość -...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracownica-produkcji-lodz,oferta,1004762901"
+    },
+    {
+      "groupId": "b82b0000-56be-0050-4817-08de88d498fa",
+      "jobTitle": "Operator/ka wózka widłowego z uprawnieniami UDT",
+      "companyName": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074041053",
+      "companyId": 1074041053,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074041053/644b0000-56be-0050-58e5-08dd5651d8df_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:34:16.407Z",
+      "expirationDate": "2026-04-22T21:59:59Z",
+      "salaryDisplayText": "od 5 400 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, rozładunek i załadunek aut (wózki elektryczne i gazowe),, prawidłowe ustawianie towarów na regałach wysokiego składowania bądź w blokach,, przyjmowanie towaru do systemu....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 4
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074041053/mobile-banners/eafd0000-56be-0050-2feb-08dc376e41d3.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>ważne uprawnienia UDT</b> i doświadczenie na stanowisku operatora wózka widłowego.</li><li>Pracowałeś/aś w magazynie wysokiego składowania i znasz zasady przyjmowania towaru do systemu.</li><li>Jesteś gotowy/a pracować na <b>trzech zmianach</b>: 6:00-14:00, 14:00-22:00, 22:00-6:00.</li><li>Cenisz <b>wynagrodzenie 33,80 zł brutto za godzinę</b> i umowę zlecenie.</li><li>Potrafisz obsługiwać wózki elektryczne i gazowe podczas załadunku i rozładunku aut.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004723862,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-ka-wozka-widlowego-z-uprawnieniami-udt-lodz,oferta,1004723862",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004723862",
+      "title": "Operator/ka wózka widłowego z uprawnieniami UDT",
+      "company": "AGENCJA ZATRUDNIENIA KS SERVICE S.A.",
+      "salary": "od 5 400 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, rozładunek i załadunek aut (wózki elektryczne i gazowe),, prawidłowe ustawianie towarów na regałach wysokiego składowania bądź w blokach,, przyjmowanie towaru do systemu....",
+      "url": "https://www.pracuj.pl/praca/operator-ka-wozka-widlowego-z-uprawnieniami-udt-lodz,oferta,1004723862"
+    },
+    {
+      "groupId": "0c4b0000-56be-0050-3f28-08de98ac84d5",
+      "jobTitle": "Fryzjer damsko-męski / Fryzjerka damsko-męska",
+      "companyName": "FOR YOU ELŻBIETA OKUPSKA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074234589",
+      "companyId": 1074234589,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T11:27:15.61Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "2 000–4 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie strzyżenia damskiego, męskiego, robienie koloryzacji typu baleyage,shatu,sombre itp., Dbanie o czystość stanowiska , Umawianie klientów , Przestrzeganie zasad BHP ...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 5 lat doświadczenia</b> w zawodzie fryzjera.</li><li>Posiadasz umiejętność wykonywania <b>strzyżeń damskich i męskich</b oraz koloryzacji typu baleyage, shatu, sombre.</li><li>Dbasz o <b>czystość stanowiska pracy</b> oraz przestrzegasz zasad BHP.</li><li>Potrafisz <b>nawiązywać kontakt z klientem</b> i organizować jego wizyty.</li><li>Cenisz <b>dostęp do bazy klientów</b> oraz profesjonalną atmosferę pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766977,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/fryzjer-damsko-meski-fryzjerka-damsko-meska-lodz-rojna-52b,oferta,1004766977",
+      "displayWorkplace": "Łódź, Bałuty",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.79314041137695,
+        "longitude": 19.375530242919922
+      },
+      "distanceInKilometers": 7.5,
+      "id": "1004766977",
+      "title": "Fryzjer damsko-męski / Fryzjerka damsko-męska",
+      "company": "FOR YOU ELŻBIETA OKUPSKA",
+      "salary": "2 000–4 000 zł brutto / mies.",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, Wykonywanie strzyżenia damskiego, męskiego, robienie koloryzacji typu baleyage,shatu,sombre itp., Dbanie o czystość stanowiska , Umawianie klientów , Przestrzeganie zasad BHP ...",
+      "url": "https://www.pracuj.pl/praca/fryzjer-damsko-meski-fryzjerka-damsko-meska-lodz-rojna-52b,oferta,1004766977"
+    },
+    {
+      "groupId": "38410000-56be-0050-2a00-08de9488081b",
+      "jobTitle": "Serwisant Urządzeń Klimatyzacyjnych i Wentylacyjnych (HVAC)",
+      "companyName": "Adetronik Sp. z o. o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20306290",
+      "companyId": 20306290,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20306290/f15b0000-56be-0050-c14a-08dcd7de0c1d_280x280.png",
+      "lastPublicated": "2026-04-13T11:27:05.6Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "6 800–15 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie przeglądów urządzeń klimatyzacyjnych (split, VRF, VRV) oraz wentylacyjnych, Samodzielna diagnoza awarii oraz usuwanie usterek...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 5
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2-letnie doświadczenie w branży HVAC oraz umiejętność samodzielnej diagnozy i usuwania usterek.</li><li>Posiadasz <b>uprawnienia FGAZ</b> i prawo jazdy kategorii B oraz gotowość do pracy na wysokości powyżej 3 m.</li><li>Potrafisz czytać rysunki techniczne i obsługiwać elektronarzędzia.</li><li>Cenisz <b>pracę od poniedziałku do piątku</b> i atrakcyjne wynagrodzenie na podstawie umowy o pracę.</li><li>Zależy Ci na <b>samochodzie służbowym z pełnym wyposażeniem</b> i dostępie do szkoleń autoryzacyjnych.</li><li>Chcesz korzystać z <b>dofinansowanej opieki medycznej i zajęć sportowych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004756638,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/serwisant-urzadzen-klimatyzacyjnych-i-wentylacyjnych-hvac-lodz,oferta,1004756638",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004756638",
+      "title": "Serwisant Urządzeń Klimatyzacyjnych i Wentylacyjnych (HVAC)",
+      "company": "Adetronik Sp. z o. o.",
+      "salary": "6 800–15 000 zł / mies. (zal. od umowy)",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Wykonywanie przeglądów urządzeń klimatyzacyjnych (split, VRF, VRV) oraz wentylacyjnych, Samodzielna diagnoza awarii oraz usuwanie usterek...",
+      "url": "https://www.pracuj.pl/praca/serwisant-urzadzen-klimatyzacyjnych-i-wentylacyjnych-hvac-lodz,oferta,1004756638"
+    },
+    {
+      "groupId": "b4030000-56be-0050-49a4-08de7dcf3715",
+      "jobTitle": "Kierowca kat. C+E transport międzynarodowy",
+      "companyName": "Jost Group",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20104549",
+      "companyId": 20104549,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20104549/2c580000-43a8-f403-81d4-08d90fb61f54_280x280.png",
+      "lastPublicated": "2026-04-13T11:21:45.35Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "15 500–15 990 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20104549/mobile-banners/9b030000-5dac-0015-f172-08da6e252018.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/20104549/desktop-banners/c42f0000-56be-0050-c554-08de537a399c.jpg",
+      "aiSummary": "<ul><li>Masz <b>prawo jazdy kat. C+E</b> oraz doświadczenie w <b>transporcie międzynarodowym po UE</b>.</li><li>Posiadasz <b>świadectwo kwalifikacji i cyfrową kartę kierowcy</b>.</li><li>Jesteś gotów do pracy w systemie <b>2/1, 3/1, 4/1, 4/2, 6/2 lub 8/2</b>, ze <b>sprawdzonym zakresem tras</b>.</li><li>Cenisz <b>wynagrodzenie netto ok. 3100 euro</b> oraz zatrudnienie na <b>umowę o pracę</b>.</li><li>Zależy Ci na <b>pracy z nowoczesnym taborem IVECO LNG</b> i <b>dostępie do opieki medycznej w UE</b>.</li><li>Mieszkasz w województwie zachodniopomorskim i chcesz pracować na trasie <b>Szczecin-Belgia-Szczecin</b> z <b>weekendami w domu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004693780,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-lodz,oferta,1004693780",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004693780",
+      "title": "Kierowca kat. C+E transport międzynarodowy",
+      "company": "Jost Group",
+      "salary": "15 500–15 990 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, Samodzielne prowadzenie ciągnika siodłowego z naczepą po krajach UE, Dla Kandydatów z województwa zachodniopomorskiego oferujemy pracę relacji Szczecin-Belgia-Szczecin,(podwójna obsada) Weekendy w domu...",
+      "url": "https://www.pracuj.pl/praca/kierowca-kat-c%2be-transport-miedzynarodowy-lodz,oferta,1004693780"
+    },
+    {
+      "groupId": "9c2d0000-56be-0050-58ae-08de8bf98301",
+      "jobTitle": "Administrator / Administratorka systemu ERP Comarch XL - Optima",
+      "companyName": "Paso-Trading Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20021047",
+      "companyId": 20021047,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20021047/9b030000-5dac-0015-dcee-08db72408f10_280x280.png",
+      "lastPublicated": "2026-04-13T11:20:31.01Z",
+      "expirationDate": "2026-04-26T21:59:59Z",
+      "salaryDisplayText": "od 9 500 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Administrowanie systemami baz danych (instalacja, optymalizacja zapytań, monitorowanie wydajności);, Administrowanie oraz rozwój systemu ERP (Comarch XL Optima), w szczególności: instalacja i aktualizacja oprogramowania;,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>administracją systemów ERP Comarch XL lub Optima</b> oraz pracą z bazami danych MS SQL.</li><li>Pracujesz w środowisku ERP i znasz konfigurację, wsparcie użytkowników oraz optymalizację zapytań SQL.</li><li>Interesuje Cię <b>zarządzanie infrastrukturą serwerową oraz dostępami użytkowników</b> w systemach informatycznych.</li><li>Cenisz <b>pracę stacjonarną w standardowych godzinach</b> oraz dostęp do narzędzi i szkoleń wspierających realizację obowiązków.</li><li>Posiadasz umiejętności analityczne oraz samodzielność w rozwiązywaniu problemów technicznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004735161,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/administrator-administratorka-systemu-erp-comarch-xl-optima-pabianice-grota-roweckiego-8-a,oferta,1004735161",
+      "displayWorkplace": "Pabianice",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.65743637084961,
+        "longitude": 19.360368728637695
+      },
+      "distanceInKilometers": 15.2,
+      "id": "1004735161",
+      "title": "Administrator / Administratorka systemu ERP Comarch XL - Optima",
+      "company": "Paso-Trading Sp. z o.o.",
+      "salary": "od 9 500 zł / mies. (zal. od umowy)",
+      "location": "Pabianice",
+      "description": "Twój zakres obowiązków, Administrowanie systemami baz danych (instalacja, optymalizacja zapytań, monitorowanie wydajności);, Administrowanie oraz rozwój systemu ERP (Comarch XL Optima), w szczególności: instalacja i aktualizacja oprogramowania;,...",
+      "url": "https://www.pracuj.pl/praca/administrator-administratorka-systemu-erp-comarch-xl-optima-pabianice-grota-roweckiego-8-a,oferta,1004735161"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-20fe-08de994bd8da",
+      "jobTitle": "Konsultant/-ka w Contact Center",
+      "companyName": "T-Mobile",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20008533",
+      "companyId": 20008533,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20008533/9b030000-5dac-0015-2610-08da6eeafa81_280x280.png",
+      "lastPublicated": "2026-04-13T11:16:30.3Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 200–7 200 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Telefoniczna obsługa klientów (połączenia przychodzące oraz połączenia wychodzące), Udzielanie informacji zgodnie ze standardami T-Mobile oraz aktywna sprzedaż produktów i usług, Realizacja indywidulanych celów...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20008533/mobile-banners/28410000-56be-0050-57ae-08dce47e7798.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży telefonicznej</b> lub lubisz pracować z klientami przez telefon.</li><li>Jesteś <b>nastawiony na realizację celów</b> i potrafisz efektywnie organizować swoją pracę.</li><li>Potrafisz <b>adaptować się do zmian</b> i działać w dynamicznym środowisku.</li><li>Cenisz <b>dostęp do szkoleń</b> i chcesz rozwijać swoje kompetencje zawodowe.</li><li>Zależy Ci na <b>stabilnym wynagrodzeniu z premiami</b> oraz pracy w trybie hybrydowym.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004766904,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/konsultant-ka-w-contact-center-lodz-ogrodowa-8,oferta,1004766904",
+      "displayWorkplace": "Łódź, Bałuty",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.778648376464844,
+        "longitude": 19.452499389648438
+      },
+      "distanceInKilometers": 2,
+      "id": "1004766904",
+      "title": "Konsultant/-ka w Contact Center",
+      "company": "T-Mobile",
+      "salary": "5 200–7 200 zł brutto / mies.",
+      "location": "Łódź, Bałuty",
+      "description": "Twój zakres obowiązków, Telefoniczna obsługa klientów (połączenia przychodzące oraz połączenia wychodzące), Udzielanie informacji zgodnie ze standardami T-Mobile oraz aktywna sprzedaż produktów i usług, Realizacja indywidulanych celów...",
+      "url": "https://www.pracuj.pl/praca/konsultant-ka-w-contact-center-lodz-ogrodowa-8,oferta,1004766904"
+    },
+    {
+      "groupId": "f4350000-56be-0050-349f-08de8e44ac52",
+      "jobTitle": "Zastępca / Zastępczyni Kierownika Salonu OCHNIK - Manufaktura",
+      "companyName": "OCHNIK S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20008083",
+      "companyId": 20008083,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20008083/342a0000-56be-0050-9143-08dcad45b828_280x280.jpg",
+      "lastPublicated": "2026-04-13T11:13:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 300–10 800 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, wsparcie dla Kierownika Salonu w zarządzaniu zespołem i sklepem, fachowe doradztwo w zakresie produktów oferowanych przez firmę OCHNIK, realizacja procesów i zapewnienie standardów funkcjonowania sklepu, aktywna sprzedaż,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20008083/mobile-banners/f15b0000-56be-0050-a519-08dcaca995ed.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w handlu i umiejętność zarządzania zespołem oraz sklepem.</li><li>Cenisz sobie <b>stabilne zatrudnienie na pełny etat</b> z atrakcyjnym wynagrodzeniem i systemem premiowym.</li><li>Jesteś gotowy do pracy w <b>systemie zmianowym i w weekendy</b>.</li><li>Posiadasz <b>minimum średnie wykształcenie</b> oraz podstawową znajomość obsługi komputera (MS Office).</li><li>Delegujesz wartość na <b>sprzedaż i realizację wysokich celów</b> oraz profesjonalną współpracę.</li><li>Zależy Ci na <b>benefitach takich jak prywatna opieka medyczna, ubezpieczenie na życie i dofinansowanie sportu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004738653,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/zastepca-zastepczyni-kierownika-salonu-ochnik-manufaktura-lodz,oferta,1004738653",
+      "displayWorkplace": "Łódź",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004738653",
+      "title": "Zastępca / Zastępczyni Kierownika Salonu OCHNIK - Manufaktura",
+      "company": "OCHNIK S.A.",
+      "salary": "5 300–10 800 zł brutto / mies.",
+      "location": "Łódź",
+      "description": "Twój zakres obowiązków, wsparcie dla Kierownika Salonu w zarządzaniu zespołem i sklepem, fachowe doradztwo w zakresie produktów oferowanych przez firmę OCHNIK, realizacja procesów i zapewnienie standardów funkcjonowania sklepu, aktywna sprzedaż,...",
+      "url": "https://www.pracuj.pl/praca/zastepca-zastepczyni-kierownika-salonu-ochnik-manufaktura-lodz,oferta,1004738653"
+    }
+  ]
+}

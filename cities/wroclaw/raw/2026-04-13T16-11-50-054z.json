@@ -1,0 +1,3510 @@
+{
+  "meta": {
+    "profileKey": "06",
+    "profileLabel": "Wroclaw – all",
+    "slug": "wroclaw",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Wroclaw&rd=30&latitude=51.1263106&longitude=16.9781963",
+    "scrapedAt": "2026-04-13T16:11:50.054Z",
+    "pages": 1,
+    "total": 50,
+    "errors": 0,
+    "location": "Wroclaw",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "f0260000-56be-0050-8796-08de88f6552e",
+      "jobTitle": "Automatyk - Technik utrzymania ruchu maszyn produkcyjnych",
+      "companyName": "THEBEN POLSKA sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074133851",
+      "companyId": 1074133851,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:09:39.753Z",
+      "expirationDate": "2026-04-22T21:59:59Z",
+      "salaryDisplayText": "8 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa maszyn montażowych, prace techniczne związane z obsługą maszyn, naprawa elementów mechanicznych i elektrycznych, naprawa i ustawianie urządzeń sterujących, praca dwuzmianowa od pon - pt...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2 lata doświadczenia</b> w utrzymaniu ruchu maszyn produkcyjnych.</li><li>Posiadasz <b>uprawnienia elektryczne</b> oraz umiejętności mechaniczne i elektryczne.</li><li>Jesteś gotowy do pracy <b>dwuzmianowej od poniedziałku do piątku</b>.</li><li>Cenisz <b>stabilne wynagrodzenie i szkolenia</b>, również zagraniczne.</li><li>Masz <b>sumienność i dyspozycyjność</b> oraz znajomość języka niemieckiego lub angielskiego będzie dodatkowym atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004724975,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/automatyk-technik-utrzymania-ruchu-maszyn-produkcyjnych-wroclaw,oferta,1004724975",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004724975",
+      "title": "Automatyk - Technik utrzymania ruchu maszyn produkcyjnych",
+      "company": "THEBEN POLSKA sp. z o.o.",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, obsługa maszyn montażowych, prace techniczne związane z obsługą maszyn, naprawa elementów mechanicznych i elektrycznych, naprawa i ustawianie urządzeń sterujących, praca dwuzmianowa od pon - pt...",
+      "url": "https://www.pracuj.pl/praca/automatyk-technik-utrzymania-ruchu-maszyn-produkcyjnych-wroclaw,oferta,1004724975"
+    },
+    {
+      "groupId": "f4350000-56be-0050-832b-08de8e694898",
+      "jobTitle": "Magazyn| Tyniec Mały| Darmowy transport |",
+      "companyName": "Gi Group Poland S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20408755",
+      "companyId": 20408755,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20408755/03000000-bb2f-3863-eb76-08da04500564_280x280.png",
+      "lastPublicated": "2026-04-13T15:03:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 100–5 300 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kompletowanie zamówień przy użyciu skanera, Ręczne układanie towarów na paletach, Obsługa wózków paletowych (po przeszkoleniu dostępne wózki elektryczne)...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20408755/mobile-banners/9b030000-5dac-0015-623c-08db77b4ab70.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do pracy fizycznej w systemie dwuzmianowym (6:00-14:00, 14:00-22:00)</li><li>Zależy Ci na zatrudnieniu na podstawie <b>umowy o pracę tymczasową z możliwością przejęcia</b></li><li>Chcesz pracować od poniedziałku do piątku z <b>wolnymi weekendami</b></li><li>Posiadasz sumienność i zaangażowanie w wykonywaniu obowiązków</li><li>Masz doświadczenie w <b>pracy magazynowej</b> lub chcesz je zdobyć</li><li>Chcesz otrzymywać wynagrodzenie w wysokości <b>5100-5300 zł brutto + premia do 800 zł</b></li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739736,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/magazyn-tyniec-maly-darmowy-transport-wroclaw,oferta,1004739736",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739736",
+      "title": "Magazyn| Tyniec Mały| Darmowy transport |",
+      "company": "Gi Group Poland S.A.",
+      "salary": "5 100–5 300 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Kompletowanie zamówień przy użyciu skanera, Ręczne układanie towarów na paletach, Obsługa wózków paletowych (po przeszkoleniu dostępne wózki elektryczne)...",
+      "url": "https://www.pracuj.pl/praca/magazyn-tyniec-maly-darmowy-transport-wroclaw,oferta,1004739736"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-b782-08de8e4c98bd",
+      "jobTitle": "Doradca Klienta Indywidualnego",
+      "companyName": "Tutlo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20270775",
+      "companyId": 20270775,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20270775/10310000-56be-0050-f0f1-08de0fd17f21_280x280.png",
+      "lastPublicated": "2026-04-13T15:02:00Z",
+      "expirationDate": "2026-05-15T21:59:59Z",
+      "salaryDisplayText": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20270775/mobile-banners/000d0000-56be-0050-fe44-08dd4f3849a4.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum pół roku doświadczenia w sprzedaży</b>, najlepiej B2C lub Call Center.</li><li>Potrafisz <b>prowadzić rozmowy handlowe online</b> i efektywnie prezentować ofertę.</li><li>Jesteś <b>zorientowany na realizację celów sprzedażowych</b> i finalizację transakcji.</li><li>Akceptujesz <b>pracę stacjonarną w godzinach 11:00-20:00</b> oraz koncentrację wyłącznie na sprzedaży z gotowymi leadami.</li><li>Cenisz <b>atrakcyjne wynagrodzenie</b> z podstawą i prowizjami oraz wsparcie szkoleniowe.</li><li>Zależy Ci na <b>benefitach takich jak prywatna opieka medyczna, dofinansowanie sportu i nauki języków</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004742337,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-wroclaw-rybacka-9,oferta,1004742337",
+      "displayWorkplace": "Wrocław, Stare Miasto",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.11347579956055,
+        "longitude": 17.018402099609375
+      },
+      "distanceInKilometers": 3.2,
+      "id": "1004742337",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław, Stare Miasto",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-wroclaw-rybacka-9,oferta,1004742337"
+    },
+    {
+      "groupId": "fc380000-56be-0050-0114-08de83fdb964",
+      "jobTitle": "Młodszy Specjalista ds. Sprzedaży (KMN)",
+      "companyName": "KACZMARSKI GROUP",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002507",
+      "companyId": 20002507,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002507/2c580000-43a8-f403-9526-08d8e4836f18_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "5 000–17 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, 🚀 Telefoniczna sprzedaż i doradztwo w zakresie oferty produktowej Kaczmarski Group;, 🚀 Badania bieżących potrzeb klienta i przygotowywania ofert handlowych;, 🚀 Negocjacje oraz finalizacja kontraktów biznesowych;, 🚀...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "-> w tym wynagrodzenie zasadnicze: 5000 zł brutto",
+              "-> premia wynikowa do 12 000 zł brutto"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20002507/mobile-banners/30120000-56be-0050-8e3c-08de51bd6c9d.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>telefonicznej sprzedaży i negocjacjach</b>.</li><li>Cenisz <b>indywidualne podejście do klienta</b> i potrafisz dostosować ofertę do potrzeb.</li><li>Lubisz <b>realizować wyznaczone cele sprzedażowe</b> konsekwentnie i sumiennie.</li><li>Jesteś otwarty na zmiany i aktywnie uczestniczysz w ich wdrażaniu.</li><li>Cenisz <b>dostęp do świadczeń medycznych, ubezpieczenia i benefity pozapłacowe</b>.</li><li>Zależy Ci na pracy w systemie <b>poniedziałek–piątek z wolnymi weekendami</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718524,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-sprzedazy-kmn-wroclaw,oferta,1004718524",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004718524",
+      "title": "Młodszy Specjalista ds. Sprzedaży (KMN)",
+      "company": "KACZMARSKI GROUP",
+      "salary": "5 000–17 000 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, 🚀 Telefoniczna sprzedaż i doradztwo w zakresie oferty produktowej Kaczmarski Group;, 🚀 Badania bieżących potrzeb klienta i przygotowywania ofert handlowych;, 🚀 Negocjacje oraz finalizacja kontraktów biznesowych;, 🚀...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-sprzedazy-kmn-wroclaw,oferta,1004718524"
+    },
+    {
+      "groupId": "fc380000-56be-0050-de09-08de8439e191",
+      "jobTitle": "Menadżer / Menadżerka ds. Rozwoju Nowego Biznesu",
+      "companyName": "Unum Życie TUiR S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18802586",
+      "companyId": 18802586,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18802586/03000000-bb2f-3863-4c9b-08d8809d2774_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "8 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, pozyskiwanie nowych klientów biznesowych i przygotowywanie ofert ubezpieczeń grupowych,, budowanie relacji i własnego portfela klientów,, obsługa klientów i wsparcie w obszarze benefitów pracowniczych,, realizacja celów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. roczne doświadczenie w sprzedaży B2B</b> i relacjach biznesowych.</li><li>Potrafisz <b>budować partnerskie oraz etyczne relacje</b> i diagnozować potrzeby klienta.</li><li>Jesteś <b>samodzielny, odpowiedzialny oraz gotowy do podróży służbowych</b> z prawem jazdy kat. B.</li><li>Ceniasz <b>samochód służbowy do użytku prywatnego, elastyczny czas pracy</b> oraz wsparcie trenera sprzedaży.</li><li>Chcesz korzystać z <b>profesjonalnych szkoleń, pakietu benefitów i nowoczesnych narzędzi pracy</b>.</li><li>Interesuje Cię <b>długofalowa współpraca na umowie agencyjnej</b> i udział w inicjatywach społecznych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718591,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/menadzer-menadzerka-ds-rozwoju-nowego-biznesu-wroclaw,oferta,1004718591",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004718591",
+      "title": "Menadżer / Menadżerka ds. Rozwoju Nowego Biznesu",
+      "company": "Unum Życie TUiR S.A.",
+      "salary": "8 000–12 000 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, pozyskiwanie nowych klientów biznesowych i przygotowywanie ofert ubezpieczeń grupowych,, budowanie relacji i własnego portfela klientów,, obsługa klientów i wsparcie w obszarze benefitów pracowniczych,, realizacja celów...",
+      "url": "https://www.pracuj.pl/praca/menadzer-menadzerka-ds-rozwoju-nowego-biznesu-wroclaw,oferta,1004718591"
+    },
+    {
+      "groupId": "14400000-56be-0050-fbbc-08de84cc23df",
+      "jobTitle": "Specjalistka / Specjalista Google Ads",
+      "companyName": "Wyższa Szkoła Kształcenia Zawodowego",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20147674",
+      "companyId": 20147674,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20147674/03000000-bb2f-3863-677e-08d8c9b6e517_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-19T21:59:59Z",
+      "salaryDisplayText": "8 500–16 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Planowanie i wdrażanie kampanii Google Ads (Search, Display, YouTube, Performance Max), Analiza i optymalizacja kampanii reklamowych, Zarządzanie budżetem i analiza rentowności działań, Przygotowywanie raportów i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2 lata doświadczenia</b> w samodzielnym prowadzeniu kampanii Google Ads.</li><li>Posiadasz <b>bardzo dobrą znajomość Google Ads, Google Analytics 4 oraz Google Looker Studio</b>.</li><li>Interesujesz się <b>planowaniem, wdrażaniem i optymalizacją kampanii reklamowych</b>.</li><li>Cenisz <b>samodzielność oraz możliwość wpływu na strategiczne decyzje</b> w firmie.</li><li>Chcesz współpracować <b>bezpośrednio z Zarządem oraz zespołem kreatywnym i analitycznym</b>.</li><li>Oczekujesz <b>atrakcyjnego wynagrodzenia oraz narzędzi pracy</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004721409,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalistka-specjalista-google-ads-wroclaw-plac-powstancow-slaskich-1,oferta,1004721409",
+      "displayWorkplace": "Wrocław, Krzyki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.09134292602539,
+        "longitude": 17.016881942749023
+      },
+      "distanceInKilometers": 4.8,
+      "id": "1004721409",
+      "title": "Specjalistka / Specjalista Google Ads",
+      "company": "Wyższa Szkoła Kształcenia Zawodowego",
+      "salary": "8 500–16 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław, Krzyki",
+      "description": "Twój zakres obowiązków, Planowanie i wdrażanie kampanii Google Ads (Search, Display, YouTube, Performance Max), Analiza i optymalizacja kampanii reklamowych, Zarządzanie budżetem i analiza rentowności działań, Przygotowywanie raportów i...",
+      "url": "https://www.pracuj.pl/praca/specjalistka-specjalista-google-ads-wroclaw-plac-powstancow-slaskich-1,oferta,1004721409"
+    },
+    {
+      "groupId": "dc2d0000-56be-0050-5325-08de868cc852",
+      "jobTitle": "Operator Produkcyjny / Operatorka Produkcyjna",
+      "companyName": "Hanza Electronics Brzeg Dolny Sp. Z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20079969",
+      "companyId": 20079969,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20079969/9b030000-5dac-0015-5a5f-08da268ef859_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-25T21:59:59Z",
+      "salaryDisplayText": "4 806–5 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, obsługa maszyn zgodnie z jej przeznaczeniem i zgodnie z instrukcją stanowiskową,, praca w ruchu,, konserwacja i przegląd maszyn wg planu (zapis z zrealizowanych czynności,, niezwłoczne informowanie działu UTR / bezpośredni...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20079969/mobile-banners/043a0000-56be-0050-1262-08dd687ec8c0.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do pracy w systemie <b>trzyzmianowym</b>.</li><li>Posiadasz <b>minimum roczne doświadczenie</b> w obsłudze maszyn produkcyjnych.</li><li>Dbasz o <b>jakość i precyzję</b wykonywanych obowiązków.</li><li>Potrafisz obsługiwać <b>podstawowe narzędzia komputerowe</b>.</li><li>Cenisz <b>dodatkowe premie</b> za pracę w nocy i po okresie próbnym.</li><li>Chcesz korzystać z <b>prywatnej opieki medycznej</b> i ubezpieczenia grupowego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004733519,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-produkcyjny-operatorka-produkcyjna-brzeg-dolny-aleje-jerozolimskie-38,oferta,1004733519",
+      "displayWorkplace": "Brzeg Dolny",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.270145416259766,
+        "longitude": 16.708608627319336
+      },
+      "distanceInKilometers": 24.7,
+      "id": "1004733519",
+      "title": "Operator Produkcyjny / Operatorka Produkcyjna",
+      "company": "Hanza Electronics Brzeg Dolny Sp. Z o.o.",
+      "salary": "4 806–5 500 zł brutto / mies.",
+      "location": "Brzeg Dolny",
+      "description": "Twój zakres obowiązków, obsługa maszyn zgodnie z jej przeznaczeniem i zgodnie z instrukcją stanowiskową,, praca w ruchu,, konserwacja i przegląd maszyn wg planu (zapis z zrealizowanych czynności,, niezwłoczne informowanie działu UTR / bezpośredni...",
+      "url": "https://www.pracuj.pl/praca/operator-produkcyjny-operatorka-produkcyjna-brzeg-dolny-aleje-jerozolimskie-38,oferta,1004733519"
+    },
+    {
+      "groupId": "7c310000-56be-0050-22a0-08de8bdc769e",
+      "jobTitle": "Mendix Developer",
+      "companyName": "Cyclad",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20005890",
+      "companyId": 20005890,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20005890/2c580000-43a8-f403-6c0c-08d9f5f2c7b4_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-28T21:59:59Z",
+      "salaryDisplayText": "150–180 zł netto (+ VAT) / godz.",
+      "jobDescription": "Your responsibilities, Design, creation, and development of applications and business models on the Mendix platform, Provide top-level business and technology architecture consultancy services to our clients, Provide input to the design of...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "More than one vacancy",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20005890/mobile-banners/841f0000-56be-0050-22dd-08de5a5acb1c.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej <b>3 lata doświadczenia w Mendix</b> i znasz najlepsze praktyki tej platformy.</li><li>Posiadasz umiejętność integracji Mendix z systemami takimi jak <b>SAP, MuleSoft, AKS</b>.</li><li>Chcesz pracować <b>zdalnie</b> z klientami zagranicznymi i współpracować z zespołem zwinnego rozwoju.</li><li>Cenisz <b>elastyczny czas pracy i dodatkowe benefity</b> takie jak prywatna opieka medyczna i karta Multisport.</li><li>Jesteś gotów na długoterminowy projekt z możliwością <b>przedłużenia umowy</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004736989,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mendix-developer-wroclaw,oferta,1004736989",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004736989",
+      "title": "Mendix Developer",
+      "company": "Cyclad",
+      "salary": "150–180 zł netto (+ VAT) / godz.",
+      "location": "Wrocław",
+      "description": "Your responsibilities, Design, creation, and development of applications and business models on the Mendix platform, Provide top-level business and technology architecture consultancy services to our clients, Provide input to the design of...",
+      "url": "https://www.pracuj.pl/praca/mendix-developer-wroclaw,oferta,1004736989"
+    },
+    {
+      "groupId": "9c2d0000-56be-0050-7a62-08de8bec0414",
+      "jobTitle": "Przedstawiciel Handlowy / Przedstawicielka Handlowa B2B (Energia & Gaz – sektor MŚP)",
+      "companyName": "DGE Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20270106",
+      "companyId": 20270106,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20270106/2c580000-43a8-f403-62fd-08d8d262db0b_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-28T21:59:59Z",
+      "salaryDisplayText": "5 000–20 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Pozyskujesz przedsiębiorcę i okazujesz zainteresowanie jego „Biznesem,”, Pomagasz Klientowi – doradzasz w zakresie oszczędności zużycia energii lub gazu, Negocjujesz dla niego stawki od sprawdzonych dostawców – bez ukrytych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie lub chcesz rozwijać kompetencje w sprzedaży <b>B2B</b> w sektorze energii i gazu.</li><li>Potrafisz negocjować i doradzać przedsiębiorcom, traktując ich jak równorzędnych partnerów.</li><li>Jesteś osobą przedsiębiorczą i działasz lub chcesz działać na kontrakcie <b>B2B</b> w systemie prowizyjnym.</li><li>Posiadasz lub chcesz budować lokalną sieć kontaktów z klientami biznesowymi.</li><li>Szukasz pracy z możliwością budowania własnego, powtarzalnego portfela klientów i wysokimi prowizjami.</li><li>Cenisz <b>wsparcie merytoryczne, dostęp do narzędzi CRM oraz wygodne zasoby backoffice</b> umożliwiające skupienie na sprzedaży.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737034,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-b2b-energia-gaz-sektor-msp-wroclaw,oferta,1004737034",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004737034",
+      "title": "Przedstawiciel Handlowy / Przedstawicielka Handlowa B2B (Energia & Gaz – sektor MŚP)",
+      "company": "DGE Sp. z o.o.",
+      "salary": "5 000–20 000 zł netto (+ VAT) / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Pozyskujesz przedsiębiorcę i okazujesz zainteresowanie jego „Biznesem,”, Pomagasz Klientowi – doradzasz w zakresie oszczędności zużycia energii lub gazu, Negocjujesz dla niego stawki od sprawdzonych dostawców – bez ukrytych...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-b2b-energia-gaz-sektor-msp-wroclaw,oferta,1004737034"
+    },
+    {
+      "groupId": "9c2d0000-56be-0050-a73b-08de8bf03561",
+      "jobTitle": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
+      "companyName": "mFinanse S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18797723",
+      "companyId": 18797723,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18797723/2c580000-43a8-f403-53e9-08d937bbbbf7_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-11T21:59:59Z",
+      "salaryDisplayText": "5 750–10 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/18797723/mobile-banners/ee4d0000-5df0-0015-5918-08dba8870bd9.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum wykształcenie średnie</b> i chcesz zdobyć wiedzę z zakresu finansów oraz sprzedaży.</li><li>Zależy Ci na <b>elastycznym czasie pracy</b i pracy w popularnych lokalizacjach.</li><li>Jesteś komunikatywny i otwarty na <b>budowanie relacji z klientami i zespołem</b>.</li><li>Chcesz mieć <b>wpływ na wynagrodzenie</b poprzez własne zaangażowanie i realizację celów sprzedażowych.</li><li>Ceniasz sobie dostęp do pakietów <b>Multisport, Medicover oraz ubezpieczeń grupowych</b>.</li><li>Interesuje Cię praca z możliwością <b>regularnych szkoleń oraz wsparcia mentorskiego</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004736558,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-wroclaw,oferta,1004736558",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004736558",
+      "title": "Opiekun / Opiekunka Klienta - mKiosk mBanku",
+      "company": "mFinanse S.A.",
+      "salary": "5 750–10 150 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
+      "url": "https://www.pracuj.pl/praca/opiekun-opiekunka-klienta-mkiosk-mbanku-wroclaw,oferta,1004736558"
+    },
+    {
+      "groupId": "7c310000-56be-0050-f1db-08de8bf1313e",
+      "jobTitle": "Specjalista / Specjalistka ds. Obsługi Klienta - mKiosk mBanku",
+      "companyName": "mFinanse S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18797723",
+      "companyId": 18797723,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18797723/2c580000-43a8-f403-53e9-08d937bbbbf7_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-04-28T21:59:59Z",
+      "salaryDisplayText": "5 750–10 150 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 3 lata doświadczenia w sprzedaży</b> i średnie wykształcenie.</li><li>Chcesz <b>dopasowywać ofertę produktów bankowych do potrzeb klienta</b> i realizować cele sprzedażowe.</li><li>Zależy Ci na <b>elastycznych godzinach pracy i możliwości pracy w popularnych galeriach handlowych</b>.</li><li>Doceniasz <b>wynagrodzenie składające się z podstawy i prowizji</b> zależnej od zaangażowania.</li><li>Oczekujesz <b>dostępu do benefitów takich jak Multisport, pakiet Medicover oraz program ubezpieczeń grupowych</b>.</li><li>Jesteś gotowy na <b>3-miesięczny okres przygotowania i szkolenia</b> oraz przestrzeganie standardów obsługi.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004737049,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-mkiosk-mbanku-wroclaw,oferta,1004737049",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004737049",
+      "title": "Specjalista / Specjalistka ds. Obsługi Klienta - mKiosk mBanku",
+      "company": "mFinanse S.A.",
+      "salary": "5 750–10 150 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Prezentowanie klientom oferty produktów i usług mBanku., Dopasowywanie propozycji do potrzeb klienta., Udział w akcjach promocyjnych oraz budowanie relacji z klientem na rynku lokalnym., Obsługa posprzedażowa.,...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-obslugi-klienta-mkiosk-mbanku-wroclaw,oferta,1004737049"
+    },
+    {
+      "groupId": "90270000-56be-0050-96a5-08de8fd2c34b",
+      "jobTitle": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
+      "companyName": "Tutlo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20270775",
+      "companyId": 20270775,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20270775/10310000-56be-0050-f0f1-08de0fd17f21_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-17T21:59:59Z",
+      "salaryDisplayText": "5 400–7 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B",
+        "Umowa agencyjna"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20270775/mobile-banners/000d0000-56be-0050-fe44-08dd4f3849a4.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w nauczaniu języka angielskiego i znasz język na poziomie <b>C1 lub wyższym</b>.</li><li>Posiadasz <b>elastyczny czas</b> pracy i możesz prowadzić lekcje online między 7:00 a 23:00.</li><li>Masz dostęp do <b>stabilnego łącza internetowego</b> umożliwiającego prowadzenie zajęć.</li><li>Cenisz możliwość pracy <b>zdalnej bez dress code’u</b> i samodzielnego zarządzania harmonogramem.</li><li>Chcesz korzystać z <b>gotowych materiałów</b> oraz zdobyć zaświadczenie o odbyciu praktyk.</li><li>Interesuje Cię udział w programach <b>certyfikujących TEFL lub CELTA</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748756,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-wroclaw,oferta,1004748756",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004748756",
+      "title": "Lektor / Lektorka - Nauczyciel / Nauczycielka języka angielskiego (ONLINE)",
+      "company": "Tutlo Sp. z o.o.",
+      "salary": "5 400–7 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Uczysz języka angielskiego kiedy chcesz i ile chcesz!...",
+      "url": "https://www.pracuj.pl/praca/lektor-lektorka-nauczyciel-nauczycielka-jezyka-angielskiego-online-wroclaw,oferta,1004748756"
+    },
+    {
+      "groupId": "9c440000-56be-0050-1957-08de90c001b4",
+      "jobTitle": "Architekt / Architektka IT (Cloud / Hybrid / On-Prem)",
+      "companyName": "TAURON Obsługa Klienta sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20004382",
+      "companyId": 20004382,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20004382/2c580000-43a8-f403-5cbb-08d9ba3cca9e_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "10 500–16 200 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie architektury rozwiązań IT w środowiskach Azure, Google Cloud oraz w infrastrukturze lokalnej (on-prem), Tworzenie koncepcji architektury hybrydowej, obejmującej integrację rozwiązań chmurowych i lokalnych,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w projektowaniu architektury IT</b> w środowiskach Azure, Google Cloud oraz on-prem.</li><li>Znajomość <b>architektury hybrydowej</b> i systemów rozproszonych jest dla Ciebie naturalna.</li><li>Potrafisz <b>definiować standardy bezpieczeństwa, dostępności i skalowalności</b> rozwiązań chmurowych.</li><li>Posiadasz umiejętność oceny wpływu decyzji architektonicznych na koszty i utrzymanie systemów.</li><li>Ceniasz <b>pracę w systemie hybrydowym</b> oraz korzystasz z <bświadczeń takich jak prywatna opieka medyczna i wsparcie psychologiczne</b>.</li><li>Chcesz uczestniczyć w <b>interdyscyplinarnych projektach</b> na rzecz dużej grupy kapitałowej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751853,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/architekt-architektka-it-cloud-hybrid-on-prem-wroclaw-wyscigowa-58,oferta,1004751853",
+      "displayWorkplace": "Wrocław, Krzyki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.06336975097656,
+        "longitude": 17.00422477722168
+      },
+      "distanceInKilometers": 7.3,
+      "id": "1004751853",
+      "title": "Architekt / Architektka IT (Cloud / Hybrid / On-Prem)",
+      "company": "TAURON Obsługa Klienta sp. z o.o.",
+      "salary": "10 500–16 200 zł brutto / mies.",
+      "location": "Wrocław, Krzyki",
+      "description": "Twój zakres obowiązków, Projektowanie architektury rozwiązań IT w środowiskach Azure, Google Cloud oraz w infrastrukturze lokalnej (on-prem), Tworzenie koncepcji architektury hybrydowej, obejmującej integrację rozwiązań chmurowych i lokalnych,...",
+      "url": "https://www.pracuj.pl/praca/architekt-architektka-it-cloud-hybrid-on-prem-wroclaw-wyscigowa-58,oferta,1004751853"
+    },
+    {
+      "groupId": "d4280000-56be-0050-9b70-08de91918409",
+      "jobTitle": "Dyrektor Oddziału / Branch Manager (M/K)",
+      "companyName": "Homfi Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20218101",
+      "companyId": 20218101,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20218101/ee4d0000-5df0-0015-904a-08da87662858_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "10 000–100 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, budowa i rozwój zespołu sprzedażowego,, rekrutacja agentów nieruchomości,, prowadzenie programu szkoleń wdrożeniowych dla nowych agentów,, prowadzenie treningów “on the job”, odpraw zespołu, rozmów tygodniowych,,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Menedżer / Menedżerka",
+        "Dyrektor / Dyrektorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zarządzaniu zespołem sprzedażowym</b> i rekrutacji agentów nieruchomości.</li><li>Posiadasz umiejętność prowadzenia <b>szkoleń i warsztatów sprzedażowych</b>.</li><li>Potrafisz <b>analizować dane z CRM i CMS</b> w celu poprawy efektywności zespołu.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz benefity takie jak prywatna opieka medyczna i ubezpieczenie na życie.</li><li>Posługujesz się <b>dobrze językiem angielskim</b> i masz wysokie zdolności interpersonalne.</li><li>Chcesz pracować z profesjonalnym wyposażeniem i narzędziami pracy online i zdalnie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751064,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/dyrektor-oddzialu-branch-manager-m-k-wroclaw,oferta,1004751064",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751064",
+      "title": "Dyrektor Oddziału / Branch Manager (M/K)",
+      "company": "Homfi Sp. z o.o.",
+      "salary": "10 000–100 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, budowa i rozwój zespołu sprzedażowego,, rekrutacja agentów nieruchomości,, prowadzenie programu szkoleń wdrożeniowych dla nowych agentów,, prowadzenie treningów “on the job”, odpraw zespołu, rozmów tygodniowych,,...",
+      "url": "https://www.pracuj.pl/praca/dyrektor-oddzialu-branch-manager-m-k-wroclaw,oferta,1004751064"
+    },
+    {
+      "groupId": "38410000-56be-0050-02b4-08de9479f74b",
+      "jobTitle": "Specjalista ds. Sprzedaży i Obsługi NFG (KMN)",
+      "companyName": "Narodowy Fundusz Gwarancyjny",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20002507",
+      "companyId": 20002507,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20002507/48420000-56be-0050-e3a2-08de1df110ec_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-09T21:59:59Z",
+      "salaryDisplayText": "5 600–17 400 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, 🚀 Aktywne nawiązywanie kontaktów z mikro i małymi przedsiębiorcami zainteresowanymi usługami factoringowymi,, 🚀 Telefoniczna sprzedaż naszych rozwiązań, które pomagają klientom w optymalizacji przepływu finansowego,, 🚀...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20002507/mobile-banners/10420000-56be-0050-4290-08de49e4b0fe.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży telefonicznej</b>, najlepiej w branży finansowej lub ubezpieczeniowej.</li><li>Posiadasz <b>umiejętności komunikacyjne i negocjacyjne</b> oraz chęć realizacji planów sprzedażowych.</li><li>Interesujesz się <b>sprzedażą usług factoringowych</b> i kontaktami z mikro i małymi przedsiębiorstwami.</li><li>Cenisz <b>pracę w godzinach 8-16 od poniedziałku do piątku</b> oraz zatrudnienie na umowę o pracę.</li><li>Doceniasz dostęp do <b>benefitów medycznych, ubezpieczeń, aktywności sportowych i wsparcia zdrowotnego</b>.</li><li>Chcesz pracować w organizacji angażującej się w <b>inicjatywy charytatywne i zdrowotne</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004760991,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-ds-sprzedazy-i-obslugi-nfg-kmn-wroclaw,oferta,1004760991",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004760991",
+      "title": "Specjalista ds. Sprzedaży i Obsługi NFG (KMN)",
+      "company": "Narodowy Fundusz Gwarancyjny",
+      "salary": "5 600–17 400 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, 🚀 Aktywne nawiązywanie kontaktów z mikro i małymi przedsiębiorcami zainteresowanymi usługami factoringowymi,, 🚀 Telefoniczna sprzedaż naszych rozwiązań, które pomagają klientom w optymalizacji przepływu finansowego,, 🚀...",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-sprzedazy-i-obslugi-nfg-kmn-wroclaw,oferta,1004760991"
+    },
+    {
+      "groupId": "54440000-56be-0050-5484-08de961595c4",
+      "jobTitle": "Kelner / Kelnerka",
+      "companyName": "go4work",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074025665",
+      "companyId": 1074025665,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074025665/30480000-56be-0050-641e-08de7eb05468_280x280.png",
+      "lastPublicated": "2026-04-13T15:00:00Z",
+      "expirationDate": "2026-05-11T21:59:59Z",
+      "salaryDisplayText": "31,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, obsługa gości hotelowych, wydawanie dań, sprzątanie stolików, utrzymywanie porządku w miejscu pracy, serwowanie napojów, polerowanie szkła i sztućców, przygotowanie sal do eventów, Obsługa polega na pomocy kelnerskiej przy...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074025665/mobile-banners/ee4d0000-5df0-0015-d03a-08db31f3dcf1.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>aktualne badania sanepidowskie</b> i ukończyłeś 18 lat.</li><li>Chcesz pracować w roli <b>kelnera przy obsłudze eventów i hotelowych posiłków</b>.</li><li>Poszukujesz <b>elastycznego grafiku</b> dostosowanego do własnej dyspozycyjności.</li><li>Nie masz doświadczenia, a mimo to chcesz <b>skorzystać ze zdalnego szkolenia</b> i rozpocząć pracę.</li><li>Cenisz możliwość pracy bez wymogu konkretnej liczby godzin, co sprzyja łączeniu pracy ze studiami lub nauką.</li><li>Posiadasz własny <b>strój kelnerski zgodny z wymogami</b> zatrudniającego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004764622,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kelner-kelnerka-wroclaw,oferta,1004764622",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004764622",
+      "title": "Kelner / Kelnerka",
+      "company": "go4work",
+      "salary": "31,40 zł brutto / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, obsługa gości hotelowych, wydawanie dań, sprzątanie stolików, utrzymywanie porządku w miejscu pracy, serwowanie napojów, polerowanie szkła i sztućców, przygotowanie sal do eventów, Obsługa polega na pomocy kelnerskiej przy...",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-wroclaw,oferta,1004764622"
+    },
+    {
+      "groupId": "a80d0000-56be-0050-9835-08de841a8519",
+      "jobTitle": "Kierownik / Kierowniczka Sekcji Aplikacji CRM",
+      "companyName": "TAURON Obsługa Klienta sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20004382",
+      "companyId": 20004382,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20004382/2c580000-43a8-f403-5cbb-08d9ba3cca9e_280x280.png",
+      "lastPublicated": "2026-04-13T14:53:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "9 400–14 350 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie zespołem specjalistów i specjalistek z obszaru CRM (m.in. programistami / programistkami, administratorami / administratorkami systemów), Zarządzanie pracami związanymi z utrzymaniem, planowaniem rozwoju i...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>zarządzaniu zespołem</b> i systemami CRM.</li><li>Posiadasz praktyczną znajomość <b>utrzymania i rozwoju systemów informatycznych</b> w dużej firmie.</li><li>Potrafisz analizować dane i podejmować decyzje w <b>zmiennym środowisku biznesowym</b>.</li><li>Cenisz zatrudnienie na <b>umowę o pracę</b> z dodatkowymi składnikami wynagrodzenia.</li><li>Oczekujesz benefitów takich jak <b>prywatna opieka medyczna, wsparcie psychologiczne i dofinansowanie sportu</b>.</li><li>Chcesz współpracować w <b>interdyscyplinarnych projektach</b> na rzecz dużej grupy energetycznej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712993,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-kierowniczka-sekcji-aplikacji-crm-wroclaw,oferta,1004712993",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004712993",
+      "title": "Kierownik / Kierowniczka Sekcji Aplikacji CRM",
+      "company": "TAURON Obsługa Klienta sp. z o.o.",
+      "salary": "9 400–14 350 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Zarządzanie zespołem specjalistów i specjalistek z obszaru CRM (m.in. programistami / programistkami, administratorami / administratorkami systemów), Zarządzanie pracami związanymi z utrzymaniem, planowaniem rozwoju i...",
+      "url": "https://www.pracuj.pl/praca/kierownik-kierowniczka-sekcji-aplikacji-crm-wroclaw,oferta,1004712993"
+    },
+    {
+      "groupId": "f0380000-56be-0050-daa3-08de83647d9d",
+      "jobTitle": "Agile Coach (m/f)",
+      "companyName": "TAURON Obsługa Klienta sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20004382",
+      "companyId": 20004382,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20004382/2c580000-43a8-f403-5cbb-08d9ba3cca9e_280x280.png",
+      "lastPublicated": "2026-04-13T14:49:00Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "10 500–16 200 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kształtowanie i wdrażanie standardów i dobrych praktyk zwinnych praktyk w zespołach IT, wspierając codzienną pracę i procesy projektowe, Wspieranie zespołów IT w stosowaniu zwinnych praktyk pracy, w tym planowania,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>dobre doświadczenie w Agile</b> i znasz Scrum, Kanban lub inne metody iteracyjne.</li><li>Pracujesz z zespołami IT, wspierając ich w <b>wdrażaniu zwinnych praktyk</b> i usprawnianiu procesów.</li><li>Posiadasz umiejętność <b>prowadzenia warsztatów i facylitacji spotkań</b> zespołowych oraz współpracy z liderami.</li><li>Cenisz <b>pracę w modelu hybrydowym</b> oraz pakiet medyczny i benefity socjalne oferowane przez pracodawcę.</li><li>Chcesz działać w ramach <b>międzydziałowych projektów</b> wspierających digitalizację i automatyzację usług.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712958,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agile-coach-m-f-wroclaw,oferta,1004712958",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004712958",
+      "title": "Agile Coach (m/f)",
+      "company": "TAURON Obsługa Klienta sp. z o.o.",
+      "salary": "10 500–16 200 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Kształtowanie i wdrażanie standardów i dobrych praktyk zwinnych praktyk w zespołach IT, wspierając codzienną pracę i procesy projektowe, Wspieranie zespołów IT w stosowaniu zwinnych praktyk pracy, w tym planowania,...",
+      "url": "https://www.pracuj.pl/praca/agile-coach-m-f-wroclaw,oferta,1004712958"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-8c90-08de9968df93",
+      "jobTitle": "System Analyst",
+      "companyName": "Scalo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20048614",
+      "companyId": 20048614,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20048614/03000000-bb2f-3863-d424-08d930062d01_280x280.png",
+      "lastPublicated": "2026-04-13T14:32:15.977Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "140 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, udział w projekcie z obszaru bankowości (IRRBB / Liquidity Risk),, analiza wymagań biznesowych i regulacyjnych w obszarze ryzyka stopy procentowej i płynności,, wsparcie wdrożenia systemu klasy ALM / Treasury od strony...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20048614/mobile-banners/04070000-56be-0050-2566-08de6f9a9631.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 8 lat doświadczenia jako <b>Analityk Systemowy</b> w bankowości, zwłaszcza w projektach IRRBB lub Liquidity Risk.</li><li>Posiadasz zaawansowaną znajomość <b>SQL</b>, ETL oraz doświadczenie z hurtowniami danych i strukturami OLAP.</li><li>Znajomość <b>rekoncyliacji danych</b> oraz weryfikacji mapowań między systemami jest dla Ciebie naturalna.</li><li>Potrafisz wspierać wdrożenia systemów ALM/Treasury i realizować testy integracyjne oraz UAT.</li><li>Cenisz współpracę z zespołami IT, biznesem i dostawcami, preferujesz model pracy zdalnej z okazjonalną obecnością w Warszawie.</li><li>Oczekujesz <b>pakietu benefitów</b>, w tym prywatnej opieki medycznej Luxmed i dostępu do karty Multisport.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768153,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/system-analyst-wroclaw,oferta,1004768153",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768153",
+      "title": "System Analyst",
+      "company": "Scalo Sp. z o.o.",
+      "salary": "140 zł netto (+ VAT) / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, udział w projekcie z obszaru bankowości (IRRBB / Liquidity Risk),, analiza wymagań biznesowych i regulacyjnych w obszarze ryzyka stopy procentowej i płynności,, wsparcie wdrożenia systemu klasy ALM / Treasury od strony...",
+      "url": "https://www.pracuj.pl/praca/system-analyst-wroclaw,oferta,1004768153"
+    },
+    {
+      "groupId": "d82d0000-56be-0050-369c-08de85b238d2",
+      "jobTitle": "Kucharz / Kucharka",
+      "companyName": "Compass Group Poland",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18802096",
+      "companyId": 18802096,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18802096/2c580000-43a8-f403-b061-08d8de2ee9a0_280x280.png",
+      "lastPublicated": "2026-04-13T14:27:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "6 000–8 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Przygotowywanie potraw zgodnie ze standardami firmy,, Dbanie o jakość i estetykę serwowanych potraw....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>aktualne badania sanitarno-epidemiologiczne</b> i doświadczenie na podobnym stanowisku.</li><li>Chcesz przygotowywać potrawy zgodnie ze <b>standardami firmy</b> oraz dbać o jakość i estetykę dań.</li><li>Cenisz <b>bezpłatne posiłki pracownicze</b> oraz dostęp do <b>prawnych, finansowych i psychologicznych porad</b>.</li><li>Szanujesz zatrudnienie na umowę zlecenie z możliwością przejścia na umowę o pracę w międzynarodowej firmie.</li><li>Interesują Cię <b>benefity po okresie próbnym</b>, takie jak prywatna opieka medyczna, ubezpieczenie na życie i dofinansowanie do karty Multisport.</li><li>Chcesz uczestniczyć w kwartalnym systemie premiowania zależnym od wyników restauracji.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718365,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kucharz-kucharka-wroclaw-mydlana-2a,oferta,1004718365",
+      "displayWorkplace": "Wrocław, Psie Pole",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.11604690551758,
+        "longitude": 17.110645294189453
+      },
+      "distanceInKilometers": 9.4,
+      "id": "1004718365",
+      "title": "Kucharz / Kucharka",
+      "company": "Compass Group Poland",
+      "salary": "6 000–8 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław, Psie Pole",
+      "description": "Twój zakres obowiązków, Przygotowywanie potraw zgodnie ze standardami firmy,, Dbanie o jakość i estetykę serwowanych potraw....",
+      "url": "https://www.pracuj.pl/praca/kucharz-kucharka-wroclaw-mydlana-2a,oferta,1004718365"
+    },
+    {
+      "groupId": "54360000-56be-0050-2f5f-08de85cb6950",
+      "jobTitle": "Technik utrzymania budynku (k/m)",
+      "companyName": "Leadec Sp. z o. o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20056377",
+      "companyId": 20056377,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20056377/2c580000-43a8-f403-ae45-08d8d1b6c370_280x280.png",
+      "lastPublicated": "2026-04-13T14:23:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "6 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, utrzymanie infrastruktury technicznej obiektu zgodnie z wymogami technicznymi oraz prawa budowlanego poprzez wykonywanie inspekcji oraz przeglądów prewencyjnych, umiejętność identyfikacji, diagnozy oraz naprawy urządzeń i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>średnie wykształcenie techniczne</b> i doświadczenie na podobnym stanowisku.</li><li>Posiadasz umiejętność czytania <b>dokumentacji technicznej</b> oraz <b>czynne prawo jazdy kat. B</b>.</li><li>Jesteś dyspozycyjny do pracy w <b>systemie 2-zmianowym (pn–pt)</b>.</li><li>Potrafisz wykonywać <b>inspekcje, przeglądy i naprawy urządzeń oraz instalacji</b> zgodnie z wymogami technicznymi i prawem budowlanym.</li><li>Cenisz <b>umowę o pracę, wynagrodzenie z premią za brak absencji oraz pełne finansowanie szkoleń</b>.</li><li>Zależy Ci na <b>pakiecie medycznym, ubezpieczeniu grupowym oraz dofinansowaniu sportowym i wypoczynku</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718357,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/technik-utrzymania-budynku-k-m-swiete-pow-sredzki-innowacji-2,oferta,1004718357",
+      "displayWorkplace": "Święte (pow. średzki)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.16432189941406,
+        "longitude": 16.661396026611328
+      },
+      "distanceInKilometers": 22.5,
+      "id": "1004718357",
+      "title": "Technik utrzymania budynku (k/m)",
+      "company": "Leadec Sp. z o. o.",
+      "salary": "6 000–9 000 zł brutto / mies.",
+      "location": "Święte (pow. średzki)",
+      "description": "Twój zakres obowiązków, utrzymanie infrastruktury technicznej obiektu zgodnie z wymogami technicznymi oraz prawa budowlanego poprzez wykonywanie inspekcji oraz przeglądów prewencyjnych, umiejętność identyfikacji, diagnozy oraz naprawy urządzeń i...",
+      "url": "https://www.pracuj.pl/praca/technik-utrzymania-budynku-k-m-swiete-pow-sredzki-innowacji-2,oferta,1004718357"
+    },
+    {
+      "groupId": "84450000-56be-0050-7cae-08de8980c92c",
+      "jobTitle": "Serwisant / Serwisantka Wyrobów Medycznych",
+      "companyName": "INMED S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20135262",
+      "companyId": 20135262,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20135262/9b030000-5dac-0015-ad73-08da9a34ba74_280x280.png",
+      "lastPublicated": "2026-04-13T14:19:49.117Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "8 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie przeglądów technicznych instalacji gazów medycznych oraz urządzeń (panele nadłóżkowe, kolumny medyczne, lampy operacyjne), Serwis i obsługa źródeł gazów medycznych: sprężarki, agregaty próżniowe, rozprężalnie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> i doświadczenie z instalacjami elektrycznymi lub gazowymi.</li><li>Posiadasz <b>prawo jazdy kat. B</b> oraz jesteś gotowy na częste wyjazdy służbowe.</li><li>Potrafisz <b>diagnozować i naprawiać urządzenia medyczne oraz instalacje gazów medycznych</b>.</li><li>Potrafisz <b>czytać dokumentację techniczną i sporządzać raporty</b>.</li><li>Oczekujesz zatrudnienia na podstawie <b>umowy o pracę</b> z możliwością wsparcia i premii za wyniki.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727837,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/serwisant-serwisantka-wyrobow-medycznych-krepice-pow-sredzki-kwiatowa-32a,oferta,1004727837",
+      "displayWorkplace": "Krępice (pow. średzki)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.15708923339844,
+        "longitude": 16.82543182373047
+      },
+      "distanceInKilometers": 11.2,
+      "id": "1004727837",
+      "title": "Serwisant / Serwisantka Wyrobów Medycznych",
+      "company": "INMED S.A.",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "location": "Krępice (pow. średzki)",
+      "description": "Twój zakres obowiązków, Wykonywanie przeglądów technicznych instalacji gazów medycznych oraz urządzeń (panele nadłóżkowe, kolumny medyczne, lampy operacyjne), Serwis i obsługa źródeł gazów medycznych: sprężarki, agregaty próżniowe, rozprężalnie...",
+      "url": "https://www.pracuj.pl/praca/serwisant-serwisantka-wyrobow-medycznych-krepice-pow-sredzki-kwiatowa-32a,oferta,1004727837"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-781c-08de970a11cb",
+      "jobTitle": "Information Security Engineer",
+      "companyName": "Scalo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20048614",
+      "companyId": 20048614,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20048614/03000000-bb2f-3863-d424-08d930062d01_280x280.png",
+      "lastPublicated": "2026-04-13T14:17:41.223Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "140 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, udział w projekcie z obszaru AI SaaS dla międzynarodowego produktu wspierającego strategic procurement,, praca przy rozwoju i wdrażaniu rozwiązań z zakresu bezpieczeństwa w środowisku chmurowym i aplikacyjnym,, wsparcie w...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20048614/mobile-banners/04070000-56be-0050-2566-08de6f9a9631.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 2 lata doświadczenia w obszarze <b>bezpieczeństwa IT</b> i znasz podstawy zarządzania podatnościami oraz compliance.</li><li>Pracujesz z nowoczesnymi środowiskami developerskimi i interesuje Cię <b>bezpieczeństwo aplikacji, chmury lub infrastruktury</b>.</li><li>Chcesz wspierać rozwój rozwiązań bezpieczeństwa w projektach związanych z <b>AI SaaS</b> i strategic procurement.</li><li>Cenisz możliwość pracy w trybie <b>100% zdalnym</b> i udziału w przeglądach oraz testach bezpieczeństwa.</li><li>Posiadasz umiejętność analizy technicznej i komunikacji z zespołami technicznymi i biznesowymi.</li><li>Doceniasz benefity takie jak <b>prywatna opieka medyczna, ubezpieczenie na życie oraz program rekomendacji</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004763981,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/information-security-engineer-wroclaw,oferta,1004763981",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004763981",
+      "title": "Information Security Engineer",
+      "company": "Scalo Sp. z o.o.",
+      "salary": "140 zł netto (+ VAT) / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, udział w projekcie z obszaru AI SaaS dla międzynarodowego produktu wspierającego strategic procurement,, praca przy rozwoju i wdrażaniu rozwiązań z zakresu bezpieczeństwa w środowisku chmurowym i aplikacyjnym,, wsparcie w...",
+      "url": "https://www.pracuj.pl/praca/information-security-engineer-wroclaw,oferta,1004763981"
+    },
+    {
+      "groupId": "fc380000-56be-0050-b513-08de8431afd6",
+      "jobTitle": "Operator wózka widłowego (k/m)",
+      "companyName": "FAM SPÓŁKA AKCYJNA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074009732",
+      "companyId": 1074009732,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074009732/f15b0000-56be-0050-a9c5-08dc757e7c35_280x280.png",
+      "lastPublicated": "2026-04-13T14:16:07.733Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "31,40–50 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, składowanie dostaw, przygotowanie towarów do wysyłki, załadunek i rozładunek towarów, zapewnienie optymalnego wykorzystania powierzchni magazynowej, dbanie o prawidłowy obieg dokumentacji magazynowej, utrzymanie porządku na...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074009732/mobile-banners/94140000-56be-0050-a95a-08de72ca1b2c.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>uprawnienia na wózki widłowe</b> oraz minimum rok doświadczenia na podobnym stanowisku.</li><li>Jesteś gotowy na <b>pracę zmianową w pełnym wymiarze godzin</b> w magazynie.</li><li>Skupiasz się na <b>dokładności i odpowiedzialności</b w zakresie obiegu dokumentacji i organizacji pracy.</li><li>Cenisz <b>umowę o pracę oraz wynagrodzenie podstawowe z premią miesięczną</b>.</li><li>Interesuje Cię <b>dofinansowanie do sportu i szkoleń</b> oraz dodatkowe świadczenia socjalne.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712880,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/operator-wozka-widlowego-k-m-wroclaw-ibn-siny-awicenny-16,oferta,1004712880",
+      "displayWorkplace": "Wrocław, Fabryczna",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.08860778808594,
+        "longitude": 16.952110290527344
+      },
+      "distanceInKilometers": 4.6,
+      "id": "1004712880",
+      "title": "Operator wózka widłowego (k/m)",
+      "company": "FAM SPÓŁKA AKCYJNA",
+      "salary": "31,40–50 zł brutto / godz.",
+      "location": "Wrocław, Fabryczna",
+      "description": "Twój zakres obowiązków, składowanie dostaw, przygotowanie towarów do wysyłki, załadunek i rozładunek towarów, zapewnienie optymalnego wykorzystania powierzchni magazynowej, dbanie o prawidłowy obieg dokumentacji magazynowej, utrzymanie porządku na...",
+      "url": "https://www.pracuj.pl/praca/operator-wozka-widlowego-k-m-wroclaw-ibn-siny-awicenny-16,oferta,1004712880"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-9e8b-08de89b27b37",
+      "jobTitle": "Spawacz ( K / M )",
+      "companyName": "ASISTWORK Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20173996",
+      "companyId": 20173996,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20173996/f15b0000-56be-0050-8161-08dc89582810_280x280.png",
+      "lastPublicated": "2026-04-13T14:06:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "8 400–9 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Posiadasz podstawowe uprawnienia spawalnicze MAG-135, ale jeszcze nie zdobyłeś(-aś) doświadczenia w spawaniu?, Pomożemy Ci nabrać wprawy i pewności – pod czujnym okiem doświadczonych specjalistów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>aktualne uprawnienia spawalnicze 135 MAG</b> i chcesz zdobyć praktyczne doświadczenie.</li><li>Jesteś gotowy do pracy w <b>systemie 3-zmianowym</b>, od poniedziałku do piątku.</li><li>Wykazujesz <b>zaangażowanie i chęć do nauki</b> w zakresie spawania MAG-135.</li><li>Cenisz <b>wynagrodzenie w przedziale 8400-9500 zł brutto z dodatkami premiowymi</b>.</li><li>Chcesz korzystać z <b>pakietu medycznego, ubezpieczenia na życie i innych świadczeń socjalnych</b>.</li><li>Interesują Cię <b>dofinansowania zajęć sportowych oraz nauki języków</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727797,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/spawacz-k-m-wroclaw,oferta,1004727797",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004727797",
+      "title": "Spawacz ( K / M )",
+      "company": "ASISTWORK Sp. z o.o.",
+      "salary": "8 400–9 500 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Posiadasz podstawowe uprawnienia spawalnicze MAG-135, ale jeszcze nie zdobyłeś(-aś) doświadczenia w spawaniu?, Pomożemy Ci nabrać wprawy i pewności – pod czujnym okiem doświadczonych specjalistów...",
+      "url": "https://www.pracuj.pl/praca/spawacz-k-m-wroclaw,oferta,1004727797"
+    },
+    {
+      "groupId": "5c420000-56be-0050-1af8-08de994135a5",
+      "jobTitle": "Key Account Manager (sprzęt medyczny)",
+      "companyName": "Medif sp. z o.o. sp.k",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20000225",
+      "companyId": 20000225,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20000225/9b030000-5dac-0015-ec72-08dbb9eb562e_280x280.png",
+      "lastPublicated": "2026-04-13T14:03:03.983Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "11 000–14 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Sprzedaż urządzeń medycznych,, Nawiązywanie i rozwijanie relacji z placówkami medycznymi (stomatologia, weterynaria), w tym identyfikowanie kluczowych decydentów oraz budowanie długofalowej współpracy,, Pozyskiwanie nowych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2 lata doświadczenia w branży urządzeń medycznych</b> i umiejętność sprzedaży sprzętu.</li><li>Potrafisz <b>budować i utrzymywać długofalowe relacje z klientami</b> oraz prowadzić negocjacje.</li><li>Posiadasz <b>prawo jazdy kat. B i gotowość do pracy w terenie</b>.</li><li>Znajomość języka angielskiego na poziomie <b>minimum B2/C1</b> oraz zdolności komunikacyjne są dla Ciebie ważne.</li><li>Cenisz <b>elastyczne formy zatrudnienia</b> z wynagrodzeniem podstawowym i prowizją.</li><li>Interesuje Cię <b>dofinansowanie opieki medycznej, psychologicznej oraz sportowej</b> i dodatkowe benefity.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768095,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/key-account-manager-sprzet-medyczny-wroclaw,oferta,1004768095",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768095",
+      "title": "Key Account Manager (sprzęt medyczny)",
+      "company": "Medif sp. z o.o. sp.k",
+      "salary": "11 000–14 000 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Sprzedaż urządzeń medycznych,, Nawiązywanie i rozwijanie relacji z placówkami medycznymi (stomatologia, weterynaria), w tym identyfikowanie kluczowych decydentów oraz budowanie długofalowej współpracy,, Pozyskiwanie nowych...",
+      "url": "https://www.pracuj.pl/praca/key-account-manager-sprzet-medyczny-wroclaw,oferta,1004768095"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-bca9-08de99640f93",
+      "jobTitle": "Specjalista / Specjalistka ds. wsparcia klienta",
+      "companyName": "CLEVER FRAME SP. Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20407984",
+      "companyId": 20407984,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20407984/ee4d0000-5df0-0015-6666-08da34b695ad_280x280.png",
+      "lastPublicated": "2026-04-13T14:02:37.66Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 200–11 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, W Dziale Wsparcia Sprzedaży podczas rozmów telefonicznych badamy potrzeby klientów związane z uczestnictwem w aktywnościach targowych, zachęcając tym samym do zapoznania się z Naszymi produktami., Oddamy w Twoje ręce do...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>obsłudze klienta telefonicznie</b> i umawianiu spotkań.</li><li>Jesteś <b>elastyczny i dyspozycyjny</b>, gotowy na regularne wyjazdy służbowe.</li><li>Lubisz <b>pracę zespołową</b> i potrafisz efektywnie współdziałać z innymi.</li><li>Cenisz <b>samodzielność i inicjatywę</b> w budowaniu relacji z klientami.</li><li>Znajomość podstaw <b>pakietu Microsoft Office</b> jest dla Ciebie naturalna.</li><li>Chcesz pracować w firmie z <b>elastycznymi warunkami zatrudnienia</b> i transparentnym systemem wynagrodzeń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768091,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-wsparcia-klienta-wroclaw-walbrzyska-1a,oferta,1004768091",
+      "displayWorkplace": "Wrocław, Krzyki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.06413269042969,
+        "longitude": 16.985612869262695
+      },
+      "distanceInKilometers": 7,
+      "id": "1004768091",
+      "title": "Specjalista / Specjalistka ds. wsparcia klienta",
+      "company": "CLEVER FRAME SP. Z O.O.",
+      "salary": "6 200–11 000 zł brutto / mies.",
+      "location": "Wrocław, Krzyki",
+      "description": "Twój zakres obowiązków, W Dziale Wsparcia Sprzedaży podczas rozmów telefonicznych badamy potrzeby klientów związane z uczestnictwem w aktywnościach targowych, zachęcając tym samym do zapoznania się z Naszymi produktami., Oddamy w Twoje ręce do...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-wsparcia-klienta-wroclaw-walbrzyska-1a,oferta,1004768091"
+    },
+    {
+      "groupId": "f0260000-56be-0050-7479-08de891a6711",
+      "jobTitle": "Specjalista / Specjalistka ds. ofertowania i obsługi klienta",
+      "companyName": "FABRYKA BLATOW by STONE TRADE",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074170546",
+      "companyId": 1074170546,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T14:01:50.69Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "5 500–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie salonu firmowego producenta blatów premium w galerii wnętrz Domar, Przygotowywanie i opracowywanie ofert handlowych dla klientów  , Analizowanie zapytań ofertowych oraz dobór odpowiednich rozwiązań  , Udzielanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>obsłudze klienta</b> i przygotowywaniu ofert handlowych.</li><li>Potrafisz czytać <b>rysunki techniczne</b> oraz doradzać produktowo i technicznie.</li><li>Jesteś skrupulatny, z <b>dobrą organizacją pracy</b> i samodzielnością.</li><li>Posiadasz <b>dyspozycyjność</b> i zaangażowanie w realizację zadań.</li><li>Masz umiejętności <b>komunikacji z klientem</b> oraz budowania relacji.</li><li>Zainteresowania z zakresu <b>designu, wyposażenia wnętrz lub CAD</b> będą dodatkowym atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727787,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-ofertowania-i-obslugi-klienta-wroclaw-braniborska-14,oferta,1004727787",
+      "displayWorkplace": "Wrocław, Stare Miasto",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.110408782958984,
+        "longitude": 17.01430892944336
+      },
+      "distanceInKilometers": 3.1,
+      "id": "1004727787",
+      "title": "Specjalista / Specjalistka ds. ofertowania i obsługi klienta",
+      "company": "FABRYKA BLATOW by STONE TRADE",
+      "salary": "5 500–10 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław, Stare Miasto",
+      "description": "Twój zakres obowiązków, Prowadzenie salonu firmowego producenta blatów premium w galerii wnętrz Domar, Przygotowywanie i opracowywanie ofert handlowych dla klientów  , Analizowanie zapytań ofertowych oraz dobór odpowiednich rozwiązań  , Udzielanie...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-ofertowania-i-obslugi-klienta-wroclaw-braniborska-14,oferta,1004727787"
+    },
+    {
+      "groupId": "441b0000-56be-0050-2f49-08de949b00a1",
+      "jobTitle": "Pracownik Punktu Pobrań z uprawnieniami (k/m)",
+      "companyName": "badaj.to Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20195503",
+      "companyId": 20195503,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20195503/940a0000-56be-0050-000d-08de0b20aacb_280x280.png",
+      "lastPublicated": "2026-04-13T13:59:53.917Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "50–60 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Pobieranie materiału biologicznego i rejestracja pacjentów., Zapewnienie wyjątkowej obsługi każdej osobie odwiedzającej nasz punkt pobrań....",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20195503/mobile-banners/8c1f0000-56be-0050-82ef-08de909115fa.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>aktualne uprawnienia do poboru materiału biologicznego</b> i wykształcenie kierunkowe związane z medycyną lub farmacją.</li><li>Chcesz pracować w punkcie pobrań, wykonując <b>pobieranie materiału i rejestrację pacjentów</b>.</li><li>Jesteś gotowy do pracy <b>od wczesnych godzin porannych</b>, zaczynając od 6:00.</li><li>Poszukujesz <b>elastycznej formy zatrudnienia</b> oraz równowagi między życiem zawodowym a prywatnym.</li><li>Oczekujesz <b>wynagrodzenia na poziomie od 50 zł brutto za godzinę lub od 5775 zł brutto miesięcznie</b>, zależnie od formy umowy.</li><li>Zależy Ci na <b>dostępie do szkoleń specjalistycznych</b> oraz benefitach takich jak ubezpieczenie grupowe i dofinansowanie aktywności sportowej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754741,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-punktu-pobran-z-uprawnieniami-k-m-jelcz-laskowice,oferta,1004754741",
+      "displayWorkplace": "Jelcz-Laskowice",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754741",
+      "title": "Pracownik Punktu Pobrań z uprawnieniami (k/m)",
+      "company": "badaj.to Sp. z o.o.",
+      "salary": "50–60 zł brutto / godz.",
+      "location": "Jelcz-Laskowice",
+      "description": "Twój zakres obowiązków, Pobieranie materiału biologicznego i rejestracja pacjentów., Zapewnienie wyjątkowej obsługi każdej osobie odwiedzającej nasz punkt pobrań....",
+      "url": "https://www.pracuj.pl/praca/pracownik-punktu-pobran-z-uprawnieniami-k-m-jelcz-laskowice,oferta,1004754741"
+    },
+    {
+      "groupId": "5c420000-56be-0050-f0b7-08de994916e1",
+      "jobTitle": "IT Project Manager (Software House background)",
+      "companyName": "MOMENTUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20216214",
+      "companyId": 20216214,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20216214/3c510000-56be-0050-ad06-08dd65f198b6_280x280.png",
+      "lastPublicated": "2026-04-13T13:56:49.943Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "10 880–17 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Your responsibilities, Leading projects for clients around the world (building products from scratch and developing existing ones),, Supervising work on mobile and web applications,, Contacting and maintaining relations with both sides: clients...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka",
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20216214/mobile-banners/dc450000-56be-0050-e3cb-08de99647f46.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 2 lata doświadczenia jako <b>Project Manager w branży IT</b>.</li><li>Znasz <b>Jira i Confluence</b> oraz zarządzasz projektami webowymi i mobilnymi.</li><li>Posługujesz się <b>biegłą angielszczyzną i polskim</b> (C1) oraz negocjujesz z klientami i zespołami developerskimi.</li><li>Potrafisz zarządzać <b>budżetami i zespołami do 8 osób</b> oraz kontrolować terminy.</li><li>Cenisz <b>elastyczne godziny pracy i możliwość pracy zdalnej</b>.</li><li>Ważne są dla Ciebie <b>prywatna opieka zdrowotna i wsparcie Multisport</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768070,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/it-project-manager-software-house-background-wroclaw-generala-wladyslawa-sikorskiego-26,oferta,1004768070",
+      "displayWorkplace": "Wrocław, Stare Miasto",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 51.1144905090332,
+        "longitude": 17.019145965576172
+      },
+      "distanceInKilometers": 3.2,
+      "id": "1004768070",
+      "title": "IT Project Manager (Software House background)",
+      "company": "MOMENTUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "10 880–17 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław, Stare Miasto",
+      "description": "Your responsibilities, Leading projects for clients around the world (building products from scratch and developing existing ones),, Supervising work on mobile and web applications,, Contacting and maintaining relations with both sides: clients...",
+      "url": "https://www.pracuj.pl/praca/it-project-manager-software-house-background-wroclaw-generala-wladyslawa-sikorskiego-26,oferta,1004768070"
+    },
+    {
+      "groupId": "5c420000-56be-0050-6206-08de9960c6da",
+      "jobTitle": "Kierowca",
+      "companyName": "OLPIMA sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074201935",
+      "companyId": 1074201935,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074201935/60260000-56be-0050-126a-08dd5bc0d2c5_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:52:04.303Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–9 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie pojazdu zgodnie z przepisami ruchu drogowego, Dbanie o prawidłowe zabezpieczenie ładunku, Utrzymywanie pojazdu w należytym stanie technicznym, Terminowe dostarczanie towarów , Wypełnianie dokumentacji związanej...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>ważne prawo jazdy kategorii B</b> i doświadczenie w prowadzeniu busów.</li><li>Jesteś <b>odpowiedzialny, rzetelny oraz uczciwy</b> w pracy.</li><li>Potrafisz <b>prowadzić pojazd zgodnie z przepisami ruchu drogowego</b> i dbać o ładunek.</li><li>Cenisz <b>samochód dostawczy typu firanka z kabiną sypialną</b> oraz przypisanie auta do jednego kierowcy.</li><li>Doceniasz <b>terminową wypłatę wynagrodzenia i atrakcyjny system płacowy</b>.</li><li>Posiadasz <b>podstawową znajomość języka polskiego</b> (w przypadku obcokrajowców).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768031,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierowca-wroclaw,oferta,1004768031",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768031",
+      "title": "Kierowca",
+      "company": "OLPIMA sp. z o.o.",
+      "salary": "6 000–9 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Prowadzenie pojazdu zgodnie z przepisami ruchu drogowego, Dbanie o prawidłowe zabezpieczenie ładunku, Utrzymywanie pojazdu w należytym stanie technicznym, Terminowe dostarczanie towarów , Wypełnianie dokumentacji związanej...",
+      "url": "https://www.pracuj.pl/praca/kierowca-wroclaw,oferta,1004768031"
+    },
+    {
+      "groupId": "38410000-56be-0050-fd4d-08de94acb565",
+      "jobTitle": "Osoba do obsługi lady mięsnej",
+      "companyName": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074144897",
+      "companyId": 1074144897,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074144897/ee4d0000-5df0-0015-f51f-08dbce265e2e_280x280.png",
+      "lastPublicated": "2026-04-13T13:52:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "32,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta( Bez obsługi kasy fiskalnej), Wykładanie towaru( do lady mięsno - wędliniarskiej), Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy, Kontrola terminów produktów...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku obsługi lady mięsnej</b> i znasz wymagania sanepidu.</li><li>Jesteś <b>pełnoletni</b> i posiadasz orzeczenie sanepidu do celów sanitarno-epidemiologicznych.</li><li>Cenisz sobie <b>dobrą organizację pracy</b> i potrafisz zapewnić porządek na stanowisku.</li><li>Jesteś <b>dyspozycyjny</b> i komunikatywny w kontakcie z klientem.</li><li>Chcesz pracować bez obsługi kasy fiskalnej, koncentrując się na <b>obsłudze klienta i ekspozycji towaru</b>.</li><li>Zależy Ci na umowie zlecenie z wynagrodzeniem <b>32,40 zł brutto za godzinę</b> i możliwością przystąpienia do Karty Medicover sport.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754663,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/osoba-do-obslugi-lady-miesnej-wroclaw,oferta,1004754663",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754663",
+      "title": "Osoba do obsługi lady mięsnej",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "32,40 zł brutto / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Obsługa klienta( Bez obsługi kasy fiskalnej), Wykładanie towaru( do lady mięsno - wędliniarskiej), Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy, Kontrola terminów produktów...",
+      "url": "https://www.pracuj.pl/praca/osoba-do-obslugi-lady-miesnej-wroclaw,oferta,1004754663"
+    },
+    {
+      "groupId": "38410000-56be-0050-2eb0-08de94ac8df6",
+      "jobTitle": "Sprzedawca / Sprzedawczyni z wykładaniem towaru",
+      "companyName": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074144897",
+      "companyId": 1074144897,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074144897/ee4d0000-5df0-0015-f51f-08dbce265e2e_280x280.png",
+      "lastPublicated": "2026-04-13T13:51:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "32,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta, Obsługa kasy fiskalnej i terminala, Wykładanie towaru, Kontrola terminów produktów spożywczych, Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz ukończone 18 lat i posiadasz <b>orzeczenie sanepidu</b> do celów sanitarno-epidemiologicznych.</li><li>Jesteś gotowy do <b>pracy zmianowej</b> oraz sprawnej organizacji obowiązków.</li><li>Potrafisz obsługiwać <b>klienta oraz kasę fiskalną i terminal płatniczy</b>.</li><li>Chcesz realizować zadania związane z <b>wykładaniem towaru i kontrolą terminów produktowych</b>.</li><li>Zależy Ci na wynagrodzeniu w wysokości <b>32,40 zł brutto/h</b> oraz umowie zlecenie z pełnym ZUS.</li><li>Posiadasz lub chcesz zdobyć doświadczenie na podobnym stanowisku.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754658,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-z-wykladaniem-towaru-wroclaw,oferta,1004754658",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004754658",
+      "title": "Sprzedawca / Sprzedawczyni z wykładaniem towaru",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "32,40 zł brutto / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Obsługa klienta, Obsługa kasy fiskalnej i terminala, Wykładanie towaru, Kontrola terminów produktów spożywczych, Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-sprzedawczyni-z-wykladaniem-towaru-wroclaw,oferta,1004754658"
+    },
+    {
+      "groupId": "ec400000-56be-0050-8999-08de96ffe3dd",
+      "jobTitle": "SaaS Customer Trainer",
+      "companyName": "TRACKFORCE POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074206199",
+      "companyId": 1074206199,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074206199/98210000-56be-0050-56b6-08de9700290d_280x280.png",
+      "lastPublicated": "2026-04-13T13:46:06.883Z",
+      "expirationDate": "2026-05-10T21:59:59Z",
+      "salaryDisplayText": "11 166–12 000 zł brutto / mies.",
+      "jobDescription": "Your responsibilities, Conduct live virtual and in-person training sessions for customers and partners., Develop and maintain training materials, including presentations, guides, and video tutorials., Adapt training approaches based on audience...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074206199/mobile-banners/680a0000-56be-0050-b71f-08de9700a2ad.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>3+ lat doświadczenia</b> w prowadzeniu szkoleń dla klientów, zwłaszcza w środowisku SaaS lub technologicznym.</li><li>Potrafisz prowadzić <b>szkolenia na żywo i online</b>, dostosowując metody do potrzeb odbiorców.</li><li>Posiadasz <b>silne umiejętności komunikacyjne</b> i techniczne, pozwalające na jasne przekazywanie złożonych treści.</li><li>Cenisz <b>prace hybrydową</b> i jesteś gotów na okazjonalne podróże służbowe.</li><li>Chcesz korzystać z <b>rozbudowanego pakietu benefitów</b> obejmującego m.in. opiekę medyczną, ubezpieczenie i dofinansowanie do sportu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004763795,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/saas-customer-trainer-wroclaw,oferta,1004763795",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004763795",
+      "title": "SaaS Customer Trainer",
+      "company": "TRACKFORCE POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "11 166–12 000 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Your responsibilities, Conduct live virtual and in-person training sessions for customers and partners., Develop and maintain training materials, including presentations, guides, and video tutorials., Adapt training approaches based on audience...",
+      "url": "https://www.pracuj.pl/praca/saas-customer-trainer-wroclaw,oferta,1004763795"
+    },
+    {
+      "groupId": "f0380000-56be-0050-e6e5-08de836939b1",
+      "jobTitle": "GCP Data Engineer (m/k/n)",
+      "companyName": "UPVANTA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074103426",
+      "companyId": 1074103426,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074103426/002a0000-56be-0050-763b-08ddd41047f0_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:43:00Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "130–170 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie, budowa i utrzymanie rozwiązań ETL/ELT oraz pipeline’ów danych w środowisku GCP., Wdrażanie i optymalizacja hurtowni danych oraz rozwiązań Big Data., Przetwarzanie danych w czasie rzeczywistym oraz agregacja...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 5 lat doświadczenia jako Data Engineer oraz co najmniej 3 lata pracy z <b>Google Cloud Platform</b>.</li><li>Posiadasz praktyczne umiejętności w projektowaniu, wdrażaniu i optymalizacji <b>ETL/ELT oraz pipeline’ów danych</b> w środowisku GCP.</li><li>Znasz i stosujesz koncepcje <b>data fabric, data mesh, data vault</b> oraz masz doświadczenie z <b>rozwiązaniami Big Data</b>.</li><li>Potrafisz przetwarzać dane w <b>czasie rzeczywistym</b> oraz projektować relacyjne i nierelacyjne bazy danych.</li><li>Potrafisz prowadzić dyskusje projektowe i komunikować decyzje <b>architektoniczne</b> w zespołach technicznych i biznesowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004709662,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/gcp-data-engineer-m-k-n-wroclaw-legnicka-70,oferta,1004709662",
+      "displayWorkplace": "Wrocław, Fabryczna",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 51.12382888793945,
+        "longitude": 16.986928939819336
+      },
+      "distanceInKilometers": 0.7,
+      "id": "1004709662",
+      "title": "GCP Data Engineer (m/k/n)",
+      "company": "UPVANTA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "130–170 zł netto (+ VAT) / godz.",
+      "location": "Wrocław, Fabryczna",
+      "description": "Twój zakres obowiązków, Projektowanie, budowa i utrzymanie rozwiązań ETL/ELT oraz pipeline’ów danych w środowisku GCP., Wdrażanie i optymalizacja hurtowni danych oraz rozwiązań Big Data., Przetwarzanie danych w czasie rzeczywistym oraz agregacja...",
+      "url": "https://www.pracuj.pl/praca/gcp-data-engineer-m-k-n-wroclaw-legnicka-70,oferta,1004709662"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-a0df-08de995a80a3",
+      "jobTitle": "Szwaczka prototypowa- produkty sportowe i pilatesowe (k/m)",
+      "companyName": "Human Group",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074089231",
+      "companyId": 1074089231,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074089231/ee4d0000-5df0-0015-7c7d-08da38d09cce_280x280.png",
+      "lastPublicated": "2026-04-13T13:41:47.89Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–8 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Szyć prototypy na podstawie szkiców, projektów i wytycznych technicznych, Testować rozwiązania konstrukcyjne i oceniać zachowanie materiałów – szwy, elastyczność, komfort użytkowania, Współpracować z zespołem projektowym...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w szyciu odzieży lub akcesoriów oraz umiejętność pracy z różnymi materiałami, w tym elastycznymi.</li><li>Potrafisz samodzielnie przygotowywać prototypy na podstawie szkiców i wytycznych technicznych.</li><li>Jesteś dokładny, estetyczny i dobrze organizujesz swoją pracę.</li><li>Zależy Ci na współpracy z zespołem projektowym przy dopracowywaniu produktu.</li><li>Cenisz 4-dniowy tydzień pracy z możliwością elastycznego piątku oraz lokalizację biura blisko dworca we Wrocławiu.</li><li>Oczekujesz stabilnego zatrudnienia na umowę o pracę i wynagrodzenia adekwatnego do doświadczenia (6 000–8 000 zł brutto).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767973,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/szwaczka-prototypowa-produkty-sportowe-i-pilatesowe-k-m-wroclaw,oferta,1004767973",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767973",
+      "title": "Szwaczka prototypowa- produkty sportowe i pilatesowe (k/m)",
+      "company": "Human Group",
+      "salary": "6 000–8 000 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Szyć prototypy na podstawie szkiców, projektów i wytycznych technicznych, Testować rozwiązania konstrukcyjne i oceniać zachowanie materiałów – szwy, elastyczność, komfort użytkowania, Współpracować z zespołem projektowym...",
+      "url": "https://www.pracuj.pl/praca/szwaczka-prototypowa-produkty-sportowe-i-pilatesowe-k-m-wroclaw,oferta,1004767973"
+    },
+    {
+      "groupId": "54360000-56be-0050-1b24-08de85c47776",
+      "jobTitle": "Kasjer / Kasjerka z wykładaniem towaru",
+      "companyName": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074144897",
+      "companyId": 1074144897,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074144897/ee4d0000-5df0-0015-f51f-08dbce265e2e_280x280.png",
+      "lastPublicated": "2026-04-13T13:39:00Z",
+      "expirationDate": "2026-04-18T21:59:59Z",
+      "salaryDisplayText": "32,40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta, Obsługa kasy fiskalnej i terminala, Wykładanie towaru, Kontrola terminów produktów spożywczych, Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>ukończone 18 lat</b> i aktualne <b>orzeczenie sanepidu</b>.</li><li>Potrafisz <b>obsługiwać kasę fiskalną i terminal</b>.</li><li>Jesteś gotowy do <b>pracy zmianowej</b>.</li><li>Dbasz o <b>porządek i odpowiednią ekspozycję towaru</b>.</li><li>Ceniasz <b>wynagrodzenie brutto 32,40 zł/h</b> oraz <b>umowę zlecenie</b>.</li><li>Masz doświadczenie w sprzedaży lub chcesz je zdobyć.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004718227,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kasjer-kasjerka-z-wykladaniem-towaru-wroclaw,oferta,1004718227",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004718227",
+      "title": "Kasjer / Kasjerka z wykładaniem towaru",
+      "company": "GOLDEN SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "32,40 zł brutto / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Obsługa klienta, Obsługa kasy fiskalnej i terminala, Wykładanie towaru, Kontrola terminów produktów spożywczych, Zapewnienie odpowiedniej ekspozycji towaru, Zapewnienie porządku na stanowisku pracy...",
+      "url": "https://www.pracuj.pl/praca/kasjer-kasjerka-z-wykladaniem-towaru-wroclaw,oferta,1004718227"
+    },
+    {
+      "groupId": "f4350000-56be-0050-b3ba-08de8e60a1a5",
+      "jobTitle": "Magazynier (CEVA)",
+      "companyName": "Gi Group Poland S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20408755",
+      "companyId": 20408755,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20408755/03000000-bb2f-3863-eb76-08da04500564_280x280.png",
+      "lastPublicated": "2026-04-13T13:38:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 100–6 300 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Praca ze skanerem, Kompletacja zamówień i przyjęcie towaru, Pakowanie przesyłek...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20408755/mobile-banners/9b030000-5dac-0015-623c-08db77b4ab70.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz gotowość do <b>pracy zmianowej</b> i komunikujesz się w języku polskim.</li><li>Jesteś zainteresowany pracą z <b>skanerem, kompletacją i pakowaniem</b> zamówień.</li><li>Cenisz <b>umowę o pracę na pełen etat</b> z płatnym urlopem i ubezpieczeniem ZUS.</li><li>Oczekujesz <b>wynagrodzenia z dodatkiem za pracę nocną oraz premiami</b> za frekwencję i wydajność.</li><li>Szukasz <b>bezpłatnego transportu z Wrocławia</b> oraz wsparcia w legalizacji pobytu.</li><li>Chcesz podjąć <b>długoterminową współpracę</b> w stabilnych warunkach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739507,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/magazynier-ceva-wroclaw,oferta,1004739507",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739507",
+      "title": "Magazynier (CEVA)",
+      "company": "Gi Group Poland S.A.",
+      "salary": "5 100–6 300 zł brutto / mies.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Praca ze skanerem, Kompletacja zamówień i przyjęcie towaru, Pakowanie przesyłek...",
+      "url": "https://www.pracuj.pl/praca/magazynier-ceva-wroclaw,oferta,1004739507"
+    },
+    {
+      "groupId": "9c440000-56be-0050-a384-08de90bade04",
+      "jobTitle": "Data Engineer",
+      "companyName": "Scalo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20048614",
+      "companyId": 20048614,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20048614/03000000-bb2f-3863-d424-08d930062d01_280x280.png",
+      "lastPublicated": "2026-04-13T13:36:45.333Z",
+      "expirationDate": "2026-05-02T21:59:59Z",
+      "salaryDisplayText": "130–140 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, współtworzenie koncepcji rozwiązania wraz z Analitykiem Biznesowym – od potrzeb biznesowych do propozycji architektury,, udział w projekcie budowy i projektowania nowoczesnej platformy danych w środowisku cloud-native,,...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20048614/mobile-banners/04070000-56be-0050-2566-08de6f9a9631.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie jako <b>Data Engineer</b> i znasz technologie <b>SQL</b> oraz <b>Databricks</b>.</li><li>Potrafisz przekładać potrzeby biznesowe na <b>rozwiązania technologiczne</b> i projektować modele oraz przepływy danych.</li><li>Znajomość wzorców przetwarzania danych: <b>batch, incremental/CDC, event-driven</b> oraz modernizacja rozwiązań legacy są dla Ciebie istotne.</li><li>Ceniasz pracę w modelu <b>hybrydowym</b> z możliwością pracy częściowo z biura we Wrocławiu.</li><li>Zależy Ci na współpracy z zespołami technologicznymi i biznesowymi przy budowie platformy <b>cloud-native</b>.</li><li>Doceniasz <b>pakiet benefitów</b> takich jak prywatna opieka medyczna, karta Multisport oraz dofinansowanie zajęć sportowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004748056,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/data-engineer-wroclaw,oferta,1004748056",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004748056",
+      "title": "Data Engineer",
+      "company": "Scalo Sp. z o.o.",
+      "salary": "130–140 zł netto (+ VAT) / godz.",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, współtworzenie koncepcji rozwiązania wraz z Analitykiem Biznesowym – od potrzeb biznesowych do propozycji architektury,, udział w projekcie budowy i projektowania nowoczesnej platformy danych w środowisku cloud-native,,...",
+      "url": "https://www.pracuj.pl/praca/data-engineer-wroclaw,oferta,1004748056"
+    },
+    {
+      "groupId": "6c1d0000-56be-0050-3646-08de8a79e7ad",
+      "jobTitle": "Frontend Engineer (Angular)",
+      "companyName": "Cyclad",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20005890",
+      "companyId": 20005890,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20005890/2c580000-43a8-f403-6c0c-08d9f5f2c7b4_280x280.png",
+      "lastPublicated": "2026-04-13T13:34:05.537Z",
+      "expirationDate": "2026-04-24T21:59:59Z",
+      "salaryDisplayText": "100–120 zł netto (+ VAT) / godz.",
+      "jobDescription": "Your responsibilities, Develop and maintain modern web applications using Angular, Collaborate with backend teams to integrate RESTful APIs, Design and implement scalable solutions in a microservices and microfrontend architecture, Ensure...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Immediate employment",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-without-polish-language",
+          "label": {
+            "text": "Робота для іноземців",
+            "pracujPlText": "Робота для іноземців",
+            "primaryTargetSiteText": "Робота для іноземців"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20005890/mobile-banners/841f0000-56be-0050-22dd-08de5a5acb1c.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej <b>6 lat doświadczenia w frontendzie</b>, w tym minimum <b>3 lata z Angular</b>.</li><li>Pracujesz z <b>TypeScriptem, JavaScript, REST API</b> i znasz <b>architekturę mikroserwisów i mikrofrontendów</b>.</li><li>Chcesz realizować projekty w trybie <b>remote</b> współpracując w zespołach Agile/Scrum.</li><li>Posiadasz <b>znajomość narzędzi Git, CI/CD, testowania (Jasmine/Karma)</b> oraz podstawy <b>Docker, Kubernetes, OAuth2, JWT</b>.</li><li><b>Mieszkasz w Polsce i masz obywatelstwo UE</b>.</li><li>Cenisz <b>umowę B2B, medyczną opiekę prywatną, kartę Multisport</b> i elastyczny czas pracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004730437,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/frontend-engineer-angular-wroclaw,oferta,1004730437",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004730437",
+      "title": "Frontend Engineer (Angular)",
+      "company": "Cyclad",
+      "salary": "100–120 zł netto (+ VAT) / godz.",
+      "location": "Wrocław",
+      "description": "Your responsibilities, Develop and maintain modern web applications using Angular, Collaborate with backend teams to integrate RESTful APIs, Design and implement scalable solutions in a microservices and microfrontend architecture, Ensure...",
+      "url": "https://www.pracuj.pl/praca/frontend-engineer-angular-wroclaw,oferta,1004730437"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-f99f-08de99603836",
+      "jobTitle": "Monter urządzeń elektronicznych",
+      "companyName": "ASZ ELECTRONICS SOLUTIONS",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074032300",
+      "companyId": 1074032300,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T13:33:06.747Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 810–5 800 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Praca na pełen etat na liniach i stanowiskach produkcyjnych  wg  dokumentacji lub instrukcji stanowiskowych, Montowanie urządzeń elektronicznych według dostarczonej dokumentacji, Lutowanie ręczne elementów przewlekanych,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>umiejętność lutowania</b> i znajomość komponentów elektronicznych.</li><li>Posiadasz <b>doświadczenie lub wykształcenie techniczne</b> związane z elektroniką.</li><li>Potrafisz pracować zgodnie z dokumentacją, czytać schematy i realizować precyzyjne montaże.</li><li>Zależy Ci na <b>pracy przy nowoczesnych technologiach</b> w stabilnej firmie.</li><li>Cenisz <b>umowę o pracę</b> oraz pakiet szkoleń.</li><li>Doceniasz <b>prywatną opiekę medyczną, parking i brak dress code’u</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767937,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/monter-urzadzen-elektronicznych-wroclaw-stargardzka-9a,oferta,1004767937",
+      "displayWorkplace": "Wrocław, Fabryczna",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.13088607788086,
+        "longitude": 16.95084571838379
+      },
+      "distanceInKilometers": 2,
+      "id": "1004767937",
+      "title": "Monter urządzeń elektronicznych",
+      "company": "ASZ ELECTRONICS SOLUTIONS",
+      "salary": "4 810–5 800 zł brutto / mies.",
+      "location": "Wrocław, Fabryczna",
+      "description": "Twój zakres obowiązków, Praca na pełen etat na liniach i stanowiskach produkcyjnych  wg  dokumentacji lub instrukcji stanowiskowych, Montowanie urządzeń elektronicznych według dostarczonej dokumentacji, Lutowanie ręczne elementów przewlekanych,...",
+      "url": "https://www.pracuj.pl/praca/monter-urzadzen-elektronicznych-wroclaw-stargardzka-9a,oferta,1004767937"
+    },
+    {
+      "groupId": "fc380000-56be-0050-2f9b-08de84308ce3",
+      "jobTitle": "Senior Node.js Developer",
+      "companyName": "Blurify",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20291792",
+      "companyId": 20291792,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20291792/ee4d0000-5df0-0015-a0c7-08dbbf571601_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:30:33.54Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "20 000–25 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Wdrażanie nowych funkcjonalności w aplikacjach webowych po stronie backendu, Przestrzeganie najlepszych praktyk programistycznych i wprowadzanie innowacyjnych rozwiązań, Analiza wymagań biznesowych i technicznych oraz...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20291792/mobile-banners/642a0000-56be-0050-4274-08de54f98e29.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. 5 lat doświadczenia</b> w backendowym Node.js, znasz Express.js, NestJS i TypeScript.</li><li>Jesteś gotowy na <b>pracę hybrydową</b> we Wrocławiu, z zespołem w Polsce i za granicą.</li><li>Posiadasz umiejętności w pracy z <b>bazami danych SQL, ORM</b>, tworzeniu REST API i zastosowaniu zasad SOLID.</li><li>Znajomość <b>Docker, mikroserwisów, testów jednostkowych (Jest)</b> oraz GIT to Twoje atuty.</li><li>Cenisz <b>elastyczny czas pracy, prywatną opiekę medyczną</b> i benefity sportowe.</li><li>Jesteś gotów wspierać zespół oraz dzielić się wiedzą i doświadczeniem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712705,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-node-js-developer-wroclaw-generala-wladyslawa-sikorskiego-26,oferta,1004712705",
+      "displayWorkplace": "Wrocław, Stare Miasto",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.114505767822266,
+        "longitude": 17.018840789794922
+      },
+      "distanceInKilometers": 3.2,
+      "id": "1004712705",
+      "title": "Senior Node.js Developer",
+      "company": "Blurify",
+      "salary": "20 000–25 000 zł netto (+ VAT) / mies.",
+      "location": "Wrocław, Stare Miasto",
+      "description": "Twój zakres obowiązków, Wdrażanie nowych funkcjonalności w aplikacjach webowych po stronie backendu, Przestrzeganie najlepszych praktyk programistycznych i wprowadzanie innowacyjnych rozwiązań, Analiza wymagań biznesowych i technicznych oraz...",
+      "url": "https://www.pracuj.pl/praca/senior-node-js-developer-wroclaw-generala-wladyslawa-sikorskiego-26,oferta,1004712705"
+    },
+    {
+      "groupId": "a80d0000-56be-0050-801a-08de84306565",
+      "jobTitle": "Node.js Developer",
+      "companyName": "Blurify",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20291792",
+      "companyId": 20291792,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20291792/ee4d0000-5df0-0015-a0c7-08dbbf571601_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:30:01.613Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "16 000–19 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Budowanie i rozwijanie backendu nowoczesnych aplikacji webowych z użyciem Node.js i Express.js., Projektowanie skalowalnych i wydajnych rozwiązań oraz udział w decyzjach architektonicznych., Ścisła współpraca z zespołem...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20291792/mobile-banners/642a0000-56be-0050-4274-08de54f98e29.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia w backendzie z <b>Node.js, Express.js i Nest.js</b>.</li><li>Pracujesz z <b>REST API, bazami SQL oraz narzędziami ORM</b>.</li><li>Znajomość <b>TypeScript, Docker</b> oraz zasad SOLID to dla Ciebie codzienność.</li><li>Preferujesz <b>pracę hybrydową</b> i współpracę zespołową w metodyce Agile.</li><li>Cenisz <b>elastyczne godziny, pakiet medyczny i dofinansowanie szkoleń</b>.</li><li>Chcesz uczestniczyć w tworzeniu skalowalnych i wydajnych aplikacji backendowych oraz mieć wpływ na architekturę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712703,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/node-js-developer-wroclaw-generala-wladyslawa-sikorskiego-26,oferta,1004712703",
+      "displayWorkplace": "Wrocław, Stare Miasto",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.114505767822266,
+        "longitude": 17.018840789794922
+      },
+      "distanceInKilometers": 3.2,
+      "id": "1004712703",
+      "title": "Node.js Developer",
+      "company": "Blurify",
+      "salary": "16 000–19 000 zł netto (+ VAT) / mies.",
+      "location": "Wrocław, Stare Miasto",
+      "description": "Twój zakres obowiązków, Budowanie i rozwijanie backendu nowoczesnych aplikacji webowych z użyciem Node.js i Express.js., Projektowanie skalowalnych i wydajnych rozwiązań oraz udział w decyzjach architektonicznych., Ścisła współpraca z zespołem...",
+      "url": "https://www.pracuj.pl/praca/node-js-developer-wroclaw-generala-wladyslawa-sikorskiego-26,oferta,1004712703"
+    },
+    {
+      "groupId": "6c400000-56be-0050-1ad7-08de802f21b9",
+      "jobTitle": "Kierownik Robót Sanitarnych (m/k)",
+      "companyName": "NES Fircroft",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20252947",
+      "companyId": 20252947,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20252947/2c580000-43a8-f403-bbf1-08d9ba4ee610_280x280.png",
+      "lastPublicated": "2026-04-13T13:27:53.063Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "14 000–17 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie i nadzorowanie robót z branży sanitarnej, Kontrola terminowości oraz jakości prac, Weryfikacja dokumentacji projektowej i technicznej, Nadzorowanie prac podległych pracowników i podwykonawców, Tworzenie i nadzór...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> i uprawnienia do kierowania robotami sanitarnymi bez ograniczeń.</li><li>Posiadasz <b>doświadczenie w nadzorze robót sanitarnych</b> i znajomość branży instalacji sanitarnych.</li><li>Potrafisz <b>weryfikować dokumentację techniczną</b> oraz nadzorować prace wykonawcze i podwykonawców.</li><li>Cenisz <b>umowę o pracę lub kontrakt B2B</b> oraz pracę w miejscu bez wyjazdów.</li><li>Oczekujesz <b>samochodu służbowego do użytku prywatnego</b> i systemu premiowania.</li><li>Chcesz uczestniczyć w <b>prestiżowych projektach budowlanych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767882,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-robot-sanitarnych-m-k-wroclaw,oferta,1004767882",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767882",
+      "title": "Kierownik Robót Sanitarnych (m/k)",
+      "company": "NES Fircroft",
+      "salary": "14 000–17 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Prowadzenie i nadzorowanie robót z branży sanitarnej, Kontrola terminowości oraz jakości prac, Weryfikacja dokumentacji projektowej i technicznej, Nadzorowanie prac podległych pracowników i podwykonawców, Tworzenie i nadzór...",
+      "url": "https://www.pracuj.pl/praca/kierownik-robot-sanitarnych-m-k-wroclaw,oferta,1004767882"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-9c0a-08de995fd977",
+      "jobTitle": "Sprzedawca (K/M) - Grupa Familijna",
+      "companyName": "Familijna",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20072379",
+      "companyId": 20072379,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20072379/9b030000-5dac-0015-864c-08dac0ad69c0_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:24:34.617Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 4 806 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, profesjonalna i kompleksowa obsługa naszych klientów, indywidualne podejście do potrzeb każdego klienta, prawidłowa ekspozycja wyrobów wg obowiązujących standardów, zapewnienie standardów czystości i estetyki w sklepie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>zainteresowanie pracą w handlu</b> i obsługą klienta.</li><li>Potrafisz zapewnić <b>profesjonalną i kompleksową obsługę</b> klienta.</li><li>Dbasz o <b>prawidłową ekspozycję produktów</b> zgodnie ze standardami.</li><li>Cenisz <b>wsparcie zespołu i kierownika</b> podczas pracy.</li><li>Oczekujesz <b>stałego zatrudnienia i systemu nagród</b>.</li><li>Zwracasz uwagę na <b>pełne finansowanie prywatnej opieki medycznej</b> i ubezpieczenia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767849,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sprzedawca-k-m-grupa-familijna-dobrzykowice-pow-wroclawski-wroclawska-44,oferta,1004767849",
+      "displayWorkplace": "Dobrzykowice (pow. wrocławski)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.070091247558594,
+        "longitude": 17.18475914001465
+      },
+      "distanceInKilometers": 15.8,
+      "id": "1004767849",
+      "title": "Sprzedawca (K/M) - Grupa Familijna",
+      "company": "Familijna",
+      "salary": "od 4 806 zł / mies. (zal. od umowy)",
+      "location": "Dobrzykowice (pow. wrocławski)",
+      "description": "Twój zakres obowiązków, profesjonalna i kompleksowa obsługa naszych klientów, indywidualne podejście do potrzeb każdego klienta, prawidłowa ekspozycja wyrobów wg obowiązujących standardów, zapewnienie standardów czystości i estetyki w sklepie...",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-k-m-grupa-familijna-dobrzykowice-pow-wroclawski-wroclawska-44,oferta,1004767849"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-09e1-08de995b07f7",
+      "jobTitle": "Inżynier Budowy (K/M)",
+      "companyName": "NES Fircroft",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20252947",
+      "companyId": 20252947,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20252947/24400000-56be-0050-ae77-08ddc918aa2a_280x280.png",
+      "lastPublicated": "2026-04-13T13:20:19.173Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–11 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wspieranie kierownika budowy w realizacji inwestycji zgodnie z wymaganiami kontraktowymi, założonym budżetem, harmonogramem oraz dokumentacją techniczną i obowiązującymi przepisami prawa budowlanego, Pomoc w obliczeniach...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie budowlane</b> i umiejętność szybkiego podejmowania decyzji.</li><li>Znasz <b>MS Office i Autocad</b>, a także posiadasz prawo jazdy kat. B.</li><li>Potrafisz nadzorować prace podwykonawców i kontrolować jakość robót budowlanych.</li><li>Cenisz <b>elastyczność zatrudnienia</b> – umowa o pracę lub kontrakt B2B.</li><li>Chcesz korzystać z <b>samochodu służbowego do użytku prywatnego</b> oraz innych narzędzi pracy.</li><li>Zależy Ci na <b>systemie premiowym</b> i wsparciu zespołu podczas wdrożenia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767780,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-budowy-k-m-wroclaw,oferta,1004767780",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004767780",
+      "title": "Inżynier Budowy (K/M)",
+      "company": "NES Fircroft",
+      "salary": "8 000–11 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Wspieranie kierownika budowy w realizacji inwestycji zgodnie z wymaganiami kontraktowymi, założonym budżetem, harmonogramem oraz dokumentacją techniczną i obowiązującymi przepisami prawa budowlanego, Pomoc w obliczeniach...",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-k-m-wroclaw,oferta,1004767780"
+    },
+    {
+      "groupId": "5c420000-56be-0050-b9f5-08de995e25de",
+      "jobTitle": "Młodszy specjalista / Młodsza specjalistka ds. eCommerce Marketplace",
+      "companyName": "SKALNIK sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074074291",
+      "companyId": 1074074291,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074074291/9b030000-5dac-0015-cba1-08dafd2f1c6f_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:19:41.01Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 806 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Uzupełnianie oferty produktowej na marketplace (Allegro, Decathlon, Kaufland, Empik, Amazon) na rynku polskim oraz wielu rynkach zagranicznych. , Wdrażanie rozwiązań zwiększających sprzedaż na marketplace., Wsparcie zespołu...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>biegłą obsługę komputera i aplikacji biurowych</b> oraz umiejętność pracy z platformami marketplace.</li><li>Zależy Ci na <b>pracy zdalnej</b> i elastycznym modelu zatrudnienia (umowa o pracę, zlecenie, B2B).</li><li>Posiadasz <b>praktyczną znajomość języka angielskiego</b> oraz dbasz o szczegóły i skrupulatność w działaniu.</li><li>Chcesz <b>wesprzeć rozwój ofert na marketplace</b> oraz współpracować przy obsłudze sklepu internetowego.</li><li>Doceniasz dostęp do <b>prywatnej opieki medycznej</b>, dofinansowania sportowego i atrakcyjnych rabatów na produkty.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004767776,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-ecommerce-marketplace-wroclaw-jana-dlugosza-2-6,oferta,1004767776",
+      "displayWorkplace": "Wrocław, Psie Pole",
+      "isWholePoland": true,
+      "coordinates": {
+        "latitude": 51.13169479370117,
+        "longitude": 17.057876586914062
+      },
+      "distanceInKilometers": 5.6,
+      "id": "1004767776",
+      "title": "Młodszy specjalista / Młodsza specjalistka ds. eCommerce Marketplace",
+      "company": "SKALNIK sp. z o.o.",
+      "salary": "4 806 zł / mies. (zal. od umowy)",
+      "location": "Wrocław, Psie Pole",
+      "description": "Twój zakres obowiązków, Uzupełnianie oferty produktowej na marketplace (Allegro, Decathlon, Kaufland, Empik, Amazon) na rynku polskim oraz wielu rynkach zagranicznych. , Wdrażanie rozwiązań zwiększających sprzedaż na marketplace., Wsparcie zespołu...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-ecommerce-marketplace-wroclaw-jana-dlugosza-2-6,oferta,1004767776"
+    },
+    {
+      "groupId": "fc380000-56be-0050-d59d-08de84038140",
+      "jobTitle": "Przedstawiciel Handlowy / Przedstawicielka Handlowa w Branży Energetycznej",
+      "companyName": "J&G ENTERPRISE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074224960",
+      "companyId": 1074224960,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074224960/4c200000-56be-0050-7873-08de8403b694_280x280.png",
+      "lastPublicated": "2026-04-13T13:13:10.33Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "1 000–35 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Tworzyć i rozwijać trwałe relacje z klientami biznesowymi., Aktywnie wyszukiwać nowe możliwości i prowadzić klientów przez cały proces zakupowy., Przygotowywać oferty, które naprawdę robią wrażenie i odpowiadają potrzebom...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o dzieło",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/1074224960/mobile-banners/4c200000-56be-0050-a149-08de8424336a.jpg",
+      "desktopBannerUri": "https://grubber.gpcdn.pl/companies/1074224960/desktop-banners/4c200000-56be-0050-29ac-08de84243898.jpg",
+      "aiSummary": "<ul><li>Masz <b>naturalną otwartość i umiejętność słuchania</b>, które pozwalają skutecznie rozumieć potrzeby klientów.</li><li>Posiadasz <b>pasję do sprzedaży i chęć rozwoju</b> w branży energetycznej lub OZE.</li><li>Potrafisz <b>budować trwałe relacje biznesowe</b> i realizować cele sprzedażowe samodzielnie i proaktywnie.</li><li>Cenisz <b>elastyczność pracy</b> oraz możliwość działania na własnych zasadach.</li><li>Zależy Ci na <b>atrakcyjnych prowizjach i wsparciu przy rozwoju działalności</b>.</li><li>Masz lub jesteś otwarty na zdobycie <b>doświadczenia w pracy terenowej i sprzedaży B2B</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712638,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-w-branzy-energetycznej-wroclaw,oferta,1004712638",
+      "displayWorkplace": "Wrocław",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004712638",
+      "title": "Przedstawiciel Handlowy / Przedstawicielka Handlowa w Branży Energetycznej",
+      "company": "J&G ENTERPRISE sp. z o.o.",
+      "salary": "1 000–35 000 zł / mies. (zal. od umowy)",
+      "location": "Wrocław",
+      "description": "Twój zakres obowiązków, Tworzyć i rozwijać trwałe relacje z klientami biznesowymi., Aktywnie wyszukiwać nowe możliwości i prowadzić klientów przez cały proces zakupowy., Przygotowywać oferty, które naprawdę robią wrażenie i odpowiadają potrzebom...",
+      "url": "https://www.pracuj.pl/praca/przedstawiciel-handlowy-przedstawicielka-handlowa-w-branzy-energetycznej-wroclaw,oferta,1004712638"
+    },
+    {
+      "groupId": "fc380000-56be-0050-dbcd-08de841ae3fa",
+      "jobTitle": "Obsługa bufetu",
+      "companyName": "Samsic Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20091044",
+      "companyId": 20091044,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20091044/eafd0000-56be-0050-99ef-08dc39d65dbf_280x280.jpg",
+      "lastPublicated": "2026-04-13T13:12:33.853Z",
+      "expirationDate": "2026-04-16T21:59:59Z",
+      "salaryDisplayText": "31–32 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa klienta, Przygotowywanie kanapek, sałatek, Podgrzewanie i wydawanie posiłków, Dbanie o porządek w miejscu pracy...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20091044/mobile-banners/f15b0000-56be-0050-fb20-08dcc1040c6b.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz pozytywne nastawienie i jesteś otwarty na obsługę klienta.</li><li>Posiadasz doświadczenie na podobnym stanowisku lub jesteś gotowy do nauki.</li><li>Masz aktualną <b>książeczkę sanitarno-epidemiologiczną</b> lub chęć jej wyrobienia.</li><li>Ceniasz <b>pracę na dwie zmiany od poniedziałku do piątku z wolnymi weekendami</b>.</li><li>Chcesz otrzymywać <b>wynagrodzenie od 31,40 zł brutto za godzinę</b> oraz <b>darmowe posiłki pracownicze</b>.</li><li>Wolisz umowę zlecenie z możliwością przejścia na umowę o pracę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004712620,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/obsluga-bufetu-swiete-pow-sredzki,oferta,1004712620",
+      "displayWorkplace": "Święte (pow. średzki)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004712620",
+      "title": "Obsługa bufetu",
+      "company": "Samsic Sp. z o.o.",
+      "salary": "31–32 zł brutto / mies.",
+      "location": "Święte (pow. średzki)",
+      "description": "Twój zakres obowiązków, Obsługa klienta, Przygotowywanie kanapek, sałatek, Podgrzewanie i wydawanie posiłków, Dbanie o porządek w miejscu pracy...",
+      "url": "https://www.pracuj.pl/praca/obsluga-bufetu-swiete-pow-sredzki,oferta,1004712620"
+    },
+    {
+      "groupId": "9c440000-56be-0050-9c9a-08de909d7e87",
+      "jobTitle": "Starszy Sprzedawca-Kasjer (m/k)",
+      "companyName": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/921",
+      "companyId": 921,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/921/402b0000-56be-0050-bd29-08de187e6eb2_280x280.png",
+      "lastPublicated": "2026-04-13T13:05:00Z",
+      "expirationDate": "2026-05-07T21:59:59Z",
+      "salaryDisplayText": "5 650–6 470 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Starszy Sprzedawca-Kasjer / Starsza Sprzedawczyni-Kasjerka., Prowadzenie zmiany samodzielnie lub w obecności Kierownika Sklepu (organizacja pracy zespołu, wyjaśnianie...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Wynagrodzenie minimalne (zasadnicze i nagroda za obecność) za przepracowany cały miesiąc kalendarzowy zgodnie z ustalonym harmonogramem.  ",
+              " ",
+              "Wynagrodzenie maksymalne dodatkowo obejmuje premię uznaniową oraz dodatek zmianowy. "
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/921/mobile-banners/c4250000-56be-0050-b5be-08ddf06d6f83.jpg",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>gotowość do pracy fizycznej</b> oraz na zmiany 3-zmianowe i weekendy.</li><li>Potrafisz <b>samodzielnie prowadzić zmianę</b> i organizować pracę zespołu.</li><li>Jesteś nastawiony na <b>kontakt z klientem</b> i współpracę w zespole.</li><li>Cenisz <b>dodatkowe benefity finansowe i pozapłacowe</b> takie jak e-kody, zniżki czy prywatna opieka medyczna.</li><li>Chcesz pracować w strukturze z <b>jasnymi obowiązkami i przejrzystą komunikacją</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004754424,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/starszy-sprzedawca-kasjer-m-k-wroclaw-aleja-armii-krajowej-37,oferta,1004754424",
+      "displayWorkplace": "Wrocław, Krzyki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 51.08266067504883,
+        "longitude": 17.042877197265625
+      },
+      "distanceInKilometers": 6.7,
+      "id": "1004754424",
+      "title": "Starszy Sprzedawca-Kasjer (m/k)",
+      "company": "Biedronka (Jeronimo Martins Polska S.A.)",
+      "salary": "5 650–6 470 zł brutto / mies.",
+      "location": "Wrocław, Krzyki",
+      "description": "Twój zakres obowiązków, Aktualnie prowadzimy rekrutację na stanowisko Starszy Sprzedawca-Kasjer / Starsza Sprzedawczyni-Kasjerka., Prowadzenie zmiany samodzielnie lub w obecności Kierownika Sklepu (organizacja pracy zespołu, wyjaśnianie...",
+      "url": "https://www.pracuj.pl/praca/starszy-sprzedawca-kasjer-m-k-wroclaw-aleja-armii-krajowej-37,oferta,1004754424"
+    }
+  ]
+}
