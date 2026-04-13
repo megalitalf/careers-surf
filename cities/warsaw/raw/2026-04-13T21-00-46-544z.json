@@ -1,0 +1,3118 @@
+{
+  "meta": {
+    "profileKey": "01",
+    "profileLabel": "Warsaw – all",
+    "slug": "warsaw",
+    "source": "https://www.pracuj.pl/praca?sal=1&wp=Warsaw&rd=30&latitude=52.2333742&longitude=21.0711489",
+    "scrapedAt": "2026-04-13T21:00:46.544Z",
+    "pages": 1,
+    "total": 50,
+    "errors": 0,
+    "location": "Warsaw",
+    "radius": 30,
+    "keyword": null
+  },
+  "listings": [
+    {
+      "groupId": "f0110000-56be-0050-4551-08de99976afb",
+      "jobTitle": "Sales & Community Manager (Sports Club Manager)",
+      "companyName": "LRC CLUB sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074209781",
+      "companyId": 1074209781,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T20:05:38.51Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "9 000–17 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, •\tZapewnienie odpowiedniego poziomu wypełnienia w oferowanych usługach klubu, •\tPipeline imprez grupowych — od pierwszego kontaktu do zapłaconej faktury, •\tBudowanie bazy kontaktów B2B i utrzymywanie relacji z powracającymi...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "premia miesięczna powiązana z wynikami klubu (realnie 3000–5000 PLN przy dobrej współpracy).",
+              "Elastyczne godziny, karta sportowa, wejścia na korty",
+              ""
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 4 lata doświadczenia w obsłudze klienta, gastronomii, klubie lub wydarzeniach.</li><li>Posiadasz co najmniej 2 lata doświadczenia w sprzedaży zorientowanej na wyniki.</li><li>Lubisz pracować z ludźmi i łatwo nawiązujesz z nimi kontakt.</li><li>Jesteś zorganizowany/a i odpowiedzialny/a, potrafisz działać samodzielnie.</li><li>Jesteś gotowy/a być obecny/a na miejscu, nie tylko przy biurku.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz benefity takie jak <b>dofinansowanie zajęć sportowych</b> i <b>zniżki na firmowe usługi</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768349,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/sales-community-manager-sports-club-manager-warszawa-estrady-13k,oferta,1004768349",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.291709899902344,
+        "longitude": 20.876562118530273
+      },
+      "distanceInKilometers": 14.8,
+      "id": "1004768349",
+      "title": "Sales & Community Manager (Sports Club Manager)",
+      "company": "LRC CLUB sp. z o.o.",
+      "salary": "9 000–17 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, •\tZapewnienie odpowiedniego poziomu wypełnienia w oferowanych usługach klubu, •\tPipeline imprez grupowych — od pierwszego kontaktu do zapłaconej faktury, •\tBudowanie bazy kontaktów B2B i utrzymywanie relacji z powracającymi...",
+      "url": "https://www.pracuj.pl/praca/sales-community-manager-sports-club-manager-warszawa-estrady-13k,oferta,1004768349"
+    },
+    {
+      "groupId": "f4350000-56be-0050-7628-08de8e8ae2d2",
+      "jobTitle": "Pracownik / Pracowniczka magazynu sklepu internetowego",
+      "companyName": "GRUPA EMERMED",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20098947",
+      "companyId": 20098947,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20098947/1c4d0000-56be-0050-25b7-08dd8f0751fd_280x280.jpg",
+      "lastPublicated": "2026-04-13T19:08:15.297Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "5 000–7 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Realizacja zamówień złożonych w sklepie internetowym, Przyjmowanie towarów od dostawców, Przygotowywanie towaru do wysyłki, Wystawianie dokumentów sprzedaży, zakupu itp., Obsługa magazynu - system komputerowy, rozkładanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>min. 1 rok doświadczenia w magazynie</b> i obsłudze zamówień sklepu internetowego.</li><li>Posiadasz <b>podstawową znajomość funkcjonowania magazynu</b> oraz płynną obsługę komputera i pakietu Office.</li><li>Chcesz pracować przy <b>realizacji i wysyłce zamówień</b> w firmie wspierającej służby ratownicze.</li><li>Cenisz <b>umowę o pracę, terminowe wynagrodzenie i jasne warunki zatrudnienia.</b></li><li>Jesteś zainteresowany <b>bezpłatnym szkoleniem na stanowisku</b> oraz dodatkowymi benefitami jak ubezpieczenie i parking.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739845,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-magazynu-sklepu-internetowego-warszawa-krysztalowa-33a,oferta,1004739845",
+      "displayWorkplace": "Warszawa, Bemowo",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.23158645629883,
+        "longitude": 20.907682418823242
+      },
+      "distanceInKilometers": 11.2,
+      "id": "1004739845",
+      "title": "Pracownik / Pracowniczka magazynu sklepu internetowego",
+      "company": "GRUPA EMERMED",
+      "salary": "5 000–7 000 zł brutto / mies.",
+      "location": "Warszawa, Bemowo",
+      "description": "Twój zakres obowiązków, Realizacja zamówień złożonych w sklepie internetowym, Przyjmowanie towarów od dostawców, Przygotowywanie towaru do wysyłki, Wystawianie dokumentów sprzedaży, zakupu itp., Obsługa magazynu - system komputerowy, rozkładanie...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-magazynu-sklepu-internetowego-warszawa-krysztalowa-33a,oferta,1004739845"
+    },
+    {
+      "groupId": "882b0000-56be-0050-d248-08de91acbf37",
+      "jobTitle": "Prawnik / Prawniczka",
+      "companyName": "Kancelaria Notarialna M. Hrymak D. Kupryjańczyk s.c.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20151387",
+      "companyId": 20151387,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T18:18:34.053Z",
+      "expirationDate": "2026-05-03T21:59:59Z",
+      "salaryDisplayText": "7 000–8 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, sporządzanie projektów aktów notarialnych,, weryfikowanie dokumentów niezbędnych do przeprowadzenia czynności notarialnych,, kontakt z klientami kancelarii, urzędami, sądami,, wspomaganie bieżącej działalności kancelarii....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie prawnicze</b> i znajomość prawa cywilnego oraz spółek handlowych.</li><li>Jesteś <b>dokładny</b> i potrafisz pracować pod presją czasu oraz stresem.</li><li>Posiadasz <b>umiejętność pracy w zespole</b> i dobrą organizację pracy.</li><li>Masz doświadczenie lub chęć pracy z <b>dokumentami notarialnymi</b> i kontaktu z klientami oraz instytucjami.</li><li>Cenisz <b>stabilne zatrudnienie na umowę o pracę</b> oraz motywacyjny system wynagrodzeń.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751135,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/prawnik-prawniczka-warszawa,oferta,1004751135",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751135",
+      "title": "Prawnik / Prawniczka",
+      "company": "Kancelaria Notarialna M. Hrymak D. Kupryjańczyk s.c.",
+      "salary": "7 000–8 500 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, sporządzanie projektów aktów notarialnych,, weryfikowanie dokumentów niezbędnych do przeprowadzenia czynności notarialnych,, kontakt z klientami kancelarii, urzędami, sądami,, wspomaganie bieżącej działalności kancelarii....",
+      "url": "https://www.pracuj.pl/praca/prawnik-prawniczka-warszawa,oferta,1004751135"
+    },
+    {
+      "groupId": "f0110000-56be-0050-c73a-08de9987fbfa",
+      "jobTitle": "Kosmetolog / Kosmetyczka",
+      "companyName": "MAGMAR MAGDALENA FILIPIAK sp.k.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074160758",
+      "companyId": 1074160758,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T18:17:14.277Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "od 5 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie zabiegów fotodepilacji, fotoodmładzania oraz depilacji woskiem, Obsługa klienta DepilConcept zgodnie ze standardami sieci, Dokonywanie rezerwacji zabiegów, obsługa telefoniczna klientów, Uczestniczenie w...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Posiadasz <b>wykształcenie kierunkowe lub jesteś studentem kosmetologii</b>.</li><li>Masz <b>doświadczenie w wykonywaniu zabiegów depilacji i fotoodmładzania</b> lub chcesz je zdobyć.</li><li>Jesteś <b>zaangażowany i samomotywowany</b>, z umiejętnością nawiązywania kontaktów z klientami.</li><li>Cenisz <b>elastyczny czas pracy</b> oraz możliwość udziału w szkoleniach certyfikowanych i uzupełniających.</li><li>Chcesz pracować w lokalizacji <b>Ursus</b>, z atrakcyjnym wynagrodzeniem (podstawa + prowizja).</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768330,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kosmetolog-kosmetyczka-warszawa,oferta,1004768330",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768330",
+      "title": "Kosmetolog / Kosmetyczka",
+      "company": "MAGMAR MAGDALENA FILIPIAK sp.k.",
+      "salary": "od 5 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Wykonywanie zabiegów fotodepilacji, fotoodmładzania oraz depilacji woskiem, Obsługa klienta DepilConcept zgodnie ze standardami sieci, Dokonywanie rezerwacji zabiegów, obsługa telefoniczna klientów, Uczestniczenie w...",
+      "url": "https://www.pracuj.pl/praca/kosmetolog-kosmetyczka-warszawa,oferta,1004768330"
+    },
+    {
+      "groupId": "a0020000-56be-0050-f579-08de8cfb9fe9",
+      "jobTitle": "Samodzielny Księgowy / Samodzielna Księgowa w biurze rachunkowym",
+      "companyName": "IQ ACCOUNTING sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074143470",
+      "companyId": 1074143470,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074143470/f84f0000-56be-0050-2f94-08ddc5ec39c9_280x280.jpg",
+      "lastPublicated": "2026-04-13T18:09:30.637Z",
+      "expirationDate": "2026-04-27T21:59:59Z",
+      "salaryDisplayText": "10 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Kompleksowe prowadzenie ksiąg rachunkowych i podatkowych zgodnie z obowiązującymi przepisami podatkowymi i zgodnie z ustawą o rachunkowości, Wykonywanie czynności towarzyszących, w tym raportowanie dla naszych klientów ,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia na <b>samodzielnym stanowisku księgowym</b>, najlepiej w biurze rachunkowym.</li><li>Posiadasz <b>wykształcenie wyższe kierunkowe</b> oraz praktyczną znajomość prowadzenia ksiąg rachunkowych i rozliczeń podatkowych.</li><li>Znasz przynajmniej dobrze <b>przepisy podatkowe i księgowe</b> oraz umiesz sporządzać deklaracje VAT, CIT, PIT.</li><li>Potrafisz pracować <b>samodzielnie</b> oraz komunikować się z klientami i zespołem.</li><li>Ceniasz ofertę z <b>umową o pracę lub B2B, elastycznym czasem pracy</b>, dostępem do szkoleń i narzędzi księgowych.</li><li>Mile widziana jest znajomość <b>programu Comarch Optima</b> oraz języka angielskiego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004736738,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/samodzielny-ksiegowy-samodzielna-ksiegowa-w-biurze-rachunkowym-warszawa-trzcinowa-27,oferta,1004736738",
+      "displayWorkplace": "Warszawa, Włochy",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.21196365356445,
+        "longitude": 20.91748046875
+      },
+      "distanceInKilometers": 10.8,
+      "id": "1004736738",
+      "title": "Samodzielny Księgowy / Samodzielna Księgowa w biurze rachunkowym",
+      "company": "IQ ACCOUNTING sp. z o.o.",
+      "salary": "10 000–12 000 zł brutto / mies.",
+      "location": "Warszawa, Włochy",
+      "description": "Twój zakres obowiązków, Kompleksowe prowadzenie ksiąg rachunkowych i podatkowych zgodnie z obowiązującymi przepisami podatkowymi i zgodnie z ustawą o rachunkowości, Wykonywanie czynności towarzyszących, w tym raportowanie dla naszych klientów ,...",
+      "url": "https://www.pracuj.pl/praca/samodzielny-ksiegowy-samodzielna-ksiegowa-w-biurze-rachunkowym-warszawa-trzcinowa-27,oferta,1004736738"
+    },
+    {
+      "groupId": "f03a0000-56be-0050-2f2a-08de8fc1d258",
+      "jobTitle": "Broker / Agent Nieruchomości",
+      "companyName": "VIVA INVEST Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20257777",
+      "companyId": 20257777,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T18:08:49.78Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "10 000–50 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Masz dość chaosu, przypadkowych kontaktów i gonienia za wynikiem?, Nie lubisz zimnych telefonów i ślęczenia przy biurku przez większość dnia?, , W Viva Invest jest inaczej. W przeciwieństwie do wielu agencji nie opierasz...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Dodatkowe nagrody dla najlepszych brokerów za wyniki"
+            ]
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży B2C lub nieruchomościach</b> i chcesz pracować na jakościowych leadach.</li><li>Preferujesz <b>pracę w terenie</b> i znasz specyfikę Warszawy.</li><li>Chcesz prowadzić klienta przez całkowity proces sprzedaży i rozwijać umiejętności negocjacji.</li><li>Wolisz model pracy oparty na współpracy z zespołem ekspertów oraz wsparciu narzędzi AI.</li><li>Oczekujesz <b>wysokich prowizji</b> i elastycznego czasu pracy na zasadach B2B.</li><li>Zależy Ci na dostępie do profesjonalnych systemów i zweryfikowanych kontaktów bez zimnych telefonów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004743249,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/broker-agent-nieruchomosci-warszawa-okopowa-58-72,oferta,1004743249",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.24702453613281,
+        "longitude": 20.979684829711914
+      },
+      "distanceInKilometers": 6.5,
+      "id": "1004743249",
+      "title": "Broker / Agent Nieruchomości",
+      "company": "VIVA INVEST Sp. z o.o.",
+      "salary": "10 000–50 000 zł netto (+ VAT) / mies.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Masz dość chaosu, przypadkowych kontaktów i gonienia za wynikiem?, Nie lubisz zimnych telefonów i ślęczenia przy biurku przez większość dnia?, , W Viva Invest jest inaczej. W przeciwieństwie do wielu agencji nie opierasz...",
+      "url": "https://www.pracuj.pl/praca/broker-agent-nieruchomosci-warszawa-okopowa-58-72,oferta,1004743249"
+    },
+    {
+      "groupId": "a0020000-56be-0050-01ba-08de8cf23e80",
+      "jobTitle": "Serwisant",
+      "companyName": "INTERSON",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20079639",
+      "companyId": 20079639,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:29:35.453Z",
+      "expirationDate": "2026-04-27T21:59:59Z",
+      "salaryDisplayText": "80–150 zł / godz. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Usuwanie awarii AGD w lokalach mieszkalnych i komercyjnych (możliwość doszkolenia z zawodów elektryk / hydraulik / elektronik - opcjonalnie, serwis AGD - obligatoryjnie)., Praca tylko na terenie Warszawy i okolicy w ramach...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w serwisie AGD</b> lub podstawową wiedzę z diagnozy sprzętu.</li><li>Posiadasz <b>prawo jazdy kategorii B</b> i możesz pracować na terenie Warszawy i okolic.</li><li>Chcesz realizować <b>zlecenia w terenie</b> z ustalonym grafikiem i bez konieczności dojazdu do biura.</li><li>Cenisz <b>wynagrodzenie zależne od wyników</b> oraz możliwość pracy na pełen lub część etatu.</li><li>Zależy Ci na <b>pracowaniu z nowoczesnymi systemami IT</b> i wsparciu call center.</li><li>Interesuje Cię <b>ubezpieczenie na życie</b> obejmujące Ciebie i rodzinę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004736719,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/serwisant-warszawa,oferta,1004736719",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004736719",
+      "title": "Serwisant",
+      "company": "INTERSON",
+      "salary": "80–150 zł / godz. (zal. od umowy)",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Usuwanie awarii AGD w lokalach mieszkalnych i komercyjnych (możliwość doszkolenia z zawodów elektryk / hydraulik / elektronik - opcjonalnie, serwis AGD - obligatoryjnie)., Praca tylko na terenie Warszawy i okolicy w ramach...",
+      "url": "https://www.pracuj.pl/praca/serwisant-warszawa,oferta,1004736719"
+    },
+    {
+      "groupId": "b82b0000-56be-0050-d3ab-08de88d83fbd",
+      "jobTitle": "Specjalista/Specjalistka ds. promocji książek",
+      "companyName": "Wydawnictwo Zwierciadło Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20057318",
+      "companyId": 20057318,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20057318/f15b0000-56be-0050-0d40-08dcd252e07c_280x280.png",
+      "lastPublicated": "2026-04-13T17:15:36.307Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "10 000–11 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, opracowanie i realizacja strategii promocji książek oraz kreowanie pozytywnego wizerunku autorów, współtworzenie i realizacja budżetów promocyjnych, opracowanie planu promocji książek we współpracy z autorami, działem...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum trzyletnie doświadczenie w promocji książek</b> w wydawnictwie, agencji PR lub mediach.</li><li>Posługujesz się <b>nowoczesnymi narzędziami marketingowymi i mediami społecznościowymi</b>, w tym e-commerce.</li><li>Potrafisz <b>tworzyć angażujące treści marketingowe</b> oraz budować relacje z partnerami zewnętrznymi.</li><li>Chcesz mieć <b>dużą niezależność i swobodę</b> w realizacji zadań oraz wdrażać własne pomysły.</li><li>Cenisz <b>pracę hybrydową i elastyczne godziny</b> w centrum Warszawy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728027,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-promocji-ksiazek-warszawa-widok-8,oferta,1004728027",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.231807708740234,
+        "longitude": 21.014999389648438
+      },
+      "distanceInKilometers": 3.9,
+      "id": "1004728027",
+      "title": "Specjalista/Specjalistka ds. promocji książek",
+      "company": "Wydawnictwo Zwierciadło Sp. z o.o.",
+      "salary": "10 000–11 000 zł netto (+ VAT) / mies.",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, opracowanie i realizacja strategii promocji książek oraz kreowanie pozytywnego wizerunku autorów, współtworzenie i realizacja budżetów promocyjnych, opracowanie planu promocji książek we współpracy z autorami, działem...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-promocji-ksiazek-warszawa-widok-8,oferta,1004728027"
+    },
+    {
+      "groupId": "8c280000-56be-0050-52a2-08de992974b8",
+      "jobTitle": "Zastępca / Zastępczyni Kierownika Sklepu Spożywczego",
+      "companyName": "\"SPOŁEM\" WARSZAWSKA SPÓŁDZIELNIA SPOŻYWCÓW PRAGA POŁUDNIE",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074028906",
+      "companyId": 1074028906,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:10:55.71Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 750–8 750 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, planowanie,organizowanie i nadzorowanie pracy zespołu, zapewnienie pracy zespołu wg przyjętych standardów pracy sklepu, dbanie o asortyment i ekspozycje towarów, odpowiedzialność za zamówienia i optymalny poziom dostępności...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w branży ogólnospożywczej</b>.</li><li>Potrafisz <b>planować, organizować i nadzorować pracę zespołu</b>.</li><li>Jesteś <b>samodzielny w działaniu</b> i umiesz <b>kierować zespołem</b>.</li><li>Radzenie sobie z <b>pracą pod presją czasu</b> nie stanowi dla Ciebie problemu.</li><li>Ceniasz <b>umowę o pracę, premie sprzedażowe i ubezpieczenie grupowe</b>.</li><li>Potrzebujesz <b>elastycznego czasu pracy</b> i dodatkowego pakietu socjalnego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768306,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/zastepca-zastepczyni-kierownika-sklepu-spozywczego-warszawa,oferta,1004768306",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768306",
+      "title": "Zastępca / Zastępczyni Kierownika Sklepu Spożywczego",
+      "company": "\"SPOŁEM\" WARSZAWSKA SPÓŁDZIELNIA SPOŻYWCÓW PRAGA POŁUDNIE",
+      "salary": "5 750–8 750 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, planowanie,organizowanie i nadzorowanie pracy zespołu, zapewnienie pracy zespołu wg przyjętych standardów pracy sklepu, dbanie o asortyment i ekspozycje towarów, odpowiedzialność za zamówienia i optymalny poziom dostępności...",
+      "url": "https://www.pracuj.pl/praca/zastepca-zastepczyni-kierownika-sklepu-spozywczego-warszawa,oferta,1004768306"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-f7fa-08de9935cb57",
+      "jobTitle": "Terapeuta / Terapeutka integracji sensorycznej",
+      "companyName": "LAUDAME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074040982",
+      "companyId": 1074040982,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:10:55.5Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–16 800 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Punkt Przedszkolny oraz Poradnia Psychologiczno - Pedagogiczna LAUDAME znajdujące się w centrum Łomianek poszukuje: Terapeuty Integracji Sensorycznej, , Osoba zatrudniona na tym stanowisku będzie odpowiedzialna za:,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie kierunkowe</b> uprawniające do diagnozy i terapii integracji sensorycznej.</li><li>Posiadasz <b>doświadczenie w pracy z dziećmi</b>, mile widziane z dziećmi autystycznymi.</li><li>Potrafisz <b>prowadzić diagnozę i terapię SI</b> oraz utrzymywać kontakt z opiekunami.</li><li>Cenisz <b>różnorodne formy zatrudnienia</b>, w tym umowę o pracę, zlecenie lub własną działalność.</li><li>Oczekujesz <b>komfortowych warunków pracy</b> w nowocześnie wyposażonej sali oraz wsparcia w szkoleniach.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768304,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/terapeuta-terapeutka-integracji-sensorycznej-lomianki-wiejska-1b,oferta,1004768304",
+      "displayWorkplace": "Łomianki",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.34349060058594,
+        "longitude": 20.8898983001709
+      },
+      "distanceInKilometers": 17.4,
+      "id": "1004768304",
+      "title": "Terapeuta / Terapeutka integracji sensorycznej",
+      "company": "LAUDAME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "8 000–16 800 zł / mies. (zal. od umowy)",
+      "location": "Łomianki",
+      "description": "Twój zakres obowiązków, Punkt Przedszkolny oraz Poradnia Psychologiczno - Pedagogiczna LAUDAME znajdujące się w centrum Łomianek poszukuje: Terapeuty Integracji Sensorycznej, , Osoba zatrudniona na tym stanowisku będzie odpowiedzialna za:,...",
+      "url": "https://www.pracuj.pl/praca/terapeuta-terapeutka-integracji-sensorycznej-lomianki-wiejska-1b,oferta,1004768304"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-c394-08de9953ec8c",
+      "jobTitle": "Główny księgowy / Główna księgowa",
+      "companyName": "RODINA EUROPE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074035448",
+      "companyId": 1074035448,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:10:52.48Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "12 000–14 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie pełnej księgowości spółki, Sporządzanie i składanie deklaracji podatkowych (VAT, CIT, JPK) oraz raportów GUS, Współpraca z ZUS oraz organami podatkowym, Kontrola procesów finansowych i raportowanie wyników,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Kierownik / Kierowniczka - koordynator / Koordynatorka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 3 lata doświadczenia</b> na stanowisku głównego księgowego w Polsce.</li><li>Posiadasz <b>bardzo dobrą znajomość polskiego prawa podatkowego i rachunkowości</b>.</li><li>Znajomość <b>systemów księgowych</b> takich jak Symfonia, Optima, SAP lub Enova jest dla Ciebie istotna.</li><li>Komunikujesz się biegle w <b>języku polskim i angielskim</b>; niemiecki będzie dodatkowym atutem.</li><li>Jesteś gotowy/a do prowadzenia <b>pełnej księgowości oraz współpracy z organami podatkowymi i finansowymi</b>.</li><li>Cenisz <b>elastyczny model pracy (hybrydowy)</b> oraz jasne warunki współpracy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768299,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/glowny-ksiegowy-glowna-ksiegowa-warszawa,oferta,1004768299",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768299",
+      "title": "Główny księgowy / Główna księgowa",
+      "company": "RODINA EUROPE sp. z o.o.",
+      "salary": "12 000–14 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Prowadzenie pełnej księgowości spółki, Sporządzanie i składanie deklaracji podatkowych (VAT, CIT, JPK) oraz raportów GUS, Współpraca z ZUS oraz organami podatkowym, Kontrola procesów finansowych i raportowanie wyników,...",
+      "url": "https://www.pracuj.pl/praca/glowny-ksiegowy-glowna-ksiegowa-warszawa,oferta,1004768299"
+    },
+    {
+      "groupId": "38410000-56be-0050-f6b2-08de948ec1f5",
+      "jobTitle": "Kierownik Działu Personalno-Finansowego (k/m)",
+      "companyName": "Filharmonia Narodowa",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20035064",
+      "companyId": 20035064,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:10:50.587Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "9 990–11 788 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie całościowego cyklu życia pracownika – od planowania zatrudnienia, przez rekrutację i onboarding, po rozwój, ocenę, decyzje personalne i offboarding., Zapewnienie sprawnego i zgodnego z prawem funkcjonowania...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Menedżer / Menedżerka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>co najmniej 3-letnie doświadczenie</b> w kompleksowym zarządzaniu obszarem HR.</li><li>Posiadasz <b>dobrą znajomość prawa pracy</b> i doświadczenie w sektorze publicznym.</li><li>Potrafisz <b>wspierać kadrę zarządzającą</b> w decyzjach personalnych i rozwijać procesy HR.</li><li>Cenisz zatrudnienie na <b>umowę o pracę</b> w instytucji kultury o ugruntowanej pozycji.</li><li>Chcesz korzystać z <b>dofinansowania do zajęć sportowych i wypoczynku</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768296,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-dzialu-personalno-finansowego-k-m-warszawa-jasna-5,oferta,1004768296",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.234432220458984,
+        "longitude": 21.0114803314209
+      },
+      "distanceInKilometers": 4.1,
+      "id": "1004768296",
+      "title": "Kierownik Działu Personalno-Finansowego (k/m)",
+      "company": "Filharmonia Narodowa",
+      "salary": "9 990–11 788 zł brutto / mies.",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Prowadzenie całościowego cyklu życia pracownika – od planowania zatrudnienia, przez rekrutację i onboarding, po rozwój, ocenę, decyzje personalne i offboarding., Zapewnienie sprawnego i zgodnego z prawem funkcjonowania...",
+      "url": "https://www.pracuj.pl/praca/kierownik-dzialu-personalno-finansowego-k-m-warszawa-jasna-5,oferta,1004768296"
+    },
+    {
+      "groupId": "5c420000-56be-0050-6ce2-08de993668f6",
+      "jobTitle": "Logopeda/Logopedka",
+      "companyName": "LAUDAME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074040982",
+      "companyId": 1074040982,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:10:50.447Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–16 800 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Poradnia Psychologiczno - Pedagogiczna oraz Przedszkole Laudame w Łomiankach poszukuje logopedy/neurologopedy do pracy z dziećmi i młodzieżą., , Osoba na tym stanowisku odpowiedzialna będzie za m. in.:, przeprowadzenie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu",
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie kierunkowe</b> i doświadczenie w pracy jako logopeda lub neurologopeda.</li><li>Jesteś dyspozycyjny/a <b>popołudniami</b> do pracy z dziećmi i młodzieżą.</li><li>Potrafisz prowadzić <b>diagnostykę i terapię logopedyczną/neurologopedyczną</b> oraz kontaktować się z opiekunami.</li><li>Ceniasz <b>pracę w interdyscyplinarnym zespole</b> i wymianę doświadczeń specjalistycznych.</li><li>Oczekujesz <b>długoterminowej współpracy</b> i wynagrodzenia adekwatnego do umiejętności.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768295,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/logopeda-logopedka-lomianki,oferta,1004768295",
+      "displayWorkplace": "Łomianki",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768295",
+      "title": "Logopeda/Logopedka",
+      "company": "LAUDAME SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "8 000–16 800 zł / mies. (zal. od umowy)",
+      "location": "Łomianki",
+      "description": "Twój zakres obowiązków, Poradnia Psychologiczno - Pedagogiczna oraz Przedszkole Laudame w Łomiankach poszukuje logopedy/neurologopedy do pracy z dziećmi i młodzieżą., , Osoba na tym stanowisku odpowiedzialna będzie za m. in.:, przeprowadzenie...",
+      "url": "https://www.pracuj.pl/praca/logopeda-logopedka-lomianki,oferta,1004768295"
+    },
+    {
+      "groupId": "b82b0000-56be-0050-a80e-08de88b7b34e",
+      "jobTitle": "Monter / Monterka urządzeń elektronicznych",
+      "companyName": "INVENTIA Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20254835",
+      "companyId": 20254835,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20254835/03000000-bb2f-3863-aad3-08d8d8cbe5dc_280x280.png",
+      "lastPublicated": "2026-04-13T17:10:44.3Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "4 806–5 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Osoba zatrudniona na stanowisku będzie odpowiedzialna za montaż i uruchamianie urządzeń elektronicznych, czyli m.in. ich składanie w obudowy, obsługę z użyciem przygotowanych narzędzi i instrukcji, pakowanie. Portfolio...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Premia do 25% wynagrodzenia zasadniczego."
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>biegłą znajomość języka polskiego</b> w mowie i piśmie oraz umiejętności obsługi komputera.</li><li>Posiadasz <b>zdolności manualne</b> i potrafisz skrupulatnie montować urządzenia elektroniczne.</li><li>Chcesz pracować przy <b>montażu i uruchamianiu urządzeń telemetrycznych i automatyki</b>.</li><li>Cenisz <b>wynagrodzenie z premią do 25%</b> oraz pakiet socjalny i benefity, w tym opiekę medyczną i dofinansowanie zajęć sportowych.</li><li>Wolisz <b>pracę stacjonarną</b> w siedzibie firmy bez konieczności wyjazdów służbowych.</li><li>Jesteś <b>rzetelny, terminowy i komunikatywny</b> oraz potrafisz pracować w zespole.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004728017,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/monter-monterka-urzadzen-elektronicznych-warszawa,oferta,1004728017",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004728017",
+      "title": "Monter / Monterka urządzeń elektronicznych",
+      "company": "INVENTIA Sp. z o.o.",
+      "salary": "4 806–5 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Osoba zatrudniona na stanowisku będzie odpowiedzialna za montaż i uruchamianie urządzeń elektronicznych, czyli m.in. ich składanie w obudowy, obsługę z użyciem przygotowanych narzędzi i instrukcji, pakowanie. Portfolio...",
+      "url": "https://www.pracuj.pl/praca/monter-monterka-urzadzen-elektronicznych-warszawa,oferta,1004728017"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-3284-08de8e67eef6",
+      "jobTitle": "Pracownik biurowy / Pracowniczka biurowa - ubezpieczenia - księgowość",
+      "companyName": "STALMAT SERVICE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074092768",
+      "companyId": 1074092768,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074092768/ee4e0000-5df0-0015-bb7a-08da1dff3692_280x280.jpg",
+      "lastPublicated": "2026-04-13T17:10:28.587Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "31–34 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie dokumentacją księgową- dbanie o jej prawidłowy obieg do Biura Rachungkowego w Polsce i Niemczech., Obsługa korespondencji w zakresie księgowym., Porządkowanie i archiwizowanie dokumentacji księgowej firmy:...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum roczne doświadczenie w przygotowaniu dokumentacji księgowej</b>.</li><li>Potrafisz sprawnie obsługiwać <b>MS Office (Word, Excel)</b> oraz sprzęt biurowy.</li><li>Wyróżnia Cię <b>dobra organizacja pracy, dokładność i samodzielność</b>.</li><li>Jesteś dyspozycyjny/a <b>od poniedziałku do piątku</b> w ustalonych godzinach.</li><li>Zależy Ci na <b>elastycznym czasie pracy</b> i umowie o pracę.</li><li>Mile widziana jest <b>znajomość podstaw języka niemieckiego</b> i prawo jazdy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739803,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-biurowy-pracowniczka-biurowa-ubezpieczenia-ksiegowosc-warszawa,oferta,1004739803",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739803",
+      "title": "Pracownik biurowy / Pracowniczka biurowa - ubezpieczenia - księgowość",
+      "company": "STALMAT SERVICE sp. z o.o.",
+      "salary": "31–34 zł brutto / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Zarządzanie dokumentacją księgową- dbanie o jej prawidłowy obieg do Biura Rachungkowego w Polsce i Niemczech., Obsługa korespondencji w zakresie księgowym., Porządkowanie i archiwizowanie dokumentacji księgowej firmy:...",
+      "url": "https://www.pracuj.pl/praca/pracownik-biurowy-pracowniczka-biurowa-ubezpieczenia-ksiegowosc-warszawa,oferta,1004739803"
+    },
+    {
+      "groupId": "f4350000-56be-0050-edff-08de8e64a77b",
+      "jobTitle": "Pracownik biurowy / Pracowniczka biurowa",
+      "companyName": "STALMAT SERVICE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074092768",
+      "companyId": 1074092768,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074092768/ee4e0000-5df0-0015-bb7a-08da1dff3692_280x280.jpg",
+      "lastPublicated": "2026-04-13T17:10:28.293Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "30–33 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Zarządzanie dokumentacją biurową - dbanie o jej prawidłowy obieg., Obsługa korespondencji – przychodzącej, wychodzącej i mailowej., Nadzór nad sprawnym funkcjonowaniem biura., Wsparcie Zarządu w bieżących działaniach...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum roczne doświadczenie w przygotowywaniu dokumentacji kadrowej i ewidencji czasu pracy.</li><li>Potrafisz sprawnie obsługiwać MS Office oraz sprzęt biurowy.</li><li>Wyróżniasz się dobrą organizacją pracy, dokładnością oraz samodzielnością.</li><li>Jesteś dyspozycyjny od poniedziałku do piątku w ustalonych godzinach.</li><li>Chcesz pracować na samodzielnym stanowisku z elastycznym czasem w Warszawie-Mokotowie.</li><li>Posiadasz podstawową znajomość języka niemieckiego lub prawo jazdy – to będzie atutem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739804,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-biurowy-pracowniczka-biurowa-warszawa,oferta,1004739804",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739804",
+      "title": "Pracownik biurowy / Pracowniczka biurowa",
+      "company": "STALMAT SERVICE sp. z o.o.",
+      "salary": "30–33 zł brutto / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Zarządzanie dokumentacją biurową - dbanie o jej prawidłowy obieg., Obsługa korespondencji – przychodzącej, wychodzącej i mailowej., Nadzór nad sprawnym funkcjonowaniem biura., Wsparcie Zarządu w bieżących działaniach...",
+      "url": "https://www.pracuj.pl/praca/pracownik-biurowy-pracowniczka-biurowa-warszawa,oferta,1004739804"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-7b2d-08de997e1b18",
+      "jobTitle": "Chemik - Technolog",
+      "companyName": "CHRONUS EQUITY sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074199647",
+      "companyId": 1074199647,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T17:03:50.02Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 400–12 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Tworzenie i opracowywanie nowych receptur kosmetycznych zgodnie z obowiązującymi normami i trendami rynkowymi., Dobór surowców kosmetycznych i współpraca z dostawcami., Współpraca z laboratoriami w zakresie wdrażania nowych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz wykształcenie wyższe w zakresie chemii, biotechnologii, kosmetologii lub pokrewnych.</li><li>Posiadasz minimum 2-3 lata doświadczenia na podobnym stanowisku w branży kosmetycznej.</li><li>Znajomość <b>surowców kosmetycznych</b> i procesów technologicznych związanych z produkcją kosmetyków.</li><li>Umiesz analizować stabilność i skuteczność receptur oraz znasz <b>regulacje prawne dotyczące kosmetyków</b>.</li><li>Chcesz uczestniczyć w tworzeniu i wdrażaniu <b>nowych receptur kosmetycznych</b>.</li><li>Ceniasz możliwość realizacji własnych pomysłów oraz atrakcyjne warunki zatrudnienia.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768287,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/chemik-technolog-warszawa-aleje-jerozolimskie-55,oferta,1004768287",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.228668212890625,
+        "longitude": 21.00727653503418
+      },
+      "distanceInKilometers": 4.4,
+      "id": "1004768287",
+      "title": "Chemik - Technolog",
+      "company": "CHRONUS EQUITY sp. z o.o.",
+      "salary": "6 400–12 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Tworzenie i opracowywanie nowych receptur kosmetycznych zgodnie z obowiązującymi normami i trendami rynkowymi., Dobór surowców kosmetycznych i współpraca z dostawcami., Współpraca z laboratoriami w zakresie wdrażania nowych...",
+      "url": "https://www.pracuj.pl/praca/chemik-technolog-warszawa-aleje-jerozolimskie-55,oferta,1004768287"
+    },
+    {
+      "groupId": "5c2b0000-56be-0050-7553-08de872f0d20",
+      "jobTitle": "Lekarz Medycyny Estetycznej - Dermatolog",
+      "companyName": "BEAUTY LAB CLINIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20438829",
+      "companyId": 20438829,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20438829/dc450000-56be-0050-c195-08de997daf50_280x280.jpg",
+      "lastPublicated": "2026-04-13T16:58:04.16Z",
+      "expirationDate": "2026-04-20T21:59:59Z",
+      "salaryDisplayText": "7 000–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie zabiegów z zakresu medycyny estetycznej: anti-aging, laseroterapia, resurfacing, modelowanie twarzy., Indywidualna konsultacja z pacjentem i dobór odpowiednich procedur., Praca w oparciu o nowoczesne technologie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie medyczne</b> i doświadczenie w medycynie estetycznej.</li><li>Pracujesz z nowoczesnymi technologiami, takimi jak <b>laser hybrydowy CO2</b> czy platforma Alma Harmony.</li><li>Realizujesz zabiegi z zakresu <b>anti-aging, laseroterapii i modelowania twarzy</b>.</li><li>Ceniasz <b>indywidualne podejście do pacjenta</b> i wysoki standard estetyczny.</li><li>Chcesz pracować w klinice z <b>premium zapleczem technologicznym</b>.</li><li>Doceniasz <b>elastyczny grafik</b> i możliwość udziału w szkoleniach produktowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004721584,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/lekarz-medycyny-estetycznej-dermatolog-warszawa-szwedzka-20,oferta,1004721584",
+      "displayWorkplace": "Warszawa, Praga-Północ",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.263980865478516,
+        "longitude": 21.04320526123047
+      },
+      "distanceInKilometers": 3.9,
+      "id": "1004721584",
+      "title": "Lekarz Medycyny Estetycznej - Dermatolog",
+      "company": "BEAUTY LAB CLINIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "7 000–20 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Praga-Północ",
+      "description": "Twój zakres obowiązków, Wykonywanie zabiegów z zakresu medycyny estetycznej: anti-aging, laseroterapia, resurfacing, modelowanie twarzy., Indywidualna konsultacja z pacjentem i dobór odpowiednich procedur., Praca w oparciu o nowoczesne technologie...",
+      "url": "https://www.pracuj.pl/praca/lekarz-medycyny-estetycznej-dermatolog-warszawa-szwedzka-20,oferta,1004721584"
+    },
+    {
+      "groupId": "18460000-56be-0050-13ea-08de9658288f",
+      "jobTitle": "Barista / Baristka - Pracownik kawiarni",
+      "companyName": "AROMA COFFEE",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074036505",
+      "companyId": 1074036505,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074036505/03000000-bb2f-3863-72e4-08da0c04c151_280x280.jpg",
+      "lastPublicated": "2026-04-13T16:56:40.683Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "32–40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Dbanie o  odpowiednią jakość serwowanych napoi i potraw,, Przygotowywanie kanapek i prostych śniadań,, Praca w zgodzie z naszą kulturą i naszymi wartościami – szukamy pozytywnych, uczciwych i przyjaznych ludzi, którzy...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 2
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w pracy w gastronomii</b> i znajomość tematyki kawowej.</li><li>Dbasz o <b>wysoką jakość serwowanych napojów i potraw</b>.</li><li>Cenisz <b>pracę zespołową</b> i potrafisz nawiązywać pozytywne kontakty z gośćmi.</li><li>Jesteś <b>samodzielny i proaktywny</b> w działaniu.</li><li>Znajomość <b>języka angielskiego</b> jest dla Ciebie atutem.</li><li>Ceniasz <b>elastyczny grafik, premie i benefity</b> związane z zatrudnieniem.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768286,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/barista-baristka-pracownik-kawiarni-warszawa-silnikowa-14,oferta,1004768286",
+      "displayWorkplace": "Warszawa, Ursus",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.201290130615234,
+        "longitude": 20.887380599975586
+      },
+      "distanceInKilometers": 13.1,
+      "id": "1004768286",
+      "title": "Barista / Baristka - Pracownik kawiarni",
+      "company": "AROMA COFFEE",
+      "salary": "32–40 zł brutto / godz.",
+      "location": "Warszawa, Ursus",
+      "description": "Twój zakres obowiązków, Dbanie o  odpowiednią jakość serwowanych napoi i potraw,, Przygotowywanie kanapek i prostych śniadań,, Praca w zgodzie z naszą kulturą i naszymi wartościami – szukamy pozytywnych, uczciwych i przyjaznych ludzi, którzy...",
+      "url": "https://www.pracuj.pl/praca/barista-baristka-pracownik-kawiarni-warszawa-silnikowa-14,oferta,1004768286"
+    },
+    {
+      "groupId": "5c2e0000-56be-0050-a614-08de994d3a4a",
+      "jobTitle": "Kelner / Kelnerka",
+      "companyName": "Amatti Oleksandr Pyrozhuk",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074234668",
+      "companyId": 1074234668,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T16:53:29.403Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "25–28 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Obsługa gości i kasy., Wydawanie pizzy i napojów., Utrzymywanie czystości w lokalu (lokal jest mały, pracy nie jest dużo)....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>chęć do pracy</b> i pozytywne nastawienie.</li><li>Posługujesz się <b>podstawowym językiem polskim</b>.</li><li>Potrafisz <b>obsługiwać gości i kasę</b>.</li><li>Jesteś gotowy/a do <b>wydawania pizzy i napojów</b>.</li><li>Zależy Ci na <b>utrzymaniu czystości w niewielkim lokalu</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768284,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kelner-kelnerka-warszawa-aleja-lotnikow-16,oferta,1004768284",
+      "displayWorkplace": "Warszawa, Mokotów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.17405700683594,
+        "longitude": 21.016700744628906
+      },
+      "distanceInKilometers": 7.6,
+      "id": "1004768284",
+      "title": "Kelner / Kelnerka",
+      "company": "Amatti Oleksandr Pyrozhuk",
+      "salary": "25–28 zł brutto / mies.",
+      "location": "Warszawa, Mokotów",
+      "description": "Twój zakres obowiązków, Obsługa gości i kasy., Wydawanie pizzy i napojów., Utrzymywanie czystości w lokalu (lokal jest mały, pracy nie jest dużo)....",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-warszawa-aleja-lotnikow-16,oferta,1004768284"
+    },
+    {
+      "groupId": "5c420000-56be-0050-4ec8-08de9960feb9",
+      "jobTitle": "Inżynier Budowy w branży elektrotechnicznej",
+      "companyName": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074126072",
+      "companyId": 1074126072,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074126072/dc450000-56be-0050-ba31-08de995b898b_280x280.jpg",
+      "lastPublicated": "2026-04-13T16:20:40.9Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "6 000–12 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne</b> i praktyczną znajomość Norma PRO, Auto-Cad oraz pakietu Office.</li><li>Posiadasz <b>prawo jazdy kat. B</b> i gotowość do wyjazdów służbowych na terenie całego kraju.</li><li>Potrafisz <b>organizować pracę zespołu</b> oraz nadzorować realizację kontraktów budowlanych.</li><li>Jesteś gotów do <b>analizy dokumentacji technicznej</b> i przygotowywania kosztorysów oraz ofert handlowych.</li><li>Doceniasz <b>umowę o pracę, narzędzia pracy i dofinansowanie szkoleń</b> oferowane przez pracodawcę.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768268,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-budowy-w-branzy-elektrotechnicznej-warszawa,oferta,1004768268",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768268",
+      "title": "Inżynier Budowy w branży elektrotechnicznej",
+      "company": "\"ELSERWIS\" SPÓŁKA Z O.O.",
+      "salary": "6 000–12 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, tworzenie planu pracy, kosztorysów prac w wyznaczonym obszarze odpowiedzialności, organizacja i techniczny nadzór nad powierzonym kontraktem, nadzór nad firmami wykonawczymi oraz zarządzanie zespołem pracowników...",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-w-branzy-elektrotechnicznej-warszawa,oferta,1004768268"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-53e3-08de996db4b9",
+      "jobTitle": "Specjalistka / Specjalista ds. Zakupów",
+      "companyName": "LeasingTeam Professional",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20311462",
+      "companyId": 20311462,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20311462/2c580000-43a8-f403-4493-08d981a67a43_280x280.png",
+      "lastPublicated": "2026-04-13T16:18:23.78Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Inicjowanie procesu oceny potrzeb wewnętrznych i planowania zakupów we współpracy z Partnerami Biznesowymi, Ciągła analiza możliwości rynkowych, opracowywanie strategii zakupowych, Ścisła współpraca z jednostkami...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa na zastępstwo"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w zakupach</b>, zwłaszcza usług IT lub HR.</li><li>Posiadasz <b>umiejętności negocjacji i zawierania umów</b>.</li><li>Znajomość języka angielskiego jest dla Ciebie <b>biegła</b>.</li><li>Potrafisz <b>samodzielnie pracować pod presją</b> oraz efektywnie komunikować się.</li><li>Interesuje Cię <b>krótkoterminowe zatrudnienie z możliwością przedłużenia</b>.</li><li>Chcesz pracować <b>zdalnie</b> i realizować projekty zakupowe wraz z różnymi działami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768266,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-zakupow-warszawa,oferta,1004768266",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768266",
+      "title": "Specjalistka / Specjalista ds. Zakupów",
+      "company": "LeasingTeam Professional",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Inicjowanie procesu oceny potrzeb wewnętrznych i planowania zakupów we współpracy z Partnerami Biznesowymi, Ciągła analiza możliwości rynkowych, opracowywanie strategii zakupowych, Ścisła współpraca z jednostkami...",
+      "url": "https://www.pracuj.pl/praca/specjalistka-specjalista-ds-zakupow-warszawa,oferta,1004768266"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-464c-08de9974b4f1",
+      "jobTitle": "Kosmetolog / Kosmetolożka",
+      "companyName": "BEAUTY LAB CLINIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20438829",
+      "companyId": 20438829,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:54:46.443Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "4 700–10 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Wykonywanie zabiegów kosmetologicznych i estetycznych zgodnie z najwyższymi standardami bezpieczeństwa i jakości., Praca z nowoczesnymi urządzeniami m.in. Laser hybrydowy CO2, platforma Alma Harmony Green Diode, Virtue RF...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie kosmetologiczne</b> i doświadczenie w pracy z klientem.</li><li>Interesujesz się <b>technikami laseroterapii, radiofrekwencji lub endermologii</b> i chcesz zdobyć praktyczne umiejętności.</li><li>Potrafisz prowadzić <b>długofalowe, indywidualne plany terapeutyczne</b>.</li><li>Cenisz <b>pracę na nowoczesnych urządzeniach klasy premium</b>.</li><li>Chcesz pracować w klinice oferującej <b>szkolenia z zakresu nowoczesnych technologii</b>.</li><li>Doceniasz <b>elastyczny czas pracy oraz dofinansowanie szkoleń</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768264,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kosmetolog-kosmetolozka-warszawa-szwedzka-20,oferta,1004768264",
+      "displayWorkplace": "Warszawa, Praga-Północ",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.263980865478516,
+        "longitude": 21.04320526123047
+      },
+      "distanceInKilometers": 3.9,
+      "id": "1004768264",
+      "title": "Kosmetolog / Kosmetolożka",
+      "company": "BEAUTY LAB CLINIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "4 700–10 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Praga-Północ",
+      "description": "Twój zakres obowiązków, Wykonywanie zabiegów kosmetologicznych i estetycznych zgodnie z najwyższymi standardami bezpieczeństwa i jakości., Praca z nowoczesnymi urządzeniami m.in. Laser hybrydowy CO2, platforma Alma Harmony Green Diode, Virtue RF...",
+      "url": "https://www.pracuj.pl/praca/kosmetolog-kosmetolozka-warszawa-szwedzka-20,oferta,1004768264"
+    },
+    {
+      "groupId": "74320000-56be-0050-08d8-08de93f41a61",
+      "jobTitle": "Kierownik robót branży elektrycznej / branży automatyki (m/k)",
+      "companyName": "AB Industry S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20014371",
+      "companyId": 20014371,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20014371/ee4d0000-5df0-0015-b44c-08db35c35c6f_280x280.png",
+      "lastPublicated": "2026-04-13T15:50:08.377Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "13 000–19 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Planowanie oraz koordynacja robót elektrycznych zgodnie z dokumentacją oraz przepisami prawa budowlanego i BHP, Weryfikacja dokumentacji oraz zastosowanych rozwiązań, Prowadzenie dokumentacji w zakresie robót elektrycznych...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne o profilu elektrycznym</b> i znajomość dokumentacji technicznej.</li><li>Posiadasz <b>umiejętności planowania i koordynacji robót elektrycznych</b> zgodnie z przepisami.</li><li>Znajomość <b>pakietu MS Office, MS Project oraz AutoCAD</b> i komunikatywny angielski to Twój atut.</li><li>Jesteś <b>odpowiedzialny i dyspozycyjny</b>, gotowy na wyjazdy służbowe.</li><li>Mile widziane <b>uprawnienia budowlane oraz doświadczenie zagraniczne</b>.</li><li>Ceniasz <b>dofinansowanie szkoleń, prywatną opiekę medyczną i zajęcia sportowe</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751724,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kierownik-robot-branzy-elektrycznej-branzy-automatyki-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751724",
+      "displayWorkplace": "Macierzysz (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751724",
+      "title": "Kierownik robót branży elektrycznej / branży automatyki (m/k)",
+      "company": "AB Industry S.A.",
+      "salary": "13 000–19 000 zł / mies. (zal. od umowy)",
+      "location": "Macierzysz (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, Planowanie oraz koordynacja robót elektrycznych zgodnie z dokumentacją oraz przepisami prawa budowlanego i BHP, Weryfikacja dokumentacji oraz zastosowanych rozwiązań, Prowadzenie dokumentacji w zakresie robót elektrycznych...",
+      "url": "https://www.pracuj.pl/praca/kierownik-robot-branzy-elektrycznej-branzy-automatyki-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751724"
+    },
+    {
+      "groupId": "74320000-56be-0050-7e9c-08de93f3bba5",
+      "jobTitle": "Projektant instalacji branży elektrycznej / branży automatyki (m/k)",
+      "companyName": "AB Industry S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20014371",
+      "companyId": 20014371,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20014371/ee4d0000-5df0-0015-b44c-08db35c35c6f_280x280.png",
+      "lastPublicated": "2026-04-13T15:47:14.123Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "7 000–16 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Przygotowywanie dokumentacji projektowej instalacji elektrycznych i teletechnicznych, Wykonanie obliczeń elektrycznych, Przygotowywanie zestawienia materiałowego pod zamówienie (list kablowych, tras kablowych, uziemienia...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne o profilu elektrycznym</b> i umiejętność tworzenia dokumentacji projektowej.</li><li>Posiadasz znajomość <b>AutoCAD oraz MS Office</b> oraz komunikatywną znajomość języka angielskiego.</li><li>Jesteś gotowy do sporadycznych wyjazdów służbowych i dysponujesz prawem jazdy kat. B.</li><li>Cenisz <b>atrakcyjne wynagrodzenie</b> i chcesz pracować przy projektach nowoczesnych instalacji przemysłowych.</li><li>Interesuje Cię <b>dofinansowanie do szkoleń, nauki języków oraz zajęć sportowych i opieka medyczna</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751716,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/projektant-instalacji-branzy-elektrycznej-branzy-automatyki-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751716",
+      "displayWorkplace": "Macierzysz (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751716",
+      "title": "Projektant instalacji branży elektrycznej / branży automatyki (m/k)",
+      "company": "AB Industry S.A.",
+      "salary": "7 000–16 000 zł / mies. (zal. od umowy)",
+      "location": "Macierzysz (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, Przygotowywanie dokumentacji projektowej instalacji elektrycznych i teletechnicznych, Wykonanie obliczeń elektrycznych, Przygotowywanie zestawienia materiałowego pod zamówienie (list kablowych, tras kablowych, uziemienia...",
+      "url": "https://www.pracuj.pl/praca/projektant-instalacji-branzy-elektrycznej-branzy-automatyki-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751716"
+    },
+    {
+      "groupId": "74320000-56be-0050-e680-08de93f3608d",
+      "jobTitle": "Projektant - Wdrożeniowiec instalacji elektrycznych (m/k)",
+      "companyName": "AB Industry S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20014371",
+      "companyId": 20014371,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20014371/ee4d0000-5df0-0015-b44c-08db35c35c6f_280x280.png",
+      "lastPublicated": "2026-04-13T15:46:26.68Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "7 000–16 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Przygotowywanie dokumentacji projektowej instalacji elektrycznych, Opracowywanie schematów sterowania automatyki, Dobór i specyfikacja urządzeń AKPiA i wyposażenia elektrycznego, Przygotowywanie zestawienia materiałowego...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz wyższe wykształcenie techniczne i znasz zagadnienia z zakresu <b>instalacji elektrycznych i automatyki</b>.</li><li>Jesteś gotowy do <b>koordynacji i nadzoru</b> prac elektrycznych oraz przygotowywania dokumentacji projektowej.</li><li>Posiadasz <b>prawo jazdy kat. B</b> oraz dyspozycyjność do wyjazdów służbowych.</li><li>Wykazujesz <b>chęć do nauki</b> oraz umiejętność pracy w zespole.</li><li>Preferujesz pracę z <b>dokumentacją techniczną</b> i znajomością języka angielskiego.</li><li>Warto, jeśli masz doświadczenie w <b>AutoCAD, EPLAN</b> lub uprawnienia budowlane.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751713,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/projektant-wdrozeniowiec-instalacji-elektrycznych-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751713",
+      "displayWorkplace": "Macierzysz (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751713",
+      "title": "Projektant - Wdrożeniowiec instalacji elektrycznych (m/k)",
+      "company": "AB Industry S.A.",
+      "salary": "7 000–16 000 zł / mies. (zal. od umowy)",
+      "location": "Macierzysz (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, Przygotowywanie dokumentacji projektowej instalacji elektrycznych, Opracowywanie schematów sterowania automatyki, Dobór i specyfikacja urządzeń AKPiA i wyposażenia elektrycznego, Przygotowywanie zestawienia materiałowego...",
+      "url": "https://www.pracuj.pl/praca/projektant-wdrozeniowiec-instalacji-elektrycznych-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751713"
+    },
+    {
+      "groupId": "f4350000-56be-0050-600a-08de8e71c289",
+      "jobTitle": "Menager/-ka ds. sprzedaży nieruchomości",
+      "companyName": "HR MAKER sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074203340",
+      "companyId": 1074203340,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074203340/3c130000-56be-0050-fb6c-08dddb48a503_280x280.png",
+      "lastPublicated": "2026-04-13T15:45:00Z",
+      "expirationDate": "2026-04-29T21:59:59Z",
+      "salaryDisplayText": "10 000–30 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, kompleksowe zarządzanie i rozwój działalności franczyzy nieruchomości w Warszawie i okolicach, aktywna sprzedaż (obsługa klientów, prowadzenie prezentacji nieruchomości oraz samodzielne zamykanie transakcji), utrzymywanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Menedżer / Menedżerka",
+        "Dyrektor / Dyrektorka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca mobilna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w sprzedaży nieruchomości</b> i umiejętność samodzielnego zamykania transakcji.</li><li>Chcesz <b>zarządzać i rozwijać zespół sprzedażowy</b> oraz rekrutować nowe osoby.</li><li>Potrafisz <b>analizować rynek</b> i identyfikować nowe możliwości biznesowe.</li><li>Cenisz <b>elastyczny czas pracy</b> i model wynagrodzenia oparty na prowizjach.</li><li>Chcesz zdobyć doświadczenie w prowadzeniu biznesu <b>bez inwestowania własnych środków</b>.</li><li>Szukasz <b>dostępu do gotowych leadów sprzedażowych</b> oraz wsparcia centralnej franczyzy.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004739772,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/menager-ka-ds-sprzedazy-nieruchomosci-warszawa,oferta,1004739772",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004739772",
+      "title": "Menager/-ka ds. sprzedaży nieruchomości",
+      "company": "HR MAKER sp. z o.o.",
+      "salary": "10 000–30 000 zł netto (+ VAT) / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, kompleksowe zarządzanie i rozwój działalności franczyzy nieruchomości w Warszawie i okolicach, aktywna sprzedaż (obsługa klientów, prowadzenie prezentacji nieruchomości oraz samodzielne zamykanie transakcji), utrzymywanie...",
+      "url": "https://www.pracuj.pl/praca/menager-ka-ds-sprzedazy-nieruchomosci-warszawa,oferta,1004739772"
+    },
+    {
+      "groupId": "74320000-56be-0050-2446-08de93f1f25a",
+      "jobTitle": "Inżynier budowy branży elektrycznej / branży automatyki (m/k)",
+      "companyName": "AB Industry S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20014371",
+      "companyId": 20014371,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20014371/ee4d0000-5df0-0015-b44c-08db35c35c6f_280x280.png",
+      "lastPublicated": "2026-04-13T15:42:59.297Z",
+      "expirationDate": "2026-05-06T21:59:59Z",
+      "salaryDisplayText": "8 000–16 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Planowanie oraz koordynacja robót zgodnie z dokumentacją, harmonogramem oraz przepisami prawa budowlanego i BHP, Raportowanie postępów prac na prowadzonym kontrakcie, Przygotowanie zapytań ofertowych pod zakresy instalacji...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)",
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę",
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>wykształcenie techniczne w zakresie elektryki lub automatyki</b> oraz doświadczenie w projektach przemysłowych.</li><li>Potrafisz <b>koordynować i kontrolować prace wykonawcze</b> zgodnie z dokumentacją i przepisami prawa.</li><li>Znajdziesz zastosowanie dla <b>umiejętności obsługi MS Office, MS Project oraz AutoCAD</b>.</li><li>Posługujesz się <b>językiem angielskim na poziomie komunikatywnym</b> i masz prawo jazdy kat. B.</li><li>Cenisz <b>dofinansowanie do opieki medycznej, szkoleń oraz nauki języków obcych</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004751708,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-budowy-branzy-elektrycznej-branzy-automatyki-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751708",
+      "displayWorkplace": "Macierzysz (pow. warszawski zachodni)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004751708",
+      "title": "Inżynier budowy branży elektrycznej / branży automatyki (m/k)",
+      "company": "AB Industry S.A.",
+      "salary": "8 000–16 000 zł / mies. (zal. od umowy)",
+      "location": "Macierzysz (pow. warszawski zachodni)",
+      "description": "Twój zakres obowiązków, Planowanie oraz koordynacja robót zgodnie z dokumentacją, harmonogramem oraz przepisami prawa budowlanego i BHP, Raportowanie postępów prac na prowadzonym kontrakcie, Przygotowanie zapytań ofertowych pod zakresy instalacji...",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-branzy-elektrycznej-branzy-automatyki-m-k-macierzysz-pow-warszawski-zachodni,oferta,1004751708"
+    },
+    {
+      "groupId": "f0110000-56be-0050-a709-08de99728ce8",
+      "jobTitle": "Asystent/-ka Zarządu",
+      "companyName": "MKM Support",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20004844",
+      "companyId": 20004844,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:41:51.763Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, kompleksowe wsparcie administracyjne Zarządu w bieżących projektach;, zarządzanie kalendarzem przełożonych;, organizacja spotkań i podróży służbowych;, kompletowanie i przekazywanie dokumentów kosztowych do księgowości;,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum dwa lata doświadczenia</b> na stanowisku asystenckim.</li><li>Posiadasz znajomość <b>MS Office/Google Workspace</b>, zwłaszcza MS Excel/Sheets.</li><li>Potrafisz <b>planować, organizować pracę i ustalać priorytety</b> efektywnie.</li><li>Jesteś <b>samodzielny/a, odpowiedzialny/a oraz komunikatywny/a</b>.</li><li>Radzenie sobie z <b>decyzjami pod presją czasu</b> nie stanowi problemu.</li><li>Zależy Ci na <b>kompleksowym wsparciu Zarządu</b> i administracji biura.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768262,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-ka-zarzadu-warszawa,oferta,1004768262",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768262",
+      "title": "Asystent/-ka Zarządu",
+      "company": "MKM Support",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, kompleksowe wsparcie administracyjne Zarządu w bieżących projektach;, zarządzanie kalendarzem przełożonych;, organizacja spotkań i podróży służbowych;, kompletowanie i przekazywanie dokumentów kosztowych do księgowości;,...",
+      "url": "https://www.pracuj.pl/praca/asystent-ka-zarzadu-warszawa,oferta,1004768262"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-b749-08de9971aafd",
+      "jobTitle": "Specjalista / Specjalistka ds. kadr i płac",
+      "companyName": "TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO WARSZAWA PÓŁNOC sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074061689",
+      "companyId": 1074061689,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074061689/00050000-56be-0050-cf67-08ddf90f0d49_280x280.PNG",
+      "lastPublicated": "2026-04-13T15:31:14.857Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–9 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, prowadzenie dokumentacji pracowniczej: akta osobowych pracowników, ewidencja czasu pracy, sporządzanie dokumentacji związanej z nawiązaniem, przebiegiem i rozwiązaniem stosunku pracy, sporządzanie list płac, w tym...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 2 lata doświadczenia</b> w kadrach i płacach oraz wykształcenie wyższe.</li><li>Posiadasz <b>praktyczną znajomość MS Excel</b> i chcesz pracować z systemami kadrowo-płacowymi.</li><li>Znasz i potrafisz stosować <b>przepisy prawa pracy i ubezpieczeń społecznych</b>.</li><li>Jesteś odpowiedzialny, samodzielny i umiesz organizować pracę własną.</li><li>Interesuje Cię współpraca z instytucjami takimi jak <b>ZUS, US, GUS czy PFRON</b>.</li><li>Cenisz <b>dofinansowanie szkoleń, prywatną opiekę medyczną i świadczenia socjalne</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768256,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-kadr-i-plac-warszawa-gen-tadeusza-pelczynskiego-30,oferta,1004768256",
+      "displayWorkplace": "Warszawa, Bemowo",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.242557525634766,
+        "longitude": 20.900575637817383
+      },
+      "distanceInKilometers": 11.7,
+      "id": "1004768256",
+      "title": "Specjalista / Specjalistka ds. kadr i płac",
+      "company": "TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO WARSZAWA PÓŁNOC sp. z o.o.",
+      "salary": "8 000–9 500 zł brutto / mies.",
+      "location": "Warszawa, Bemowo",
+      "description": "Twój zakres obowiązków, prowadzenie dokumentacji pracowniczej: akta osobowych pracowników, ewidencja czasu pracy, sporządzanie dokumentacji związanej z nawiązaniem, przebiegiem i rozwiązaniem stosunku pracy, sporządzanie list płac, w tym...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-kadr-i-plac-warszawa-gen-tadeusza-pelczynskiego-30,oferta,1004768256"
+    },
+    {
+      "groupId": "18460000-56be-0050-87a8-08de964abe0c",
+      "jobTitle": "Recepcjonista biurowy / Recepcjonistka biurowa",
+      "companyName": "Neo-Świat",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074119715",
+      "companyId": 1074119715,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074119715/e0300000-56be-0050-5ff9-08ddd42bdb69_280x280.png",
+      "lastPublicated": "2026-04-13T15:30:24.163Z",
+      "expirationDate": "2026-05-09T21:59:59Z",
+      "salaryDisplayText": "7 500–8 800 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków,  Nadzór nad codzienną pracą biura., 2. Zaopatrzenie w materiały biurowe, artykuły spożywcze i chemiczne (współpraca z dostawcami)., 3. Dbanie o sprawny serwis urządzeń biurowych (kserokopiarki, telefony, IT)., 4....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie na stanowisku recepcjonisty/-ki</b> i prawo jazdy kat. B.</li><li>Posiadasz <b>komunikatywną znajomość języka angielskiego</b>.</li><li>Potrafisz <b>koordynować prace biura</b> i dbać o jego estetykę oraz organizację.</li><li>Jesteś odpowiedzialny/-a za <b>obsługę recepcji, korespondencji i organizację spotkań.</b></li><li>Cenisz <b>zatrudnienie na umowę o pracę oraz benefity takie jak MultiSport i dodatkowy dzień wolny.</b></li><li>Chcesz wspierać <b>procesy onboardingu oraz organizację eventów firmowych.</b></li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004760861,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/recepcjonista-biurowy-recepcjonistka-biurowa-warszawa-pulawska-597,oferta,1004760861",
+      "displayWorkplace": "Warszawa, Ursynów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.11347579956055,
+        "longitude": 21.01950454711914
+      },
+      "distanceInKilometers": 13.8,
+      "id": "1004760861",
+      "title": "Recepcjonista biurowy / Recepcjonistka biurowa",
+      "company": "Neo-Świat",
+      "salary": "7 500–8 800 zł brutto / mies.",
+      "location": "Warszawa, Ursynów",
+      "description": "Twój zakres obowiązków,  Nadzór nad codzienną pracą biura., 2. Zaopatrzenie w materiały biurowe, artykuły spożywcze i chemiczne (współpraca z dostawcami)., 3. Dbanie o sprawny serwis urządzeń biurowych (kserokopiarki, telefony, IT)., 4....",
+      "url": "https://www.pracuj.pl/praca/recepcjonista-biurowy-recepcjonistka-biurowa-warszawa-pulawska-597,oferta,1004760861"
+    },
+    {
+      "groupId": "f0110000-56be-0050-7e25-08de9970fdca",
+      "jobTitle": "Asystent/ka w dziale logistyki",
+      "companyName": "Randstad Polska Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/13645018",
+      "companyId": 13645018,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/13645018/03000000-bb2f-3863-c6bb-08d919468b63_280x280.png",
+      "lastPublicated": "2026-04-13T15:28:15.933Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 500 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, planowanie i koordynowanie jednego z elementów łańcucha dostaw (w zależności od roli),, wprowadzanie danych do wewnętrznych systemów firmy jak i również do arkuszy Excel,, sprawdzanie poprawności danych,, sporządzanie...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę tymczasową"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz wykształcenie wyższe lub jesteś studentem kierunku <b>logistyka lub pokrewnego</b>.</li><li>Posługujesz się <b>językiem angielskim na poziomie minimum B2</b>, zarówno w mowie, jak i piśmie.</li><li>Posiadasz praktyczną znajomość <b>Excela (tabele przestawne, vlookup)</b> i umiejętność analitycznego myślenia.</li><li>Jesteś gotowy do <b>pracy hybrydowej</b> oraz kontaktu z dostawcami i transportem.</li><li>Cenisz <b>umowę o pracę tymczasową</b> z wynagrodzeniem i dodatkiem lunchowym.</li><li>Interesuje Cię dostęp do <b>pakietu benefitów, w tym prywatnej opieki medycznej i karty sportowej</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768254,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-ka-w-dziale-logistyki-warszawa,oferta,1004768254",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768254",
+      "title": "Asystent/ka w dziale logistyki",
+      "company": "Randstad Polska Sp. z o.o.",
+      "salary": "5 500 zł brutto / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, planowanie i koordynowanie jednego z elementów łańcucha dostaw (w zależności od roli),, wprowadzanie danych do wewnętrznych systemów firmy jak i również do arkuszy Excel,, sprawdzanie poprawności danych,, sporządzanie...",
+      "url": "https://www.pracuj.pl/praca/asystent-ka-w-dziale-logistyki-warszawa,oferta,1004768254"
+    },
+    {
+      "groupId": "f0110000-56be-0050-c4d3-08de996ffdf6",
+      "jobTitle": "Agent / Agentka nieruchomości premium",
+      "companyName": "Nieruchomości Premium Paweł Kwiatkowski",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074217876",
+      "companyId": 1074217876,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:28:02.61Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "5 000–50 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, prowadzenie procesu najmu i sprzedaży nieruchomości, obsługa klientów (w tym międzynarodowych), pozyskiwanie ofert (on-market i off-market), organizacja i prowadzenie prezentacji, budowanie długofalowych relacji z klientami...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w nieruchomościach lub sprzedaży i znasz język angielski na poziomie komunikatywnym.</li><li>Zależy Ci na obsłudze klientów <b>premium</b>, w tym międzynarodowych i instytucjonalnych.</li><li>Jesteś gotowy/a prowadzić procesy najmu i sprzedaży oraz pozyskiwać <b>oferty on-market i off-market</b>.</li><li>Posiadasz <b>komunikatywność, pewność siebie i dobrą organizację pracy</b>.</li><li>Chcesz pracować w biurze zlokalizowanym na <b>Powiślu</b> z dostępem do nowoczesnych narzędzi pracy i systemu prowizyjnego bez limitu.</li><li>Stawiasz na <b>budowanie relacji i długofalową współpracę</b> z klientami.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768253,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-premium-warszawa-ludna-2,oferta,1004768253",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.2330436706543,
+        "longitude": 21.037479400634766
+      },
+      "distanceInKilometers": 2.3,
+      "id": "1004768253",
+      "title": "Agent / Agentka nieruchomości premium",
+      "company": "Nieruchomości Premium Paweł Kwiatkowski",
+      "salary": "5 000–50 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, prowadzenie procesu najmu i sprzedaży nieruchomości, obsługa klientów (w tym międzynarodowych), pozyskiwanie ofert (on-market i off-market), organizacja i prowadzenie prezentacji, budowanie długofalowych relacji z klientami...",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-premium-warszawa-ludna-2,oferta,1004768253"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-d11f-08de99704fdf",
+      "jobTitle": "Asystent / Asystentka serwisu",
+      "companyName": "ROMI Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20184202",
+      "companyId": 20184202,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:22:36.387Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "7 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Do naszego zespołu serwisowego poszukujemy osoby na stanowisko Asystentki Działu Serwisu, która wesprze dział techniczny w codziennej organizacji pracy, kontaktach z klientami i tworzeniu dokumentacji., Szukamy osoby...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w pracy administracyjnej lub technicznej, najlepiej w branży elektroenergetycznej.</li><li>Jesteś zorganizowana/y i potrafisz koordynować prace zespołu oraz kontakt z klientami.</li><li>Posiadasz znajomość pakietu <b>MS Office</b>, zwłaszcza <b>Excel</b> i <b>Word</b>.</li><li>Potrafisz samodzielnie prowadzić dokumentację i realizować zadania z zakresu serwisu.</li><li>Ceniasz <b>benefity</b> takie jak prywatna opieka medyczna, dofinansowanie nauki języków i służbowy telefon do użytku prywatnego.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768250,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/asystent-asystentka-serwisu-raszyn-pow-pruszkowski-slowikowskiego-85a,oferta,1004768250",
+      "displayWorkplace": "Raszyn (pow. pruszkowski)",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.170860290527344,
+        "longitude": 20.912973403930664
+      },
+      "distanceInKilometers": 12.9,
+      "id": "1004768250",
+      "title": "Asystent / Asystentka serwisu",
+      "company": "ROMI Sp. z o.o.",
+      "salary": "7 000–9 000 zł brutto / mies.",
+      "location": "Raszyn (pow. pruszkowski)",
+      "description": "Twój zakres obowiązków, Do naszego zespołu serwisowego poszukujemy osoby na stanowisko Asystentki Działu Serwisu, która wesprze dział techniczny w codziennej organizacji pracy, kontaktach z klientami i tworzeniu dokumentacji., Szukamy osoby...",
+      "url": "https://www.pracuj.pl/praca/asystent-asystentka-serwisu-raszyn-pow-pruszkowski-slowikowskiego-85a,oferta,1004768250"
+    },
+    {
+      "groupId": "84450000-56be-0050-2f03-08de89b71984",
+      "jobTitle": "Starszy Administrator Systemów IT (k/m)",
+      "companyName": "PN standard sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18796991",
+      "companyId": 18796991,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18796991/03000000-bb2f-3863-bb16-08d8f9a11462_280x280.png",
+      "lastPublicated": "2026-04-13T15:19:00Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "18 900–22 700 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Projektowanie, wdrażanie i rozwój infrastruktury Windows Server (AD, GPO, PKI, RDS, File Services), Realizacja projektów infrastrukturalnych (wdrożenia, migracje, integracje systemów), Automatyzacja procesów...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum <b>4 lata doświadczenia w administracji Windows Server</b> oraz VMware.</li><li>Realizujesz projekty wdrożeń, migracji i integracji systemów.</li><li>Posiadasz umiejętności <b>automatyzacji zadań w PowerShell</b> i analizę problemów technicznych.</li><li>Znasz i stosujesz <b>narzędzia backupowe</b> oraz dbasz o bezpieczeństwo infrastruktury.</li><li>Interesujesz się <b>rozwojem i modernizacją środowiska IT</b> z wykorzystaniem najnowszych technologii.</li><li>Ceniasz <b>samodzielność i wpływ na kierunek techniczny</b> prowadzonych projektów.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727977,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/starszy-administrator-systemow-it-k-m-warszawa-leszno-14,oferta,1004727977",
+      "displayWorkplace": "Warszawa, Wola",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.23870849609375,
+        "longitude": 20.98119354248047
+      },
+      "distanceInKilometers": 6.2,
+      "id": "1004727977",
+      "title": "Starszy Administrator Systemów IT (k/m)",
+      "company": "PN standard sp. z o.o.",
+      "salary": "18 900–22 700 zł brutto / mies.",
+      "location": "Warszawa, Wola",
+      "description": "Twój zakres obowiązków, Projektowanie, wdrażanie i rozwój infrastruktury Windows Server (AD, GPO, PKI, RDS, File Services), Realizacja projektów infrastrukturalnych (wdrożenia, migracje, integracje systemów), Automatyzacja procesów...",
+      "url": "https://www.pracuj.pl/praca/starszy-administrator-systemow-it-k-m-warszawa-leszno-14,oferta,1004727977"
+    },
+    {
+      "groupId": "1c460000-56be-0050-5a91-08de9543a583",
+      "jobTitle": "Specjalista / Specjalistka ds. telefonicznej obsługi klienta",
+      "companyName": "FINEA S.A.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20426237",
+      "companyId": 20426237,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20426237/2c580000-43a8-f403-1dae-08d8dd812530_280x280.jpg",
+      "lastPublicated": "2026-04-13T15:16:23.907Z",
+      "expirationDate": "2026-05-08T21:59:59Z",
+      "salaryDisplayText": "5 500–9 500 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, działanie ukierunkowane na wzrost przychodów i obrotów, współpraca z Działem Sprzedaży, Ryzyka oraz pozostałymi działami, Budowanie i utrzymywanie długoterminowych relacji z klientami FINEA, Regularny kontakt z klientami w...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Asystent / Asystentka"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum średnie wykształcenie</b> i umiejętność organizacji pracy.</li><li>Posiadasz <b>komunikatywność i dokładność</b> w wykonywaniu obowiązków.</li><li>Masz doświadczenie lub chęć w telefonicznej obsłudze klienta.</li><li>Chcesz współpracować z zespołami sprzedaży i ryzyka.</li><li>Zależy Ci na pracy związanej z <b>utrzymaniem relacji z klientem</b> i wsparciem finansowym.</li><li>Cenisz <b>pakiet medyczny i multisport</b> oraz atrakcyjne wynagrodzenie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004757817,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-telefonicznej-obslugi-klienta-warszawa-adama-branickiego-17,oferta,1004757817",
+      "displayWorkplace": "Warszawa, Wilanów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.15448760986328,
+        "longitude": 21.074974060058594
+      },
+      "distanceInKilometers": 8.8,
+      "id": "1004757817",
+      "title": "Specjalista / Specjalistka ds. telefonicznej obsługi klienta",
+      "company": "FINEA S.A.",
+      "salary": "5 500–9 500 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Wilanów",
+      "description": "Twój zakres obowiązków, działanie ukierunkowane na wzrost przychodów i obrotów, współpraca z Działem Sprzedaży, Ryzyka oraz pozostałymi działami, Budowanie i utrzymywanie długoterminowych relacji z klientami FINEA, Regularny kontakt z klientami w...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-telefonicznej-obslugi-klienta-warszawa-adama-branickiego-17,oferta,1004757817"
+    },
+    {
+      "groupId": "1c1c0000-56be-0050-e8b0-08de8986951b",
+      "jobTitle": "Frezer - Ślusarz",
+      "companyName": "MOTGUM SPÓŁKA JAWNA PERCZYŃSKI GODLEWSKI KUKLA",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20017752",
+      "companyId": 20017752,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:15:36.277Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "40–55 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Firma MOTGUM w związku z rozwojem, poszukuje do Wydziału Narzędziowni kandydatów na stanowisko:  Frezer, Ślusarz , Obsługa Frezarki Manualnej , Regeneracja elementów do narzędzi produkcyjnych, Samodzielna kontrola...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum roczne doświadczenie</b> na stanowisku frezera lub ślusarza.</li><li>Posiadasz <b>umiejętność czytania rysunku technicznego</b> oraz obsługi narzędzi pomiarowych.</li><li>Jesteś gotów do <b>pracy jednozmianowej</b> i samodzielnej kontroli jakości detali.</li><li>Cenisz sobie <b>zatrudnienie na umowę o pracę</b> oraz terminowe, konkurencyjne wynagrodzenie.</li><li>Chcesz pracować przy <b>obsłudze frezarki manualnej</b> oraz regeneracji elementów narzędzi produkcyjnych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727965,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/frezer-slusarz-jozefow-pow-otwocki,oferta,1004727965",
+      "displayWorkplace": "Józefów (pow. otwocki)",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004727965",
+      "title": "Frezer - Ślusarz",
+      "company": "MOTGUM SPÓŁKA JAWNA PERCZYŃSKI GODLEWSKI KUKLA",
+      "salary": "40–55 zł brutto / godz.",
+      "location": "Józefów (pow. otwocki)",
+      "description": "Twój zakres obowiązków, Firma MOTGUM w związku z rozwojem, poszukuje do Wydziału Narzędziowni kandydatów na stanowisko:  Frezer, Ślusarz , Obsługa Frezarki Manualnej , Regeneracja elementów do narzędzi produkcyjnych, Samodzielna kontrola...",
+      "url": "https://www.pracuj.pl/praca/frezer-slusarz-jozefow-pow-otwocki,oferta,1004727965"
+    },
+    {
+      "groupId": "50150000-56be-0050-9d87-08de992e98b9",
+      "jobTitle": "Specjalista / Specjalistka ds. windykacji",
+      "companyName": "OmniOffice Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20313594",
+      "companyId": 20313594,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:15:30.27Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–9 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie negocjacji telefonicznych i mailowych z Klientami w zakresie spłaty zadłużenia, Przygotowywanie i wysyłka wezwań do zapłaty oraz prowadzenie korespondencji windykacyjnej, Motywowanie Klientów do terminowego...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum średnie wykształcenie i doświadczenie w <b>windykacji należności</b> oraz znajomość procesów postępowania cywilnego, sądowego i egzekucyjnego.</li><li>Posiadasz znajomość <b>regulacji prawnych</b> dotyczących ściągalności należności i postępowań egzekucyjnych.</li><li>Potrafisz efektywnie <b>negocjować i komunikować się</b>, działasz asertywnie i masz odporność na stres.</li><li>Cenisz <b>umowę o pracę lub zlecenie, premię motywacyjną</b> i szeroki pakiet benefitów, w tym prywatną opiekę medyczną.</li><li>Chcesz pracować w komfortowych warunkach w biurach w centrum Warszawy z dobrym dojazdem środkami komunikacji miejskiej.</li><li>Posługujesz się <b>językiem angielskim na poziomie komunikatywnym</b> i sprawnie obsługujesz MS Office.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768241,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-windykacji-warszawa-grzybowska-5a,oferta,1004768241",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.23689270019531,
+        "longitude": 21.000825881958008
+      },
+      "distanceInKilometers": 4.9,
+      "id": "1004768241",
+      "title": "Specjalista / Specjalistka ds. windykacji",
+      "company": "OmniOffice Sp. z o.o.",
+      "salary": "8 000–9 000 zł brutto / mies.",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Prowadzenie negocjacji telefonicznych i mailowych z Klientami w zakresie spłaty zadłużenia, Przygotowywanie i wysyłka wezwań do zapłaty oraz prowadzenie korespondencji windykacyjnej, Motywowanie Klientów do terminowego...",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-windykacji-warszawa-grzybowska-5a,oferta,1004768241"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-7c4e-08de96d948e8",
+      "jobTitle": "Młodszy specjalista / Młodsza specjalistka ds. zamówień publicznych",
+      "companyName": "BAUMSCHLAGER EBERLE ARCHITEKCI POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074122005",
+      "companyId": 1074122005,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:15:28.413Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "30–40 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, Przygotowywanie dokumentów do przetargów, składanie ofert w zamówienia poprzez platformy zamówień publicznych, , Wsparcie w przygotowywaniu ofert pod względem formalnym, zgodnie z ustawą Prawo zamówień publicznych, ze...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "salary-details",
+          "label": {
+            "text": "Dodatkowe informacje o wynagrodzeniu",
+            "pracujPlText": "Dodatkowe informacje o wynagrodzeniu",
+            "primaryTargetSiteText": "Dodatkowe informacje o wynagrodzeniu"
+          },
+          "model": {
+            "modelType": "multi-paragraph",
+            "paragraphs": [
+              "Dokładny wymiar pracy do ustalenia z kandydatem, ale zakładamy około pół etatu. "
+            ]
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum rok doświadczenia</b> w zamówieniach publicznych i praktyczną znajomość PZP.</li><li>Umiesz przygotowywać dokumenty przetargowe zgodnie z ustawą oraz obsługiwać platformy zakupowe i podpis kwalifikowany.</li><li>Posiadasz <b>wykształcenie wyższe</b> oraz <b>komunikatywną znajomość języka angielskiego</b>.</li><li>Chcesz pracować częściowo <b>w modelu hybrydowym</b> z dostępem do biura co najmniej raz w tygodniu.</li><li>Cenisz benefity takie jak <b>prywatna opieka medyczna, elastyczny czas pracy i służbowy telefon do użytku prywatnego</b>.</li><li>Mile widziane jest doświadczenie w branży <b>budowlanej lub projektowej</b> oraz po stronie wykonawcy w ofertowaniu.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768237,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-zamowien-publicznych-warszawa-marszalkowska-28,oferta,1004768237",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.2185173034668,
+        "longitude": 21.019189834594727
+      },
+      "distanceInKilometers": 4,
+      "id": "1004768237",
+      "title": "Młodszy specjalista / Młodsza specjalistka ds. zamówień publicznych",
+      "company": "BAUMSCHLAGER EBERLE ARCHITEKCI POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "salary": "30–40 zł brutto / godz.",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Przygotowywanie dokumentów do przetargów, składanie ofert w zamówienia poprzez platformy zamówień publicznych, , Wsparcie w przygotowywaniu ofert pod względem formalnym, zgodnie z ustawą Prawo zamówień publicznych, ze...",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-mlodsza-specjalistka-ds-zamowien-publicznych-warszawa-marszalkowska-28,oferta,1004768237"
+    },
+    {
+      "groupId": "d81d0000-56be-0050-03f7-08de96e242e1",
+      "jobTitle": "Księgowy / Księgowa",
+      "companyName": "YOURBS sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074206996",
+      "companyId": 1074206996,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:15:27.943Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "8 000–10 000 zł brutto / mies.",
+      "jobDescription": "Twój zakres obowiązków, przygotowywanie i terminowe składanie JPK_VAT oraz pozostałych struktur JPK,, weryfikacja poprawności rejestrów VAT i dokumentów źródłowych,, sporządzanie deklaracji INTRASTAT, NBP, księgowanie dokumentów zakupowych i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa o pracę"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum 3-letnie doświadczenie w księgowości</b> oraz <b>2-letnie w rozliczeniach VAT i JPK_VAT</b>.</li><li>Posiadasz <b>praktyczną znajomość przepisów rachunkowo-podatkowych</b> i umiejętność pracy z systemami finansowo-księgowymi.</li><li>Potrafisz <b>sporządzać i weryfikować dokumenty księgowe, deklaracje</b> oraz współpracować z audytorami i instytucjami zewnętrznymi.</li><li>Cenisz <b>zatrudnienie na umowę o pracę</b> wraz z prywatną opieką medyczną, pakietem sportowym i ubezpieczeniem na życie.</li><li>Jesteś <b>dokładny, samodzielny i odpowiedzialny</b> w wykonywaniu obowiązków księgowych.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768236,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-warszawa-staniewicka-12,oferta,1004768236",
+      "displayWorkplace": "Warszawa, Targówek",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.274139404296875,
+        "longitude": 21.02906036376953
+      },
+      "distanceInKilometers": 5.4,
+      "id": "1004768236",
+      "title": "Księgowy / Księgowa",
+      "company": "YOURBS sp. z o.o.",
+      "salary": "8 000–10 000 zł brutto / mies.",
+      "location": "Warszawa, Targówek",
+      "description": "Twój zakres obowiązków, przygotowywanie i terminowe składanie JPK_VAT oraz pozostałych struktur JPK,, weryfikacja poprawności rejestrów VAT i dokumentów źródłowych,, sporządzanie deklaracji INTRASTAT, NBP, księgowanie dokumentów zakupowych i...",
+      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-warszawa-staniewicka-12,oferta,1004768236"
+    },
+    {
+      "groupId": "5c420000-56be-0050-70dd-08de99606af9",
+      "jobTitle": "Senior E-Commerce Platform Support operations Specialist",
+      "companyName": "Michael Page",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801621",
+      "companyId": 18801621,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801621/ee4d0000-5df0-0015-6c4d-08da5e85cf65_280x280.jpg",
+      "lastPublicated": "2026-04-13T15:12:48.37Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "80–100 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Pełnienie roli pierwszego punktu kontaktu w przypadku problemów z platformą e‑commerce zgłaszanych przez Jira lub inne kanały., Analiza i rozwiązywanie incydentów w systemach SAP Hybris, AEM oraz zintegrowanych systemach...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie w <b>wsparciu technicznym i operacjach e-commerce</b>, zwłaszcza z platformami takimi jak SAP Hybris i AEM.</li><li>Posiadasz <b>umiejętności analizy i rozwiązywania problemów</b> oraz znajomość procesów płatności i zarządzania zamówieniami.</li><li>Wyróżnia Cię dobra znajomość narzędzi takich jak <b>Jira, Confluence</b> oraz pakietu Microsoft Office.</li><li>Jesteś gotów współpracować z różnymi zespołami i partnerami oraz monitorować i raportować incydenty na platformach e-commerce.</li><li>Akceptujesz formę zatrudnienia <b>kontrakt B2B</b> z pracą zdalną i okazjonalnymi wizytami w biurze w Warszawie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768234,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-e-commerce-platform-support-operations-specialist-warszawa,oferta,1004768234",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768234",
+      "title": "Senior E-Commerce Platform Support operations Specialist",
+      "company": "Michael Page",
+      "salary": "80–100 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Pełnienie roli pierwszego punktu kontaktu w przypadku problemów z platformą e‑commerce zgłaszanych przez Jira lub inne kanały., Analiza i rozwiązywanie incydentów w systemach SAP Hybris, AEM oraz zintegrowanych systemach...",
+      "url": "https://www.pracuj.pl/praca/senior-e-commerce-platform-support-operations-specialist-warszawa,oferta,1004768234"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-eff9-08de996354ec",
+      "jobTitle": "Business Analyst",
+      "companyName": "Michael Page",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801621",
+      "companyId": 18801621,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801621/ee4d0000-5df0-0015-6c4d-08da5e85cf65_280x280.jpg",
+      "lastPublicated": "2026-04-13T15:11:02.987Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "170–195 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie analiz biznesowych oraz dostarczanie wniosków poprzez definiowanie wymagań, projektowanie rozwiązań i wykorzystanie umiejętności analitycznych w celu zwiększania efektywności., Wsparcie w tworzeniu dokumentacji...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz co najmniej 3-5 lat doświadczenia i praktykę we wdrożeniach SAP Hybris, w tym w modelach B2B/B2C.</li><li>Posiadasz wykształcenie wyższe techniczne lub zarządzania oraz znajomość Application Lifecycle Framework w SAP Hybris.</li><li>Potrafisz prowadzić analizy biznesowe, tworzyć wymagania, business case’y i dokumentację procesową.</li><li>Masz doświadczenie w zbieraniu wymagań, testowaniu oraz pracy z funkcjonalnymi historyjkami użytkownika i integracjami systemów.</li><li>Wiesz, jak analizować dane i wykorzystać je do usprawnienia procesów biznesowych i systemowych.</li><li>Oczekujesz pracy na kontrakcie B2B i zdalnej współpracy z zespołami IT i biznesowymi.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768230,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/business-analyst-warszawa,oferta,1004768230",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768230",
+      "title": "Business Analyst",
+      "company": "Michael Page",
+      "salary": "170–195 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Prowadzenie analiz biznesowych oraz dostarczanie wniosków poprzez definiowanie wymagań, projektowanie rozwiązań i wykorzystanie umiejętności analitycznych w celu zwiększania efektywności., Wsparcie w tworzeniu dokumentacji...",
+      "url": "https://www.pracuj.pl/praca/business-analyst-warszawa,oferta,1004768230"
+    },
+    {
+      "groupId": "a43a0000-56be-0050-6767-08de99670a25",
+      "jobTitle": "UX/UI Designer",
+      "companyName": "Michael Page",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801621",
+      "companyId": 18801621,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801621/ee4d0000-5df0-0015-6c4d-08da5e85cf65_280x280.jpg",
+      "lastPublicated": "2026-04-13T15:10:44.037Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "80–100 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Współpraca z zespołami międzyfunkcyjnymi w celu zrozumienia celów biznesowych, potrzeb użytkowników oraz ograniczeń technicznych., Projektowanie interfejsów użytkownika dla aplikacji programowych, w tym wireframes,...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia w <b>projektowaniu interfejsów użytkownika</b> dla aplikacji programowych.</li><li>Posiadasz umiejętności w zakresie <b>projektowania e-commerce</b> oraz wdrażania Design Systemów z użyciem narzędzi typu Storybook lub Figma.</li><li>Pracujesz z narzędziami takimi jak <b>Sketch, Adobe Creative Suite lub Figma</b> oraz znasz HTML, CSS i JavaScript.</li><li>Potrafisz prowadzić <b>badania użytkowników, testy użyteczności</b> oraz iteracyjnie doskonalić projekty według feedbacku.</li><li>Preferujesz pracę w trybie <b>zdalnym z okazjonalnymi wizytami w biurze</b> i współpracę w środowisku Agile.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768229,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/ux-ui-designer-warszawa,oferta,1004768229",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768229",
+      "title": "UX/UI Designer",
+      "company": "Michael Page",
+      "salary": "80–100 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Współpraca z zespołami międzyfunkcyjnymi w celu zrozumienia celów biznesowych, potrzeb użytkowników oraz ograniczeń technicznych., Projektowanie interfejsów użytkownika dla aplikacji programowych, w tym wireframes,...",
+      "url": "https://www.pracuj.pl/praca/ux-ui-designer-warszawa,oferta,1004768229"
+    },
+    {
+      "groupId": "84450000-56be-0050-e49b-08de89aa638a",
+      "jobTitle": "Pracownik / Pracowniczka ochrony",
+      "companyName": "EKOTRADE sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074104658",
+      "companyId": 1074104658,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074104658/342a0000-56be-0050-4e07-08de479f24b8_280x280.png",
+      "lastPublicated": "2026-04-13T15:10:40.903Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "35–37 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, komunikacja i obsługa gościa podczas imprez; współpraca z innymi członkami zespołu na przydzielonym odcinku; czujność i obserwacja bezpieczeństwa imprezy., komunikacja i obsługa gościa podczas imprez; współpraca z innymi...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": true,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Dodatkowa / tymczasowa"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": null
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>certyfikat Kierownika Odcinka (KPOF)</b> oraz kurs na imprezy masowe.</li><li>Posiadasz <b>doświadczenie w zarządzaniu zespołem</b> i pracy podczas imprez masowych.</li><li>Potrafisz skutecznie <b>komunikować się i współpracować w zespole</b> podczas wydarzeń.</li><li>Jesteś odpowiedzialny za <b>czujność i bezpieczeństwo</b> na przydzielonym odcinku.</li><li>Jesteś gotowy podejmować <b>interwencje na polecenie Kierownika</b>.</li><li>Zależy Ci na pracy na <b>umowę zlecenie</b> ze stawką 35–37 zł brutto/h.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727957,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/pracownik-pracowniczka-ochrony-warszawa-melomanow-4,oferta,1004727957",
+      "displayWorkplace": "Warszawa, Mokotów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.206077575683594,
+        "longitude": 21.05290412902832
+      },
+      "distanceInKilometers": 3.3,
+      "id": "1004727957",
+      "title": "Pracownik / Pracowniczka ochrony",
+      "company": "EKOTRADE sp. z o.o.",
+      "salary": "35–37 zł brutto / godz.",
+      "location": "Warszawa, Mokotów",
+      "description": "Twój zakres obowiązków, komunikacja i obsługa gościa podczas imprez; współpraca z innymi członkami zespołu na przydzielonym odcinku; czujność i obserwacja bezpieczeństwa imprezy., komunikacja i obsługa gościa podczas imprez; współpraca z innymi...",
+      "url": "https://www.pracuj.pl/praca/pracownik-pracowniczka-ochrony-warszawa-melomanow-4,oferta,1004727957"
+    },
+    {
+      "groupId": "a80d0000-56be-0050-4002-08de842c091a",
+      "jobTitle": "Kelner / Kelnerka",
+      "companyName": "GOLIAT CAPITAL sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074125381",
+      "companyId": 1074125381,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/1074125381/342a0000-56be-0050-f03b-08dc603dcb15_280x280.jpg",
+      "lastPublicated": "2026-04-13T15:10:33.893Z",
+      "expirationDate": "2026-04-23T21:59:59Z",
+      "salaryDisplayText": "31,40–33 zł brutto / godz.",
+      "jobDescription": "Twój zakres obowiązków, W swojej pracy połączysz zaangażowanie, otwartość na innych oraz swoje doświadczenie, aby goście mogli doświadczać atmosfery gościnności w naszej restauracji, czuli się zaopiekowani i cieszyli się z pobytu u nas! Będziesz...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Pracownik fizyczny / Pracowniczka fizyczna"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie"
+      ],
+      "workSchedules": [
+        "Pełny etat",
+        "Część etatu"
+      ],
+      "workModes": [
+        "Praca stacjonarna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "many-vacancies",
+          "label": {
+            "text": "Szukamy wielu kandydatów",
+            "pracujPlText": "Szukamy wielu kandydatów",
+            "primaryTargetSiteText": "Szukamy wielu kandydatów"
+          },
+          "model": {
+            "modelType": "flag-with-number",
+            "flag": true,
+            "number": 3
+          }
+        },
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "without-experience",
+          "label": {
+            "text": "Bez doświadczenia",
+            "pracujPlText": "Bez doświadczenia",
+            "primaryTargetSiteText": "Bez doświadczenia"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w obsłudze a'la carte</b> oraz zainteresowanie pracą przy eventach hotelowych.</li><li>Posiadasz <b>badania sanitarno-epidemiologiczne</b> i znasz język polski oraz angielski na poziomie umożliwiającym swobodną komunikację.</li><li>Jesteś <b>otwarty na pracę zmianową</b> i potrafisz nawiązywać oraz utrzymywać relacje z gośćmi.</li><li>Chcesz łączyć pracę w gastronomii z <b>współpracą z zespołem kuchni</b> i przygotowywaniem napojów oraz koktajli.</li><li>Szanujesz i wybierasz zatrudnienie na <b>umowę zlecenie z elastycznymi godzinami pracy</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004727941,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/kelner-kelnerka-warszawa-poleczki-31,oferta,1004727941",
+      "displayWorkplace": "Warszawa, Ursynów",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.1555061340332,
+        "longitude": 21.000619888305664
+      },
+      "distanceInKilometers": 10,
+      "id": "1004727941",
+      "title": "Kelner / Kelnerka",
+      "company": "GOLIAT CAPITAL sp. z o.o.",
+      "salary": "31,40–33 zł brutto / godz.",
+      "location": "Warszawa, Ursynów",
+      "description": "Twój zakres obowiązków, W swojej pracy połączysz zaangażowanie, otwartość na innych oraz swoje doświadczenie, aby goście mogli doświadczać atmosfery gościnności w naszej restauracji, czuli się zaopiekowani i cieszyli się z pobytu u nas! Będziesz...",
+      "url": "https://www.pracuj.pl/praca/kelner-kelnerka-warszawa-poleczki-31,oferta,1004727941"
+    },
+    {
+      "groupId": "f0110000-56be-0050-521d-08de9969e456",
+      "jobTitle": "Roadmapping Manager",
+      "companyName": "Michael Page",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/18801621",
+      "companyId": 18801621,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/18801621/ee4d0000-5df0-0015-6c4d-08da5e85cf65_280x280.jpg",
+      "lastPublicated": "2026-04-13T15:10:22.12Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "115–135 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Przegląd zgłoszeń oraz elementów backlogu w celu potwierdzenia ich gotowości i priorytetu przed planowaniem wydań., Planowanie, koordynowanie oraz utrzymywanie harmonogramu wydań we współpracy z zespołami produktowymi i...",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 3 lata doświadczenia w <b>roadmappingu produktowym</b> lub zarządzaniu wydań.</li><li>Znasz narzędzia takie jak <b>Jira i Confluence</b> oraz potrafisz zarządzać harmonogramami wydań.</li><li>Pracujesz efektywnie w środowisku <b>Agile lub hybrydowym</b> oraz znasz cykl życia oprogramowania (SDLC).</li><li>Posiadasz umiejętność <b>analizy, organizacji i komunikacji</b> z interesariuszami na różnych poziomach.</li><li>Chcesz pracować <b>zdalnie</b> z okazjonalnymi wizytami w biurze klienta w Warszawie.</li><li>Posiadasz biegłą znajomość <b>języka angielskiego</b> w mowie i piśmie.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768216,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/roadmapping-manager-warszawa,oferta,1004768216",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768216",
+      "title": "Roadmapping Manager",
+      "company": "Michael Page",
+      "salary": "115–135 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Przegląd zgłoszeń oraz elementów backlogu w celu potwierdzenia ich gotowości i priorytetu przed planowaniem wydań., Planowanie, koordynowanie oraz utrzymywanie harmonogramu wydań we współpracy z zespołami produktowymi i...",
+      "url": "https://www.pracuj.pl/praca/roadmapping-manager-warszawa,oferta,1004768216"
+    },
+    {
+      "groupId": "f0110000-56be-0050-420f-08de996d49e7",
+      "jobTitle": "Inżynier Oprogramowania - mobile & backend",
+      "companyName": "ARGOCLOUD sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/1074224492",
+      "companyId": 1074224492,
+      "companyLogoUri": null,
+      "lastPublicated": "2026-04-13T15:10:07.307Z",
+      "expirationDate": "2026-05-13T21:59:59Z",
+      "salaryDisplayText": "15 000–20 000 zł netto (+ VAT) / mies.",
+      "jobDescription": "Twój zakres obowiązków, Szukamy Inżyniera Oprogramowania, który pomoże nam stworzyć, rozwijać i utrzymywać mobilne rozwiązanie (React Native) do nagrywania strumienia wideo z bieżącą analizą video/voice ze wsparciem AI....",
+      "isSuperOffer": false,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        },
+        {
+          "code": "ukrainian-friendly",
+          "label": {
+            "text": "Запрошуємо працівників з України",
+            "pracujPlText": "Запрошуємо працівників з України",
+            "primaryTargetSiteText": "Запрошуємо працівників з України"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz doświadczenie z <b>React Native</b> w zakresie kamery i streamingu wideo.</li><li>Znajomość <b>PHP/Laravel</b>, <b>MySQL</b> oraz pracy z API i kolejkami.</li><li>Interesuje Cię integracja z <b>usługami AI</b> i analiza video/voice.</li><li>Posiadasz podstawową wiedzę z zakresu <b>DevOps</b> (CI/CD, chmura).</li><li>Chcesz pracować przy długoterminowym projekcie z możliwością modyfikacji i utrzymania rozwiązania.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004768215,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/inzynier-oprogramowania-mobile-backend-warszawa,oferta,1004768215",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": false,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004768215",
+      "title": "Inżynier Oprogramowania - mobile & backend",
+      "company": "ARGOCLOUD sp. z o.o.",
+      "salary": "15 000–20 000 zł netto (+ VAT) / mies.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Szukamy Inżyniera Oprogramowania, który pomoże nam stworzyć, rozwijać i utrzymywać mobilne rozwiązanie (React Native) do nagrywania strumienia wideo z bieżącą analizą video/voice ze wsparciem AI....",
+      "url": "https://www.pracuj.pl/praca/inzynier-oprogramowania-mobile-backend-warszawa,oferta,1004768215"
+    },
+    {
+      "groupId": "f0380000-56be-0050-c13c-08de8371de57",
+      "jobTitle": "Senior API Management & Governance Architect (k/m/x)",
+      "companyName": "SQUARE ONE RESOURCES sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20409928",
+      "companyId": 20409928,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20409928/00230000-56be-0050-c213-08dd5a4ccc03_280x280.png",
+      "lastPublicated": "2026-04-13T15:08:00Z",
+      "expirationDate": "2026-04-15T21:59:59Z",
+      "salaryDisplayText": "180–210 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Definiowanie i rozwijanie enterprise API governance framework, Tworzenie i egzekwowanie standardów dotyczących cyklu życia API (versioning, dokumentacja, deprecjacja), Wsparcie zespołów projektowych w projektowaniu oraz...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)",
+        "Ekspert / Ekspertka"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz minimum 10 lat doświadczenia w obszarze <b>architektury API</b> i <b>zarządzania API</b>.</li><li>Posiadasz praktyczną znajomość <b>IBM API Connect</b> oraz dodatkowej platformy API Management, np. <b>MuleSoft</b> lub <b>Axway</b>.</li><li>Pracujesz lub chcesz pracować przy <b>budowie i egzekwowaniu standardów API</b> w środowisku enterprise.</li><li>Masz doświadczenie w <b>migracji i konsolidacji platform API Management</b>.</li><li>Znasz standardy bezpieczeństwa API, takie jak <b>OAuth2, OpenID Connect</b> oraz podejście <b>Zero Trust</b>.</li><li>Interesuje Cię współpraca w międzynarodowym środowisku dużej organizacji logistycznej.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004710002,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/senior-api-management-governance-architect-k-m-x-warszawa,oferta,1004710002",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004710002",
+      "title": "Senior API Management & Governance Architect (k/m/x)",
+      "company": "SQUARE ONE RESOURCES sp. z o.o.",
+      "salary": "180–210 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Definiowanie i rozwijanie enterprise API governance framework, Tworzenie i egzekwowanie standardów dotyczących cyklu życia API (versioning, dokumentacja, deprecjacja), Wsparcie zespołów projektowych w projektowaniu oraz...",
+      "url": "https://www.pracuj.pl/praca/senior-api-management-governance-architect-k-m-x-warszawa,oferta,1004710002"
+    },
+    {
+      "groupId": "2c1c0000-56be-0050-b782-08de8e4c98bd",
+      "jobTitle": "Doradca Klienta Indywidualnego",
+      "companyName": "Tutlo Sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20270775",
+      "companyId": 20270775,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20270775/10310000-56be-0050-f0f1-08de0fd17f21_280x280.png",
+      "lastPublicated": "2026-04-13T15:02:00Z",
+      "expirationDate": "2026-05-15T21:59:59Z",
+      "salaryDisplayText": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "jobDescription": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": false,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": false,
+      "positionLevels": [
+        "Młodszy specjalista / Młodsza specjalistka (junior)",
+        "Specjalista / Specjalistka (mid / Regular)"
+      ],
+      "typesOfContract": [
+        "Umowa zlecenie",
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca stacjonarna",
+        "Praca hybrydowa"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": "https://grubber.gpcdn.pl/companies/20270775/mobile-banners/000d0000-56be-0050-fe44-08dd4f3849a4.png",
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>minimum pół roku doświadczenia w sprzedaży</b>, najlepiej B2C lub Call Center.</li><li>Potrafisz <b>prowadzić rozmowy handlowe online</b> i efektywnie prezentować ofertę.</li><li>Jesteś <b>zorientowany na realizację celów sprzedażowych</b> i finalizację transakcji.</li><li>Akceptujesz <b>pracę stacjonarną w godzinach 11:00-20:00</b> oraz koncentrację wyłącznie na sprzedaży z gotowymi leadami.</li><li>Cenisz <b>atrakcyjne wynagrodzenie</b> z podstawą i prowizjami oraz wsparcie szkoleniowe.</li><li>Zależy Ci na <b>benefitach takich jak prywatna opieka medyczna, dofinansowanie sportu i nauki języków</b>.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004742342,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-warszawa-nowogrodzka-42,oferta,1004742342",
+      "displayWorkplace": "Warszawa, Śródmieście",
+      "isWholePoland": false,
+      "coordinates": {
+        "latitude": 52.22842788696289,
+        "longitude": 21.009798049926758
+      },
+      "distanceInKilometers": 4.3,
+      "id": "1004742342",
+      "title": "Doradca Klienta Indywidualnego",
+      "company": "Tutlo Sp. z o.o.",
+      "salary": "8 750–20 000 zł / mies. (zal. od umowy)",
+      "location": "Warszawa, Śródmieście",
+      "description": "Twój zakres obowiązków, Prowadzenie umówionych rozmów handlowych online: Spotkania wideo z klientami, gdzie Twoim zadaniem będzie budowanie relacji i prezentacja oferty., Realizacja planów sprzedażowych: Konsekwentna praca nad osiąganiem...",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-warszawa-nowogrodzka-42,oferta,1004742342"
+    },
+    {
+      "groupId": "90270000-56be-0050-58e3-08de8ffec1ad",
+      "jobTitle": "Data Engineer - databricks (k/m/x)",
+      "companyName": "SQUARE ONE RESOURCES sp. z o.o.",
+      "companyProfileAbsoluteUri": "https://pracodawcy.pracuj.pl/company/20409928",
+      "companyId": 20409928,
+      "companyLogoUri": "https://logos.gpcdn.pl/loga-firm/20409928/00230000-56be-0050-c213-08dd5a4ccc03_280x280.png",
+      "lastPublicated": "2026-04-13T15:02:00Z",
+      "expirationDate": "2026-05-01T21:59:59Z",
+      "salaryDisplayText": "100–140 zł netto (+ VAT) / godz.",
+      "jobDescription": "Twój zakres obowiązków, Analiza dużych wolumenów danych z sensorów w celu identyfikacji edge cases (np. nagłe hamowanie, bliskie pojazdy), Pisanie złożonych zapytań w SQL / Python / Spark (PySpark) do filtrowania, agregowania i transformowania...",
+      "isSuperOffer": true,
+      "isFranchise": false,
+      "isOptionalCv": false,
+      "isOneClickApply": true,
+      "isJobiconCompany": false,
+      "isRemoteWorkAllowed": true,
+      "positionLevels": [
+        "Starszy specjalista / Starsza specjalistka (senior)"
+      ],
+      "typesOfContract": [
+        "Kontrakt B2B"
+      ],
+      "workSchedules": [
+        "Pełny etat"
+      ],
+      "workModes": [
+        "Praca zdalna"
+      ],
+      "primaryAttributes": [
+        {
+          "code": "immediate-employment",
+          "label": {
+            "text": "Praca od zaraz",
+            "pracujPlText": "Praca od zaraz",
+            "primaryTargetSiteText": "Praca od zaraz"
+          },
+          "model": {
+            "modelType": "flag",
+            "flag": true
+          }
+        }
+      ],
+      "commonOfferId": null,
+      "searchEngineRelevancyScore": 0,
+      "mobileBannerUri": null,
+      "desktopBannerUri": null,
+      "aiSummary": "<ul><li>Masz <b>doświadczenie w inżynierii oprogramowania</b> i pracujesz z dużymi wolumenami danych sensorowych.</li><li>Posiadasz zaawansowaną znajomość <b>SQL, Python, Spark/PySpark oraz Databricks</b>.</li><li>Interesujesz się <b>analizą szeregów czasowych</b> i przygotowaniem danych do treningu modeli ML.</li><li>Potrafisz budować i utrzymywać <b>procesy ETL</b> oraz rozwijać narzędzia wspierające analizę danych.</li><li>Masz doświadczenie z <b>danymi półstrukturalnymi</b> oraz chcesz pracować przy projektach związanych z pojazdami autonomicznymi.</li></ul>",
+      "appliedProducts": [],
+      "partitionId": 1004745269,
+      "offerAbsoluteUri": "https://www.pracuj.pl/praca/data-engineer-databricks-k-m-x-warszawa,oferta,1004745269",
+      "displayWorkplace": "Warszawa",
+      "isWholePoland": true,
+      "coordinates": null,
+      "distanceInKilometers": null,
+      "id": "1004745269",
+      "title": "Data Engineer - databricks (k/m/x)",
+      "company": "SQUARE ONE RESOURCES sp. z o.o.",
+      "salary": "100–140 zł netto (+ VAT) / godz.",
+      "location": "Warszawa",
+      "description": "Twój zakres obowiązków, Analiza dużych wolumenów danych z sensorów w celu identyfikacji edge cases (np. nagłe hamowanie, bliskie pojazdy), Pisanie złożonych zapytań w SQL / Python / Spark (PySpark) do filtrowania, agregowania i transformowania...",
+      "url": "https://www.pracuj.pl/praca/data-engineer-databricks-k-m-x-warszawa,oferta,1004745269"
+    }
+  ]
+}

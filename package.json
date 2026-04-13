@@ -1,7 +1,7 @@
 {
-  "name": "job_surfers",
+  "name": "job_flow",
   "version": "1.0.0",
-  "description": "job_surfers",
+  "description": "Job Flow - your surfing jobboard",
   "main": "common.js",
   "scripts": {
     "build": "node build.js",

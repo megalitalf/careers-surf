@@ -341,9 +341,9 @@ function showResults() {
     if (waveHeaderEl) {
         waveHeaderEl.innerHTML =
             '<div class="wave-row wave-row-active">' +
-                '<span class="wave-icon">🌍</span>' +
+                '<span class="wave-prefix">Now:</span>' +
                 '<span class="wave-name">' + city + ' Market ' + fmtHour(currentWaveHour) + '</span>' +
-                '<span class="wave-badge wave-badge-active">Active</span>' +
+                '<span class="wave-badge wave-badge-active">Latest</span>' +
             '</div>';
     }
 
@@ -365,9 +365,10 @@ function showResults() {
     if (nextWaveEl) {
         nextWaveEl.innerHTML =
             '<div class="wave-row wave-row-next">' +
-                '<span class="wave-icon">🌍</span>' +
+                '<span class="wave-prefix">Next:</span>' +
                 '<span class="wave-name">' + city + ' Market ' + fmtHour(currentNextWaveHour) + '</span>' +
-                '<span class="wave-badge wave-badge-next">Loading</span>' +
+                '<span class="wave-badge wave-badge-next">Forming</span>' +
+            '</div>';
             '</div>';
     }
 

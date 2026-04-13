@@ -479,21 +479,46 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
 .wave-row {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 7px;
     font-size: 0.82em;
     font-weight: 700;
     letter-spacing: 0.04em;
 }
+.wave-prefix {
+    font-size: 0.78em;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    min-width: 2.8em;
+}
 .wave-row-active {
     color: #fff;
 }
-.wave-row-next {
-    color: rgba(255,255,255,0.38);
-    margin-top: 5px;
-    font-size: 0.75em;
+.wave-row-active .wave-prefix {
+    color: #4ade80;
 }
-.wave-icon {
-    font-size: 1em;
+.wave-row-next {
+    margin-top: 8px;
+    color: #c0d8e8;
+    font-size: 0.78em;
+    border-radius: 6px;
+    padding: 4px 8px 4px 6px;
+    background: repeating-linear-gradient(
+        110deg,
+        rgba(114,215,238,0.06) 0px,
+        rgba(114,215,238,0.06) 6px,
+        rgba(114,215,238,0.03) 6px,
+        rgba(114,215,238,0.03) 12px
+    );
+    background-size: 200% 100%;
+    animation: wave-forming 3s linear infinite;
+}
+.wave-row-next .wave-prefix {
+    color: #72D7EE;
+}
+@keyframes wave-forming {
+    0%   { background-position: 200% 0; }
+    100% { background-position:   0% 0; }
 }
 .wave-name {
     flex: 1;
@@ -512,9 +537,9 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     border: 1px solid rgba(74,222,128,0.35);
 }
 .wave-badge-next {
-    background: rgba(255,255,255,0.07);
-    color: rgba(255,255,255,0.38);
-    border: 1px solid rgba(255,255,255,0.12);
+    background: rgba(114,215,238,0.1);
+    color: #72D7EE;
+    border: 1px solid rgba(114,215,238,0.25);
 }
 #results-title {
     font-family: Arial Black, Arial, sans-serif;
