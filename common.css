@@ -470,14 +470,51 @@ body          { font-family: Arial, Helvetica, sans-serif; background: #000; }
     flex: 1;
     min-width: 0;
 }
-#results-wave-header {
-    font-family: Arial Black, Arial, sans-serif;
+#results-wave-header,
+#results-next-wave {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+.wave-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.82em;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+}
+.wave-row-active {
+    color: #fff;
+}
+.wave-row-next {
+    color: rgba(255,255,255,0.38);
+    margin-top: 5px;
     font-size: 0.75em;
+}
+.wave-icon {
+    font-size: 1em;
+}
+.wave-name {
+    flex: 1;
+}
+.wave-badge {
+    font-size: 0.72em;
     font-weight: 900;
-    color: #72D7EE;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
-    opacity: 0.85;
+    border-radius: 4px;
+    padding: 1px 6px;
+}
+.wave-badge-active {
+    background: rgba(74,222,128,0.18);
+    color: #4ade80;
+    border: 1px solid rgba(74,222,128,0.35);
+}
+.wave-badge-next {
+    background: rgba(255,255,255,0.07);
+    color: rgba(255,255,255,0.38);
+    border: 1px solid rgba(255,255,255,0.12);
 }
 #results-title {
     font-family: Arial Black, Arial, sans-serif;

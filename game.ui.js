@@ -118,6 +118,22 @@ function initMenu() {
                     if (typeof cityJobs !== 'undefined' && cityJobs.length) {
                         SEMI_LISTINGS = cityJobs;
                         currentCityLabel = prevCity.label || selectedCity || '';
+                        // Wave hour = most recent lastPublicated floored to the hour
+                        var latestTs = 0;
+                        for (var wi = 0; wi < cityJobs.length; wi++) {
+                            if (cityJobs[wi].lastPublicated) {
+                                var t = new Date(cityJobs[wi].lastPublicated).getTime();
+                                if (t > latestTs) latestTs = t;
+                            }
+                        }
+                        if (latestTs) {
+                            var waveDate = new Date(latestTs);
+                            waveDate.setMinutes(0, 0, 0);
+                            currentWaveHour     = waveDate;
+                            currentNextWaveHour = new Date(waveDate.getTime() + 60 * 60 * 1000);
+                        } else {
+                            currentWaveHour = currentNextWaveHour = null;
+                        }
                         currentLap      = 0;
                         lapJobOffset    = 0;
                         seenListings    = new Set();
@@ -315,10 +331,20 @@ function showResults() {
     var totalBatches = Math.ceil((SEMI_LISTINGS.length || 1) / JOBS_PER_LAP);
     var isLast = (currentLap + 1) >= totalBatches;
 
-    // ── Wave header: "🌍 Łódź Market Wave" ───────────────────────────────────
+    // ── Wave header: active + next ────────────────────────────────────────────
+    function fmtHour(d) {
+        if (!d) return '';
+        return d.getHours() + ':00';
+    }
+    var city = currentCityLabel || 'Market';
     var waveHeaderEl = Dom.get('results-wave-header');
     if (waveHeaderEl) {
-        waveHeaderEl.textContent = '🌍 ' + (currentCityLabel || 'Market') + ' Market Wave';
+        waveHeaderEl.innerHTML =
+            '<div class="wave-row wave-row-active">' +
+                '<span class="wave-icon">🌍</span>' +
+                '<span class="wave-name">' + city + ' Market ' + fmtHour(currentWaveHour) + '</span>' +
+                '<span class="wave-badge wave-badge-active">Active</span>' +
+            '</div>';
     }
 
     // ── Convoy progress bar: truck emoji row + "N / total convoy complete" ───
@@ -332,6 +358,17 @@ function showResults() {
         convoyBarEl.innerHTML =
             '<div class="convoy-bar-trucks">' + trucksHTML + '</div>' +
             '<div class="convoy-bar-label">' + convoyLabel + '</div>';
+    }
+
+    // ── Next wave row ────────────────────────────────────────────────────────
+    var nextWaveEl = Dom.get('results-next-wave');
+    if (nextWaveEl) {
+        nextWaveEl.innerHTML =
+            '<div class="wave-row wave-row-next">' +
+                '<span class="wave-icon">🌍</span>' +
+                '<span class="wave-name">' + city + ' Market ' + fmtHour(currentNextWaveHour) + '</span>' +
+                '<span class="wave-badge wave-badge-next">Loading</span>' +
+            '</div>';
     }
 
     var mapName = (typeof MAPS !== 'undefined') ? MAPS[currentMapIndex % MAPS.length].name : '';

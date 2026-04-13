@@ -87,8 +87,10 @@ var followTimer   = 0;               // seconds spent tailing followedSemi
 var FOLLOW_DELAY  = 2.0;             // seconds before popup auto-opens
 var dismissedSemi = null;            // truck whose banner the user last closed — won't re-show until player leaves and re-enters its zone
 
-// ── Current city ─────────────────────────────────────────────────────────────
-var currentCityLabel = '';           // human-readable label of the active city (e.g. "Łódź")
+// ── Current city / wave ─────────────────────────────────────────────────────
+var currentCityLabel    = '';        // human-readable label of the active city (e.g. "Łódź")
+var currentWaveHour     = null;      // Date floored to hour — time of the active market wave
+var currentNextWaveHour = null;      // currentWaveHour + 1h — when the next wave loads
 
 // ── Fuel drops (credits) ─────────────────────────────────────────────────────
 var fuelDrops = 0;                   // earned by seeing jobs (+1 each), spent by applying (-1 each)
