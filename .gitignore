@@ -11,6 +11,7 @@ scraper/profile/
 scraper/scraper.lock
 scraper/scraper.log
 scraper/cron.log
+pipeline.log
 
 # ── AWS credential exports & key CSVs (never commit these) ───────────────────
 *.csv
